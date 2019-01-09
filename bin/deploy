@@ -1,0 +1,6 @@
+#!/bin/sh
+# post-receive hook that syncs with S3 upon a push
+S3_BUCKET=justmeat.co
+bundle exec jekyll build
+aws s3 sync _site s3://$S3_BUCKET --exclude '*.DS_Store' --delete
+bin/purge_cache

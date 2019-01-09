@@ -1,0 +1,31 @@
+---
+layout: default
+title: Peoples
+---
+
+<div class="container col-md-8">
+  <h2 class="text-center">{{page.title}}</h2>
+  <p>
+    Rather than being a modern and strange "fad" diet, many cultures throughout
+    history and all around the globe have eaten meat-heavy, if not exclusive diets.
+    Below are cultures with quotes about their dietary practices. Not all are
+    necessarily fully carnivorous, but they show that humans, and perhaps all
+    humans, can not only survive, but thrive, on a diet composed primarily of
+    animal-based foods.
+  </p>
+</div>
+<div class="container-fluid people-list col-md-8">
+
+  {% assign places = site.peoples | group_by: 'place' | sort: 'name' %}
+  {% for place in places %}
+  <div>
+    <h3>{{ place.name }}</h3>
+    <ul>
+    {% for people in place.items %}
+      <li><a href="{{ site.baseurl }}{{ people.url }}">{{ people.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>
+<p class="text-center"><a href="/">Home</a></p>

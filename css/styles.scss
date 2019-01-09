@@ -1,0 +1,69 @@
+---
+---
+@import url('https://fonts.googleapis.com/css?family=Gentium+Basic');
+
+body {
+  font-family: 'Gentium Book Basic', serif;
+}
+
+a {
+  &, &:link, &:hover, &:active, &:focus {
+    color: #808080;
+  }
+  &:visited {
+    color: #2F4F4F;
+  }
+}
+
+blockquote {
+  border-left: 4px solid #ccc;
+  margin: 30px 0 30px 15px;
+  padding-left: 15px;
+}
+
+.jumbotron {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-bottom: 0rem;
+  border-radius: 0;
+  background-color: #fff;
+}
+.container-fluid {
+  -webkit-columns: 3 350px;
+  -moz-columns: 3 350px;
+  columns: 3 350px;
+  -webkit-column-rule: 1px dotted #ddd;
+  -moz-column-rule: 1px dotted #ddd;
+  column-rule: 1px dotted #ddd;
+}
+.columned-list {
+  li {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
+.people-list {
+  div {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
+
+.navigation {
+  span:nth-child(1) {
+    margin-right: 6px;
+  }
+  span:nth-child(2) {
+    margin-left: 6px;
+  }
+}
+
+.donation {
+  margin-top: 24px;
+  text-align: center;
+  & > p:first-of-type {
+    margin: 10px 0 0;
+  }
+}

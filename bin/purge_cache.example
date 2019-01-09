@@ -1,0 +1,16 @@
+#!/bin/sh
+# Purge the Cloudflare cache.
+echo "Purging Cloudflare cache..."
+curl -X POST "https://api.cloudflare.com/client/v4/zones/<Your Zone>/purge_cache" \
+         -H "X-Auth-Email: <Your Email>" \
+         -H "X-Auth-Key: <Your Auth Key>" \
+         -H "Content-Type: application/json" \
+         --data '{"purge_everything":true}' > /dev/null 2>&1
+
+# Sleep 30 seconds while the cache clears.
+for i in `seq 1 60`;
+do
+  sleep 0.5
+  printf "."
+done
+echo "\nDone."

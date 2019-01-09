@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+
+  <title>{% if page.title %}{{page.title}} | {% endif %}Just meat.</title>
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta name="author" content="Michael Goldstein">
+  <meta name="description" content="Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat." />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@bitstein">
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:title" content="{% if page.title %}{{page.title}} | {% endif %}Just meat." />
+  <meta property="og:description" content="Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat." />
+  <meta property="og:image" content="https://justmeat.co/img/mammoth-hunt.jpg" />
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <script>
+  if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNotTrack != "1" && navigator.msDoNotTrack != "1" ){
+    var script = document.createElement('script');
+  	script.src = "js/analytics.js"
+  	document.getElementsByTagName("head")[0].appendChild(script);
+  }
+  </script>
+</head>
