@@ -43,7 +43,7 @@ layout: home
     * [“A new paper in Nature lends support to the evolution of the Homo genus toward specialisation (in hunting)”](http://www.paleostyle.com/?p=2123)
 * [“Rebuttal of 14 Claims About Metabolism, Genetics, Paleoanthropology & Stable Isotope Analyses in Hardy et al.’s 2015 Paper ‘The Importance of Dietary Carbohydrate in Human Evolution’”](https://raphaels7.wordpress.com/2015/09/19/rebuttal-of-14-claims-about-metabolism-genetics-paleoanthropology-stable-isotope-analyses-in-hardy-et-al-s-paper-2015-the-importance-of-dietary-carbohydrate-in-human-evolutio/) by Raphael Sirtoli
 * [“Outlines of a Unified Evolutionary Theory of Human and Environmental Health”](http://www.konradsgraf.com/blog1/2017/7/9/a-unified-evolutionary-theory-of-human-and-environmental-health) by Konrad S. Graf
-* [“Does Meat Rot In Your Colon? No. What Does? Beans, Grains, and Vegetables!”](http://www.gnolls.org/1444/does-meat-rot-in-your-colon-no-what-does-beans-grains-and-vegetables/) by J. Stanton
+* [“Does Meat Rot In Your Colon? No. What Does? Beans, Grains, and Vegetables!”](https://web.archive.org/web/20180905182944/http://www.gnolls.org/1444/does-meat-rot-in-your-colon-no-what-does-beans-grains-and-vegetables/) by J. Stanton
 * [“Can Humans Digest Meat?”](http://roarofwolverine.com/archives/412) by Wolverine
 * [“Esquimo Teeth Prove Health of Meat Diet”](https://www.thecrimson.com/article/1929/1/29/esquimo-teeth-prove-health-of-meat/) by the Harvard Crimson (1929)
 * [Born to Eat Meat](http://borntoeatmeat.com/) (Paul A. Mabry, MD)
