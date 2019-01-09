@@ -37,9 +37,9 @@ layout: home
 * [r/zerocarb](https://www.reddit.com/r/zerocarb/) [reddit]
     * [“What is Zero Carb”](https://www.reddit.com/r/zerocarb/wiki/faq) by Charles Washington
 * [Paleo Style](http://www.paleostyle.com/) (Miki Ben-Dor)
-    * [“Man the Fat Hunter: The Demise of Homo erectus and the Emergence of a New Hominin Lineage in the Middle Pleistocene (ca. 400 kyr) Levant”](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028689) ([YouTube lecture](https://www.youtube.com/watch?v=ZKLCp4rIBIM))
+    * [“Man the Fat Hunter: The Demise of Homo erectus and the Emergence of a New Hominin Lineage in the Middle Pleistocene (ca. 400 kyr) Levant”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028689) ([YouTube lecture](https://www.youtube.com/watch?v=ZKLCp4rIBIM))
     * [“How varied could past Paleo diets have been and does it really matter?”](http://www.paleostyle.com/?p=2109) ([Related slides](https://www.slideshare.net/mikibendor/carnivourus-paleolithic-diet-miki-bendor-ahs13-24907026))
-    * [“Use of Animal Fat as a Symbol of Health in Traditional societies Suggests Humans may be Well Adapted to its Consumption”](http://jevohealth.com/journal/vol1/iss1/10/) ([PDF](docs/animal-fat-as-symbol-of-fertility-and-health-in-traditional-societies-miki-ben-dor.pdf))
+    * [“Use of Animal Fat as a Symbol of Health in Traditional societies Suggests Humans may be Well Adapted to its Consumption”](https://jevohealth.com/journal/vol1/iss1/10/) ([PDF](docs/animal-fat-as-symbol-of-fertility-and-health-in-traditional-societies-miki-ben-dor.pdf))
     * [“A new paper in Nature lends support to the evolution of the Homo genus toward specialisation (in hunting)”](http://www.paleostyle.com/?p=2123)
 * [“Rebuttal of 14 Claims About Metabolism, Genetics, Paleoanthropology & Stable Isotope Analyses in Hardy et al.’s 2015 Paper ‘The Importance of Dietary Carbohydrate in Human Evolution’”](https://raphaels7.wordpress.com/2015/09/19/rebuttal-of-14-claims-about-metabolism-genetics-paleoanthropology-stable-isotope-analyses-in-hardy-et-al-s-paper-2015-the-importance-of-dietary-carbohydrate-in-human-evolutio/) by Raphael Sirtoli
 * [“Outlines of a Unified Evolutionary Theory of Human and Environmental Health”](http://www.konradsgraf.com/blog1/2017/7/9/a-unified-evolutionary-theory-of-human-and-environmental-health) by Konrad S. Graf
@@ -55,12 +55,12 @@ layout: home
 * [Paleomedicina](https://www.paleomedicina.com/en) (Dr. Csaba Tóth & Dr. Zsófia Clemens)
     * [“Crohn’s disease successfully treated with the paleolithic ketogenic diet”](docs/crohns-disease-successfully-treated-paleolithic-ketogenic-diet-csaba-toth-zsofia-clemens.pdf) [PDF]
     * [“Vitamin C and Disease: Insights from the Evolutionary Perspective”](docs/vitamin-c-from-evolutionary-perspective-zsofia-clemens-csaba-toth.pdf) [PDF]
-    * [Publications by Dr. Csaba Tóth](https://www.researchgate.net/profile/Csaba_Toth9/publications) [ResearchGate]
+    * [Publications by Dr. Csaba Tóth](https://www.researchgate.net/profile/Csaba_Toth9) [ResearchGate]
     * [“Lard or Coconut Oil?”](https://www.slideshare.net/paleomedicina/lard-or-coconut-oil-62466384) by Dr. Csaba Tóth
 * [Crohn’s Carnivore](http://crohnscarnivore.blogspot.com/)
     * [“Introduction and Explanation”](http://crohnscarnivore.blogspot.com/2009/08/introduction-and-explanation.html)
     * [“August 2013 Update”](http://crohnscarnivore.blogspot.com/2013/08/august-2013-update.html)
-* [Savory Institute](http://savory.global/)
+* [Savory Institute](https://savory.global/)
 * [“How to green the world's deserts and reverse climate change \| Allan Savory”](https://www.youtube.com/watch?v=vpTHi7O66pI) [YouTube]
 * [Pleistocene Park: Restoration of the Mammoth Steppe Ecosystem](http://www.pleistocenepark.ru/en/)
     * [“Wild Field Manifesto”](docs/wild-field-manifesto.pdf)
@@ -72,7 +72,7 @@ layout: home
 * [_Strong Medicine_](docs/strong-medicine-blake-donaldson.pdf) by Blake Donaldson [PDF]
 * [_Imagining Head-Smashed-In_](docs/imagining-head-smashed-in-jack-w-brink.pdf) by Jack W. Brink [PDF] ([More info](http://www.aupress.ca/index.php/books/120137))
 * [“The Diet of the Mountain Men”](docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holsten [PDF]
-* [“Bitcoin: A Peer-to-Peer Electronic Cash System”](docs/bitcoin.pdf) by Satoshi Nakamoto [PDF] ([HTML](http://nakamotoinstitute.org/bitcoin/))
+* [“Bitcoin: A Peer-to-Peer Electronic Cash System”](docs/bitcoin.pdf) by Satoshi Nakamoto [PDF] ([HTML](https://nakamotoinstitute.org/bitcoin/))
 * [_The Relation of Alimentation and Disease_](docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, M.D. [PDF]
 * [_What Must I Do To Get Well? And How Can I Keep It So?_](docs/what-must-i-do-to-get-well-by-elma-stuart.pdf) by Elma Stuart [PDF]
 * [_Dr. Newbold’s Type A/Type B Weight Loss Book_](docs/dr-newbolds-type-a-type-b-weight-loss-book-h-l-newbold-md.pdf) by H. L. Newbold, M.D. [PDF]
@@ -137,7 +137,7 @@ layout: home
 
 ## Instagram
 
-* [Shawn Baker, M.D.](https://instagram.com/shawnbaker1967) (@shawnbaker1967)
+* [Shawn Baker, M.D.](https://instagram.com/shawnbaker1967/) (@shawnbaker1967)
 * [Frank Tufano](https://www.instagram.com/franktufano/) (@franktufano)
 * [Dr. Zsófia Clemens](https://www.instagram.com/zsofiaclemens/) (@zsofiaclemens)
 * [Raphi Sirt](https://www.instagram.com/raphaels711/) (@raphaels711)
@@ -167,7 +167,7 @@ layout: home
 ## Podcasts
 
 * [Human Performance Outliers Podcast](https://humanperformanceoutliers.libsyn.com/) (Shawn Baker & Zach Bitter)
-* [The Carnivore Cast](http://www.carnivorecast.com/) (Scott Myslinski)
+* [The Carnivore Cast](https://www.carnivorecast.com/) (Scott Myslinski)
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
 
 ## Telegram
