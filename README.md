@@ -1,6 +1,6 @@
 # Just Meat
 
-JustMeat.co is a website to curate resources on carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyles.
+[JustMeat.co](https://justmeat.co) is a website to curate resources on carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyles.
 
 ## How to Setup
 
