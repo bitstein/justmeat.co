@@ -67,3 +67,19 @@ blockquote {
     margin: 10px 0 0;
   }
 }
+
+#markdown-toc {
+  border: 1px solid #aaa;
+  padding: 0.5em 0.5em 0.5em 1.5em;
+  list-style: decimal;
+  display: inline-block;
+  max-width: 250px;
+  &::before {
+    content: "Contents";
+    font-weight: bold;
+  }
+  ul {
+    list-style: decimal;
+    padding-left: 1em;
+  }
+}

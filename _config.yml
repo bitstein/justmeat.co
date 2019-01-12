@@ -30,6 +30,8 @@ collections:
     output: true
     permalink: /:collection/:name/
 
+permalink: /:categories/:title/
+
 exclude:
   - Gemfile
   - Gemfile.lock
