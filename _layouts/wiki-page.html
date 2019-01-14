@@ -3,45 +3,47 @@ layout: default
 ---
 
 <div class="container col-md-8">
-  <ul class="nav nav-tabs mb-4">
-  {% if page.categories contains 'talk' %}
-    {% assign talk_page_name = page.name | replace:"talk:", "" | replace:".md", "" %}
-    {% assign pages = site.pages | where_exp:"page", "page.categories contains 'wiki'" %}
+  {% if page.url != '/wiki/' %}
+    <ul class="nav nav-tabs mb-4">
+    {% if page.categories contains 'talk' %}
+      {% assign talk_page_name = page.name | replace:"talk:", "" | replace:".md", "" %}
+      {% assign pages = site.pages | where_exp:"page", "page.categories contains 'wiki'" %}
 
-    {% for wiki_page in pages %}
-      {% unless wiki_page.categories contains 'talk' %}
-        {% assign page_name = wiki_page.name | replace:".md", "" %}
-        {% if page_name == talk_page_name %}
+      {% for wiki_page in pages %}
+        {% unless wiki_page.categories contains 'talk' %}
+          {% assign page_name = wiki_page.name | replace:".md", "" %}
+          {% if page_name == talk_page_name %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{wiki_page.url}}">Article</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="{{page.url}}">Talk</a>
+          </li>
+          {% endif %}
+        {% endunless %}
+      {% endfor %}
+    {% else %}
+      {% assign page_name = page.name | replace:"talk:", "" | replace:".md", "" %}
+      {% assign talk_pages = site.pages | where_exp:"page", "page.categories contains 'talk'" %}
+
+      <li class="nav-item">
+        <a class="nav-link active" href="{{page.url}}">Article</a>
+      </li>
+      {% for talk_page in talk_pages %}
+        {% assign talk_page_name = talk_page.name | replace:"talk:", "" | replace:".md", "" %}
+        {% if talk_page_name == page_name %}
         <li class="nav-item">
-          <a class="nav-link" href="{{wiki_page.url}}">Article</a>
+          <a class="nav-link" href="{{talk_page.url}}">Talk</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="{{page.url}}">Talk</a>
-        </li>
+        {% break %}
         {% endif %}
-      {% endunless %}
-    {% endfor %}
-  {% else %}
-    {% assign page_name = page.name | replace:"talk:", "" | replace:".md", "" %}
-    {% assign talk_pages = site.pages | where_exp:"page", "page.categories contains 'talk'" %}
-
-    <li class="nav-item">
-      <a class="nav-link active" href="{{page.url}}">Article</a>
-    </li>
-    {% for talk_page in talk_pages %}
-      {% assign talk_page_name = talk_page.name | replace:"talk:", "" | replace:".md", "" %}
-      {% if talk_page_name == page_name %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{talk_page.url}}">Talk</a>
-      </li>
-      {% break %}
-      {% endif %}
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Talk</a>
-      </li>
-    {% endfor %}
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Talk</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+    </ul>
   {% endif %}
-  </ul>
   <section>
     <h1>{{ page.title }}</h1>
     <hr>
