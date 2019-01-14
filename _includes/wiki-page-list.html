@@ -1,0 +1,10 @@
+<ul>
+{% assign sorted_pages = site.pages | sort: "title" %}
+{% for page in sorted_pages %}
+  {% if page.path contains 'wiki/pages' %}
+  {% unless page.name contains 'talk:' %}
+  <li><a href="{{page.url}}">{{page.title}}</a></li>
+  {% endunless %}
+  {% endif %}
+{% endfor %}
+</ul>
