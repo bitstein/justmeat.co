@@ -15,6 +15,9 @@ module Jekyll
         super
 
         @relative_path = relative_path.strip
+        if !@relative_path.end_with? ".md"
+          @relative_path = "#{@relative_path}.md"
+        end
       end
 
       def render(context)

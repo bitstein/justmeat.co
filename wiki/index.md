@@ -9,7 +9,7 @@ This wiki is a collection of pages dedicated to specific topics related to carni
 
 ## Pages
 
-* [Plants]({% wikilink plants.md %})
+* [Plants]({% wikilink plants %})
 
 ## Contributing
 
