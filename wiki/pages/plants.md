@@ -1,5 +1,4 @@
 ---
-layout: wiki-page
 title: Plants
 categories: wiki
 ---

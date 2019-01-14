@@ -30,7 +30,14 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-permalink: /:categories/:title/
+defaults:
+  -
+    scope:
+      path: "wiki/pages"
+      type: "pages"
+    values:
+      layout: wiki-page
+      permalink: /wiki/:basename/
 
 exclude:
   - Gemfile
