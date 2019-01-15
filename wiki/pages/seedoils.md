@@ -170,21 +170,21 @@ closely followed by coconut oil.
 Title | Date | Author | Link | RedditLink
 ---|---|----|----|----
 Home use of vegetable oils, markers of systemic inflammation, and endothelial dysfunction among women. | 2008 | Esmaillzadeh | https://www.ncbi.nlm.nih.gov/pubmed/18842776 | none
-Medicines and Vegetable Oils as Hidden Causes of Cardiovascular Disease and Diabetes. | 2016 | Okuyama | https://www.ncbi.nlm.nih.gov/pubmed/27251151 | [RedditLink](https://www.reddit.com/r/ketoscience/comments/8mjnsi/medicines_and_vegetable_oils_as_hidden_causes_of/)
-Vegetable Oil Intake and Breast Cancer Risk: a Meta-analysis. | 2015 | Xin | https://www.ncbi.nlm.nih.gov/pubmed/26163654 | none
-Does cooking with vegetable oils increase the risk of chronic diseases?: a systematic review. | 2015 | Sayon-Orea | https://www.ncbi.nlm.nih.gov/pubmed/26148920 | none
-Heated vegetable oils and cardiovascular disease risk factors.| 2014 | Ng | https://www.ncbi.nlm.nih.gov/pubmed/24632108| none
-Possible adverse effects of frying with vegetable oils.| 2015| Dobarganes | https://www.ncbi.nlm.nih.gov/pubmed/26148922| none
-Vegetable Oil: Nutritional and Industrial Perspective| 2016| Kumar| https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869010/| none
-A Systematic Review of High-Oleic Vegetable Oil Substitutions for Other Fats and Oils on Cardiovascular Disease Risk Factors: Implications for Novel High-Oleic Soybean Oils| 2015| Huth | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642420/| none
-The relation between dietary intake of vegetable oils and serum lipids and apolipoprotein levels in central Iran| 2012| Boroujeni| https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413086/| none
-The effects of heated vegetable oils on blood pressure in rats| 2011| Jaarin | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/| none
-Effect of the replacement of dietary vegetable oils with a low dose of extravirgin olive oil in the Mediterranean Diet on cognitive functions in the elderly| 2018| Mazza| https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775590/| none
-A high-fat diet rich in corn oil reduces spontaneous locomotor activity and induces insulin resistance in mice| 2015| Wong| https://www.sciencedirect.com/science/article/pii/S0955286314002472| none
-Decrease of serum total and free testosterone during a low-fat high-fibre diet.| 1983| Hamalainen| https://www.ncbi.nlm.nih.gov/pubmed/6298507| none
-The cardiometabolic consequences of replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fats: Do the dietary guidelines have it wrong? | 2014| DiNicolantonio| http://openheart.bmj.com/content/1/1/e000032| [Reddit](https://www.reddit.com/r/ketoscience/comments/8n9hzf/the_cardiometabolic_consequences_of_replacing/)
-Dietary omega-6 fatty acid lowering increases bioavailability of omega-3 polyunsaturated fatty acids in human plasma lipid pools.| 2014| Taha | https://www.ncbi.nlm.nih.gov/pubmed/24675168| text
-Incidence of cancer in men on a diet high in polyunsaturated fat.| 1971| Pearce, Dayton| https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71)91086-5/abstract| [Redd](https://www.reddit.com/r/ketoscience/comments/8n9kgz/incidence_of_cancer_in_men_on_a_diet_high_in/)
+Medicines and Vegetable Oils as Hidden Causes of Cardiovascular Disease and Diabetes. | 2016 | Okuyama | [Link](https://www.ncbi.nlm.nih.gov/pubmed/27251151) | [RedditLink](https://www.reddit.com/r/ketoscience/comments/8mjnsi/medicines_and_vegetable_oils_as_hidden_causes_of/)
+Vegetable Oil Intake and Breast Cancer Risk: a Meta-analysis. | 2015 | Xin | [Link](https://www.ncbi.nlm.nih.gov/pubmed/26163654) | none
+Does cooking with vegetable oils increase the risk of chronic diseases?: a systematic review. | 2015 | Sayon-Orea | [Link](https://www.ncbi.nlm.nih.gov/pubmed/26148920) | none
+Heated vegetable oils and cardiovascular disease risk factors.| 2014 | Ng | [Link](https://www.ncbi.nlm.nih.gov/pubmed/24632108)| none
+Possible adverse effects of frying with vegetable oils.| 2015| Dobarganes | [Link](https://www.ncbi.nlm.nih.gov/pubmed/26148922)| none
+Vegetable Oil: Nutritional and Industrial Perspective| 2016| Kumar| [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869010/)| none
+A Systematic Review of High-Oleic Vegetable Oil Substitutions for Other Fats and Oils on Cardiovascular Disease Risk Factors: Implications for Novel High-Oleic Soybean Oils| 2015| Huth | [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642420/)| none
+The relation between dietary intake of vegetable oils and serum lipids and apolipoprotein levels in central Iran| 2012| Boroujeni| [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413086/)| none
+The effects of heated vegetable oils on blood pressure in rats| 2011| Jaarin | [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/)| none
+Effect of the replacement of dietary vegetable oils with a low dose of extravirgin olive oil in the Mediterranean Diet on cognitive functions in the elderly| 2018| Mazza| [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775590/)| none
+A high-fat diet rich in corn oil reduces spontaneous locomotor activity and induces insulin resistance in mice| 2015| Wong| [Link](https://www.sciencedirect.com/science/article/pii/S0955286314002472)| none
+Decrease of serum total and free testosterone during a low-fat high-fibre diet.| 1983| Hamalainen| [Link](https://www.ncbi.nlm.nih.gov/pubmed/6298507)| none
+The cardiometabolic consequences of replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fats: Do the dietary guidelines have it wrong? | 2014| DiNicolantonio| [Link](http://openheart.bmj.com/content/1/1/e000032)| [Reddit](https://www.reddit.com/r/ketoscience/comments/8n9hzf/the_cardiometabolic_consequences_of_replacing/)
+Dietary omega-6 fatty acid lowering increases bioavailability of omega-3 polyunsaturated fatty acids in human plasma lipid pools.| 2014| Taha | [Link](https://www.ncbi.nlm.nih.gov/pubmed/24675168)| text
+Incidence of cancer in men on a diet high in polyunsaturated fat.| 1971| Pearce, Dayton| [Link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71)91086-5/abstract)| [Redd](https://www.reddit.com/r/ketoscience/comments/8n9kgz/incidence_of_cancer_in_men_on_a_diet_high_in/)
 Detection, monitoring, and deleterious health effects of lipid oxidation products generated in culinary oils during thermal stressing episodes|2014|Grootveld|[ResearchGate](https://www.researchgate.net/publication/286130246_Detection_monitoring_and_deleterious_health_effects_of_lipid_oxidation_products_generated_in_culinary_oils_during_thermal_stressing_episodes)|[Redd](https://www.reddit.com/r/ketoscience/comments/8dq7hc/detection_monitoring_and_deleterious_health/)
 
 Created by Travis Statham @travis_statham
