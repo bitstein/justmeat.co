@@ -828,3 +828,7 @@ Conclusion: In line with evidence for the importance of dietary animal fat in pr
 
 * [Milton Mills, MD: Are Humans Designed to Eat Meat?](https://www.drmcdougall.com/health/education/videos/free-electures/milton-mills-md/)
 * [Stupid Things Vegans Say: The Word Salad of Dr. Milton Mills](https://www.sott.net/article/374794-Stupid-Things-Vegans-Say-The-Word-Salad-of-Dr-Milton-Mills)
+
+
+Created by Travis Statham @travis_statham
+January 15 2019
