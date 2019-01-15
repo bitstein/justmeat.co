@@ -1,13 +1,16 @@
+---
+title: Cancer
+categories: wiki
+---
 
-
-{toc}
+**Table of Contents**
+{:toc}
 
 # Cancer
 
-## People, Books, YouTube 
 
 
-###Beneficial Effects
+### Beneficial Effects
 * [Beneficial effects of ketogenic diets for cancer patients: a realist review with focus on evidence and confirmation - 2017](https://link.springer.com/article/10.1007%2Fs12032-017-0991-5)
 
 * [Cancer: Disease of Civilization? By Vihljalmur Stefansson](https://www.dropbox.com/s/t69gv025o7oppde/Wilhjalmur%20Stefansson%20Cancer%20Disease%20of%20Civilization.pdf?dl=0)
@@ -101,7 +104,7 @@
 
 * ["Every patient that received my initial treatment passed away" Interview with Andrew Scarborough](https://www.paleomedicina.com/en/every-patient-that-received-my-initial-treatment-passed-away-interview-with%20andrew-scarborough)
 
-###PI 3-Kinase
+### PI 3-Kinase
 * [PI 3-Kinase: The Diabetes, Insulin Resistance, and Cancer Connection - Dr. Lewis Cantley NY](https://www.youtube.com/watch?v=Rr6ZhQATdzU)
 
 * [Suppression of insulin feedback enhances the efficacy of PI3K inhibitors](http://vivo.med.cornell.edu/display/pubid85051695315)
@@ -117,7 +120,7 @@
 
 * [Warning, real science ahead from a real scientist -- Tldr: Keto diet decreases resistance to inhibitors targeting the second most abundant genetic pathway across all cancers.](https://www.reddit.com/r/keto/comments/a41b9b/warning_real_science_ahead_from_a_real_scientist/)
 
-###Tucker Goodrich
+### Tucker Goodrich
 
 * [Omega-6 fatty acids: the alternative hypothesis for diseases of civilization](https://breaknutrition.com/omega-6-fatty-acids-alternative-hypothesis-diseases-civilization/)
 
@@ -135,14 +138,14 @@ One of the hallmark traits of cancer cells is the seemingly random mutations per
 
 
 
-##Anecdotes / Case Studies
+## Anecdotes / Case Studies
 
 * [Alison Gannett: Ketogenic Diet Brain Cancer Success Story + Tumor Tips](https://www.youtube.com/watch?v=MsaYYt-zAYY)
 
 * [Andrew Scarborough - GBM & Keto](http://mybraincancerstory.blogspot.com/)
 
 
-##Questions
+## Questions
 
 * [WHO Says Meat Causes Cancer?](http://www.diagnosisdiet.com/meat-and-cancer/)
 
@@ -150,7 +153,7 @@ One of the hallmark traits of cancer cells is the seemingly random mutations per
 
 * [Red Meat and cancer - Richard David Feinman](https://feinmantheother.com/2015/11/10/red-meat-and-cancer/)
 
-##Studies In Progress
+## Studies In Progress
 
 * [Ketogenic Diet as Adjunctive Treatment in Refractory/End-stage Glioblastoma Multiforme: a Pilot Study (KGDinGBM)](https://clinicaltrials.gov/ct2/show/NCT01865162) 
 
@@ -158,7 +161,7 @@ One of the hallmark traits of cancer cells is the seemingly random mutations per
 
 * [29 studies found with 'cancer' and 'keto' on clinicaltrials](https://clinicaltrials.gov/ct2/results?cond=cancer&term=ketogenic&cntry=&state=&city=&dist=)
 
-##Squamous Cell Carcinoma / Head and Neck Cancer
+## Squamous Cell Carcinoma / Head and Neck Cancer
 
 * [Abstract LB-252: Ketogenic diet with concurrent chemoradiation in head and neck squamous cell carcinoma: Pre-clinical and phase I trial results](http://cancerres.aacrjournals.org/content/78/13_Supplement/LB-252)
 * [The development of tumours under a ketogenic diet in association with the novel tumour marker TKTL1: A case series in general practice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726921/)
@@ -168,7 +171,7 @@ One of the hallmark traits of cancer cells is the seemingly random mutations per
 * [Food for Thought: Can Diet Play a Role in Lung Cancer?](https://uchealth.com/wp-content/uploads/sites/2/2014/11/Lung-Cancer_Diet_Food-for-Thought.pdf)
 * [Melanoma: The Scary Link Between Diet and Skin Cancer](https://www.nutritionadvance.com/scary-real-link-diet-skin-cancer/)
 
-##Link Dump on various cancer topics
+## Link Dump on various cancer topics
 
 * [The Role of Obesity in Type 2 Diabetes and Metabolic](https://academic.oup.com/jnci/article/109/9/djx012/3778207/The-Role-of-Obesity-Type-2-Diabetes-and-Metabolic)
 > Vegans like to cite that insulin resistance is because of low carb or because of high fat.  LOL.  Yes, low carb dieters can get glucose intolerance and have high blood glucose, but in the context of low carb this is entirely different than insulin resistance in a high carb eater.  This study from Oxford delves into BMI and fasting insulin (which goes high when a high carb dieter is “insulin resistant”) contributing to the etiology of pancreatic cancer.
@@ -189,24 +192,22 @@ Some are pointing at TMAO as a potential mechanism for meat to cause cancer, but
 
 * [Trimethylamine N-Oxide: The Good, the Bad and the Unknown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127123/)
 
->From the first article linked here about TMAO: 
+From the first article linked here about TMAO: 
 Initial questions immediately rise:
 
->1.) Correlation should never be confused with causation. If A is correlated with B, three conclusive possibilities exist:
+1.) Correlation should never be confused with causation. If A is correlated with B, three conclusive possibilities exist:
 
->1. A caused B
+1. A caused B
 2. B caused A
 3. C variable(s) could be interacting with both A and B causing the correlation.
 
->2.) TMAO is naturally high in fish which is largely associated with heart disease protection. If TMAO is a cause of heart disease, high fish consumption should be associated with heart disease. As of time of this writing, no association exists.
+2.) TMAO is naturally high in fish which is largely associated with heart disease protection. If TMAO is a cause of heart disease, high fish consumption should be associated with heart disease. As of time of this writing, no association exists.
 
->3.) The gut bacteria responsible for converting more TMAO appear to be the real culprit. Could TMAO levels be the smoke and not the fire? What other factors are involved? Does chronic or excessive red meat consumption lead to higher levels of TMAO-converting bacteria? Does a low-fiber (low-vegetable) diet play a role? Intake of whole grains? Chronic infection? Other causes of gut dysbiosis?
+3.) The gut bacteria responsible for converting more TMAO appear to be the real culprit. Could TMAO levels be the smoke and not the fire? What other factors are involved? Does chronic or excessive red meat consumption lead to higher levels of TMAO-converting bacteria? Does a low-fiber (low-vegetable) diet play a role? Intake of whole grains? Chronic infection? Other causes of gut dysbiosis?
 For instance, Paul Jaminet, PhD remarks in Lessons From The Latest Red Meat Scare:
 “...the gut flora is a much better predictor of blood TMAO levels than whether someone eats meat. Those with high Prevotella, low Bacteroides averaged about triple the TMAO levels of those with low Prevotella, high Bacteroides flora.”
 
-* [More on TMAO from Chris Kesser](https://chriskresser.com/red-meat-and-tmao-its-the-gut-not-the-meat/)
-
-Also, TMAO goes crazy with resistant starch and it kind of looks bad for high carb diets in general. 
+* [More on TMAO from Chris Kesser](https://chriskresser.com/red-meat-and-tmao-its-the-gut-not-the-meat/) 
 
 * [INCIDENCE OF CANCER IN MEN ON A DIET HIGH IN POLYUNSATURATED FAT](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71\)91086-5/abstract#.WvHS3Lbv5Go.twitter)
 
@@ -214,7 +215,7 @@ Also, TMAO goes crazy with resistant starch and it kind of looks bad for high ca
 
   
 * [Metabolic Reprogramming Induced by Ketone Bodies Diminishes Pancreatic Cancer Cachexia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165433/)
->in this one they replaced saturated fat and cholesterol with veg oils and cancer went up.
+*in this one they replaced saturated fat and cholesterol with veg oils and cancer went up.*
 
 * In fact, the study that originally connected nitrates with cancer risk and caused the scare in the first place has since been discredited after being subjected to a peer review. [Chris Kresser - The Nitrate Myth](https://chriskresser.com/the-nitrate-and-nitrite-myth-another-reason-not-to-fear-bacon/) “When it comes to food, vegetables are the primary source of nitrites. On average, about 93% of nitrites we get from food come from vegetables. It may shock you to learn that one serving of arugula, two servings of butter lettuce, and four servings of celery or beets all have more nitrite than 467 hot dogs. (2) And your own saliva has more nitrites than all of them! So before you eliminate cured meats from your diet, you might want to address your celery intake. And try not to swallow so frequently.”
 
@@ -254,10 +255,12 @@ Conclusions: Patients with resected stage III colon cancer who consumed a high-i
 
 * [Consumption of ultra-processed foods and cancer risk: results from NutriNet-Santé prospective cohort](https://www.bmj.com/content/360/bmj.k322)
 
-##Critiques
+## Critiques
 
 * [Ketogenic diet does not “beat chemo for almost all cancers”](https://sciencebasedmedicine.org/ketogenic-diets-for-cancer-hype-versus-science/)
 
 * [Starving cancer – more pseudoscientific nonsense](https://www.skepticalraptor.com/skepticalraptorblog.php/starving-cancer-pseudoscientific-nonsense/)
 
 
+Created by Travis Statham - @travis_statham
+January 14, 2019
