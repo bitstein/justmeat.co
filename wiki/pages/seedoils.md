@@ -19,7 +19,7 @@ Omega-6|AA	                |Arachidonic acid	|C20 : 4	|Small amount in meat, dai
 
 [Aldehydes in Oils](https://i.imgur.com/RS5JASf.jpg)
 
-**READ THESE FIRST**
+## **READ THESE FIRST**
 
 * [Omega-6 fatty acids: the alternative hypothesis for diseases of civilization by Tucker Goodrich](https://breaknutrition.com/omega-6-fatty-acids-alternative-hypothesis-diseases-civilization/)
 
@@ -31,7 +31,7 @@ In summary, the benefits of a low-fat diet (particularly a diet replacing satura
 * [Health Implications of High Dietary Omega-6 Polyunsaturated Fatty Acids](https://www.hindawi.com/journals/jnme/2012/539426/)
 Increases in the ratio of n-6 : n-3 PUFA, characteristic of the Western diet, could potentiate inflammatory processes and consequently predispose to or exacerbate many inflammatory diseases. The change in ratio and increase in n-6 PUFA consumption change the production of important mediators and regulators of inflammation and immune responses towards a proinflammatory profile. Chronic conditions such as CVD, diabetes, obesity, rheumatoid arthritis, and IBD are all associated with increased production of PGE2, LTB4, TXA2, IL-1β, IL-6, and TNF-α, whereby the production of these factors increases with increased dietary intake of n-6 PUFA and decreased dietary intake of n-3 PUFA. In conclusion, the unbalanced dietary consumption of n-6 : n-3 PUFA is detrimental to human health, and so the impact of dietary supplementation with n-3 PUFA upon the alleviation of inflammatory diseases, more specifically, NAFLD needs to be more thoroughly investigated.
 
-##Obesity
+## Obesity
 
 * The Evolving Hypothesis of Obesity – how polyunsaturated fat makes us fat: [Part 1](http://www.lchf-rd.com/2018/03/07/a-new-hypothesis-for-obesity-part1/) and [Part 2](http://www.lchf-rd.com/2018/03/07/a-new-hypothesis-for-obesity-part2/)
 
@@ -43,13 +43,13 @@ Increases in the ratio of n-6 : n-3 PUFA, characteristic of the Western diet, co
 
 * [Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672)
 
-##Heart Disease
+## Heart Disease
 
 * [Association of dietary, circulating, and supplement fatty acids with coronary risk: a systematic review and meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/24723079)
 
 * [Corn Oil in Treatment of Ischaemic Heart Disease](https://www.bmj.com/content/bmj/1/5449/1531.full.pdf)
 
-##Liver Health
+## Liver Health
 
 * [Effect of a 6-month intervention with cooking oils containing a high concentration of monounsaturated fatty acids (olive and canola oils) compared with control oil in male Asian Indians with nonalcoholic fatty liver disease.](https://www.ncbi.nlm.nih.gov/pubmed/24625239) **The control oil was the high-PUFA soyabean/safflower oils**
 
@@ -59,11 +59,11 @@ Increases in the ratio of n-6 : n-3 PUFA, characteristic of the Western diet, co
 
 * [Fat Quality Influences the Obesogenic Effect of HighFat Diets](http://www.mdpi.com/2072-6643/7/11/5480)
 
-##Cancer
+## Cancer
 
 * [A population-based case–control study of diet and melanoma risk in northern Italy](https://www.cambridge.org/core/journals/public-health-nutrition/article/div-classtitlea-population-based-casecontrol-study-of-diet-and-melanoma-risk-in-northern-italydiv/2449A763C30EDDD59C663B6C500F011A)
 
-##HNE/MDA
+## HNE/MDA
 
 * [Glucose autoxidation produce acrolein from lipid peroxidation in vitro](https://www.researchgate.net/publication/231583584_Glucose_autoxidation_produce_acrolein_from_lipid_peroxidation_in_vitro)
 
@@ -87,9 +87,17 @@ predict oil performance when heated. ***Oxidative stability and UV coefficients 
 of PUFAs***. Of all the oils tested, EVOO was shown to be the oil that produced the lowest level of polar compounds after being heated
 closely followed by coconut oil.
 
-#People
-###Gary Taubes
+## People
+### Gary Taubes
 * [Vegetable Oils,  (Francis) Bacon, Bing Crosby, and the American Heart Association by Gary Taubes](http://garytaubes.com/vegetable-oils-francis-bacon-bing-crosby-and-the-american-heart-association/)
+
+
+### Nina Teicholz
+* [Nina Teicholz - 'Vegetable Oils: The Unknown Story'](https://www.youtube.com/watch?v=Q2UnOryQiIY)
+
+* [The Myth of Vegetable Oils - DietDoctor & Nina Teicholz](https://www.dietdoctor.com/the-myth-of-vegetable-oils)
+
+* [The Big Fat Surprise: Toxic Heated Oils](https://www.westonaprice.org/health-topics/know-your-fats/the-big-fat-surprise-toxic-heated-oils/)
 
 ### Tucker Goodrich
 
@@ -105,7 +113,7 @@ closely followed by coconut oil.
 
 * [N=1 experiment of switching to a high omega-6 intake for 30 days.](https://yelling-stop.blogspot.com/2011/01/susan-allport-eats-linoleic-acid-for.html)
 
-###David Gillespie
+### David Gillespie
 * [Toxic Oil](https://www.amazon.com/Toxic-Oil-David-Gillespie-ebook/dp/B00BHQ7MSE)
 
 * [Vegetable Oils](http://davidgillespie.org/category/vegetable-oils/)
@@ -132,14 +140,10 @@ closely followed by coconut oil.
 
 * [Concerns with Polyunsaturated Vegetable Oils – Part 2](http://www.lchf-rd.com/2018/04/05/concerns-with-polyunsaturated-vegetable-oils-part-2/)
 
-###Nina Teicholz
-* [Nina Teicholz - 'Vegetable Oils: The Unknown Story'](https://www.youtube.com/watch?v=Q2UnOryQiIY)
+### Calories Proper
+* [Vegetable oil fatty acids are not essential by Bill Lagakos](http://caloriesproper.com/vegetable-oil-fatty-acids-are-not-essential/)
 
-* [The Myth of Vegetable Oils - DietDoctor & Nina Teicholz](https://www.dietdoctor.com/the-myth-of-vegetable-oils)
-
-* [The Big Fat Surprise: Toxic Heated Oils](https://www.westonaprice.org/health-topics/know-your-fats/the-big-fat-surprise-toxic-heated-oils/)
-
-###Science Artciles
+### Science Artciles
 * [Researchers unearthed more evidence that replacing butter with vegetable oils is not beneficial for cardiac health](https://medicalxpress.com/news/2016-04-unearthed-evidence-butter-vegetable-oils.html)
 
 * [Canola oil linked to worsened memory and learning ability in Alzheimer's](https://medicalxpress.com/news/2017-12-canola-oil-linked-worsened-memory.html)
@@ -150,10 +154,8 @@ closely followed by coconut oil.
 
 * [Mechanisms by which Dietary Fatty Acids Modulate Plasma Lipids](https://academic.oup.com/jn/article/135/9/2075/4664084)
 
-###Calories Proper
-* [Vegetable oil fatty acids are not essential by Bill Lagakos](http://caloriesproper.com/vegetable-oil-fatty-acids-are-not-essential/)
 
-###Other
+### Other
 * [Dr. Cate Shanahan - 'Practical Lipid Management for LCHF Patients'](https://youtu.be/YbpX41oCi1M)
 
 * [Dr. Dwight Lundell - Heart surgeon speaks out on what really causes heart disease](https://www.sott.net/article/242516-Heart-surgeon-speaks-out-on-what-really-causes-heart-disease)
@@ -163,7 +165,7 @@ closely followed by coconut oil.
 * [Adventures In Nutrition: Intentionally Overdosing Myself on Omega-3s](https://foodtechhacker.tumblr.com/post/166901458498/adventures-in-nutrition-intentionally-overdosing)
 
 
-##Studies
+## Studies
 
 Title | Date | Author | Link | RedditLink
 ---|---|----|----|----
@@ -184,3 +186,6 @@ The cardiometabolic consequences of replacing saturated fats with carbohydrates 
 Dietary omega-6 fatty acid lowering increases bioavailability of omega-3 polyunsaturated fatty acids in human plasma lipid pools.| 2014| Taha | https://www.ncbi.nlm.nih.gov/pubmed/24675168| text
 Incidence of cancer in men on a diet high in polyunsaturated fat.| 1971| Pearce, Dayton| https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71)91086-5/abstract| [Redd](https://www.reddit.com/r/ketoscience/comments/8n9kgz/incidence_of_cancer_in_men_on_a_diet_high_in/)
 Detection, monitoring, and deleterious health effects of lipid oxidation products generated in culinary oils during thermal stressing episodes|2014|Grootveld|[ResearchGate](https://www.researchgate.net/publication/286130246_Detection_monitoring_and_deleterious_health_effects_of_lipid_oxidation_products_generated_in_culinary_oils_during_thermal_stressing_episodes)|[Redd](https://www.reddit.com/r/ketoscience/comments/8dq7hc/detection_monitoring_and_deleterious_health/)
+
+Created by Travis Statham @travis_statham
+January 15, 2019
