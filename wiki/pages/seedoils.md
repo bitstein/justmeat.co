@@ -7,13 +7,13 @@ Figure 1. Structural representation of ALA (ω-3) and LA (ω-6), two essential f
 
 The most common omega-3 fatty acids in the human diet are ALA, EPA, and DHA while the most common omega-6 fatty acids are LA and AA (Table 1). The omega-3 fatty acid ALA and the omega-6 fatty acid LA are referred to as essential fatty acids because the body cannot synthesize them. Essential fatty acid deficiency can lead to dermatitis, stunted growth in infants and children, increased susceptibility to infection, and poor wound healing. In human cells all long-chain omega-3 fatty acids are synthesized from ALA and all long-chain omega-6 fatty acids are synthesized from LA.
 
-TYPES   |ABBREVIATION	|COMMON NAME	|STRUCTURE	|DIETARY SOURCES
+TYPES   |ABBREVIATION	|COMMON NAME	|STRUCTURE	| SOURCES
 ----|---|----|----|---
-Omega-3|ALA                    |α-Linolenic acid	|C18 : 3	|Oils: flaxseed, olive, canola
-Omega-3|EPA	                |Eicosapentaenoic acid|C20 : 5	|Fish oil, marine algae
-Omega-3|DHA                   |Docosahexaenoic acid|C22 : 6	|Fish oil, marine algae
-Omega-6|LA	                |Linoleic acid	        |C18 : 2	|Oils: corn, soybean, sunflower, peanut
-Omega-6|AA	                |Arachidonic acid	|C20 : 4	|Small amount in meat, dairy products and eggs
+Omega-3 |ALA                    |α-Linolenic acid	|C18 : 3	|Oils: flaxseed, olive, canola
+Omega-3 |EPA	                |Eicosapentaenoic acid|C20 : 5	|Fish oil, marine algae
+Omega-3 |DHA                   |Docosahexaenoic acid|C22 : 6	|Fish oil, marine algae
+Omega-6 |LA	                |Linoleic acid	        |C18 : 2	|Oils: corn, soybean, sunflower, peanut
+Omega-6 |AA	                |Arachidonic acid	|C20 : 4	|Small amount in meat, dairy products and eggs
 
 [Sources of Dietary Lipid](https://www.gbhealthwatch.com/images/dietary_omega_fig2.gif)
 
