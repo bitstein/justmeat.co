@@ -13,6 +13,8 @@ The diseases may also have flare-ups, when they get worse, and remissions, when 
 
 A person may have more than one autoimmune disorder at the same time. Common autoimmune disorders include:
 
+* [How does the carnivore diet reverse serious health conditions? - Obscure Science - Dec 2018](https://obscurescience.com/2018/12/17/how-does-the-carnivore-diet-reverse-serious-health-conditions/)
+
 ## Addison disease
 ## Celiac disease - sprue (gluten-sensitive enteropathy)
 >Celiac disease is a condition caused by damage to the lining of the small intestine. This damage comes from a reaction to eating gluten. This is a substance that is found in wheat, rye, barley, and possibly oats. It is also found in food made from these ingredients.
@@ -61,15 +63,56 @@ probably reflect different mechanisms for the alterations of intestinal permeabi
 >Graves disease is an autoimmune disorder that involves overactivity of the thyroid gland (hyperthyroidism). Hallmarks of the condition are bulging eyes (exophthalmos), heat intolerance, increased energy, difficulty sleeping, diarrhea, and anxiety.
 https://medlineplus.gov/ency/images/ency/fullsize/17067.jpg
 
-* Hashimoto thyroiditis
-Multiple sclerosis
+## Hashimoto thyroiditis
+
+Chronic thyroiditis is caused by a reaction of the immune system against the thyroid gland. It often results in reduced thyroid function (hypothyroidism).
+
+The disorder is also called Hashimoto disease.
+
+The thyroid gland is located in the neck, just above where your collarbones meet in the middle.
+
+Causes
+Hashimoto disease is a common thyroid gland disorder. It can occur at any age, but is most often seen in middle-aged women. It is caused by a reaction of the immune system against the thyroid gland.
+
+The disease begins slowly. It may take months or even years for the condition to be detected and for thyroid hormone levels to become lower than normal. Hashimoto disease is most common in people with a family history of thyroid disease.
+
+## Multiple sclerosis
 Myasthenia gravis
 Pernicious anemia
-Reactive arthritis
-Rheumatoid arthritis
+## Reactive arthritis
+
+Rheumatoid arthritis (RA) is a disease that leads to inflammation of the joints and surrounding tissues. It is a long-term disease. It can also affect other organs.
+
+Causes
+The cause of RA is not known. It is an autoimmune disease. This means the immune system of the body mistakenly attacks healthy tissue.
+
+* [LIPID PARADOX IN RHEUMATOID ARTHRITIS: THE IMPACT OF SERUM LIPID MEASURES AND SYSTEMIC INFLAMMATION ON THE RISK OF CARDIOVASCULAR DISEASE - Myasoedova - March 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058921/)
+
+**Objectives**
+
+To examine the impact of systemic inflammation and serum lipids on cardiovascular disease (CVD) in rheumatoid arthritis (RA).
+
+**Methods**
+
+In a population-based RA incident cohort (1987 ACR criteria first met between 1988 and 2007), we collected serum lipid measures, erythrocyte sedimentation rates (ESR), C-reactive protein (CRP) measures and cardiovascular events including ischemic heart disease, and heart failure. Cox models were used to examine the association of lipids and inflammation with the risk of CVD and mortality adjusting for age, sex and year of RA incidence.
+
+**Results**
+
+The study included 651 RA patients (mean age 55.8 years, 69% female); 67% were rheumatoid factor positive. ESR was associated with the risk of CVD (hazard ratio [HR] 1.2 per 10 mm/hr increase, 95% confidence interval [CI] 1.1, 1.3). Similar findings, although not statistically significant, were seen with CRP (p=0.07). We found a significant nonlinear association for total cholesterol (TCh) on risk of CVD, with 3.3-fold increased risk for TCh<4 mmol/L (95%CI 1.5, 7.2) and no increased risk of CVD for TCh≥4 mmol/L (p=0.57). Low low-density cholesterol (LDL<2 mmol/L) was associated with marginally increased risk of CVD (p=0.10); there was no increased risk for LDL≥2 mmol/L (p=0.76).
+
+**Conclusion**
+
+Inflammatory measures (particularly, ESR) are significantly associated with the risk of CVD in RA. Lipids may have paradoxical associations with the risk of CVD in RA, whereby lower TCh and LDL levels are associated with increased cardiovascular risk.
+
+**Keywords:** rheumatoid arthritis, inflammation, lipid paradox, cardiovascular outcomes, ESR, CRP, lipids
+
+## Rheumatoid arthritis
+
+* [Dietary causes of rheumatoid arthritis - Obscure Science Nov 2018](https://obscurescience.com/2018/11/28/dietary-causes-of-rheumatoid-arthritis/)
+
 Sjögren syndrome
 Systemic lupus erythematosus
-Type I diabetes
+## Type I diabetes
 
 Symptoms
 Symptoms will vary, based on the type and location of the faulty immune response. Common symptoms include:
