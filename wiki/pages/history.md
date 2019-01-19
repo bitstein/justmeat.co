@@ -28,7 +28,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1962** - [_Strong Medicine_](https://justmeat.co/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
-    > Dr. Donaldson in STRONG MEDICINE expresses his personal concept of treatment for six highly important and frequently deadly diseases--arteriosclerosis, osteoarthritis, heart disease, high blood pressure, diabetes, and gall bladder disease. His book is interesting, informative, humorous, and highly controversial. 
+    > Dr. Donaldson in STRONG MEDICINE expresses his personal concept of treatment for six highly important and frequently deadly diseases--arteriosclerosis, osteoarthritis, heart disease, high blood pressure, diabetes, and gall bladder disease. His book is interesting, informative, humorous, and highly controversial.
     > "From what I have observed, a half pound of meat per meal is the minimum quantity needed to maintain the work of repair of body cells."
     > "Oh, there were dozens of questions I wanted to discuss with Stefannsson, so Fred Taylor brought him out to my home on Long Island. Some steamed clams and a good steak loosened him up, and we sat around a beach fire and talked for hours. He proved to be a mine of information. As I remember his conversation, it went something like this..."
 
@@ -42,15 +42,13 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1975** - [ The Stone Age Diet](https://justmeat.co/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
-    > This book is a study of the ecology of Man, as his environment has changed with (relatively) lightning-like rapidity from prehistorical to modern times, and to delineate the effect these changes have had on nutrition. An attempt will be made to answer the question: "Is modern Man actually better or worse off nutritionally than ws his Stone Age forbear?" . 
+    > This book is a study of the ecology of Man, as his environment has changed with (relatively) lightning-like rapidity from prehistorical to modern times, and to delineate the effect these changes have had on nutrition. An attempt will be made to answer the question: "Is modern Man actually better or worse off nutritionally than ws his Stone Age forbear?" .
     >Writing this book has indeed heen fun. While colleccting material for the early chapters I was able to add greatly to my knowledge of comparative anatomy and physiology, how all various sorts of animals are constructed, and how their digestive tracts function. Later chapters led me into a fascinating world of the past, of anthropology and archaeology, which I embraced enthusiastically though amateurishly. Finally I ventured into the shadowy sphere of philosophy, explored some aspects of future food production, and have set down the dire predictions of population ecologists for the arrival of the 21st century. It has been thrilling to see how each bit of scientific data from such widely separated disciplines fitted together into a mosaic of such undeniable clarity that the aphorism: "That contrary to Nature cannot be fact"-was again verified, this time in the field of human dietetics and nutrition.
 
-* **1987** - [The Worst Mistake in the History of the Human Race]() by Jared Diamond
+* **1987** - [“The Worst Mistake in the History of the Human Race”](http://www.ditext.com/diamond/mistake.html) by Jared Diamond
 
     > "There are many things that we seldom question; the truth seems so evident and the answers obvious. One such sacred cow is the tremendous prosperity brought about by the agricultural revolution. This selection is a thought-provoking introduction to the connection between culture and agriculture. The transition from food foraging to farming (what archaeoloqists call the Neolithic revolution) may have been the worst mistake human history or its most important event. You be the judge. But for better or worse, this cultural evolution has occurred, and the world will never be the same again."
-    
+
  ## 2000s
- 
+
  * **2008** - [Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains](https://justmeat.co/docs/imagining-head-smashed-in-jack-w-brink.pdf)
- 
- 
