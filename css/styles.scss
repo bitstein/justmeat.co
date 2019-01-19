@@ -74,7 +74,7 @@ blockquote {
 
 #markdown-toc {
   border: 1px solid #aaa;
-  padding: 0.5em 0.5em 0.5em 1.5em;
+  padding: 0.5em 0.5em 0.5em 2em;
   list-style: decimal;
   display: inline-block;
   max-width: 250px;
@@ -84,6 +84,6 @@ blockquote {
   }
   ul {
     list-style: decimal;
-    padding-left: 1em;
+    padding-left: 1.5em;
   }
 }
