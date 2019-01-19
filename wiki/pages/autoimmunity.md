@@ -1,8 +1,11 @@
-# Autoimmune Diseases
+---
+title: Autoimmunity
+categories: wiki
+---
 
-* A short summary, and then links to further research and discussion of each particular disease.
+### Summary
+{:.no_toc}
 
-Summary
 Your body's immune system protects you from disease and infection. But if you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake. Autoimmune diseases can affect many parts of the body.
 
 No one is sure what causes autoimmune diseases. They do tend to run in families. Women - particularly African-American, Hispanic-American, and Native-American women - have a higher risk for some autoimmune diseases.
@@ -11,13 +14,18 @@ There are more than 80 types of autoimmune diseases, and some have similar sympt
 
 The diseases may also have flare-ups, when they get worse, and remissions, when symptoms get better or disappear. Treatment depends on the disease, but in most cases one important goal is to reduce inflammation. Sometimes doctors prescribe corticosteroids or other drugs that reduce your immune response.
 
-A person may have more than one autoimmune disorder at the same time. Common autoimmune disorders include:
+A person may have more than one autoimmune disorder at the same time.
 
-* [How does the carnivore diet reverse serious health conditions? - Obscure Science - Dec 2018](https://obscurescience.com/2018/12/17/how-does-the-carnivore-diet-reverse-serious-health-conditions/)
+* TOC
+{:toc}
 
-## Addison disease
-## Celiac disease - sprue (gluten-sensitive enteropathy)
->Celiac disease is a condition caused by damage to the lining of the small intestine. This damage comes from a reaction to eating gluten. This is a substance that is found in wheat, rye, barley, and possibly oats. It is also found in food made from these ingredients.
+## Diseases
+
+### Addison's disease
+
+### Celiac disease - sprue (gluten-sensitive enteropathy)
+
+> Celiac disease is a condition caused by damage to the lining of the small intestine. This damage comes from a reaction to eating gluten. This is a substance that is found in wheat, rye, barley, and possibly oats. It is also found in food made from these ingredients.
 
 Causes
 The exact cause of celiac disease is not known. The lining of the intestines have small areas called villi which project outward into the opening of the intestine. These structures help absorb nutrients.
@@ -53,17 +61,17 @@ differences in sugar permeability were observed in both disease groups. These di
 probably reflect different mechanisms for the alterations of intestinal permeability.
 
 * [Small-Intestinal Histopathology and Mortality Risk in Celiac Disease - Sep 2009](https://jamanetwork.com/journals/jama/fullarticle/184586)
-
 * [What No One Is Saying About Zonulin — Is Celiac About More Than Genes and Gluten? Masterjohn - April 2011](https://chrismasterjohnphd.com/2011/04/06/what-no-one-is-saying-about-zonulin-is/)
-
 * [Gliadin, zonulin and gut permeability: Effects on celiac and non-celiac intestinal mucosa and intestinal cell lines. Drago - Apr 2006](https://www.ncbi.nlm.nih.gov/pubmed/16635908)
 
-## Dermatomyositis
-## Graves disease -
->Graves disease is an autoimmune disorder that involves overactivity of the thyroid gland (hyperthyroidism). Hallmarks of the condition are bulging eyes (exophthalmos), heat intolerance, increased energy, difficulty sleeping, diarrhea, and anxiety.
+### Dermatomyositis
+
+### Graves' disease
+
+> Graves disease is an autoimmune disorder that involves overactivity of the thyroid gland (hyperthyroidism). Hallmarks of the condition are bulging eyes (exophthalmos), heat intolerance, increased energy, difficulty sleeping, diarrhea, and anxiety.
 https://medlineplus.gov/ency/images/ency/fullsize/17067.jpg
 
-## Hashimoto thyroiditis
+### Hashimoto thyroiditis
 
 Chronic thyroiditis is caused by a reaction of the immune system against the thyroid gland. It often results in reduced thyroid function (hypothyroidism).
 
@@ -76,10 +84,9 @@ Hashimoto disease is a common thyroid gland disorder. It can occur at any age, b
 
 The disease begins slowly. It may take months or even years for the condition to be detected and for thyroid hormone levels to become lower than normal. Hashimoto disease is most common in people with a family history of thyroid disease.
 
-## Multiple sclerosis
-Myasthenia gravis
-Pernicious anemia
-## Reactive arthritis
+### Multiple sclerosis
+
+### Rheumatoid Arthritis
 
 Rheumatoid arthritis (RA) is a disease that leads to inflammation of the joints and surrounding tissues. It is a long-term disease. It can also affect other organs.
 
@@ -106,13 +113,13 @@ Inflammatory measures (particularly, ESR) are significantly associated with the 
 
 **Keywords:** rheumatoid arthritis, inflammation, lipid paradox, cardiovascular outcomes, ESR, CRP, lipids
 
-## Rheumatoid arthritis
-
 * [Dietary causes of rheumatoid arthritis - Obscure Science Nov 2018](https://obscurescience.com/2018/11/28/dietary-causes-of-rheumatoid-arthritis/)
 
-Sjögren syndrome
-Systemic lupus erythematosus
-## Type I diabetes
+### Sjögren syndrome
+
+### Systemic lupus erythematosus
+
+### Type I diabetes
 
 Symptoms
 Symptoms will vary, based on the type and location of the faulty immune response. Common symptoms include:
@@ -167,7 +174,7 @@ https://www.paleomedicina.com/hu/crohns-disease-successfully-treated-with-the-pa
 **Introduction:** Crohn’s disease is regarded as having no curative treatment. Previous reports on dietary therapy of Crohn’s disease indicate no major success. Case Report: Here we report a severe case of Crohn’s disease where we successfully applied the paleolithic ketogenic diet. Dietary therapy resulted in resolution of symptoms, normalized laboratory parameters as well as gradual normalization of bowel inflammation as evidenced by imaging data and normalization of intestinal permeability as shown by the polyethylene glycol (PEG 400) challenge test. The patient was able to discontinue medication within two weeks. Currently, he is on the diet for 15 months and is free of symptoms as well as side effects. Conclusion: We conclude that the paleolithic ketogenic diet was feasible, effective and safe in the present case. Keywords: Crohn’s disease, Dietary therapy, In-flammatory bowel disease, Ketogenic diet, Paleo-lithic diet
 
 INTRODUCTION
-Crohn’s disease, an inflammatory disease of the bowel, is regarded as having no cure [1]. Standard treatment which involves steroids, immunosuppressants and biological therapy is aimed at reducing symptoms [1]. Periods of flares and remissions typically alternate, however, the overall course of the disease is progressive. A set of ecological evidence, including a discrepancy between westernized and non-westernized countries in the occurrence of the disease, raises the possibility of lifestyle and/or dietary factors in the etiology of the disease [2]. There have been several attempts to use a dietary intervention in Crohn’s disease such as the specific carbohydrate diet [3] and the anti-inflammatory diet [4] as well as elimination-reintroduction diets [5]. Although clinical improvements and reduction of medicines have been reported being associated with these diets we are not aware of any diet inducing complete remission and long-term freedom of medicines at the same time.The authors of the present report are using a diet referred to as the paleolithic ketogenic diet in the treatment of chronic conditions. So far we have published cases of successful treatment of diabetes type 1 [6, 7] and type 2 [8], epilepsy [9, 10] as well as other conditions [11]. 
+Crohn’s disease, an inflammatory disease of the bowel, is regarded as having no cure [1]. Standard treatment which involves steroids, immunosuppressants and biological therapy is aimed at reducing symptoms [1]. Periods of flares and remissions typically alternate, however, the overall course of the disease is progressive. A set of ecological evidence, including a discrepancy between westernized and non-westernized countries in the occurrence of the disease, raises the possibility of lifestyle and/or dietary factors in the etiology of the disease [2]. There have been several attempts to use a dietary intervention in Crohn’s disease such as the specific carbohydrate diet [3] and the anti-inflammatory diet [4] as well as elimination-reintroduction diets [5]. Although clinical improvements and reduction of medicines have been reported being associated with these diets we are not aware of any diet inducing complete remission and long-term freedom of medicines at the same time.The authors of the present report are using a diet referred to as the paleolithic ketogenic diet in the treatment of chronic conditions. So far we have published cases of successful treatment of diabetes type 1 [6, 7] and type 2 [8], epilepsy [9, 10] as well as other conditions [11].
 
 CASE REPORT
 
@@ -214,3 +221,7 @@ Here we report a case where Crohn’s disease was reversed by the paleolithic ke
 CONCLUSION
 
 We conclude that the paleolithic ketogenic diet was effective while producing no side effects in this case of Crohn’s disease. In contrast to standard therapeutic approaches which are aimed to control certain components of the disease only, the paleolithic ketogenic diet was able to reverse the cluster of symptoms and abnormalities associated with the disease. Assuming a long term dietary compliance, we believe that the patient would remain disease-free in the future
+
+## Carnivore Diet as Treatment
+
+* [How does the carnivore diet reverse serious health conditions? - Obscure Science - Dec 2018](https://obscurescience.com/2018/12/17/how-does-the-carnivore-diet-reverse-serious-health-conditions/)
