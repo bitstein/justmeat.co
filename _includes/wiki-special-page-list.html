@@ -1,0 +1,10 @@
+<ul>
+{% assign sorted_pages = site.pages | sort: "title" %}
+{% for page in sorted_pages %}
+  {% if page.path contains 'wiki/pages' %}
+  {% if page.name contains 'special:' %}
+  <li><a href="{{page.url}}">{{page.title|replace: "Special:", ""}}</a></li>
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>

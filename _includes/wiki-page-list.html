@@ -3,7 +3,9 @@
 {% for page in sorted_pages %}
   {% if page.path contains 'wiki/pages' %}
   {% unless page.name contains 'talk:' %}
+  {% unless page.name contains 'special:' %}
   <li><a href="{{page.url}}">{{page.title}}</a></li>
+  {% endunless %}
   {% endunless %}
   {% endif %}
 {% endfor %}
