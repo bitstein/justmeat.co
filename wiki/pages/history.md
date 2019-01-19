@@ -10,11 +10,17 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 ## 1800s
 
+* **1857** - [_An Argument on Behalf of the Primitive Diet of Man - Pro-Vegetarian_]() by Dr. Frederic R. Lees
+
 * **1863** - [_Letter on Corpulence, Addressed to the Public_](https://archive.org/details/letteroncorpulen00bant) by William Banting
 
     > Banting accounted all of his unsuccessful fasts, diets, spa and exercise regimens in his past. His previously unsuccessful attempts had been on the advice of various medical experts. He then described the dietary change which finally had worked for him, following the advice of another medical expert. "My kind and valued medical adviser is not a doctor for obesity, but stands on the pinnacle of fame in the treatment of another malady, which, as he well knows, is frequently induced by [corpulence]." (p24) His own diet was four meals per day, consisting of meat, greens, fruits, and dry wine. The emphasis was on avoiding sugar, saccharine matter, starch, beer, milk and butter. ([Wikipedia](https://en.wikipedia.org/wiki/William_Banting#Letter_on_Corpulence,_Addressed_to_the_Public))
-    
-* **1888** - [The Relation of Alimentation and Disease](https://justmeat.co/docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, A.M., M.D., LL. D.
+
+* **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._]() by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
+
+* **1887** - [_An Introduction to the Study of the Influence of Diet in the Production and Treatment of Skin Diseases_]() by James C. White, M.D. - Professor of Dermatology, Harvard University
+
+* **1888** - [_The Relation of Alimentation and Disease_](https://justmeat.co/docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, A.M., M.D., LL. D.
 
     > "It may safely be affirmed that all chronic diseases which afflict the human organism, aside from those arising from injuries, poisons, and infections, have their genesis and development in something we are doing every day; or at least, in something to which we expose ourselves at regulary and frequently repeated intervals. These various occurrences include drinks and food; the kind, condition and proportions of each used ; the state and rapidity with which they are taken in ; the intervals at which they are drunk and eaten, and the quantities of each consumed. A
 
@@ -30,11 +36,18 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "The trapper's diet, in particular, mirrored the Indian way of life. Both the mountain men and Indians had to live off the land. Their diet was largely meat, especially the flesh of the bison. Elk was probably second in consumption for most of the trappers. Less frequently, the mountain men ate deer, bear, antelope, horses, dogs, beaver, and other small game."
 
+* **1964** - [The Drinking Man’s Diet](https://timeline.com/drinking-mans-diet-carbs-82a38400bfff) by Robert Cameron [Buy 50th Anniversary Edition Physical](http://cameronbooks.com/product/the-drinking-mans-diet-50th-anniversary-edition/)
+
+    > "What was his secret? Meat and booze, simply put. Cameron reported his findings to the world in his self-published 1962 book, The Drinking Man’s Diet. It quickly became one of the most popular diets in the country, selling 2.4 million copies in 13 languages. Cameron had initiated a “carbo-craze” by suggesting that weight watchers count carbs not calories. When Atkins released Diet Revolution nine years later, Cameron responded, “Revolution? My foot!” He had been proselytizing against carbs for a decade already."
 
 * **1975** - [ The Stone Age Diet](https://justmeat.co/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
     > This book is a study of the ecology of Man, as his environment has changed with (relatively) lightning-like rapidity from prehistorical to modern times, and to delineate the effect these changes have had on nutrition. An attempt will be made to answer the question: "Is modern Man actually better or worse off nutritionally than ws his Stone Age forbear?" . 
     >Writing this book has indeed heen fun. While colleccting material for the early chapters I was able to add greatly to my knowledge of comparative anatomy and physiology, how all various sorts of animals are constructed, and how their digestive tracts function. Later chapters led me into a fascinating world of the past, of anthropology and archaeology, which I embraced enthusiastically though amateurishly. Finally I ventured into the shadowy sphere of philosophy, explored some aspects of future food production, and have set down the dire predictions of population ecologists for the arrival of the 21st century. It has been thrilling to see how each bit of scientific data from such widely separated disciplines fitted together into a mosaic of such undeniable clarity that the aphorism: "That contrary to Nature cannot be fact"-was again verified, this time in the field of human dietetics and nutrition.
+
+* **1987** - [The Worst Mistake in the History of the Human Race]() by Jared Diamond
+
+    > "There are many things that we seldom question; the truth seems so evident and the answers obvious. One such sacred cow is the tremendous prosperity brought about by the agricultural revolution. This selection is a thought-provoking introduction to the connection between culture and agriculture. The transition from food foraging to farming (what archaeoloqists call the Neolithic revolution) may have been the worst mistake human history or its most important event. You be the judge. But for better or worse, this cultural evolution has occurred, and the world will never be the same again."
     
  ## 2000s
  
