@@ -79,6 +79,7 @@ layout: home
 * [_Dr. Newbold’s Type A/Type B Weight Loss Book_](docs/dr-newbolds-type-a-type-b-weight-loss-book-h-l-newbold-md.pdf) by H. L. Newbold, M.D. [PDF]
 * [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462) by Gary Taubes [Amazon]
 * [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz [Amazon]
+* [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
 * [_Life Without Bread: How a Low-Carbohydrate Diet Can Save Your Life_](https://www.amazon.com/Life-Without-Bread-Low-Carbohydrate-Diet/dp/0658001701) by Christian B. Allan, Ph.D. & Wolfang Lutz, M.D. [Amazon]
     * [_My Life Without Bread: Dr. Lutz at 90_](https://www.amazon.com/My-Life-Without-Bread-Lutz/dp/0992694418) by Valerie Bracken [Amazon]
 * [_Lore of Nutrition: Challenging Conventional Dietary Beliefs_](https://www.amazon.com/Lore-Nutrition-Challenging-conventional-dietary/dp/1776092619) by Tim Noakes and Marika Sboros
