@@ -36,7 +36,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     Later expanded and revised as _The Fat of the Land_ (1956).
 
-* **1953** - [_Treatment of OBESITY with Calorically UNRESTRICTED DIETS_](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
+* **1953** - [“Treatment of OBESITY with Calorically UNRESTRICTED DIETS”](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
 
     > "Restriction of carbohydrate, alone, appears to make possible the treatment of obesity on a calorically unrestricted diet composed chiefly of protein and fat. The limiting factor on appetite, necessary to any treatment of obesity, appears to be provided by increased mobilization and utilization of fat, in conjunction with the homeostatic forces which normally regulate the appetite. Ketogensis appears to be a key factor in the increased utilization of fat. Treatment of obesity by this method appears to avoid the decline in the metabolism encountered in treatment by caloric restriction. Details of diet and regimen are given."
 
@@ -52,7 +52,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
     > "From what I have observed, a half pound of meat per meal is the minimum quantity needed to maintain the work of repair of body cells."
     > "Oh, there were dozens of questions I wanted to discuss with Stefannsson, so Fred Taylor brought him out to my home on Long Island. Some steamed clams and a good steak loosened him up, and we sat around a beach fire and talked for hours. He proved to be a mine of information. As I remember his conversation, it went something like this..."
 
-* **1963** - [_The Diet of the Mountain Men_](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
+* **1963** - [“ß”](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
 
     > "The trapper's diet, in particular, mirrored the Indian way of life. Both the mountain men and Indians had to live off the land. Their diet was largely meat, especially the flesh of the bison. Elk was probably second in consumption for most of the trappers. Less frequently, the mountain men ate deer, bear, antelope, horses, dogs, beaver, and other small game."
 
@@ -60,7 +60,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "These studies, like those of SHAPER among the Samburu and of GSELL AND MAYER among the mountain Swiss show no support for the contention that a large intake of dairy fat and meat necessarily causes either hypercholesterolemia or coronary heart disease. Indeed, if such dietary habits are causes of hypercholesterolemia, atherosclerosis and clinical cardiovascular disease, one must invoke overriding protective mechanisms among the Masai. It cannot be a failure to reach the susceptible age. We should have found coronary heart disease among the 233 Masai men examined who were 30 years or over if the prevalence rate is near that of American men."
 
-* **1964** - [_The Drinking Man’s Diet_](https://timeline.com/drinking-mans-diet-carbs-82a38400bfff) by Robert Cameron [Buy 50th Anniversary Edition Physical](http://cameronbooks.com/product/the-drinking-mans-diet-50th-anniversary-edition/)
+* **1964** - [_The Drinking Man’s Diet_](https://timeline.com/drinking-mans-diet-carbs-82a38400bfff) by Robert Cameron ([50th Anniversary Ed.](http://cameronbooks.com/product/the-drinking-mans-diet-50th-anniversary-edition/))
 
     > "What was his secret? Meat and booze, simply put. Cameron reported his findings to the world in his self-published 1962 book, The Drinking Man’s Diet. It quickly became one of the most popular diets in the country, selling 2.4 million copies in 13 languages. Cameron had initiated a “carbo-craze” by suggesting that weight watchers count carbs not calories. When Atkins released Diet Revolution nine years later, Cameron responded, “Revolution? My foot!” He had been proselytizing against carbs for a decade already."
 
