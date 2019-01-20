@@ -44,6 +44,8 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     Expanded and revised edition of _Not By Bread Alone_ (1946).
 
+* **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
+
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
     > Dr. Donaldson in STRONG MEDICINE expresses his personal concept of treatment for six highly important and frequently deadly diseases--arteriosclerosis, osteoarthritis, heart disease, high blood pressure, diabetes, and gall bladder disease. His book is interesting, informative, humorous, and highly controversial.
