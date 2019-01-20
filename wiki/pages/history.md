@@ -32,11 +32,17 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1929** - [“The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet - Based on Intensive Clinical and Labratory Studies on Two Arctic Explorers living under Average Conditions in a New York Climate”](/docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb. M.D.
 
+* **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
+
+    Later expanded and revised as _The Fat of the Land_ (1956).
+
 * **1953** - [_Treatment of OBESITY with Calorically UNRESTRICTED DIETS_](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
 
     > "Restriction of carbohydrate, alone, appears to make possible the treatment of obesity on a calorically unrestricted diet composed chiefly of protein and fat. The limiting factor on appetite, necessary to any treatment of obesity, appears to be provided by increased mobilization and utilization of fat, in conjunction with the homeostatic forces which normally regulate the appetite. Ketogensis appears to be a key factor in the increased utilization of fat. Treatment of obesity by this method appears to avoid the decline in the metabolism encountered in treatment by caloric restriction. Details of diet and regimen are given."
-    
+
 * **1956** - [_The Fat of the Land_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
+
+    Expanded and revised edition of _Not By Bread Alone_ (1946).
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
