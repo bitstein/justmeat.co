@@ -3,7 +3,7 @@ title: Autoimmunity
 categories: wiki
 ---
 
-### Summary
+## Summary
 {:.no_toc}
 
 Your body's immune system protects you from disease and infection. But if you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake. Autoimmune diseases can affect many parts of the body.

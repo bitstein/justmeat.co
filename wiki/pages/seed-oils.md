@@ -1,4 +1,10 @@
-# Vegetable Seed Oils ω-6
+---
+title: Seed Oils
+categories: wiki
+---
+
+* TOC
+{:toc}
 
 ## Introduction
 *Editor Travis Statham: "I did low carb diets for years before really paying attention to seed oils. They are toxic, artificial, industry created waste products - created by pressing and processing the seeds of grains and legumes to get the small amount of mostly polyunsaturated fat out of the seeds. Nowadays, these oils are in nearly every packaged food product, and usually come with grains and sugar. Before we invented seed oils in the late 1800's, people cooked with lard and tallow and other animal fats; food was delicious and healthy. Then we added all these seed oils, marketed them as healthy and modern, demonized saturated fat and cholesterol and fatty red meat - and started a massive experiment on the human species. Did you know that Proctor and Gamble, one of the largest seed oil producers, funded the American Heart Association in the 1950's and influenced it greatly, and that the AHA then indicted saturated fat and put the check mark on seed oils? Going carnivore means cutting out all of these oils from your life. Hopefully this wiki page will convince you of why that is necessary."*
@@ -29,7 +35,7 @@ Omega-6 |AA	                |Arachidonic acid	|C20 : 4	|Small amount in meat, da
 
 * [Omega-6 vegetable oils as a driver of coronary heart disease: the oxidized linoleic acid hypothesis by Dr James J DiNicolantonio & Dr James H O’Keefe](https://openheart.bmj.com/content/openhrt/5/2/e000898.full.pdf)
 
-* [The cardiometabolic consequences of replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fats: Do the dietary guidelines have it wrong?](http://openheart.bmj.com/content/1/1/e000032) 
+* [The cardiometabolic consequences of replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fats: Do the dietary guidelines have it wrong?](http://openheart.bmj.com/content/1/1/e000032)
 In summary, the benefits of a low-fat diet (particularly a diet replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fatty acids) are severely challenged. Dietary guidelines should assess the totality of the evidence and strongly reconsider their recommendations for replacing saturated fats with carbohydrates or Ω-6 polyunsaturated fats.
 
 * [Health Implications of High Dietary Omega-6 Polyunsaturated Fatty Acids](https://www.hindawi.com/journals/jnme/2012/539426/)
@@ -39,7 +45,7 @@ Increases in the ratio of n-6 : n-3 PUFA, characteristic of the Western diet, co
 
 * The Evolving Hypothesis of Obesity – how polyunsaturated fat makes us fat: [Part 1](http://www.lchf-rd.com/2018/03/07/a-new-hypothesis-for-obesity-part1/) and [Part 2](http://www.lchf-rd.com/2018/03/07/a-new-hypothesis-for-obesity-part2/)
 
-* TO BE ADDED: Dr. Michael Eades 2018 Low Carb Breckenridge video 
+* TO BE ADDED: Dr. Michael Eades 2018 Low Carb Breckenridge video
 
 * [Linoleic acid and the pathogenesis of obesity](http://www.sciencedirect.com.sci-hub.tw/science/article/pii/S1098882316300363)
 

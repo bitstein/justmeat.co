@@ -1,23 +1,27 @@
+---
+title: Fiber
+categories: wiki
+---
 
-# The Fiber Fraud
+## The Fiber Fraud
 
 *How much fiber do you need?*
 
-**Technically, none**. 
+**Technically, none**.
 
-* [Fiber is not an essential nutrient and its importance has been grossly over-exaggerated](http://www.diagnosisdiet.com/food/fiber/). 
+* [Fiber is not an essential nutrient and its importance has been grossly over-exaggerated](http://www.diagnosisdiet.com/food/fiber/).
 
-* You're more likely to relieve digestion issues by [**decreasing** fiber intake](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/pdf/WJG-18-4593.pdf). 
+* You're more likely to relieve digestion issues by [**decreasing** fiber intake](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/pdf/WJG-18-4593.pdf).
 
-* Fiber is an indigestible substance, you're more likely to *impede* digestion by loading your colon up. 
+* Fiber is an indigestible substance, you're more likely to *impede* digestion by loading your colon up.
 
-* For some people, fiber is so intrusive they can't have any at all. 
+* For some people, fiber is so intrusive they can't have any at all.
 
 * Eat some vegetables if you enjoy them, but don't feel pressured to go out of your way to meet a RDA of fiber.
 
 * [Low Carb Down Under: Dr. Paul Mason - 'From fibre to the microbiome: low carb gut health'](https://www.youtube.com/watch?v=xqUO4P9ADI0)
 
-### Ash Simmonds 
+### Ash Simmonds
 
 https://www.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/
 
@@ -255,7 +259,7 @@ https://yelling-stop.blogspot.com/2016/11/thoughts-on-spreadburys-cellular.html
 https://tntwellnessandnutrition.com/fiber-is-a-scam/
 
 ### Galen Z
-We talk about harmful effects of sugar on the microbiome. 
+We talk about harmful effects of sugar on the microbiome.
 
 Fiber is just sugar packaged to feed your microbiome.
 
@@ -270,7 +274,7 @@ https://twitter.com/foodtechhacker/status/1015688716101140481
 https://twitter.com/search?q=foodtechhacker%20fiber%20microbiome&src=typd
 
 ### Amy Berger
-https://blog.designsforhealth.com/node/759 - 
+https://blog.designsforhealth.com/node/759 -
 
 Increasing water intake might be beneficial for the subset of patients who have clear signs of dehydration, but if inadequate fluid intake isn’t the problem, then more fluids probably isn’t the answer: “There is no evidence that constipation can successfully be treated by increasing fluid intake unless there is evidence of dehydration.”
 
@@ -344,7 +348,7 @@ But we aren’t actually born with huge, hungry stomachs. They stretch out gradu
 Fortunately, it also works in reverse: as soon as you stop consuming a high-fiber diet, your stomach begins to gradually shrink in size, and with each new meal you’ll need less and less food to feel satisfied. All this without a gastric bypass (GBP) or a stomach band (LAP-BAND®) squeezed around it—the two most popular surgical options to reduce the stomach’s capacity and “speed up” satiety.
 The advantages of a low-fiber diet don’t stop with just no longer overeating. Here’s a brief recap of its other undeniable benefits:
 
-**Oral health.** 
+**Oral health.**
 
 A low-fiber diet improves dental health, because it reduces bacterial fermentation inside the oral cavity. The by-products of fermentation are the leading cause of dental caries (cavities), gingivitis, periodontal disease, and tooth loss.
 Esophagus. A low-fiber diet prevents heartburn. In turn, this eliminates the causes of esophageal inflammatory disease (esophagitis), which may result in the development of dysphagia (difficulties swallowing), Barrett’s disease (irreversible change of the esophageal epithelium), and cancer.
@@ -358,15 +362,15 @@ Meals without fiber and carbohydrates promote rapid and complete stomach digesti
 A low-fiber diet prevents duodenitis and duodenal ulcers. The extended contact of the duodenal epithelium with fiber soaked in hydrochloric acid and gastric enzymes is a primary cause of these inflammatory conditions.
 Pancreas. A low-fiber diet protects the pancreatic ducts from obstruction and from ensuing pancreatitis. Acute pancreatitis is a leading cause of type I diabetes symptoms in children, whose small organs can get clogged by fiber quite easily.
 
-**Gallbladder.** 
+**Gallbladder.**
 
 A low-fiber diet prevents cholecystitis, which is the obstruction of the billiary ducts, through which the gallbladder and liver discharge bile into the duodenum. Again, fiber is the only outside substance capable of causing the primary obstruction (the secondary obstruction comes from gallstones and bile salts). Acute cholecystitis is a leading cause of gallbladder disease caused by gallstones, gallbladder inflammation, or both. Each year over half a million Americans undergo a cholecystectomy (gallbladder removal surgery). As you might expect, obesity and diabetes—both conditions brought about by a high-carb/high-fiber diet—are the leading causes of cholecystitis. And yes, women are twice as likely as men to have gallstones. No surprise there: women consume more fiber than men because twice as many women are also affected by constipation.
 
-**Intestinal obstruction.** 
+**Intestinal obstruction.**
 
 Intestinal obstructionisn’t possible with foods that digest completely. The small intestines are supposed to transport liquid chyme only, not large lumps of undigested fiber. Intestinal obstructions on a low-fiber diet are as likely as a rainbow during a snowstorm.
 
-**Hernia.** 
+**Hernia.**
 
 A low-fiber diet prevents herniation of the abdominal wall by the small intestine, or its protrusion inside the scrotum. These two conditions are likely to occur when the intestines expand beyond the capacity of the abdominal cavity to retain them. There is only one food component capable of causing this kind of expansion: indigestible fiber.
 
@@ -411,7 +415,7 @@ This tragic disease is the final straw—the sum total of all of the above. Natu
 
 A low-fiber diet reduces the chances of the digestive system getting struck by cancer, because it eliminates the major dietary cause of digestive disorders. It’s axiomatic that healthy organs are less likely to get affected by malignancies than unhealthy organs. The unfortunate fact that ulcerative colitis increases the risk of colon cancer 3,200% provides us with all the proof we need about the fiber-cancer connection.
 
-**A low-fiber diet alone isn’t a guarantee of vibrant health and boundless longevity.** 
+**A low-fiber diet alone isn’t a guarantee of vibrant health and boundless longevity.**
 
 It is, however, an important step toward attaining these treasured things. And it’s never too late to make it happen. Besides benefiting your digestive system, a low-fiber diet works wonders for your endocrine system and metabolism.
 
@@ -429,27 +433,27 @@ Elevated insulin is a potent vasoconstrictor, meaning it narrows major and minor
 Not so long ago, the sum of most of these symptoms was called Syndrome X. Now it’s called “prediabetes,”[3] because the “X” in the syndrome is no longer a mystery. It stands for hyperinsulinemia, which is obviously caused by too many carbohydrates in one’s diet. Consider an average “healthy” breakfast: a glass of orange juice (26 g of carbs), a cup of Kellogg’s Crispix (25 g) with a cup of milk (12 g), and one medium-sized banana (27 g). That’s 90 g of carbs, or the equivalent of six tablespoons of sugar, which is almost half the daily requirement for the average adult. While this modest breakfast keeps digesting, the body keeps secreting insulin, almost half the daily dose. And that’s before several snacks, sodas, lunch, and dinner.
 Of course, if you don’t consume prodigious amounts of carbs, the pancreas doesn’t flood your body with insulin. So as soon as your consumption of carbs goes down, the state of your health goes up, and you can expect to see the following improvements just from taming the hyperinsulinemia:
 
-**Hypoglycemia.** 
+**Hypoglycemia.**
 
 When blood sugar drops down below 40–50 milligrams per deciliter of blood (mg/dl), a person loses consciousness (i.e. coma, syncope), and may actually die, often not from the coma episode itself, but from an ensuing accident, such as a fall or car crash. Hypoglycemia occurs when there is more insulin in the system than available glucose to satisfy demand by the central nervous system. Its symptoms are hard to miss: fatigue, drowsiness, irritability, hunger, headache, memory loss, vision disturbances, speech impairment, unsteadiness, dizziness, tingling in the hands or lips, dilated pupils, rapid pulse, low blood pressure, and some others. When insulin levels are normal, hypoglycemia isn’t likely even on a zero-carb diet, because the body can maintain a steady level of blood glucose from other sources of energy, such as dietary fats and proteins, or stored energy in the form of glycogen in the liver, fat from adipose tissue, protein from muscle tissue, and so on.
 
-**Elevated triglycerides.** 
+**Elevated triglycerides.**
 
 A high level of triglycerides is considered to be a more objective marker of advancing heart disease than any other factor. As soon as carbohydrates are reduced, the level of triglycerides follows suit, because the liver no longer needs to convert excess blood glucose into triglycerides, which, incidentally, becomes body fat. Chronically elevated triglycerides increase blood viscosity, which is another major cause of elevated blood pressure.
 
-**Hypertension.** 
+**Hypertension.**
 
 Your blood pressure will normalize because insulin no longer constricts your blood vessels, and no longer forces your heart to pump more blood more vigorously to overcome the resistance of narrow vessels as well as viscous (from triglycerides) blood.
 
-**Heart disease.** 
+**Heart disease.**
 
 Your heart condition will improve because your heart muscles will get more well-oxygenated blood, and also because it will not have to pump the blood extra hard to overcome the counteraction of constricted blood vessels and the friction caused by triglycerides.
 
-**Atherosclerosis.** 
+**Atherosclerosis.**
 
 If you suffer from atherosclerosis, it may gradually reverse itself because insulin no longer contributes to vascular inflammatory disease, which damages the vessels on the inside and leads to the accumulation of vascular plaque—a primary cause of permanent narrowing of the affected vessels. The reversal of atherosclerosis is described in detail in mainstream medical literature.
 
-**Migraine headaches.** 
+**Migraine headaches.**
 
 The two most prominent dietary causes behind migraine headaches are the constriction of cerebral blood vessels by insulin, and cerebral edema caused by excess dietary potassium. Carbohydrate-rich foods are at once the largest source of dietary potassium and the triggers of insulin. In this respect, a low-carb diet is truly the best headache “medicine.” Alcohol, monosodium glutamate (MSG), naturally occurring and added sulfites in wine, and the amino acid tyramine, found in aged wines, cheeses, and many other foods are also triggers for headaches, unrelated to insulin or carbohydrates. When these are added on top of too many carbs, a headache can become one giant migraine.
 
@@ -461,7 +465,7 @@ This condition is caused by impaired cerebral circulation, low-blood sugar, and 
 
 Since both elevated glucose and insulin are potent stimulants of the CNS, children respond to them with alternating patterns of hyperactivity and fatigue. Both states interfere with concentration and cause behavior patterns that are considered abnormal. Shortly after affected children are placed on a low-carb diet, the symptoms of ADHD gradually diminish and eventually disappear. It just takes time for a child’s pancreas to reduce the production of insulin and adapt to a new pattern of behavior.
 
-**Insomnia.** 
+**Insomnia.**
 
 A combination of elevated levels of insulin (an energy hormone) and elevated levels of blood sugar (a fuel for CNS) are the primary causes of functional (i.e. reversible) sleeplessness. How can one sleep when the body is so overstimulated with energy? That’s why you’ve been told from childhood not to eat several hours before bedtime. As people get older, digestion and utilization of energy stretches from the customary 4–6 hours to 8, 10, or even 12 hours. So even if you’ve completed your dinner by 7 p.m., it may continue digesting until 3, 5, or even 7 a.m. When you finally doze off, the sleep is superficial, because the level of insulin remains high long after the blood sugar has gone down. Not surprisingly, the quality of sleep goes up as soon as the amount of dietary carbs goes down. As with ADHD, it takes time to tame and adjust the unconditional (not dependent on the diet) release of insulin.
 
@@ -473,7 +477,7 @@ A combination of fatigue from low-blood sugar, mental and muscular apathy relate
 
 An elevated level of glucose in healthy children stimulates metabolic rates and raises body temperature, which causes profuse perspiration. When children perspire, they’re more likely to get chills from the ensuing rapid evaporation—a condition that makes them susceptible to colds. Adults may get colds for similar reasons, except that in their case constricted blood vessels lower body temperature, and facilitate bacterial infections. In addition, elevated levels of blood glucose provide plentiful feed for fledging bacteria to invade, procreate, and overpower the immune system of children and adults alike. In essence, excess carbs make you a walking Petri dish, ready and willing to shelter, feed, and grow any bacterial pathogen that happens to be around. A reduction of dietary carbohydrates in the diet significantly reduces the chance of bacterial infections.
 
-**Acne.** 
+**Acne.**
 
 Hormonal changes in teenagers has little to do with acne. Puberty happens to coincide with the appearance of fully-functional sebaceous glands on one’s face and body. Excess oil excreted by these glands clogs them, while the bacteria lodged within them causes the infection and eruption. A zero-carb diet is one of the most effective means of acne control because (a) it curbs oil production by reducing the level of triglycerides in the blood, and (b) it doesn’t stimulate bacterial growth as much because of a reduction in the level of blood sugar.
 
@@ -497,23 +501,23 @@ If you have type II diabetes (non-insulin dependent), its symptoms should gradua
 
 If you have type I diabetes (insulin-dependent), you should be able to significantly reduce your doses of insulin to a much safer level. In many cases, you may find that you have been misdiagnosed, that your pancreas is still functional, and that it can manage blood sugar on its own. According to some experts, the rate of misdiagnosis of type I diabetes among children is up to 50%.[5] It isn’t just elevated blood sugar that’s eventually harming these children, but also the large doses of insulin prescribed to support their high-carb diets.
 
-**Blindness.** 
+**Blindness.**
 
 Your eyes aren’t as likely to succumb to diabetic retinopathy, a condition commonly related to diabetes, hypertension, hyperinsulinemia, and elevated triglycerides, and the leading cause of blindness among adults with either type of diabetes, and (even more often) with undiagnosed diabetes.
 
-**Impotence.** 
+**Impotence.**
 
 A low-carb diet may boost your libido just as well as Viagra does, because both things dilate and relax the blood vessels that govern erections. In addition, unlike Viagra, a low-carb diet will not cause headaches or blindness. If you recall Graham’s and Kellogg’s rational for vegetarian, high-fiber diets, it wasn’t to keep people from screwing up their health, but to keep people away from having sex, even with their lawful spouses.
 
-**Nerve damage.** 
+**Nerve damage.**
 
 Low-carb diets protect you from nerve damage caused by hyperinsulinemia. Diabetes- and prediabetes-related nerve damage is associated with a loss of sensitivity in the extremities. Nerve damage of the anal canal is one of the primary causes of constipation, and dependence on fiber to move the bowels. Penal and vaginal nerve damage affects intercourse, because the victims aren’t able to reach orgasm. Premature ejaculation also results from indirect overstimulation of the nervous receptors by elevated insulin. That same overstimulation eventually causes the receptor’s demise.
 
-**Appetite control.** 
+**Appetite control.**
 
 Insidious hunger and incessant appetite are very much the symptoms of hyperinsulinemia, both of which are provoked by low blood sugar. This narcotic-like effect of insulin is also hard to overcome, because the urge to consume carbohydrates is beyond simple conscious control, but driven by the body’s survival instincts and unconditional responses. For anyone wanting to lose weight, or at the very least wishing to not gain any more, this effort-free curbing of the appetite is one of the most pleasant aspects of a low-carb lifestyle.
 
-**Obesity.** 
+**Obesity.**
 
 If you are overweight, you may stop gaining weight, and may begin to gradually lose body fat, because body fat is made almost exclusively from the carbohydrates in your diet. If you consume less than 200 g of carbohydrates daily (an average for the medium-sized adult), the balance is drawn from body fat (the physiology of weight loss). If you consume more than 200 g, you just get fatter, and fatter, and fatter.
 
