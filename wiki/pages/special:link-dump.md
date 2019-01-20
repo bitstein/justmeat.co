@@ -1,6 +1,18 @@
-# Trav's Link Dump
+---
+title: Special:Link Dump
+categories:
+  - wiki
+  - special
+---
 
-## Top Ten Books
+This is a page to dump miscellaneous links that have not yet found a place in the wiki.
+
+* TOC
+{:toc}
+
+## Trav's Link Dump
+
+### Top Ten Books
 
 1.  [Eat Rich, Live Long: Mastering the Low-Carb & Keto Spectrum for Weight Loss and Longevity Paperback – February 27, 2018 by Ivor Cummins,‎ Dr. Jeffry Gerber](https://www.amazon.com/Eat-Rich-Live-Long-Mastering/dp/1628602732)
 2. [Good Calories, Bad Calories by Gary Taubes (2008, 911 reviews, 4.5 stars)](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462)
@@ -15,8 +27,8 @@
 
 
 
-## Popular Authors
-### Gary Taubes
+### Popular Authors
+#### Gary Taubes
 
 * [@garytaubes](https://twitter.com/garytaubes)
 
@@ -33,7 +45,7 @@
 * [Why We Get Fat, and What to do About It by Gary Taubes (2010, 2160 reviews, 4.6 stars)](https://www.amazon.com/Why-We-Get-Fat-About/dp/0307474259/)
 >Nice for lay people - much less technical than GCBC, but useful for a recourse - /u/dem0n0cracy
 
-### Nina Teicholz
+#### Nina Teicholz
 * [@bigfatsurprise](https://twitter.com/bigfatsurprise) - Author, Science Journalist, Advocate for nutrition policy based on rigorous science.
 
 * [Nutrition Coalition - US Dietary Guidelines Reform run by Nina](https://twitter.com/4dietaryreform)
@@ -47,7 +59,7 @@
 
 * *[Nina Teicholz: The Big Fat Surprise – (08/07/2014)](https://www.youtube.com/watch?v=XQUnedwWHqk)*
 
-### Dr. Stephen Phinney, Dr. Jeff Volek, and Dr. Eric Westman
+#### Dr. Stephen Phinney, Dr. Jeff Volek, and Dr. Eric Westman
 
 * **[The Art and Science of Low Carbohydrate Living by Jeff Volek,‎ Stephen Phinney (2011 , 594 reviews, 4.6 stars)](https://www.amazon.com/Art-Science-Low-Carbohydrate-Living-ebook/dp/B005CVV2AE/)**
 
@@ -60,7 +72,7 @@ by Dr. Eric C. Westman,‎ Dr. Stephen D. Phinney,‎ Jeff S. Volek (2010, 1311 
 
 * *[Eric Westman, M.D.: Update on Ketogenic Diet for Obesity, Diabetes, and Metabolic Syndrome](https://www.youtube.com/watch?v=WendvONj5O0)
 
-### Professor Tim Noakes
+#### Professor Tim Noakes
 
 * [@ProfTimNoakes](https://twitter.com/ProfTimNoakes) - South African Nutrition and Sports Science Researcher, Professor
 
@@ -80,11 +92,11 @@ by Tim Noakes,‎ Jason Fung,‎ Nina Teicholz (2017, 12 reviews, 4.5 stars)](ht
 
 * [Evidence that supports the prescription of low-carbohydrate high-fat diets: a narrative review](http://bjsm.bmj.com/content/51/2/133)
 
-### Dr. Jason Fung
+#### Dr. Jason Fung
 
 * [Dr. Jason Fung is a nephrologist(kidneys). Special interest in weight management and diabetes](https://twitter.com/drjasonfung)
 * [The Obesity Code: Unlocking the Secrets of Weight Loss by Jason Fung (2016, 4.6 stars, 1,422 reviews)](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK/)
-> Very popular keto / fasting book by one of the foremost doctors. -/u/dem0n0cracy 
+> Very popular keto / fasting book by one of the foremost doctors. -/u/dem0n0cracy
 
 * [The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally by Jason Fung (out in April 2018)](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653/)
 
@@ -94,56 +106,56 @@ by Tim Noakes,‎ Jason Fung,‎ Nina Teicholz (2017, 12 reviews, 4.5 stars)](ht
 
 * [Intensive Dietary Management Program](https://idmprogram.com/)
 
-### Dr. Richard K. Bernstein - Absolute Must Read if you have Type 1 or Type 2 Diabetes Mellitus
+#### Dr. Richard K. Bernstein - Absolute Must Read if you have Type 1 or Type 2 Diabetes Mellitus
 * [Dr. Bernstein's Diabetes Solution: The Complete Guide to Achieving Normal Blood Sugars by Richard K. Bernstein (2017, 887 reviews, 4.6 stars)](https://www.amazon.com/dp/B004QZ9PC4/)
 
-### Dr. Richard David Feinman
+#### Dr. Richard David Feinman
 
 * **[Biochemistry Professor & Founder of the Nutrition & Metabolism Society in Brooklyn, New York](https://twitter.com/DrFeinman)**
 
 * [The World Turned Upside Down: The Second Low-Carbohydrate Revolution
 by Richard David Feinman (2014, 67 reviews, 4.6 stars)](https://www.amazon.com/World-Turned-Upside-Down-Low-Carbohydrate-ebook/dp/B00QZDORCI/)
->Excellent book about nutrition from the standpoint of a biochemistry professor - a really unique view into the world of nutrition and metabolism. Very wry Brooklyn humor. Talks about the new Second Low Carb Revolution of Taubes - Teicholz and new studies into keto science - basically what this whole subreddit is about. Feinman is also doing research on cancer and keto and runs a journal(Nutrition and Metabolism).  -/u/dem0n0cracy 
+>Excellent book about nutrition from the standpoint of a biochemistry professor - a really unique view into the world of nutrition and metabolism. Very wry Brooklyn humor. Talks about the new Second Low Carb Revolution of Taubes - Teicholz and new studies into keto science - basically what this whole subreddit is about. Feinman is also doing research on cancer and keto and runs a journal(Nutrition and Metabolism).  -/u/dem0n0cracy
 
 * [Personal Blog - Feinman The Other](https://feinmantheother.com/)
 
-### Dr. Joseph Kraft
+#### Dr. Joseph Kraft
 * [Diabetes Epidemic & You by Joseph Kraft (2008, 35 reviews, 4.6 stars)](https://www.amazon.com/Diabetes-Epidemic-You-Joseph-Kraft/dp/1425168094/)
 >Kraft basically figured out how insulin works and revolutionized our understanding. I need to read this eventually. -/u/dem0n0cracy
 
 * [#LCHF The genius of Dr. Joseph R. Kraft - Exposing the true Extent of #Diabetes](http://www.thefatemperor.com/blog/2015/5/10/lchf-the-genius-of-dr-joseph-r-kraft-exposing-the-true-extent-of-diabetes)
 
-### Professor Grant Schofield
+#### Professor Grant Schofield
 * [@grantsnz](https://twitter.com/grantsnz)
 * [What the Fat?: Fat’s In, Sugar’s Out: How to Live the Ultimate Low Carb Healthy Fat Lifestyle by Grant Schofield (2018, not released)](https://www.amazon.com/What-Fat-Ultimate-Healthy-Lifestyle/dp/1681882302/)
 
 * *[Youtube - Grant Schofield at Low Carb Down Under 'Where is the Science At?'](https://www.youtube.com/watch?v=KrnXClMbjCs)*
 
-### Denise Minger
+#### Denise Minger
 
 * [Denise Minger Twitter - Health blogger, linguaphile, and papaya connoisseur. Author of Death by Food Pyramid. ](https://twitter.com/deniseminger)
 
 * [Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health by Denise Minger (2014, 364 reviews, 4.7 stars)](https://www.amazon.com/Death-Food-Pyramid-Politics-Interests-ebook/dp/B00HFKX24Y/)
 
-### Mark Sisson
+#### Mark Sisson
 * [The Keto Reset Diet: Reboot Your Metabolism in 21 Days and Burn Fat Forever by Mark Sisson (2017, 128 reviews, 4.4 stars)](https://www.amazon.com/Keto-Reset-Diet-Metabolism-Forever/dp/1524762237/)
 
 * *[Going Primal with Mark Sisson: Get Ripped, Eliminate Pain and Thrive - Episode 189](https://www.youtube.com/watch?v=oKrtz8ER7RU)*
 
-### Drs. Jacob Wilson, Ryan Lowery
+#### Drs. Jacob Wilson, Ryan Lowery
 * [The Ketogenic Bible: The Authoritative Guide to Ketosis by Jacob Wilson, Ryan Lowery (2017, 118 reviews, 4.7 stars)](https://www.amazon.com/Ketogenic-Bible-Authoritative-Guide-Ketosis-ebook/dp/B0744GMHSQ/)
 
 * *[AdaptLIVE with Jacob Wilson & Ryan Lowery - THE BENEFITS OF A KETOGENIC LIFESTYLE](https://www.youtube.com/watch?v=0YUXWhJXT9k)*
 
-### Jimmy Moore - Longtime Podcaster for Keto
+#### Jimmy Moore - Longtime Podcaster for Keto
 * [Keto Clarity: Your Definitive Guide to the Benefits of a Low-Carb, High-Fat Diet by Eric Westman MD,‎ Jimmy Moore (2014, 1145 reviews, 4.5 stars)](https://www.amazon.com/Keto-Clarity-Definitive-Benefits-Low-Carb-ebook/dp/B00MEX9B4C/)
 
 * *[Jimmy Moore - 'Keto And Fasting: Latest Fads Or The Keys To Optimal Health?](https://www.youtube.com/watch?v=jrIfx5pfKfk)*
 
-### Ash Simmonds
+#### Ash Simmonds
 * [Principia Ketogenica: Low Carbohydrate And Ketogenic Diets by Ash Simmonds (2014, 42 reviews, 4.2 stars)](https://www.amazon.com/Principia-Ketogenica-Compendium-Literature-Carbohydrate/dp/1500969591/)
 
-### Dr. Zoe Harcombe
+#### Dr. Zoe Harcombe
 * British Obesity Researcher/ PhD / analyzing nutrition guidelines [@zoeharcombe](https://twitter.com/zoeharcombe)
 
 * [The Obesity Epidemic: What Caused It? How Can We Stop It? by Zoe Harcombe (2011, 54 reviews, 3.9 stars)](https://www.amazon.com/Obesity-Epidemic-What-Caused-Stop-ebook/dp/B005OM0DBU/)
@@ -152,21 +164,21 @@ by Richard David Feinman (2014, 67 reviews, 4.6 stars)](https://www.amazon.com/W
 
 * [NAUDÉ REVIEW: NO MISTAKES, MISCHIEF AGAINST NOAKES? FAT CHANCE!](http://foodmed.net/2017/03/mistakes-mischief-naude-review-noakes/)
 
-## Cholesterol - Diet-Heart Hypothesis Debunked
+### Cholesterol - Diet-Heart Hypothesis Debunked
 
 * [Cholesterol Wiki](http://www.reddit.com/r/ketoscience/wiki/cholesterol)
 
-### Dr. Aseem Malhotra
+#### Dr. Aseem Malhotra
 * [Saturated fat does not clog the arteries: coronary heart disease is a chronic inflammatory condition, the risk of which can be effectively reduced from healthy lifestyle interventions](http://bjsm.bmj.com/content/51/15/1111)
 
 * [The Pioppi Diet: A 21-Day Lifestyle Plan](https://www.amazon.com/Pioppi-Diet-21-Day-Lifestyle-Plan/dp/1405932635/)
 
-### Dr. Uffe Ravnskov
+#### Dr. Uffe Ravnskov
 * [Fat and Cholesterol are Good for You by Uffe Ravnskov (2009, 52 reviews, 4.8 stars)](https://www.amazon.com/Fat-Cholesterol-are-Good-You/dp/919755538X/)  [ePub](http://justmeat.co/docs/the-cholesterol-myths-uffe-ravnskov-md.epub)
->An absolutely compelling and credible take down of all the conclusions that have been drawn from prior studies. This is your arsenal against dilettante skeptics of LCHF and your own personal doubts due to years of marketing low-fat pseudo-science. -/u/b-rad62 
+>An absolutely compelling and credible take down of all the conclusions that have been drawn from prior studies. This is your arsenal against dilettante skeptics of LCHF and your own personal doubts due to years of marketing low-fat pseudo-science. -/u/b-rad62
 * *[Uffe Ravnskov: The cholesterol campaign and its misleading dietary advices](https://www.youtube.com/watch?v=pMf3aFSdNag)*
 
-### Dr. Malcolm Kendrick
+#### Dr. Malcolm Kendrick
 * [The Great Cholesterol Con: The Truth About What Really Causes Heart Disease and How to Avoid It by Malcolm Kendrick (2008, 182 reviews, 4.6 stars)](https://www.amazon.com/Great-Cholesterol-Really-Causes-Disease/dp/1844546101/)
 >Let’s face it. After we lose those pounds of fat and are happy with the way we look, the main purpose of eating like this is to feel good and live long. This book helped me understand the science of heart disease and draw an important conclusion; the true answer to what causes heart disease is, “we don’t know”, but the so called “lipid hypothesis” which hypothesizes that it’s due to a high concentration of fat in your blood is hard to believe and based on weak science. Rather, cardio-vascular disease (CVD) is likely due to inflammation, caused by insulin, caused by glucose. After this book, I resolved that I will never take a statin to lower my cholesterol – ever. -/u/b-rad62
 
@@ -174,84 +186,84 @@ by Richard David Feinman (2014, 67 reviews, 4.6 stars)](https://www.amazon.com/W
 by Malcolm Kendrick (2015, 153 reviews, 5 stars)](https://www.amazon.com/Doctoring-Data-medical-advice-nonsense-ebook/dp/B00TCG3X4S/)**
 >What an eye opener ! The books helps you understand drug studies and how they are controlled by the drug companies. This is a must read for any ketoer.
 Dr. Kendrick makes you realize peer review is not really a good thing all the time, when new ideas go against conventional ideas.
-His arguments against statins make you realize how the drug companies lie for profits. The books makes you think critically and it analyzes papers related to health and makes you realize that statistics can be twisted to support the researcher's bias. Dr. Kendrick also points out that some of the treatment for heart diseases, like stent placement and bypass surgery have not been tested properly for effectiveness. 
+His arguments against statins make you realize how the drug companies lie for profits. The books makes you think critically and it analyzes papers related to health and makes you realize that statistics can be twisted to support the researcher's bias. Dr. Kendrick also points out that some of the treatment for heart diseases, like stent placement and bypass surgery have not been tested properly for effectiveness.
  -/u/arnott
 
 * *[YouTube: The cholesterol hypothesis is wrong - Malcolm Kendrick - Part 1](https://www.youtube.com/watch?v=8ls9HWRxvMo)*
 
 * [Sugar Industry and Coronary Heart Disease Research- A Historical Analysis of Internal Industry Documents](http://sci-hub.tw/10.1001/jamainternmed.2016.5394)
 
-### Dr. Robert Lustig
+#### Dr. Robert Lustig
 * [Fat Chance: The bitter truth about sugar by Dr. Robert Lustig](https://www.amazon.com/Fat-Chance-bitter-Robert-2013-01-03/dp/B0182QDZW8/)
 
-### Dr. David Diamond
+#### Dr. David Diamond
 
 * [YT: Dr. David Diamond - An Update on Demonization and Deception in Research on Saturated Fat...](https://www.youtube.com/watch?v=uc1XsO3mxX8)
 
 * [Low Carb Diet/Exogenous Ketone Advocate, Neuroscientist/Cardiovascular Disease researcher - I'm skeptical of LDL cholesterol as a cause of CVD](https://twitter.com/LDLSkeptic)
 
-### Dr. Barbara Roberts
+#### Dr. Barbara Roberts
 * [The Truth About Statins: Risks and Alternatives to Cholesterol-Lowering Drugs Mass Market by Barbara H. Roberts M.D. (2012, 123 reviews, 4.5 stars)](https://www.amazon.com/Truth-About-Statins-Alternatives-Cholesterol-Lowering/dp/1451656394/)
 
-### Dave Feldman
+#### Dave Feldman
 * [CholesterolCode.com](http://cholesterolcode.com/)
 
-### Drs. Michael R./Mary Dan Eades
+#### Drs. Michael R./Mary Dan Eades
 * [Protein Power: The High-Protein/Low-Carbohydrate Way to Lose Weight, Feel Fit, and Boost Your Health--in Just Weeks!](https://www.amazon.com/Protein-Power-High-Protein-Low-Carbohydrate-Health-ebook/dp/B002SXIENW)
 
-### Dr. David Perlmutter
+#### Dr. David Perlmutter
 * [Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers](https://www.amazon.com/Grain-Brain-Surprising-Sugar-Your-Killers-ebook/dp/B00BAXFCPO/)
 
-### Stephen Sinatra
+#### Stephen Sinatra
 * [The Great Cholesterol Myth: Why Lowering Your Cholesterol Won't Prevent Heart Disease - and the Statin-Free Plan That Will](https://www.amazon.com/Great-Cholesterol-Myth-Lowering-Statin-Free/dp/B00B3SW2S6/)
 
-### Glyn Wainwright
+#### Glyn Wainwright
 * [The High-Cholesterol Paradox by Glyn Wainwright - PDF](http://www.lizscript.co.uk/glyn/paradox.pdf)
 
-### Dr. William Davis
+#### Dr. William Davis
 * [Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health](https://www.amazon.com/Wheat-Belly-Lose-Weight-Health-ebook/dp/B00571F26Y)
 
 * [Undoctored: Why Health Care Has Failed You and How You Can Become Smarter Than Your Doctor](https://www.amazon.com/Undoctored-Health-Failed-Become-Smarter-ebook/dp/B01N2T9HTU/)
 
-### Dr. Peter Brukner 
+#### Dr. Peter Brukner
 * [A Fat Lot of Good: How the Experts Got Food and Diet So Wrong and What You Can Do to Take Back Control of Your Health](https://www.amazon.com.au/Fat-Lot-Good-Experts-Control-ebook/dp/B0793KX1BK)
 
-### Ivor Cummins & Dr. Jeffry Gerber
+#### Ivor Cummins & Dr. Jeffry Gerber
 * [Eat Rich, Live Long: Mastering the Low-Carb & Keto Spectrum for Weight Loss and Longevity Paperback – February 27, 2018 by Ivor Cummins,‎ Dr. Jeffry Gerber](https://www.amazon.com/Eat-Rich-Live-Long-Mastering/dp/1628602732)
 
 * [Technical Manager, Engineer, Complex Problem Solving Specialist, #LCHF, #Paleo, #Biochemistry, #Nutrition](https://twitter.com/FatEmperor)
 
-### Verner Wheelock
+#### Verner Wheelock
 * [Healthy Eating: The Big Mistake: How modern medicine has got it wrong about diabetes, cholesterol, cancer, Alzheimer’s and obesity by Dr Verner Wheelock (releases 1/13/2018)](https://www.amazon.com/Healthy-Eating-medicine-cholesterol-Alzheimers-ebook/dp/B078SCDMXF/)
 
-### Dr. Ken D Berry MD
+#### Dr. Ken D Berry MD
 * [Lies My Doctor Told Me: Medical Myths That Can Harm Your Health by Ken D Berry MD](https://www.amazon.com/Lies-My-Doctor-Told-Me-ebook/dp/B077H3RPLV/)
 
-### Dr. Ranjan Chatterjee
+#### Dr. Ranjan Chatterjee
 * [The 4 Pillar Plan: How to Relax, Eat, Move and Sleep Your Way to a Longer, Healthier Life by Dr Rangan Chatterjee (2017, 230 reviews, 4.8 stars)](https://www.amazon.co.uk/Pillar-Plan-Relax-Longer-Healthier/dp/0241303559)
 
-### Maria and Craig Emmerich
+#### Maria and Craig Emmerich
 * [Keto: The Complete Guide to Success on The Ketogenic Diet, including Simplified Science and No-cook Meal Plans by Maria Emmerich (Jan 2018, 148 reviews, 5.0 stars)](https://www.amazon.com/keto-complete-ketogenic-including-simplified/dp/1628602821/)
 
-### Dr. Ben Lynch
+#### Dr. Ben Lynch
 * [Dirty Genes: A Breakthrough Program to Treat the Root Cause of Illness and Optimize Your Health by Dr. Ben Lynch](https://www.amazon.com/Dirty-Genes-Breakthrough-Program-Optimize-ebook/dp/B072L4DSDC/)
 
-### Max Lugavere
+#### Max Lugavere
 * [Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life by Max Lugavere](https://www.amazon.com/Genius-Foods-Smarter-Productive-Protecting/dp/0062562851/)
 
-### Karen Thomson
+#### Karen Thomson
 * [Sugar Free: 8 weeks to Freedom from Sugar and Carb Addiction (2018, 4.8 stars, 26 reviews)](https://www.amazon.com/Sugar-Free-weeks-Freedom-Addiction-ebook/dp/B00TCZLCBA)
 
-### Dr. Joseph Mercola
+#### Dr. Joseph Mercola
 * [Fat for Fuel: A Revolutionary Diet to Combat Cancer, Boost Brain Power, and Increase Your Energy by Joseph Mercola](https://www.amazon.com/Fat-Fuel-Revolutionary-Combat-Increase-ebook/dp/B06W2KVK1P/)
 
-### Nora Gedgaudas
+#### Nora Gedgaudas
 * [Primal Fat Burner: Live Longer, Slow Aging, Super-Power Your Brain, and Save Your Life with a High-Fat, Low-Carb Paleo Dietby Nora Gedgaudas](https://www.amazon.com/Primal-Fat-Burner-Super-Power-High-Fat-ebook/dp/B017RNBSK8)
 
-### Christian Vlad Zot
+#### Christian Vlad Zot
 * [Persistent Fat Loss: Combining Ketosis and Intermittent Fasting for Year-Round Fitness](https://www.amazon.com/Persistent-Fat-Loss-Intermittent-Year-Round-ebook/dp/B017Y3W8XC/)
 
-### Konstantin Monastyrsky
+#### Konstantin Monastyrsky
 
 * [Fiber Menace](https://www.gutsense.org/author/about-konstantin-monastyrsky.html)
 
@@ -259,10 +271,10 @@ His arguments against statins make you realize how the drug companies lie for pr
 
 * *[Youtube: Fiber Menace: Part I (watch the series)](https://www.youtube.com/watch?v=Iz53dawDtJ8)*
 
-### David Gillespie
+#### David Gillespie
 * [Toxic Oil](https://www.amazon.com/Toxic-Oil-David-Gillespie-ebook/dp/B00BHQ7MSE)
 
-## ZeroCarb & Carnivore Books
+### ZeroCarb & Carnivore Books
 
 * **[The Fat of the Land by Vilhjalmur Stefansson (1956, 7 reviews, 4.5 stars)] (https://www.amazon.com/Fat-Land-Vilhjalmur-Stefansson-ebook/dp/B01M6A2WTF)**
 
@@ -298,22 +310,22 @@ His arguments against statins make you realize how the drug companies lie for pr
 
 * [The Plant Paradox: The Hidden Dangers in "Healthy" Foods That Cause Disease and Weight Gain by Dr. Steven R Gundry M.D.](https://www.amazon.com/Plant-Paradox-Dangers-Healthy-Disease/dp/006242713X/)
 
-### Dr. Shawn Baker - 100% Carnivore/ Meat Only Diet - Zerocarb
+#### Dr. Shawn Baker - 100% Carnivore/ Meat Only Diet - Zerocarb
 * *[Joe Rogan Experience #1050 - Dr. Shawn Baker](https://www.youtube.com/watch?v=Yj_Bc9hdHa0)*
 
 * [Mindpump - Dr. Shawn Baker](http://mindpump.libsyn.com/712-dr-shawn-baker-carnivore-diet)
 
 * Zerocarb Post - https://www.reddit.com/r/zerocarb/comments/7i80um/important_note_shawn_baker_zerocarb_doctor/
 
-### Amber L O'Hearn
+#### Amber L O'Hearn
 * [The Ketogenic Diet for Health](http://www.ketotic.org/)
 
 * [Empiri.ca](http://www.empiri.ca/)
 
-### Dr. Georgia Ede M.D.
+#### Dr. Georgia Ede M.D.
 * [Diagnosis Diet](http://www.diagnosisdiet.com/)
 
-### Dr. Csaba Tóth & Dr. Zsófia Clemens
+#### Dr. Csaba Tóth & Dr. Zsófia Clemens
 * [PaleoMedicina Clinic ](https://www.paleomedicina.com/en)
 
 * [“Vitamin C and Disease: Insights from the Evolutionary Perspective” [PDF]](http://justmeat.co/docs/vitamin-c-from-evolutionary-perspective-zsofia-clemens-csaba-toth.pdf)
@@ -327,74 +339,74 @@ His arguments against statins make you realize how the drug companies lie for pr
 * [Lard or Coconut Oil?” by Dr. Csaba Tóth](https://www.slideshare.net/paleomedicina/lard-or-coconut-oil-62466384)
 * [Dr. Csaba Tóth Twitter](http://www.twitter.com/paleoketogenic)
 
-## Vegan / Vegetarianism
-### Lierre Keith
+### Vegan / Vegetarianism
+#### Lierre Keith
 * [The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith (2009, 360 reviews, 3.5 stars, 24% are 1 star)](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability-ebook/dp/B003PJ7JXY/)
 
-### Sheldon Frith
+#### Sheldon Frith
 * [Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration by Sheldon Frith (2016, 18 reviews, 4.4 stars)](https://www.amazon.com/Letter-Vegetarian-Nation-Sustainable-Environmental-ebook/dp/B01BK3HKNA)
 
-### John Nicholson
+#### John Nicholson
 * [The Meat Fix: How a lifetime of healthy eating nearly killed me! by John Nicholson](https://www.amazon.com/Meat-Fix-lifetime-healthy-eating-ebook/dp/B006YZ27LU/)
 
 * [Belinda Fettke - 'The Evolution of Plant-Based Dietary Guidelines'](https://www.youtube.com/watch?v=IlhL-WQ_X2Y)
 
-## Beef, Sustainability
-### Nicolette Hahn Niman
+### Beef, Sustainability
+#### Nicolette Hahn Niman
 * [Defending Beef: The Case for Sustainable Meat Production by Nicolette Hahn Niman (2014, 46 reviews, 4.5 stars)](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production-ebook/dp/B00OI2UNT4/)
 
-### Adam Danforth
+#### Adam Danforth
 * [Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth (2014, 61 reviews, 4.8 stars)](https://www.amazon.com/Butchering-Beef-Comprehensive-Photographic-Slaughtering/dp/1612121837)
 
-### Julius Ruechel
+#### Julius Ruechel
 * [Grass-Fed Cattle: How to Produce and Market Natural Beef by Julius Ruechel (2006, 91 reviews, 4.8 stars)](https://www.amazon.com/Grass-Fed-Cattle-Produce-Market-Natural/dp/1580176054)
 
-### Allan Savory
+#### Allan Savory
 * [Holistic Management: A Commonsense Revolution to Restore Our Environment by Allan Savory (2016, 9 reviews, 4.8 stars)](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/161091743X)
 
-### Heather Smith Thomas
+#### Heather Smith Thomas
 * [Storey's Guide to Raising Beef Cattle](https://www.amazon.com/Storeys-Guide-Raising-Beef-Cattle/dp/1603424547)
 
-## Classics
-### William Banting
+### Classics
+#### William Banting
 * **[The Banting Diet: Letter on Corpulence by William Banting (1864, 4 reviews, 4.2 stars)](https://www.amazon.com/Banting-Diet-Corpulence-Foreword-Commentary-ebook/dp/B00SL7GRFG/)**
 
-### John Yudkin
+#### John Yudkin
 * [Pure, White, and Deadly: How Sugar Is Killing Us and What We Can Do to Stop It by John Yudkin,‎ Robert H. Lustig (1972, 130 reviews, 4.6 stars)](https://www.amazon.com/Pure-White-Deadly-Sugar-Killing/dp/0143125184/)
 
-### Robert N Proctor - Cigarettes
+#### Robert N Proctor - Cigarettes
 * [Golden Holocaust: Origins of the Cigarette Catastrophe and the Case for Abolition by Robert N. Proctor (2012. 32 reviews, 4.4 stars)](https://www.amazon.com/Golden-Holocaust-Cigarette-Catastrophe-Abolition-ebook/dp/B007FD2RJM/)
 
-### Weston A. Price
+#### Weston A. Price
 * [Nutrition and Physical Degeneration by Weston A. Price (1939. 344 reviews, 4.7 stars) ](https://www.amazon.com/Nutrition-Physical-Degeneration-Weston-Price/dp/0916764206/) [Full Book - HTML](http://gutenberg.net.au/ebooks02/0200251h.html)
 
 * [Youtube: Weston A Price - Ancient Cultures, Vitamins A, D and E, Tooth Decay and Bone Development.](https://www.youtube.com/watch?v=5mYN7h7pgyc)
 
-### Robert Sapolsky
+#### Robert Sapolsky
 * [Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping by Robert M. Sapolsky (2004, 306 reviews, 4.5 stars)](https://www.amazon.com/dp/B0037NX018/)
 
-### Raymond Francis
+#### Raymond Francis
 * [Never Be Sick Again: Health Is a Choice, Learn How to Choose It by Raymond Francis (2002, 222 reviews, 4.6 stars ](https://www.amazon.com/Never-Be-Sick-Again-Health-ebook/dp/B0024CEYCW/)
 
-### James DiNicolantonio
+#### James DiNicolantonio
 * [The Salt Fix: Why the Experts Got It All Wrong--and How Eating More Might Save Your Life by James DiNicolantonio (2017, 66 reviews, 4.5 stars)](https://www.amazon.com/Salt-Fix-Experts-Wrong-Eating-ebook/dp/B01GBAJR9C/)
 
-### Dr. Catherine Shanahan
+#### Dr. Catherine Shanahan
 * [Deep Nutrition: Why Your Genes Need Traditional Food by Catherine Shanahan M.D. (2017, 424 reviews, 4.6 stars)](https://www.amazon.com/Deep-Nutrition-Your-Genes-Traditional/dp/1250113822/)
 
-### Dr. Elizabeth Blackburn
+#### Dr. Elizabeth Blackburn
 * [The Telomere Effect: A Revolutionary Approach to Living Younger, Healthier, Longer by Dr. Elizabeth Blackburn (2017, 193 reviews, 4.3 stars)] (https://www.amazon.com/Telomere-Effect-Revolutionary-Approach-Healthier-ebook/dp/B01F1UD66S/)
 
-### Dr. Lee Know
+#### Dr. Lee Know
 * [Mitochondria and the Future of Medicine: The Key to Understanding Disease, Chronic Illness, Aging, and Life Itself by Dr. Lee Know](https://www.amazon.com/Mitochondria-Future-Medicine-Understanding-Disease-ebook/dp/B079VSGNNS/)
 
 * [The Saccharine Disease: Conditions caused by the Taking of Refined Carbohydrates, such as Sugar and White Flour by T. L. Cleave](http://journeytoforever.org/farm_library/Cleave/cleave_toc.html)
 
-### Dr. Richard Jacoby
+#### Dr. Richard Jacoby
 * [Sugar Crush: How to Reduce Inflammation, Reverse Nerve Damage, and Reclaim Good Health by Dr. Richard Jacoby, Raquel Baldelomar](https://www.amazon.com/Sugar-Crush-Inflammation-Reverse-Reclaim-ebook/dp/B00KPVB4OA/)
 
-## Cancer
-### Dr. Thomas Seyfried
+### Cancer
+#### Dr. Thomas Seyfried
 * [Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer by Thomas Seyfried (2010, 90 reviews, 4.3 stars)](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920)
 
 >An extremely dense, but still somewhat accessible book about the nutrition side of cancer. The author builds on the Warburg effect and argues that cancer is not primarily caused by mutations, but by a reversal of the cell's energy production to a more primitive state. This state uses glucose and certain proteins to produce energy via fermentation instead of oxygen.
@@ -403,82 +415,82 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 
 * [Ketoscience AMA with Professor Thomas Seyfried about Cancer](https://www.reddit.com/r/ketoscience/comments/8szcl0/ama_with_professor_thomas_seyfried/)
 
-### Dr. Travis Christofferson
+#### Dr. Travis Christofferson
 * [Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms by Travis Christofferson, Dominic D'Agostino (2017, 332 reviews, 4.8 stars)](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched-ebook/dp/B01N25FPY9/)
 
-### Miriam Kalamian
+#### Miriam Kalamian
 * [Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy by Miriam Kalamian (2017, 18 reviews, 5 stars)](https://www.amazon.com/Keto-Cancer-Ketogenic-Metabolic-Nutritional-ebook/dp/B076KDY8FR/)
 
-### Dr. Nasha Winters ND FABNO L.Ac Dipl.OM
+#### Dr. Nasha Winters ND FABNO L.Ac Dipl.OM
 * [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio-Individualized Therapies](https://www.amazon.com/Metabolic-Approach-Cancer-Integrating-Bio-Individualized/dp/1603586865/)
 
-## Alzheimer's
-### Amy Berger  
+### Alzheimer's
+#### Amy Berger  
 * [Amy Berger - Alzheimer's Researcher](http://www.tuitnutrition.com/p/about-tuit-nutrition.html) ::: [@TuitNutrition](https://twitter.com/TuitNutrition)##
 
 * [The Alzheimer's Antidote: Using a Low-Carb, High-Fat Diet to Fight Alzheimer’s Disease, Memory Loss, and Cognitive Decline by Amy Berger, Perlmutter MD(2017, 57 reviews, 4.7 stars)](https://www.amazon.com/Alzheimers-Antidote-Low-Carb-High-Fat-Cognitive-ebook/dp/B06XTXLP2N/)
 
 * [YT: How Ketosis Can Prevent Alzheimer’s Disease w/ Amy Berger](https://youtu.be/yT5rjwJr354)
 
-### Dr. Dale Bredesen
+#### Dr. Dale Bredesen
 * [The End of Alzheimer's: The First Program to Prevent and Reverse Cognitive Decline by Dale Bredesen](https://www.amazon.com/End-Alzheimers-Program-Prevent-Cognitive-ebook/dp/B01M28ROCU/)
 
-### Dr. Angela Stanton
+#### Dr. Angela Stanton
 * [Fighting The Migraine Epidemic: Complete Guide: How To Treat & Prevent Migraines Without Medications by Angela A Stanton PhD (2017, 24 reviews, 4.8 stars)](https://www.amazon.com/Fighting-Migraine-Epidemic-Migraines-Medications-ebook/dp/B076BZG2V3/)
 
-### Dr. Steven Lin
+#### Dr. Steven Lin
 * [The Dental Diet: The Surprising Link between Your Teeth, Real Food, and Life-Changing Natural Health by Steven Lin](https://www.amazon.com/Dental-Diet-Surprising-between-Life-Changing/dp/1401953174)
 
 * [Principles of Medical Biochemistry by Gerhard Meisenberg (2016, 1 review, 5 stars)](https://www.amazon.com/Principles-Medical-Biochemistry-Gerhard-Meisenberg-ebook/dp/B01K4UKI0W/)
 
-### Dr. Vinayak Prasad
+#### Dr. Vinayak Prasad
 * [Ending Medical Reversal: Improving Outcomes, Saving Lives by Vinayak K. Prasad MD MPH(2015, 65 reviews, 4.5 stars)](https://www.amazon.com/Ending-Medical-Reversal-Improving-Outcomes/dp/1421417723)
 
-### Ben Goldacre
+#### Ben Goldacre
 * [Bad Science: Quacks, hacks and big pharma flacks by Ben Goldacre](https://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks/dp/0865479186)
 
 > Ben Goldacre has made a point of exposing quack doctors and nutritionists, bogus credentialing programs, and biased scientific studies. He has also taken the media to task for its willingness to throw facts and proof out the window.
 
-# Paleo
-### Robb Wolf
+## Paleo
+#### Robb Wolf
 * [The Paleo Solution: The Original Human Diet by Robb Wolf](https://www.amazon.com/Paleo-Solution-Original-Human-Diet-ebook/dp/B00466H5MU/)
 
 * [Wired to Eat: Turn Off Cravings, Rewire Your Appetite for Weight Loss, and Determine the Foods That Work for You](https://www.amazon.com/Wired-Eat-Cravings-Appetite-Determine-ebook/dp/B01GYPQR3S/)
 
-### Dr. Loren Cordain
+#### Dr. Loren Cordain
 * [The Paleo Diet Revised: Lose Weight and Get Healthy by Eating the Foods You Were Designed to Eat by Loren Cordain](https://www.amazon.com/Paleo-Diet-Revised-Healthy-Designed-ebook/dp/B00BKRON5K/)
 
-### Dr. Barry Groves
+#### Dr. Barry Groves
 * [Natural Health & Weight Loss](https://www.amazon.com/Natural-Health-Weight-Barry-Groves/dp/1905140150/)
 
 * [Trick And Treat - how 'healthy eating' is making us ill](https://www.amazon.com/Trick-And-Treat-healthy-eating/dp/1950140229/)
 
 * [The High Pro Low Carb Diet: Eat as Much as You Like and Still Lose Weight](https://www.amazon.com/The-High-Pro-Carb-Diet/dp/0091825938/)
 
-### John Chatham
+#### John Chatham
 * [Paleo for Beginners: Essentials to Get Started by John Chatham](https://www.amazon.com/Paleo-Beginners-Essentials-Get-Started-ebook/dp/B009GULWLG)
 
-### John Durant
+#### John Durant
 * [The Paleo Manifesto: Ancient Wisdom for Lifelong Health by John Durant](https://www.amazon.com/Paleo-Manifesto-Ancient-Wisdom-Lifelong-ebook/dp/B0083DJU7A/)
 
-### Dr. Chris Kresser
+#### Dr. Chris Kresser
 * [Unconventional Medicine: Join the Revolution to Reinvent Healthcare, Reverse Chronic Disease, and Create a Practice You Love by Chris Kresser](https://www.amazon.com/Unconventional-Medicine-Revolution-Reinvent-Healthcare-ebook/dp/B07666LR6X/)
 
 * [The Paleo Cure: Eat Right for Your Genes, Body Type, and Personal Health Needs -- Prevent and Reverse Disease, Lose Weight Effortlessly, and Look and Feel Better than Ever by Chris Kresser](https://www.amazon.com/Paleo-Cure-Personal-Prevent-Effortlessly/dp/031632292X/)
 
-### Grant Petersen
+#### Grant Petersen
 * [Eat Bacon, Don't Jog: Get Strong. Get Lean. No Bullshit](https://www.amazon.com/Eat-Bacon-Dont-Jog-Bullshit-ebook/dp/B00KLDEKZC/)
 
-### Dr. Jack Kruse
+#### Dr. Jack Kruse
 * [Epi-paleo Rx: The Prescription for Disease Reversal and Optimal Health](https://www.amazon.com/Epi-paleo-Rx-Prescription-Disease-Reversal-ebook/dp/B00BIUAZUQ/)
 
-### Suzana Herculano-Houzel
+#### Suzana Herculano-Houzel
 * [The Human Advantage: How Our Brains Became Remarkable](https://www.amazon.com/Human-Advantage-Brains-Became-Remarkable/dp/0262533537)
 
-### Dr. Richard Wrangham
+#### Dr. Richard Wrangham
 * [Catching Fire: How Cooking Made Us Human](https://www.amazon.com/Catching-Fire-Cooking-Made-Human/dp/0465020410/)
 
-# Movies and Documentaries Worth Seeing
+## Movies and Documentaries Worth Seeing
 
 * [The Magic Pill (2018) - Vimeo, NETFLIX](https://vimeo.com/ondemand/themagicpill/247210200) - Big comment [thread about TheMagicPill](https://www.reddit.com/r/ketoscience/comments/8erfq6/the_magic_pill_a_new_documentary_about_the/)
  I cannot recommend this movie enough! Watch it with your family to understand keto science!! Buy it and have it to stream anywhere! -/u/dem0n0cracy
@@ -490,7 +502,7 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 * ["You must be nuts!" Great overview using previous clips - ties into dementia](https://www.youtube.com/watch?v=0QrrBX-6gp0)
 
 * [That Sugar Film - Damon Gameau](https://www.amazon.com/That-Sugar-Film-Damon-Gameau/dp/B0132TVFL8)
->A healthy guy switches his food to 'healthy' 'low-fat' options and gains weight and becomes sick. Eye opening. 
+>A healthy guy switches his food to 'healthy' 'low-fat' options and gains weight and becomes sick. Eye opening.
 
 * [Sugar Documentary that Hits the Sweet Spot](https://www.youtube.com/watch?v=0k_iZ5HaQwA)
 
@@ -518,7 +530,7 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 #YouTube Channels to Subscribe to:
 
 * [Low Carb Down Under](https://www.youtube.com/channel/UCcTTiHZtNpiqD2EubIO5HFw)
->Easily number one - watch everything here to get caught up fast. 
+>Easily number one - watch everything here to get caught up fast.
 
 * [Physicians for Ancestral Health](https://www.youtube.com/channel/UCijY61FN3AtDWSbrRj9nYqA)
 
@@ -544,12 +556,12 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 
 * [Chris Masterjohn PhD](https://www.youtube.com/channel/UCSJJM-c27d_DiuaqcZAOMUg)
 
-## List of Studies
+### List of Studies
 * [Dr. Sarah Hallberg's List of Studies](https://t.co/oEvEC9tJTf)
 
 * [/u/FrigoCoder 'Scrolls and tomes against the Indoctrinated'](https://www.reddit.com/r/keto/comments/328bpa/scrolls_and_tomes_against_the_indoctrinated/)
 
-## Anti-Keto/Contrarian Viewpoints
+### Anti-Keto/Contrarian Viewpoints
 
 * [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease by Michael Greger M.D. (2015, 2,541 reviews, 4.7 stars)](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115) - [One Star Reviews](https://www.amazon.com/How-Not-Die-Discover-Scientifically/product-reviews/1250066115/ref=cm_cr_dp_d_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar) - [Critical Review](https://deniseminger.com/2017/05/22/critical-review-of-michael-gregers-how-not-to-die/)
 
@@ -571,13 +583,13 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 
 * What the Health on Netflix - [Debunked - Robb Wolf](https://robbwolf.com/2017/07/03/what-the-health-a-wolfs-eye-review/)
 
-### Ignatius Brady
+#### Ignatius Brady
 * [What Is Fat For?: Re-Thinking Obesity Science](https://www.amazon.com/What-Fat-Re-Thinking-Obesity-Science-ebook/dp/B0190W3O7Y/)
 >Alright, this is not a "pro-keto" book, so I guess it can't be on the list. But I heard about if from Michael Eades's [review on his blog](https://proteinpower.com/drmike/september-2017-reading-recommendations/). The author Brady, like Eades before he retired, has a medical practice specializing in weight loss. Patients don't visit him until they've failed to lose weight repeatedly on their own. He keeps up with the science but he also knows that, no matter what the science says, if patients can't comply with a regimen, it's not very good. He has read Good Calories, Bad Calories and takes it seriously. He agrees that keto outperforms low fat but he ultimately rejects it because he has found that it creates too many noncompliance problems. This book turned me on to the [Protein Leverage Hypothesis](http://www.science20.com/deconstructing_obesity/the_protein_leverage_hypothesis-156539), which blew my mind because of its scope and explanatory power. -/u/ZooGarten
 
 
 
-### Keto Recipes, Cooking
+#### Keto Recipes, Cooking
 * [The 30-Day Ketogenic Cleanse: Reset Your Metabolism with 160 Tasty Whole-Food Recipes & Meal Plans
 by Maria Emmerich (2016, 555 reviews, 4.6 stars)](https://www.amazon.com/30-Day-Ketogenic-Cleanse-Metabolism-Whole-Food-ebook/dp/B01NAGAMI4/)
 
@@ -593,7 +605,7 @@ http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/
 We have multiple doctors not only suggesting that people try a carnivorous zerocarb diet, but are even doing it themselves and realizing they too have been conned by the health and nutrition establishment.
 
 
-# Doctors
+## Doctors
 Supporting evidence that the following doctors recommend Carnivore Diet or close to it. [Evidence 1](https://www.reddit.com/user/dem0n0cracy/comments/addz0l/doctors_discuss_the_carnivore_diet/)
 [Evidence 2](https://www.reddit.com/user/dem0n0cracy/comments/ade16i/more_doctors_pharmacists_researchers_phds/)
 
@@ -631,7 +643,7 @@ Supporting evidence that the following doctors recommend Carnivore Diet or close
 * Ph.D candidate Miki Ben-Dor https://twitter.com/bendormiki
 
 
-## Facebook Groups
+### Facebook Groups
 
 * [World Carnivore Tribe started by Dr. Shawn Baker](https://www.facebook.com/groups/worldcarnivoretribe/)
 * [Zeroing In On Health started by Charles Washington 8 years ago](https://www.facebook.com/groups/zioh2/)
@@ -649,7 +661,7 @@ Supporting evidence that the following doctors recommend Carnivore Diet or close
 * [Zero Carb: Living the Good Life](https://www.facebook.com/groups/661617567520427/)
 
 
-## Images
+### Images
 
 * [The Carnivore Diet for Mankind - HD - Star - Emoji Advice of what to eat / drink, Polls, Podcasts, Books - Zoom in to see the small text in this HD photo](https://i.redd.it/qftzcf3if4k11.png)
 * [Homo Carnivorus - Part 1 ](https://i.redd.it/xnmqrewisd221.png)
@@ -673,10 +685,10 @@ Supporting evidence that the following doctors recommend Carnivore Diet or close
 * http://highsteaks.com/f/index.php/board,5.0/sort,views/desc.html - Tons of old forum posts about various topics!
 * http://mikhailapeterson.com/ - Don't Eat That! Blog
 
-## A history of Nutrition Science
+### A history of Nutrition Science
 
 * [Part 1 (1785-1885)](http://jn.nutrition.org/content/133/3/638.abstract)
-* [Part 2 (1885-1912)](http://jn.nutrition.org/content/133/4/975.full) 
+* [Part 2 (1885-1912)](http://jn.nutrition.org/content/133/4/975.full)
 * [Part 3 (1912-1944)](http://jn.nutrition.org/content/133/10/3023.full)
 * [Part 4 (1945-1985)](http://jn.nutrition.org/content/133/11/3331.full)
 
@@ -721,7 +733,7 @@ New Books!
 - - The Carnivore Diet: Eat Meat To Quickly Lose Fat, Lean Out and Cleanse Your Body by Michael D Kaiser
 - - Carnivore Diet: How To Lose Weight And Get Lean Eating Meat by Amanda Kane
 
-## YouTube Channels
+### YouTube Channels
 * [Frank Tufano](https://www.youtube.com/channel/UCIEiE-hnAUXUZNNeMJsZBYA/videos)
 * [Shawn Baker ](https://www.youtube.com/channel/UC5apkKkeZQXRSDbqSalG8CQ/videos)
 * [Low Carb Down Under](https://www.youtube.com/user/lowcarbdownunder/videos)
@@ -757,7 +769,7 @@ New Books!
 * [HVMN ](https://hvmn.com/podcast/)
 
 
-## Podcasts
+### Podcasts
 
 * [Carnivore Cast](http://www.carnivorecast.com/)
 * [Human Performance Outliers (Dr. Shawn Baker and Zach Bitter)](http://humanperformanceoutliers.libsyn.com/)
@@ -774,12 +786,12 @@ New Books!
 * [InnerFirePodcast](https://itunes.apple.com/us/podcast/innerfirepodcast/id1249685753)
 * [STEM-Talk](https://www.ihmc.us/stemtalks/)
 
-## Crowd Funded Science
+### Crowd Funded Science
 
 * Get a $169 TeloMere kit and do the Carnivore Diet strictly for 3 months and then send in results(or don't)! https://www.ajconsultingcompany.com/carnivoredietstudy.html
 * nequalsmany.com Free tracking app designed for Carnivore Diet [track-well](https://www.track-well.com)
 
-## In the News!
+### In the News!
 
 * ABC News Good Morning America : What to know about the trendy, meat-only 'carnivory' diet By ABC NEWS Jul 27, 2018, 8:51 AM ETSFChronicle - Tech workers seeking an edge on peers turn to all-meat ‘carnivore diet’
 * INC: Steak Is the New Salad: Why These Techies Are Embracing an All-Meat Diet Your Coinbase account should be accompanied by steak and bacon, according to these cryptocurrency luminaries. Sept 22, 2017
@@ -801,7 +813,7 @@ New Books!
 * I'm a Registered Dietitian and I Really Don't Want You to Eat a Carnivore Diet August 7th, 2018
 
 
-## Subreddits
+### Subreddits
 
 **Must Subscribe**
 
@@ -828,7 +840,7 @@ New Books!
 * [r/lowcarb](https://www.reddit.com/r/lowcarb)
 
 
-## Upcoming Conferences
+### Upcoming Conferences
 * [Physicians for Ancestral Health (PAH) - Scottsdale, AZ January 24, 2019](https://youtu.be/HH47HyAARiQ?t=2260)
 * [Low Carb and Healthy Living Expo 2019 - South Carolina January 26, 2019 1 Exposition Dr, Greenville, SC 29607, USA](https://www.evensi.us/carb-healthy-living-expo-1-exposition-dr-greenville-south-carolina-29607/260504179)
 * [Metabolic Health SummitJanuary 31, 2019111 E Ocean Blvd, Long Beach, CA 90802, USA](https://www.lowcarbevents.com/event/metabolic-health-summit/)
