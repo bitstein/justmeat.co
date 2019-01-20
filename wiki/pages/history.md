@@ -32,6 +32,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1929** - [“The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet - Based on Intensive Clinical and Labratory Studies on Two Arctic Explorers living under Average Conditions in a New York Climate”](/docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb. M.D.
 
+* **1953** - [_Treatment of OBESITY with Calorically UNRESTRICTED DIETS_](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
+
+    > "Restriction of carbohydrate, alone, appears to make possible the treatment of obesity on a calorically unrestricted diet composed chiefly of protein and fat. The limiting factor on appetite, necessary to any treatment of obesity, appears to be provided by increased mobilization and utilization of fat, in conjunction with the homeostatic forces which normally regulate the appetite. Ketogensis appears to be a key factor in the increased utilization of fat. Treatment of obesity by this method appears to avoid the decline in the metabolism encountered in treatment by caloric restriction. Details of diet and regimen are given."
+    
 * **1956** - [_The Fat of the Land_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
@@ -40,7 +44,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
     > "From what I have observed, a half pound of meat per meal is the minimum quantity needed to maintain the work of repair of body cells."
     > "Oh, there were dozens of questions I wanted to discuss with Stefannsson, so Fred Taylor brought him out to my home on Long Island. Some steamed clams and a good steak loosened him up, and we sat around a beach fire and talked for hours. He proved to be a mine of information. As I remember his conversation, it went something like this..."
 
-* **1963** - [“The Diet of the Mountain Men”](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
+* **1963** - [_The Diet of the Mountain Men_](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
 
     > "The trapper's diet, in particular, mirrored the Indian way of life. Both the mountain men and Indians had to live off the land. Their diet was largely meat, especially the flesh of the bison. Elk was probably second in consumption for most of the trappers. Less frequently, the mountain men ate deer, bear, antelope, horses, dogs, beaver, and other small game."
 
