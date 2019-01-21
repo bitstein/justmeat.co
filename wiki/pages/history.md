@@ -34,7 +34,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
-    Later expanded and revised as _The Fat of the Land_ (1956).
+    > Later expanded and revised as _The Fat of the Land_ (1956).
 
 * **1953** - [“Treatment of OBESITY with Calorically UNRESTRICTED DIETS”](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
 
@@ -42,9 +42,11 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1956** - [_The Fat of the Land_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
-    Expanded and revised edition of _Not By Bread Alone_ (1946).
+    > Expanded and revised edition of _Not By Bread Alone_ (1946).
 
 * **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
+
+* **1958** - [_How to Prevent Heart Attacks_]() by Benjamin P. Sandler M.D.
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
@@ -52,7 +54,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
     > "From what I have observed, a half pound of meat per meal is the minimum quantity needed to maintain the work of repair of body cells."
     > "Oh, there were dozens of questions I wanted to discuss with Stefannsson, so Fred Taylor brought him out to my home on Long Island. Some steamed clams and a good steak loosened him up, and we sat around a beach fire and talked for hours. He proved to be a mine of information. As I remember his conversation, it went something like this..."
 
-* **1963** - [“ß”](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
+* **1963** - [_The Diet of the Mountain Men_](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
 
     > "The trapper's diet, in particular, mirrored the Indian way of life. Both the mountain men and Indians had to live off the land. Their diet was largely meat, especially the flesh of the bison. Elk was probably second in consumption for most of the trappers. Less frequently, the mountain men ate deer, bear, antelope, horses, dogs, beaver, and other small game."
 
@@ -63,6 +65,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 * **1964** - [_The Drinking Man’s Diet_](https://timeline.com/drinking-mans-diet-carbs-82a38400bfff) by Robert Cameron ([50th Anniversary Ed.](http://cameronbooks.com/product/the-drinking-mans-diet-50th-anniversary-edition/))
 
     > "What was his secret? Meat and booze, simply put. Cameron reported his findings to the world in his self-published 1962 book, The Drinking Man’s Diet. It quickly became one of the most popular diets in the country, selling 2.4 million copies in 13 languages. Cameron had initiated a “carbo-craze” by suggesting that weight watchers count carbs not calories. When Atkins released Diet Revolution nine years later, Cameron responded, “Revolution? My foot!” He had been proselytizing against carbs for a decade already."
+
+* **1972** - [_Pure, White, and Deadly_](https://www.amazon.com/Pure-White-Deadly-John-Yudkin/dp/0241965284) by Dr. John Yudkin
+
+    > "John Yudkin was one of the first to point out the dangers of sugar when he published the original edition of _Pure, White, and Deadly_ in 1972. Now, in this extensively rewritten and expanded edition, he reveals the new evidence about the dangers of sugar and its drastic consquences for our health. In everyday language Professor Yudkin explains how sugar consumption is linked to diabetes, heart and liver disease, dental caries and other conditions. He pays particular attention to its effects on young children and shows how they, like everyone else, can benefit from reduced sugar intake. He also examines the role of the sugar industry, which has made strenous efforts to dismiss the case against sugar."
 
 * **1975** - [_The Stone Age Diet_](/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
