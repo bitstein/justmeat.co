@@ -29,6 +29,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._](/docs/On%20The%20Relations%20which%20Dental%20Caries%20May%20Be%20Supposed%20to%20Hold%20to%20Their%20Food%20and%20Social%20Condition.pdf) by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
 
+* **1874** - ["Lectures on the Pathology and Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2293828/pdf/brmedj05132-0001.pdf) by T. Lauder Brunton, M.D., D.Sc.Edin., M.R.C.P.Lond
+
+    > "The patient must be supplied with a diet consisting of nitrogenous food, such as butcher-meat, fish, eggs, and soups. Fat (which does not contribute in the least to the formation of sugar) may be given in all its forms, such as cream, butter, cheese, and oil. Spinach, lettuce, and cresses may be freely used, but celery and radishes only sparingly; while potatoes, carrots, parsnips, turnips, peas, French beans, cabbage, Brussels sprouts, cauliflower, brocoli, asparagus, seakale, and fruit of all kinds, both fresh and preserved, should be avoided, with the exception of nuts and almonds."
+
 * **1887** - [_An Introduction to the Study of the Influence of Diet in the Production and Treatment of Skin Diseases_](/docs/An%20Introduction%20to%20the%20Study%20of%20the%20Influence%20of%20Diet%20in%20the%20Production%20and%20Treatment%20of%20Skin%20Diseases.pdf) by James C. White, M.D. - Professor of Dermatology, Harvard University
 
 * **1888** - [_The Relation of Alimentation and Disease_](/docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, A.M., M.D., LL. D.
@@ -43,6 +47,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The
 method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
+
+* **1921** - ["The Use of a High Fat Diet in the Treatment of Diabetes Mellitus - Second Paper: Blood Sugar"](docs/newburgh1921.pdf) by L.H. Newburgh, M.D., and Phil L. Marsh, M.D. - Ann Arbor, Michigan
+
+    > "We reported briefly the results of an investigation of the effect of a diet whose energy came largely from fat, to which was added sufficient protein to maintain nitrogen balance and the minimal carbohydrate necessitated in making up a diet that a human being can eat over a long period of time. It was shown that with such a diet, glycosuria was avoided in severe diabetics, and that acidosis was not produced. The twenty-eight cases contained in Table 1 show that a high fat diet such as we have used is capable of bringing the blood sugar down to normal and keeping it at that level during the period of observation."
     
 * **1929** - [“Prolonged Meat Diets with a Study of Kidney Function and Ketosis”](/docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois
 
@@ -101,3 +109,5 @@ method which I have found most successful has been to allow, following the first
 ## 2000s
 
 * **2008** - [_Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains_](/docs/imagining-head-smashed-in-jack-w-brink.pdf)
+
+* **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
