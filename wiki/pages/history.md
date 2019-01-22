@@ -8,6 +8,17 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 * TOC
 {:toc}
 
+## 1700s
+
+* **1797** - [_An account of two cases of the diabetes mellitus_](https://archive.org/details/b21469179_0002/page/26) by Dr. John Rollo of Woolrich
+
+    > "It was agreed to try the effects of animal food. He is directed to abstain from vegetable food in every shape. To have two eggs for breakfast. Boiled meat and steaks alternately for dinner. Eggs, or cheese for supper. For drink eight pounds of weak beef tea, and two pounds of weak peppermint water. Solid ingested about two pounds. "
+
+
+* **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."]() by R. Redfearn M.D. of Lynn Regis, Norfolk
+
+    > "I therefore immediately suggested to him the propriety, and the absolute necessity, of abstaining ridigly from all fermented liquors and vegetables, with everything else that could impart oxygen to the system by the primae viae; and at the same time ordered that his diet should consist principally of **fat beef, pork,** and such ailments as were of a gross or unctuous quality, and most likely to produce hydrogen in the greatest abundance. After this patient had persevered in the above medicines and regiment during a fortnight only, he found his thirst by no means so excessive. The quantity of his urine was considerably diminished, and became also of a quality more urinous, and less sweet. His amendment continued to be progressive, without feeling any interruption, either from natural or adventitious causes; and he was completely free from every symtom of the disease in less than three months after the medicines were first administered. He never once deviated from the regimen prescribed. My patient has now continued perfectly well for more than eight months, and to my enquires, very lately, he declared, that he never enjoyed a better state of health, than he does at the moment."
+    
 ## 1800s
 
 * **1857** - [_An Argument on Behalf of the Primitive Diet of Man - Pro-Vegetarian_](/docs/An%20Argument%20on%20Behalf%20of%20the%20Primitive%20Diet%20of%20Man-Pro-Vegetarian.pdf) by Dr. Frederic R. Lees
@@ -28,9 +39,16 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 ## 1900s
 
+* **1916** - ["The Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1584654/pdf/canmedaj00331-0019.pdf) by Elliott P. Joslin, M.D. Boston, Massachusetts
+
+    > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The
+method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
+    
 * **1929** - [“Prolonged Meat Diets with a Study of Kidney Function and Ketosis”](/docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois
 
 * **1929** - [“The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet - Based on Intensive Clinical and Labratory Studies on Two Arctic Explorers living under Average Conditions in a New York Climate”](/docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb. M.D.
+
+* **1935** - [_Adventures in Diet_]() by Vilhjalmur Stefansson
 
 * **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
