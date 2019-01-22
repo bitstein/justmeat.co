@@ -15,7 +15,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
     > "It was agreed to try the effects of animal food. He is directed to abstain from vegetable food in every shape. To have two eggs for breakfast. Boiled meat and steaks alternately for dinner. Eggs, or cheese for supper. For drink eight pounds of weak beef tea, and two pounds of weak peppermint water. Solid ingested about two pounds. "
 
 
-* **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."]() by R. Redfearn M.D. of Lynn Regis, Norfolk
+* **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."](/docs/diabetesCase-1799-Redfearn.pdf) by R. Redfearn M.D. of Lynn Regis, Norfolk
 
     > "I therefore immediately suggested to him the propriety, and the absolute necessity, of abstaining ridigly from all fermented liquors and vegetables, with everything else that could impart oxygen to the system by the primae viae; and at the same time ordered that his diet should consist principally of **fat beef, pork,** and such ailments as were of a gross or unctuous quality, and most likely to produce hydrogen in the greatest abundance. After this patient had persevered in the above medicines and regiment during a fortnight only, he found his thirst by no means so excessive. The quantity of his urine was considerably diminished, and became also of a quality more urinous, and less sweet. His amendment continued to be progressive, without feeling any interruption, either from natural or adventitious causes; and he was completely free from every symtom of the disease in less than three months after the medicines were first administered. He never once deviated from the regimen prescribed. My patient has now continued perfectly well for more than eight months, and to my enquires, very lately, he declared, that he never enjoyed a better state of health, than he does at the moment."
 
@@ -72,7 +72,7 @@ method which I have found most successful has been to allow, following the first
 
 * **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
 
-* **1958** - [_How to Prevent Heart Attacks_]() by Benjamin P. Sandler M.D.
+* **1958** - [_How to Prevent Heart Attacks_](/docs/How_to_Prevent_Heart_Attacks_BEN_SANDLER_MD_1958.pdf) by Benjamin P. Sandler M.D.
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
@@ -110,4 +110,4 @@ method which I have found most successful has been to allow, following the first
 
 * **2008** - [_Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains_](/docs/imagining-head-smashed-in-jack-w-brink.pdf)
 
-* **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
+* **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/the-early-history-of-the-highfat-diet-for-diabetes-Henderson-2016.pdf) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
