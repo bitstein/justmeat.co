@@ -18,7 +18,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 * **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."]() by R. Redfearn M.D. of Lynn Regis, Norfolk
 
     > "I therefore immediately suggested to him the propriety, and the absolute necessity, of abstaining ridigly from all fermented liquors and vegetables, with everything else that could impart oxygen to the system by the primae viae; and at the same time ordered that his diet should consist principally of **fat beef, pork,** and such ailments as were of a gross or unctuous quality, and most likely to produce hydrogen in the greatest abundance. After this patient had persevered in the above medicines and regiment during a fortnight only, he found his thirst by no means so excessive. The quantity of his urine was considerably diminished, and became also of a quality more urinous, and less sweet. His amendment continued to be progressive, without feeling any interruption, either from natural or adventitious causes; and he was completely free from every symtom of the disease in less than three months after the medicines were first administered. He never once deviated from the regimen prescribed. My patient has now continued perfectly well for more than eight months, and to my enquires, very lately, he declared, that he never enjoyed a better state of health, than he does at the moment."
-    
+
 ## 1800s
 
 * **1857** - [_An Argument on Behalf of the Primitive Diet of Man - Pro-Vegetarian_](/docs/An%20Argument%20on%20Behalf%20of%20the%20Primitive%20Diet%20of%20Man-Pro-Vegetarian.pdf) by Dr. Frederic R. Lees
@@ -51,12 +51,12 @@ method which I have found most successful has been to allow, following the first
 * **1921** - ["The Use of a High Fat Diet in the Treatment of Diabetes Mellitus - Second Paper: Blood Sugar"](docs/newburgh1921.pdf) by L.H. Newburgh, M.D., and Phil L. Marsh, M.D. - Ann Arbor, Michigan
 
     > "We reported briefly the results of an investigation of the effect of a diet whose energy came largely from fat, to which was added sufficient protein to maintain nitrogen balance and the minimal carbohydrate necessitated in making up a diet that a human being can eat over a long period of time. It was shown that with such a diet, glycosuria was avoided in severe diabetics, and that acidosis was not produced. The twenty-eight cases contained in Table 1 show that a high fat diet such as we have used is capable of bringing the blood sugar down to normal and keeping it at that level during the period of observation."
-    
+
 * **1929** - [“Prolonged Meat Diets with a Study of Kidney Function and Ketosis”](/docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois
 
 * **1929** - [“The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet - Based on Intensive Clinical and Labratory Studies on Two Arctic Explorers living under Average Conditions in a New York Climate”](/docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb. M.D.
 
-* **1935** - [_Adventures in Diet_]() by Vilhjalmur Stefansson
+* **1935** - [“Adventures in Diet”](http://www.drbass.com/stefansson2.html) by Vilhjalmur Stefansson
 
 * **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
