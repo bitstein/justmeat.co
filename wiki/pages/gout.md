@@ -3,19 +3,27 @@ title: Gout
 categories: wiki
 ---
 
-**What is Gout?**
+* TOC
+{:toc}
+
+## What is Gout?
 
 Gout refers to disease that occurs in response to the presence of monosodium urate (MSU) crystals in joints, bones, and soft tissues. Hyperuricemia (having high uric acid levels in the blood) is a necessary predisposing factor for gout. Uric acid then reacts with physiologic sodium to form MSU which can crystallise in painful places. Not everyone who has hyperuricemia goes on to develop gout - individual differences in the formation of crystals and/or in inflammatory responses to those crystals may play a role in whether a person with hyperuricemia will develop the disease.
 
 British physician Alfred Garrod, in the mid-19th century, identified uric acid as the causative agent; the idea being that uric acid accumulates in the circulation [and] crystallizes into needle-sharp urate crystals. These crystals then lodge in the soft tissues and in the joints of the extremities –- classically, the big toe — and cause inflammation, swelling and an excruciating pain that was described memorably by the 18th century bon vivant Sydney Smith as like walking on one’s eyeballs.
 
-### Ash Simmonds
-As usual the conventional wisdom is arse-about with cause/effect, gout etc isn't primarily caused by purine rich or high protein foods upping uric acid, it's the inability to effectively clear out uric acid which eventually form crystals in the joints and stones in the kidneys - which is from a feedback loop of inflammation, and usually there's a catalyst feature which induces it.
-If you are newish to low carb/keto and wondering about the dangers, then uric acid levels can rise substantially in the first 2-4 weeks, but they level out after 6-8 weeks. This is explained in the literature later in this thread, basically what happens is ketones compete for excretion with uric acid, but as you keto-adapt this is no longer a problem.
+## Ash Simmonds
+
+> As usual the conventional wisdom is arse-about with cause/effect, gout etc isn't primarily caused by purine rich or high protein foods upping uric acid, it's the inability to effectively clear out uric acid which eventually form crystals in the joints and stones in the kidneys - which is from a feedback loop of inflammation, and usually there's a catalyst feature which induces it.
+>
+> If you are newish to low carb/keto and wondering about the dangers, then uric acid levels can rise substantially in the first 2-4 weeks, but they level out after 6-8 weeks. This is explained in the literature later in this thread, basically what happens is ketones compete for excretion with uric acid, but as you keto-adapt this is no longer a problem.
 The worst thing you can do is go back and forth between keto/carbs whilst you are still adapting. Either stick to it religiously for at least 2 months and adapt properly, or don't bother and save yourself some possible flare-ups.
 
+- via [High Steaks](http://www.highsteaks.com/f/index.php?topic=111.0)
 
-### Gary Taubes
+
+## Gary Taubes
+
 Gout and the condition known technically as hyperuricemia, or elevated levels of uric acid, are the most recent examples of this kind of institutional neglect of the potential health effects of fructose, and how pervasive it can be.
 
 Gout itself is an interesting example because it is a disease that has gone out of fashion in the last century and yet the latest reports suggest it is not only as prevalent as ever, but becoming more so. Recent surveys suggest that nearly 6 percent of all American men in their fifties suffer from gout, and over ten percent in their seventies. The proportion of women afflicted is considerably less at younger ages but still rises over 3 percent by age 60.(1) Moreover, the prevalence of gout seems to have doubled over the last quarter century, coincident (perhaps not coincidentally) with the reported increase in obesity, and it may have increased five- or even six-fold since the 1950s, although a large portion of that increase may be due to the aging of the population.(2)
@@ -50,9 +58,11 @@ The addenda to this fructose-induced hyperuricemia story may be even more import
 
 This is another potentially harmful effect of fructose that post-dates the official reports exonerating sugar in the diet. And it is yet another mechanism by which sugar and high fructose corn syrup could be a particularly unhealthy combination. The glucose in these sugars would raise insulin levels, which in turn would raise blood pressure by inhibiting the kidney’s secretion of sodium and by stimulating the sympathetic nervous system, as we discussed in an earlier chapter, and the fructose would do it independently by raising uric acid levels and so damaging the kidney directly. If this were the case, which has never been tested, it would potentially explain the common association of gout and hypertension and even of diabetes and hypertension.(31) Johnson is only now looking into this possibility, however. Unlike Willett and his colleagues, Johnson had long been aware of the ability of fructose to raise uric acid levels, and so was studying that phenomenon in his laboratory. But it was only in the summer of 2004, he explained, three months after his NEJM editorial was published, that he realized that sucrose was half fructose and that his research of the past years was even relevant to sugar.(32)
 
-A decade later, Thomas Benedek described the epidemiology of gout in The Cambridge World History of Human Disease this way: “Worldwide the severity and prevalence of gout have changed paradoxically since the 1940s. In the highly developed countries, as a result of the advent of effective prophylactic drug therapy, the disease is now rarely disabling. Elsewhere, however, it has become more prevalent, predominantly as a result of `improved diets.’”
+A decade later, Thomas Benedek described the epidemiology of gout in The Cambridge World History of Human Disease this way: “Worldwide the severity and prevalence of gout have changed paradoxically since the 1940s. In the highly developed countries, as a result of the advent of effective prophylactic drug therapy, the disease is now rarely disabling. Elsewhere, however, it has become more prevalent, predominantly as a result of ‘improved diets.’”
 
 The economist and historian Ralph Davis estimates that the supply of sugar from the Caribbean into Britain rose from three or four thousand tons a year in the late fifteenth century to over two hundred thousand tons by the 1770s, or an increase of over fifty-fold. (davis r, the rise of the atlantic economies, cornell university press, 1973, p. 251, 255)
+
+### Resources
 
 * 1 [The association between gout and nephrolithiasis: the National Health and Nutrition Examination Survey III, 1988-1994.](https://www.ncbi.nlm.nih.gov/pubmed/12087559)
 
@@ -326,104 +336,145 @@ Abstract
 Currently, we are experiencing an epidemic of cardiorenal disease characterized by increasing rates of obesity, hypertension, the metabolic syndrome, type 2 diabetes, and kidney disease. Whereas excessive caloric intake and physical inactivity are likely important factors driving the obesity epidemic, it is important to consider additional mechanisms. We revisit an old hypothesis that sugar, particularly excessive fructose intake, has a critical role in the epidemic of cardiorenal disease. We also present evidence that the unique ability of fructose to induce an increase in uric acid may be a major mechanism by which fructose can cause cardiorenal disease. Finally, we suggest that high intakes of fructose in African Americans may explain their greater predisposition to develop cardiorenal disease, and we provide a list of testable predictions to evaluate this hypothesis.
 
 
-# Low Carb Bloggers
-* [Which drink causes gout? Peter Dobromylskyj- Hyperlipid](http://high-fat-nutrition.blogspot.com/2006/12/which-drink-causes-gout.html)
+## Low Carb Bloggers
 
-Which drink causes gout?
-Uric acid is a breakdown product of the purines, adenine and guanine. These compounds are found in relatively high amounts in meat, especially organ meats. Obviously, anyone with gout should avoid dietary sources of purines. Ah, if only life were so simple! It reminds me of the truism that eating fat makes you fat... If that were true your average dietician would have cured the current obesity epidemic easily by now.
-No, gout is much more interesting.
-Gout is triggered by the presence of crystals of uric acid in your joints. It extremely painful. Many people with gout have high levels of uric acid in their blood stream. Oddly enough some people with gout do not have high levels of uric acid in their blood. Dig deeper.
-Fructose is an unusual sugar for humans to eat. We have no system to break down fructose polymers. The only sources of fructose we can use are the simple sugar in fruit or honey and as the molecule combined with glucose as sucrose, ie table sugar. Drenching your metabolism with fructose is a recent innovation for humans. The current preferred sweetener for soft drinks is "high fructose corn syrup", a product of our dearly beloved food industry in the last thirty years or less.
-What happens when you drench you metabolism with fructose? It enters the metabolic pathway of carbohydrate below its main control step and is immediately converted to fructose-1-phosphate. Quite why evolution has arranged things this way is a mystery, but my suspicion is that evolution does not like free fructose in human metabolism. So drinking a small bucket of cola will put 100gm of fructose in to your liver. This will require a large input of phosphate to for the fructose-1-phosphate, leaving very little for the generation of adenosine tri phosphate (ATP), the primary energy currency of our cells. A lack of ATP triggers activity of the degradation system for adenine and the production of, guess what, uric acid! Gout, and not a serving of kidneys in sight. Until 100 years ago only the rich could afford enough sugar to get gout, now it is a feature of metabolic syndrome and available to all.
-Incidentally the fructose has to be "put" somewhere, and that is in to fat for storage, via elevated triglyceride levels in the blood. It causes insulin resistance too. Even the full metabolic syndrome!
-In fact, probably the truth is that fructose causes insulin resistance, which causes gout. The hyper uricaemia and the fact that the joints produce uric acid crystals do not have to be causally related. I'd say they're not.
-Incidentally, these bright researchers are looking for ways to minimise the self poisoning caused by fructose. They are actually suggesting looking for a drug to allow you to drink high fructose corn syrup without the rise in uric acid.
-A drug for life to enjoy your cola. But of course that won't stop the insulin resistance from fructose, so......
+### Peter Dobromylskyj
+
+* [“Which drink causes gout?”](http://high-fat-nutrition.blogspot.com/2006/12/which-drink-causes-gout.html)
+
+    > Which drink causes gout?
+    >
+    > Uric acid is a breakdown product of the purines, adenine and guanine. These compounds are found in relatively high amounts in meat, especially organ meats. Obviously, anyone with gout should avoid dietary sources of purines. Ah, if only life were so simple! It reminds me of the truism that eating fat makes you fat... If that were true your average dietician would have cured the current obesity epidemic easily by now.
+    >
+    > No, gout is much more interesting.
+    >
+    > Gout is triggered by the presence of crystals of uric acid in your joints. It extremely painful. Many people with gout have high levels of uric acid in their blood stream. Oddly enough some people with gout do not have high levels of uric acid in their blood. Dig deeper.
+    >
+    > Fructose is an unusual sugar for humans to eat. We have no system to break down fructose polymers. The only sources of fructose we can use are the simple sugar in fruit or honey and as the molecule combined with glucose as sucrose, ie table sugar. Drenching your metabolism with fructose is a recent innovation for humans. The current preferred sweetener for soft drinks is "high fructose corn syrup", a product of our dearly beloved food industry in the last thirty years or less.
+    >
+    > What happens when you drench you metabolism with fructose? It enters the metabolic pathway of carbohydrate below its main control step and is immediately converted to fructose-1-phosphate. Quite why evolution has arranged things this way is a mystery, but my suspicion is that evolution does not like free fructose in human metabolism. So drinking a small bucket of cola will put 100gm of fructose in to your liver. This will require a large input of phosphate to for the fructose-1-phosphate, leaving very little for the generation of adenosine tri phosphate (ATP), the primary energy currency of our cells. A lack of ATP triggers activity of the degradation system for adenine and the production of, guess what, uric acid! Gout, and not a serving of kidneys in sight. Until 100 years ago only the rich could afford enough sugar to get gout, now it is a feature of metabolic syndrome and available to all.
+    >
+    > Incidentally the fructose has to be "put" somewhere, and that is in to fat for storage, via elevated triglyceride levels in the blood. It causes insulin resistance too. Even the full metabolic syndrome!
+    >
+    > In fact, probably the truth is that fructose causes insulin resistance, which causes gout. The hyper uricaemia and the fact that the joints produce uric acid crystals do not have to be causally related. I'd say they're not.
+    >
+    > Incidentally, these bright researchers are looking for ways to minimise the self poisoning caused by fructose. They are actually suggesting looking for a drug to allow you to drink high fructose corn syrup without the rise in uric acid.
+    >
+    > A drug for life to enjoy your cola. But of course that won't stop the insulin resistance from fructose, so......
 
 * [Stone Agers in the Fast Lane?](https://high-fat-nutrition.blogspot.com/2018/11/stone-agers-in-fast-lane.html)
-
 * [Fructose and Gout](https://high-fat-nutrition.blogspot.com/2008/02/fructoase-and-gout.html)
 
-Gout was widespread in the pre-Westernisation Pacific Islanders, despite their paleo diet. The core quote re this paleo diet is that it is "based on tuberous root crops, not cereals".
-Translation: A Paleo Diet diet based on paleo tuberous root crops gives you paleo gout.
-Eat some meat and get your calories from fat. Vegetables can be viewed as a recreational indulgence if you so wish. But maybe don't over do them unless you want Paleo Diet™ gout.
+    > Gout was widespread in the pre-Westernisation Pacific Islanders, despite their paleo diet. The core quote re this paleo diet is that it is "based on tuberous root crops, not cereals".
+    >
+    > Translation: A Paleo Diet diet based on paleo tuberous root crops gives you paleo gout.
+    Eat some meat and get your calories from fat. Vegetables can be viewed as a recreational indulgence if you so wish. But maybe don't over do them unless you want Paleo Diet™ gout.
 
-## Amy Berger
+### Amy Berger
+
 * [Gout: Is it Meat, or Metabolic Syndrome?](http://www.tuitnutrition.com/2018/09/gout-and-insulin.html)
-
 * [Is Gout Caused by Red Meat or Metabolic Syndrome?](https://ketodietapp.com/Blog/lchf/is-gout-caused-by-red-meat-or-metabolic-syndrome)
 
-**Take Home Message**
-Owing to the effects of insulin on uric acid retention, people suffering from gout may want to try a low carb or ketogenic diet.
-Contrary to conventional advice for this condition, there’s no need to avoid animal protein. If anything, evidence indicates that increasing protein intake could be beneficial for gout — as long as people also cut way back on carbs. Beyond a low carb way of eating, other strategies that improve insulin sensitivity may also help, such as getting adequate physical activity and good quality and quantity of sleep.
-A word of caution: In the early stages of a very low-carb diet, individuals prone to gout flares may experience an increase in attacks. This is because ketones compete with uric acid for excretion. As the body excretes excess ketones in the first few days and weeks on a ketogenic diet, uric acid may accumulate in the body, potentially resulting in a gout attack. However, this is only temporary. The likelihood of gout attacks decreases over time, as the body becomes more efficient at utilizing ketones and uric acid is excreted normally.
+    > **Take Home Message**
+    >
+    > Owing to the effects of insulin on uric acid retention, people suffering from gout may want to try a low carb or ketogenic diet.
+    >
+    > Contrary to conventional advice for this condition, there’s no need to avoid animal protein. If anything, evidence indicates that increasing protein intake could be beneficial for gout — as long as people also cut way back on carbs. Beyond a low carb way of eating, other strategies that improve insulin sensitivity may also help, such as getting adequate physical activity and good quality and quantity of sleep.
+    >
+    > A word of caution: In the early stages of a very low-carb diet, individuals prone to gout flares may experience an increase in attacks. This is because ketones compete with uric acid for excretion. As the body excretes excess ketones in the first few days and weeks on a ketogenic diet, uric acid may accumulate in the body, potentially resulting in a gout attack. However, this is only temporary. The likelihood of gout attacks decreases over time, as the body becomes more efficient at utilizing ketones and uric acid is excreted normally.
 
-## Dr. Andreas Eenfeldt, MD
+### Dr. Andreas Eenfeldt, MD
 
 * [Gout and low carb By Dr. Andreas Eenfeldt, MD DietDoctor.com](https://www.dietdoctor.com/low-carb/side-effects/gout)
 
-## Burton Abrams
-Your gout article rightfully refers to the work of Dr. Richard Johnson, who has moved from U. Fla to U. Col in Denver. His work clearly shows that dietary fructose is processed in the body to produce uric acid, and hence raises the level of uric acid in the blood.
-But there is more to the question of why the high concentration of serum uric acid precipitates as the crystals of monosodium urate (MSU) which cause gout. Consider that most gout attacks originate while the individual is sleeping. Why? The answer is sleep apnea, which is the frequent cessation of breathing for many seconds at a time during sleep. The resulting reduction of oxygen in the blood has three effects, each of which can make MSU precipitation more likely. The first is cell catabolism, in which ATP undergoes a chain of chemical transitions which culminates in the cellular generation of excess uric acid fed into the blood. The second is that the reduced oxygen in the blood makes the blood more acidic (lower pH) so it can hold less uric acid in solution. These two effects are transient, so blood tests taken after awakening misses their peaks. The third effect is long term. Over time the chronic intermittent reduction in oxygen causes gradual reduction of kidney function, so uric acid is removed from the blood more slowly.
-So fructose ingestion raises the uric acid baseline, but sleep apnea causes it to reach an abrupt tipping point which leads to gout. I've told hundreds of gout experts about this physiology, and the only one who already knew about it was Dr. Johnson. Unfortunately, he thought it was common knowledge.
-Dr. Johnson's recent book The Fat Switch is written for general readership. It describes how fructose activates a biological switch in the body to cause it to store fat rather than burn fat. It is an excellent companion to The Four Hour Body.
+### Burton Abrams
+
+* Comment on [“Gout: The Missing Chapter from _Good Calories, Bad Calories_”](http://www.fourhourworkweek.com/blog/2009/10/05/gout/)
+
+    > Your gout article rightfully refers to the work of Dr. Richard Johnson, who has moved from U. Fla to U. Col in Denver. His work clearly shows that dietary fructose is processed in the body to produce uric acid, and hence raises the level of uric acid in the blood.
+    >
+    > But there is more to the question of why the high concentration of serum uric acid precipitates as the crystals of monosodium urate (MSU) which cause gout. Consider that most gout attacks originate while the individual is sleeping. Why? The answer is sleep apnea, which is the frequent cessation of breathing for many seconds at a time during sleep. The resulting reduction of oxygen in the blood has three effects, each of which can make MSU precipitation more likely. The first is cell catabolism, in which ATP undergoes a chain of chemical transitions which culminates in the cellular generation of excess uric acid fed into the blood. The second is that the reduced oxygen in the blood makes the blood more acidic (lower pH) so it can hold less uric acid in solution. These two effects are transient, so blood tests taken after awakening misses their peaks. The third effect is long term. Over time the chronic intermittent reduction in oxygen causes gradual reduction of kidney function, so uric acid is removed from the blood more slowly.
+    >
+    > So fructose ingestion raises the uric acid baseline, but sleep apnea causes it to reach an abrupt tipping point which leads to gout. I've told hundreds of gout experts about this physiology, and the only one who already knew about it was Dr. Johnson. Unfortunately, he thought it was common knowledge.
+    >
+    > Dr. Johnson's recent book The Fat Switch is written for general readership. It describes how fructose activates a biological switch in the body to cause it to store fat rather than burn fat. It is an excellent companion to The Four Hour Body.
+
+### Dr. Barry Groves
 
 * [Dietary Causes of Gout information - Dr. Barry Groves of 'Homo Carnivorus'](http://www.second-opinions.co.uk/gout.html)
 
-**Introduction**
-The prosperous, usually aristocratic, man with the hugely bandaged and gouty foot is a caricature beloved of comedy programmes. But gout is a painful and far from a laughable form of arthritis.
-Gout is one of the most common of the inflammatory forms of arthritiis. It is "a metabolic disorder manifested by an inflammatory arthritis associated with monosodium urate (MSU) crystal deposition within joints, tophus formation, uric acid urolithiasis". All sufferers have high levels of uric acid in their bloodstream.
-Although the term "gout" was not used until the 12th century, the condition has been recorded since antiquity, with the ancient Egyptians first describing it in 2500 BC, and Hippocrates calling it "the unwalkable disease" around 600 BC.[1] There have been many further reports of gout through the ages, possibly due to its occurrence in many well-known historical figures, including Charles Darwin, Theodore Roosevelt, Martin Luther King, Benjamin Franklin, Thomas Jefferson, Karl Marx, and Sir Isaac Newton.
-Today, data suggest that in the United States gout is the most common inflammatory arthritis in men over 40 years of age, and its prevalence and incidence continue to increase. A descriptive study from a US managed-care database suggested the prevalence of gout increased from 2.9 cases per 1000 population in 1990 to 5.2 cases per 1000 population in 1999.[2]
-The incidence of gout shows a similar increase over the past decades. The Rochester Epidemiology Project showed the age- and sex-adjusted annual incidence of gout increased from 45.0 new cases per 100,000 population in 1977 to 1978 to 62.3 new cases per 100,000 population in 1995 to 1996.[3]
+    > **Introduction**
+    >
+    > The prosperous, usually aristocratic, man with the hugely bandaged and gouty foot is a caricature beloved of comedy programmes. But gout is a painful and far from a laughable form of arthritis.
+    >
+    > Gout is one of the most common of the inflammatory forms of arthritiis. It is "a metabolic disorder manifested by an inflammatory arthritis associated with monosodium urate (MSU) crystal deposition within joints, tophus formation, uric acid urolithiasis". All sufferers have high levels of uric acid in their bloodstream.
+    >
+    > Although the term "gout" was not used until the 12th century, the condition has been recorded since antiquity, with the ancient Egyptians first describing it in 2500 BC, and Hippocrates calling it "the unwalkable disease" around 600 BC.[1] There have been many further reports of gout through the ages, possibly due to its occurrence in many well-known historical figures, including Charles Darwin, Theodore Roosevelt, Martin Luther King, Benjamin Franklin, Thomas Jefferson, Karl Marx, and Sir Isaac Newton.
+    >
+    > Today, data suggest that in the United States gout is the most common inflammatory arthritis in men over 40 years of age, and its prevalence and incidence continue to increase. A descriptive study from a US managed-care database suggested the prevalence of gout increased from 2.9 cases per 1000 population in 1990 to 5.2 cases per 1000 population in 1999.[2]
+    >
+    > The incidence of gout shows a similar increase over the past decades. The Rochester Epidemiology Project showed the age- and sex-adjusted annual incidence of gout increased from 45.0 new cases per 100,000 population in 1977 to 1978 to 62.3 new cases per 100,000 population in 1995 to 1996.[3]
+    >
+    > **Metabolic Syndrome and gout**
+    >
+    > The metabolic syndrome is a group of interrelated atherosclerotic risk factors (including obesity, insulin resistance, and hypertension) that affects more than 50 million Americans.[4] There is a close association between the presence of the metabolic syndrome and gout; a total of 63% of gout patients fulfill the criteria for metabolic syndrome, compared with only 25% of people without gout.[5] This pattern increases with aging.
+    >
+    > Mean serum urate levels in patients with the metabolic syndrome are approximately 0.5-1.0 mg/dL higher than in controls,[6] and levels increase with the number of components of the metabolic syndrome present, even when adjusted for age, gender, creatinine clearance, alcohol intake, and diuretic use.[7]
+    >
+    > Patients with the metabolic syndrome are known to have a reduced ability to excrete uric acid,[6] through hyperinsulinemia-enhanced proximal tubular sodium reabsorption.[8] Reduced uric acid excretion due to enhanced sodium reabsorption has also been reported in two of the most common metabolic syndrome-related conditions: obesity and hypertension.[9]
+    >
+    > As well as reduced excretion, some evidence suggests an increase in uric acid production in metabolic syndrome through increased fructose intake. Fructose-based products have been widely used over the past decades as a cheap alternative to sucrose in food, which may account for the increased prevalence of the metabolic syndrome (and hence gout) in recent years.[10]
+    >
+    > One of the main contributing factors to the metabolic syndrome is obesity. Many patients with gout are overweight or obese, and there is a strong association between the risk of gout and increasing BMI scores.[11] Obesity is also linked with increases in serum urate through increased uric acid production and a decrease in renal excretion.[12] Given that approximately 60% of Americans are overweight and one-third are obese (as measured by BMI), it is important for physicians and patients to understand this increased risk. Fortunately the increased risk of gout due to obesity is reversible, with men who lose 10lb of weight showing a risk ratio of 0.61.
+    >
+    > Higher insulin levels in the circulation (a consequence of insulin resistance) reduce the renal excretion of uric acid[13] and may enhance renal urate reabsorption.
+    >
+    > **Dietary misadvice**
+    >
+    > For decades, gout sufferers have been advised to avoid high purine-containing foods. Purines are the chemicals that form uric acid in the body, which in turn causes painful deposition of urate crystals in the joints. Examples of these are: kidneys, sweetbreads, liver, bacon, beef, pork, duck, shellfish and venison.
+    >
+    However, a study published in 2000 presented a challenge to the ‘low-purine, high-carbohydrate’ diet usually advised for gout patients. As insulin resistance has been increasingly implicated in the development of gout, and changes in blood cholesterol levels seen in persons with gout are similar to those associated with insulin resistance, an investigation was conducted at the University of Witwatersrand, Johannesburg, South Africa, of non-diabetic men, each of whom had had at least two gout attacks during the four months immediately prior to the study. In the study, each man ate a diet which restricted carb intake and increased fats and protein. They were also encouraged to increase their intakes of fish and poultry, which are relatively high in the purines which are classically avoided in managing gout. After 16 weeks on this diet, not only had the men lost an average 17 lb (7.7 kg) in weight, gout attacks were reduced from an average of 2.1 per month to 0.6 per month. Not surprisingly, the researchers stated that ‘current dietary recommendations for gout might need re-evaluation.’[12]
+    >
+    > Another cause is the fruit sugar, fructose, both in high-fructose corn syrup and too much fruit.[14,15] So be careful with those ‘five portions’.
 
-**Metabolic Syndrome and gout**
+### Stephen Phinney and Jeff Volek
 
-The metabolic syndrome is a group of interrelated atherosclerotic risk factors (including obesity, insulin resistance, and hypertension) that affects more than 50 million Americans.[4] There is a close association between the presence of the metabolic syndrome and gout; a total of 63% of gout patients fulfill the criteria for metabolic syndrome, compared with only 25% of people without gout.[5] This pattern increases with aging.
-Mean serum urate levels in patients with the metabolic syndrome are approximately 0.5-1.0 mg/dL higher than in controls,[6] and levels increase with the number of components of the metabolic syndrome present, even when adjusted for age, gender, creatinine clearance, alcohol intake, and diuretic use.[7]
-Patients with the metabolic syndrome are known to have a reduced ability to excrete uric acid,[6] through hyperinsulinemia-enhanced proximal tubular sodium reabsorption.[8] Reduced uric acid excretion due to enhanced sodium reabsorption has also been reported in two of the most common metabolic syndrome-related conditions: obesity and hypertension.[9]
-As well as reduced excretion, some evidence suggests an increase in uric acid production in metabolic syndrome through increased fructose intake. Fructose-based products have been widely used over the past decades as a cheap alternative to sucrose in food, which may account for the increased prevalence of the metabolic syndrome (and hence gout) in recent years.[10]
-One of the main contributing factors to the metabolic syndrome is obesity. Many patients with gout are overweight or obese, and there is a strong association between the risk of gout and increasing BMI scores.[11] Obesity is also linked with increases in serum urate through increased uric acid production and a decrease in renal excretion.[12] Given that approximately 60% of Americans are overweight and one-third are obese (as measured by BMI), it is important for physicians and patients to understand this increased risk. Fortunately the increased risk of gout due to obesity is reversible, with men who lose 10lb of weight showing a risk ratio of 0.61.
-Higher insulin levels in the circulation (a consequence of insulin resistance) reduce the renal excretion of uric acid[13] and may enhance renal urate reabsorption.
+* From Chapter 13 of _The Art and Science of Low Carbohydrate Living_:
 
-**Dietary misadvice**
-
-For decades, gout sufferers have been advised to avoid high purine-containing foods. Purines are the chemicals that form uric acid in the body, which in turn causes painful deposition of urate crystals in the joints. Examples of these are: kidneys, sweetbreads, liver, bacon, beef, pork, duck, shellfish and venison.
-However, a study published in 2000 presented a challenge to the ‘low-purine, high-carbohydrate’ diet usually advised for gout patients. As insulin resistance has been increasingly implicated in the development of gout, and changes in blood cholesterol levels seen in persons with gout are similar to those associated with insulin resistance, an investigation was conducted at the University of Witwatersrand, Johannesburg, South Africa, of non-diabetic men, each of whom had had at least two gout attacks during the four months immediately prior to the study. In the study, each man ate a diet which restricted carb intake and increased fats and protein. They were also encouraged to increase their intakes of fish and poultry, which are relatively high in the purines which are classically avoided in managing gout. After 16 weeks on this diet, not only had the men lost an average 17 lb (7.7 kg) in weight, gout attacks were reduced from an average of 2.1 per month to 0.6 per month. Not surprisingly, the researchers stated that ‘current dietary recommendations for gout might need re-evaluation.’[12]
-Another cause is the fruit sugar, fructose, both in high-fructose corn syrup and too much fruit.[14,15] So be careful with those ‘five portions’.
-
-## Phinney, Volek
-
-**The Art and Science of Low Carbohydrate Living - Chapter 13**
-
-A very predictable change in serum chemistry is a sharp rise in uric acid concentration in the first week or two of carbohydrate restriction. As noted above, this is due to competition between circulating ketones and uric acid for renal tubular excretion.
-Put another way, uric acid rises in the blood not because the body is making more of it but because the kidneys temporarily clear less of it. Thus the blood level needs to rise in order for the same amount of it to be cleared by the kidney (because ketones are 'getting in the way'). Subsequent to this abrupt early rise in uric acid, within 4-6 weeks the level then falls back to or below its pre-diet level even if the dietary carbohydrate restriction and ketonemia continue. This is part of the body's ongoing adaptation to nutritional ketosis.
-In the vast majority of patients, this rise in serum uric acid is completely benign and requires no intervention. In the minority of individuals predisposed to gout, however, wide swings in uric acid can trigger an attack. And this goes both ways - either the abrupt rise with diet initiation or the analogous abrupt fall if the ketonemia is reversed by breaking the carbohydrate restriction in the first few weeks, can act as a trigger.
-Most people with the genetic predisposition to gout know it long before they consider a low carbohydrate diet, so either preventative medication or prompt intervention at the first symptoms can usually pre-empt an attack. Also, because it is the rapid change in uric acid that is the primary trigger, once on a carbohydrate restricted diet, the patient with a history of gout should be counseled to avoid frequent cycling in and out of carbohydrate restriction (i.e., avoid 'going on and off the diet').
+    > A very predictable change in serum chemistry is a sharp rise in uric acid concentration in the first week or two of carbohydrate restriction. As noted above, this is due to competition between circulating ketones and uric acid for renal tubular excretion.
+    >
+    > Put another way, uric acid rises in the blood not because the body is making more of it but because the kidneys temporarily clear less of it. Thus the blood level needs to rise in order for the same amount of it to be cleared by the kidney (because ketones are 'getting in the way'). Subsequent to this abrupt early rise in uric acid, within 4-6 weeks the level then falls back to or below its pre-diet level even if the dietary carbohydrate restriction and ketonemia continue. This is part of the body's ongoing adaptation to nutritional ketosis.
+    >
+    > In the vast majority of patients, this rise in serum uric acid is completely benign and requires no intervention. In the minority of individuals predisposed to gout, however, wide swings in uric acid can trigger an attack. And this goes both ways - either the abrupt rise with diet initiation or the analogous abrupt fall if the ketonemia is reversed by breaking the carbohydrate restriction in the first few weeks, can act as a trigger.
+    >
+    > Most people with the genetic predisposition to gout know it long before they consider a low carbohydrate diet, so either preventative medication or prompt intervention at the first symptoms can usually pre-empt an attack. Also, because it is the rapid change in uric acid that is the primary trigger, once on a carbohydrate restricted diet, the patient with a history of gout should be counseled to avoid frequent cycling in and out of carbohydrate restriction (i.e., avoid 'going on and off the diet').
 
 * [Does a ketogenic diet increase your risk of gout? By Dr. Stephen Phinney and the Virta Team](https://blog.virtahealth.com/ketogenic-diet-gout/)
 
-There is a short-term increased risk of gout flares when initially entering into nutritional ketosis due to the competitive inhibition of ketones on kidney excretion of uric acid (Veech, 2004). This is transient, and once one is through the keto-adaptation process, the long-term risk of gout decreases (Hussain, 2012).
-Very few people who are not prone to gout (it’s partially genetic) have an attack due to starting a ketogenic diet. The overall prevalence in the general population is about 1-2% — this includes those who are prone and those who are not.
-A well-formulated ketogenic diet has potent anti-inflammatory properties that we are just now coming to understand. The primary ketone in our blood, beta-hydroxybutyrate (BOHB), is a regulatory signal that works inside white blood cells to reduce inflammation. Most recently, a well-known research group at Yale have studied the ketogenic diet in rats and in humans, and demonstrated that it actually has a protective effect against joint damage caused by gout (Goldberg, 2017). They’ve worked out the mechanism, and in the process demonstrated that BOHB can reduce damaging inflammation without reducing the benefits of inflammation such as healing and our defenses against infection. What this indicates that a well-formulated ketogenic diet may actually be beneficial in the management of gout.
+    > There is a short-term increased risk of gout flares when initially entering into nutritional ketosis due to the competitive inhibition of ketones on kidney excretion of uric acid (Veech, 2004). This is transient, and once one is through the keto-adaptation process, the long-term risk of gout decreases (Hussain, 2012).
+    >
+    > Very few people who are not prone to gout (it’s partially genetic) have an attack due to starting a ketogenic diet. The overall prevalence in the general population is about 1-2% — this includes those who are prone and those who are not.
+    >
+    > A well-formulated ketogenic diet has potent anti-inflammatory properties that we are just now coming to understand. The primary ketone in our blood, beta-hydroxybutyrate (BOHB), is a regulatory signal that works inside white blood cells to reduce inflammation. Most recently, a well-known research group at Yale have studied the ketogenic diet in rats and in humans, and demonstrated that it actually has a protective effect against joint damage caused by gout (Goldberg, 2017). They’ve worked out the mechanism, and in the process demonstrated that BOHB can reduce damaging inflammation without reducing the benefits of inflammation such as healing and our defenses against infection. What this indicates that a well-formulated ketogenic diet may actually be beneficial in the management of gout.
+    >
+    > **Bottom line:**
+    >
+    > A well-formulated ketogenic diet is not a contraindication in people with a history of gout. But once through the keto-adaptation phase, consistency with the diet is advised in order to avoid repeated swings in blood uric acid level caused by going in and out of nutritional ketosis.
 
-**Bottom line:**
-A well-formulated ketogenic diet is not a contraindication in people with a history of gout. But once through the keto-adaptation phase, consistency with the diet is advised in order to avoid repeated swings in blood uric acid level caused by going in and out of nutritional ketosis.
+### Prof Richard Johnson
 
-## Prof Richard Johnson
-
-* [Sugar, Uric Acid, and the Etiology of Diabetes and Obesity by Richard J. Johnson, Takahiko Nakagawa, L. Gabriela Sanchez-Lozada, Mohamed Shafiu, Shikha Sundaram, Myphuong Le, Takuji Ishimoto, Yuri Y. Sautin, and Miguel A. Lanaspa 9 Page PDF](http://sci-hub.tw/https://www.ncbi.nlm.nih.gov/pubmed/24065788) [Fig 1](https://i.redd.it/vfw8u7ylhq821.png) [Fig 2](https://i.redd.it/cv2jhfighq821.png) [Fig 3](https://i.redd.it/o0zawn0vgq821.png)
-
+* [Sugar, Uric Acid, and the Etiology of Diabetes and Obesity by Richard J. Johnson, Takahiko Nakagawa, L. Gabriela Sanchez-Lozada, Mohamed Shafiu, Shikha Sundaram, Myphuong Le, Takuji Ishimoto, Yuri Y. Sautin, and Miguel A. Lanaspa](http://sci-hub.tw/https://www.ncbi.nlm.nih.gov/pubmed/24065788) (9 Page PDF) [[Fig 1](https://i.redd.it/vfw8u7ylhq821.png)] [[Fig 2](https://i.redd.it/cv2jhfighq821.png)] [[Fig 3](https://i.redd.it/o0zawn0vgq821.png)]
 * [Prof. Richard Johnson - 'Sugar and its Role in Driving Obesity and Fatty Liver'](https://www.youtube.com/watch?v=blzZKUFN4x0)
-
 * [223: Dr. Richard Johnson Says Fructose Alone Is The Real Health Enemy - The Livin' La Vida Low-Carb Show with Jimmy Moore!](http://www.thelivinlowcarbshow.com/shownotes/438/dr-richard-johnson-ep-223/)
-
 * [The Sugar Fix: The High-Fructose Fallout That Is Making You Fat and Sick – April 1, 2008 by Richard Johnson](https://www.amazon.com/Sugar-Fix-High-Fructose-Fallout-Making/dp/1594866651)
 
-* [Dear Mark: Risk of Gout?](http://www.marksdailyapple.com/gout-primal-paleo-diet/)
+### Mark Sisson
 
-* [Will Eating a Paleo Diet Cause Gout?
-on MARCH 15, 2013 by CHRIS KRESSER ](http://chriskresser.com/will-eating-a-paleo-diet-cause-gout)
+* [“Dear Mark: Risk of Gout?”](http://www.marksdailyapple.com/gout-primal-paleo-diet/)
+
+### Chris Kresser
+
+* [“Will Eating a Paleo Diet Cause Gout?”](http://chriskresser.com/will-eating-a-paleo-diet-cause-gout)
 
 Created by Travis Statham @travis_statham
 Jan 15, 2019
