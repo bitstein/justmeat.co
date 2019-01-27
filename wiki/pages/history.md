@@ -45,8 +45,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1916** - ["The Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1584654/pdf/canmedaj00331-0019.pdf) by Elliott P. Joslin, M.D. Boston, Massachusetts
 
-    > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The
-method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
+    > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
 
 * **1921** - ["The Use of a High Fat Diet in the Treatment of Diabetes Mellitus - Second Paper: Blood Sugar"](docs/newburgh1921.pdf) by L.H. Newburgh, M.D., and Phil L. Marsh, M.D. - Ann Arbor, Michigan
 
@@ -77,7 +76,9 @@ method which I have found most successful has been to allow, following the first
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
     > Dr. Donaldson in STRONG MEDICINE expresses his personal concept of treatment for six highly important and frequently deadly diseases--arteriosclerosis, osteoarthritis, heart disease, high blood pressure, diabetes, and gall bladder disease. His book is interesting, informative, humorous, and highly controversial.
+    >
     > "From what I have observed, a half pound of meat per meal is the minimum quantity needed to maintain the work of repair of body cells."
+    >
     > "Oh, there were dozens of questions I wanted to discuss with Stefannsson, so Fred Taylor brought him out to my home on Long Island. Some steamed clams and a good steak loosened him up, and we sat around a beach fire and talked for hours. He proved to be a mine of information. As I remember his conversation, it went something like this..."
 
 * **1963** - [_The Diet of the Mountain Men_](/docs/the-diet-of-the-mountain-men-william-e-holsten.pdf) by William E. Holston
