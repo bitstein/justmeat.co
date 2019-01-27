@@ -4,6 +4,11 @@ layout: default
 
 <div class="wiki-container container col-md-8">
   {% if page.url != '/wiki/' %}
+  <div class="navigation text-center">
+    <span><a href="/wiki/">Wiki Index</a></span>&bull;<span><a href="/">Home</a></span>
+  </div>
+  {% endif %}
+  {% if page.url != '/wiki/' %}
     <ul class="nav nav-tabs mb-4">
     {% if page.categories contains 'talk' %}
       {% assign talk_page_name = page.name | replace:"talk:", "" | replace:".md", "" %}
@@ -49,6 +54,6 @@ layout: default
     {{ content }}
   </section>
   <div class="navigation text-center">
-    <span>{% if page.url != '/wiki/' %}<a href="/wiki/">Back</a></span>&bull;{% endif %}<span><a href="/">Home</a></span>
+    <span>{% if page.url != '/wiki/' %}<a href="/wiki/">Back to Index</a></span>&bull;{% endif %}<span><a href="/">Home</a></span>
   </div>
 </div>
