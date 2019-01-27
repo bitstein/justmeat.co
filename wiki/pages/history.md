@@ -15,25 +15,25 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
     > "It was agreed to try the effects of animal food. He is directed to abstain from vegetable food in every shape. To have two eggs for breakfast. Boiled meat and steaks alternately for dinner. Eggs, or cheese for supper. For drink eight pounds of weak beef tea, and two pounds of weak peppermint water. Solid ingested about two pounds. "
 
 
-* **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."](/docs/diabetesCase-1799-Redfearn.pdf) by R. Redfearn M.D. of Lynn Regis, Norfolk
+* **1798** - ["A case of the Diabetes Mellitus, which terminated in a complete, and, as far as can be judged by apparent Circumstances, a permanent Cure, by Medicines, abstracting Oxygen from the System, and a Diet consisting totally of Animal Matter."](/docs/a-case-of-the-diabetes-mellitus-r-redfearn-md.pdf) by R. Redfearn M.D. of Lynn Regis, Norfolk
 
     > "I therefore immediately suggested to him the propriety, and the absolute necessity, of abstaining ridigly from all fermented liquors and vegetables, with everything else that could impart oxygen to the system by the primae viae; and at the same time ordered that his diet should consist principally of **fat beef, pork,** and such ailments as were of a gross or unctuous quality, and most likely to produce hydrogen in the greatest abundance. After this patient had persevered in the above medicines and regiment during a fortnight only, he found his thirst by no means so excessive. The quantity of his urine was considerably diminished, and became also of a quality more urinous, and less sweet. His amendment continued to be progressive, without feeling any interruption, either from natural or adventitious causes; and he was completely free from every symtom of the disease in less than three months after the medicines were first administered. He never once deviated from the regimen prescribed. My patient has now continued perfectly well for more than eight months, and to my enquires, very lately, he declared, that he never enjoyed a better state of health, than he does at the moment."
 
 ## 1800s
 
-* **1857** - [_An Argument on Behalf of the Primitive Diet of Man - Pro-Vegetarian_](/docs/An%20Argument%20on%20Behalf%20of%20the%20Primitive%20Diet%20of%20Man-Pro-Vegetarian.pdf) by Dr. Frederic R. Lees
+* **1857** - [_An Argument on Behalf of the Primitive Diet of Man_](/docs/an-argument-on-behalf-of-the-primitive-diet-of-man-frederic-r-lees.pdf) by Dr. Frederic R. Lees (Pro-Vegetarian)
 
 * **1863** - [_Letter on Corpulence, Addressed to the Public_](https://archive.org/details/letteroncorpulen00bant) by William Banting
 
     > Banting accounted all of his unsuccessful fasts, diets, spa and exercise regimens in his past. His previously unsuccessful attempts had been on the advice of various medical experts. He then described the dietary change which finally had worked for him, following the advice of another medical expert. "My kind and valued medical adviser is not a doctor for obesity, but stands on the pinnacle of fame in the treatment of another malady, which, as he well knows, is frequently induced by [corpulence]." (p24) His own diet was four meals per day, consisting of meat, greens, fruits, and dry wine. The emphasis was on avoiding sugar, saccharine matter, starch, beer, milk and butter. ([Wikipedia](https://en.wikipedia.org/wiki/William_Banting#Letter_on_Corpulence,_Addressed_to_the_Public))
 
-* **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._](/docs/On%20The%20Relations%20which%20Dental%20Caries%20May%20Be%20Supposed%20to%20Hold%20to%20Their%20Food%20and%20Social%20Condition.pdf) by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
+* **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._](/docs/on-the-relations-which-dental-caries-may-be-supposed-to-hold-to-their-food-and-social-condition-john-r-mummery.pdf) by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
 
 * **1874** - ["Lectures on the Pathology and Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2293828/pdf/brmedj05132-0001.pdf) by T. Lauder Brunton, M.D., D.Sc.Edin., M.R.C.P.Lond
 
     > "The patient must be supplied with a diet consisting of nitrogenous food, such as butcher-meat, fish, eggs, and soups. Fat (which does not contribute in the least to the formation of sugar) may be given in all its forms, such as cream, butter, cheese, and oil. Spinach, lettuce, and cresses may be freely used, but celery and radishes only sparingly; while potatoes, carrots, parsnips, turnips, peas, French beans, cabbage, Brussels sprouts, cauliflower, brocoli, asparagus, seakale, and fruit of all kinds, both fresh and preserved, should be avoided, with the exception of nuts and almonds."
 
-* **1887** - [_An Introduction to the Study of the Influence of Diet in the Production and Treatment of Skin Diseases_](/docs/An%20Introduction%20to%20the%20Study%20of%20the%20Influence%20of%20Diet%20in%20the%20Production%20and%20Treatment%20of%20Skin%20Diseases.pdf) by James C. White, M.D. - Professor of Dermatology, Harvard University
+* **1887** - [_An Introduction to the Study of the Influence of Diet in the Production and Treatment of Skin Diseases_](/docs/an-introduction-to-the-study-of-the-influence-of-diet-in-the-production-and-treatment-of-skin-diseases-james-c-white-md.pdf) by James C. White, M.D. - Professor of Dermatology, Harvard University
 
 * **1888** - [_The Relation of Alimentation and Disease_](/docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, A.M., M.D., LL. D.
 
@@ -43,11 +43,11 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 ## 1900s
 
-* **1916** - ["The Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1584654/pdf/canmedaj00331-0019.pdf) by Elliott P. Joslin, M.D. Boston, Massachusetts
+* **1916** - ["The Treatment of Diabetes Mellitus"](docs/the-treatment-of-diabetes-mellitus-elliot-p-joslin.pdf) by Elliott P. Joslin, M.D. Boston, Massachusetts
 
     > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
 
-* **1921** - ["The Use of a High Fat Diet in the Treatment of Diabetes Mellitus - Second Paper: Blood Sugar"](docs/newburgh1921.pdf) by L.H. Newburgh, M.D., and Phil L. Marsh, M.D. - Ann Arbor, Michigan
+* **1921** - ["The Use of a High Fat Diet in the Treatment of Diabetes Mellitus - Second Paper: Blood Sugar"](/docs/the-use-of-a-high-fat-diet-in-the-treatment-of-diabetes-mellitus-second-paper-blood-sugar-l-h-newburgh.pdf) by L.H. Newburgh, M.D., and Phil L. Marsh, M.D. - Ann Arbor, Michigan
 
     > "We reported briefly the results of an investigation of the effect of a diet whose energy came largely from fat, to which was added sufficient protein to maintain nitrogen balance and the minimal carbohydrate necessitated in making up a diet that a human being can eat over a long period of time. It was shown that with such a diet, glycosuria was avoided in severe diabetics, and that acidosis was not produced. The twenty-eight cases contained in Table 1 show that a high fat diet such as we have used is capable of bringing the blood sugar down to normal and keeping it at that level during the period of observation."
 
@@ -71,7 +71,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
 
-* **1958** - [_How to Prevent Heart Attacks_](/docs/How_to_Prevent_Heart_Attacks_BEN_SANDLER_MD_1958.pdf) by Benjamin P. Sandler M.D.
+* **1958** - [_How to Prevent Heart Attacks_](/docs/how-to-prevent-heart-attacks-benjamin-p-sandler-md.pdf) by Benjamin P. Sandler M.D.
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
