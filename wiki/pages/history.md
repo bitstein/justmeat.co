@@ -27,6 +27,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > Banting accounted all of his unsuccessful fasts, diets, spa and exercise regimens in his past. His previously unsuccessful attempts had been on the advice of various medical experts. He then described the dietary change which finally had worked for him, following the advice of another medical expert. "My kind and valued medical adviser is not a doctor for obesity, but stands on the pinnacle of fame in the treatment of another malady, which, as he well knows, is frequently induced by [corpulence]." (p24) His own diet was four meals per day, consisting of meat, greens, fruits, and dry wine. The emphasis was on avoiding sugar, saccharine matter, starch, beer, milk and butter. ([Wikipedia](https://en.wikipedia.org/wiki/William_Banting#Letter_on_Corpulence,_Addressed_to_the_Public))
 
+* **1865** - [_Introduction à l'étude de la médecine expérimentale._](https://mechanism.ucsd.edu/teaching/philbio/CLAUDE%20BERNARD.htm) by Claude Bernard - Paris
+
+    > "In August of 1862 Banting consulted a noted Fellow of the Royal College of Surgeons: an ear, nose and throat specialist. Dr. William Harvey. It was an historic meeting. Dr. Harvey had recently returned from a symposium in Paris where he had heard Dr. Claude Bernard, a renowned physiologist, talk of a new theory about the part the liver played in the disease of diabetes. Bernard believed that the liver, as well as secreting bile, also secreted a sugar-like substance that it made from elements of the blood passing through it. This started Harvey’s thinking about the roles of the various food elements in diabetes and he began a major course of research into the whole question of the way in which fats, sugars and starches affected the body."  [via Barry Groves](https://www.westonaprice.org/health-topics/know-your-fats/william-banting-father-of-the-low-carbohydrate-diet/)
+
 * **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._](/docs/on-the-relations-which-dental-caries-may-be-supposed-to-hold-to-their-food-and-social-condition-john-r-mummery.pdf) by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
 
 * **1874** - ["Lectures on the Pathology and Treatment of Diabetes Mellitus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2293828/pdf/brmedj05132-0001.pdf) by T. Lauder Brunton, M.D., D.Sc.Edin., M.R.C.P.Lond
@@ -60,7 +64,22 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 * **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
     > Later expanded and revised as _The Fat of the Land_ (1956).
+    
+* **1951** - [_The Practice of Endocrinology - A Diet for Obesity_]() by Dr. Raymond Greene - Stanford Medical School
 
+    > Foods to be avoided:
+        1. Bread, and everything else made with flour...
+        2. Cereals, including breakfast cereals and milk puddings
+        3. Potatoes and all other white root vegetables
+        4. Foods containing much sugar
+        5. All Sweets...
+    > You can eat as much as you like of the following foods:
+        1. Meat, fish, birds
+        2. All green vegetables
+        3. Eggs, dried or fresh
+        4. Cheese
+        5. Fruit...except bananas and grapes
+        
 * **1953** - [“Treatment of OBESITY with Calorically UNRESTRICTED DIETS”](https://academic.oup.com/ajcn/article-abstract/1/5/343/4786830?redirectedFrom=fulltext) by Alfred W. Pennington, M.D.
 
     > "Restriction of carbohydrate, alone, appears to make possible the treatment of obesity on a calorically unrestricted diet composed chiefly of protein and fat. The limiting factor on appetite, necessary to any treatment of obesity, appears to be provided by increased mobilization and utilization of fat, in conjunction with the homeostatic forces which normally regulate the appetite. Ketogensis appears to be a key factor in the increased utilization of fat. Treatment of obesity by this method appears to avoid the decline in the metabolism encountered in treatment by caloric restriction. Details of diet and regimen are given."
@@ -69,6 +88,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > Expanded and revised edition of _Not By Bread Alone_ (1946).
 
+* **1957** - [_The Importance of Overweight_](https://www.amazon.com/importance-overweight-Hilde-Bruch/dp/B0006AUYKU) by Dr. Hilde Bruch - New York
+
+    > "The great progress in dietary control of obesity, was the recognition that meat . . . was not fat producing; but that it was the innocent foodstuffs, such as bread and sweets, which lead to obesity."
+    
 * **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
 
 * **1958** - [_How to Prevent Heart Attacks_](/docs/how-to-prevent-heart-attacks-benjamin-p-sandler-md.pdf) by Benjamin P. Sandler M.D.
