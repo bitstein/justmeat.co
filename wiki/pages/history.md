@@ -8,8 +8,28 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 * TOC
 {:toc}
 
+## 1550 B.C.
+
+* **1552 BC** - ["Diabetes and the Ebers Papyrus"](https://journals.lww.com/theendocrinologist/Citation/2006/03000/Diabetes_and_The_Ebers_Papyrus__1552_B_C_.1.aspx) by D. Lynn Loriaux, M.D., PhD
+
+    > "Of great interest to endocrinologists is the opinion that in the Ebers Papyrus is the first known medical reference to diabetes mellitus. The reference is to a single phrase: "...to eliminate urine which is too plentiful." 
+    >"Unfortunately, the crucial word, asha, can mean both 'plentiful' and 'often,' and it is unclear whether the condition described was polyuria(increased volume of urine) or increased frequency of micturition, very often due to cystitis. The latter condition is much more common and therefore the more likely interpretation."
+    
+## 1600s
+
+* **1674** - [_Diabetes Mellitus_](https://www.diapedia.org/introduction-to-diabetes-mellitus/1104693411/thomas-willis) by Sir Thomas Willis - Oxford
+
+    > "In 1674, Thomas Willis treated diabetes by recommending a diet high in sugar, in order to replace the sugar being leaked
+by the kidneys, thereby inadvertently hastening patients’ deaths." [via David Haslam](http://www.britishjournalofobesity.co.uk/resources/article_pdfs/2015-1-3-84.pdf)
+
+    > "Thomas Willis pensively sipped from his glass. It was sweet, even a little delicious. In 1674 the Oxford University physician was far from the first doctor to taste urine, but he was the first Western doctor we know of to connect the sweetness of urine to the condition of its owner, a person suffering the effects of diabetes. Willis was baffled by his findings and recorded his experience in Pharmaceutice rationalis: “But why that it is wonderfully sweet like sugar or honey, this difficulty is worthy of explanation.” [via](https://www.sciencehistory.org/distillations/magazine/sickening-sweet)
+    
 ## 1700s
 
+* **1776** - [_Experiments and Observations on the Urine in Diabetes._](https://www.ackdjournal.org/article/S1548-5595(05)00026-1/fulltext) by Matthew Dobson
+
+    > "Nevertheless, it was the simple observation of Willis that gave the disease its new name “diabetes mellitus,” but it was more than a century later that his argument was substantiated by the demonstration of sugar in the blood and urine of diabetics by Robert Wyatt in 1774 and subsequently by the more thorough studies of Matthew Dobson (1732–1784), who had a fairly good of knowledge of chemistry. In 1776, Dobson showed that the sweetness of urine is caused by sugar, which he quantified and showed to be subject to alcohol and acetate fermentation, and that its appearance in the urine is preceded and accompanied by a similar sweetness and sugar in the blood, albeit not as much as that detected in the urine. Diabetes now came to be viewed as a disorder of nutrition in which sugar accumulates in the blood and is excreted in the urine. This was to launch a whole new approach for the dietary treatment of diabetics and with it a shift to the digestive organs as the site of the disease and more specifically to the absorption of “saccharine matter” in the stomach."
+    
 * **1797** - [_An account of two cases of the diabetes mellitus_](https://archive.org/details/b21469179_0002/page/26) by Dr. John Rollo of Woolrich
 
     > "It was agreed to try the effects of animal food. He is directed to abstain from vegetable food in every shape. To have two eggs for breakfast. Boiled meat and steaks alternately for dinner. Eggs, or cheese for supper. For drink eight pounds of weak beef tea, and two pounds of weak peppermint water. Solid ingested about two pounds. "
@@ -47,6 +67,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 ## 1900s
 
+* **1901** - [_The Principles and Practice of Medicine_](https://hdl.handle.net/2027/coo1.ark:/13960/t2891rd56) by William Osler, M.D. - Professor of Medicine in the Johns Hopkins University and Physician-in-chief of the Johns Hopkins Hospital, Baltimore
+
+    > "We are often consulted by persons in whose family obesity prevails to give rules for the prevention of the condition in children or in women approaching the climacteric. In the case of children very much may be done by regulating the diet, reducing the starches and fats in the food, not allowing the children to eat sweets, and encouraging systematic exercises. In the case of women who tend to grow stout after child-bearing or at the climeratic, in addition to systematic exercises, they should be told to avoid taking too much food, and particularly reduce the starches and sugars.  There are a number of methods or systems in vogue at present. In the celebrated one of Banting, the carbohydrates and fats were excluded and the amount of fat was greatly reduced.”
+    
 * **1916** - ["The Treatment of Diabetes Mellitus"](docs/the-treatment-of-diabetes-mellitus-elliot-p-joslin.pdf) by Elliott P. Joslin, M.D. Boston, Massachusetts
 
     > "Alternate feeding and fasting are adopted when it is found that the glycosuria persists after a preliminary four days' fast. The method which I have found most successful has been to allow, following the first fasting period, 20 to 40 grams carbohydrate not far from half a gram per kilogram body weight-and about one gram of protein per kilogram for two days.This can be avoided by still further restricting the carbohydrate, either temporarily or permanently. It is always necessary to bear in mind that one food which the diabetic patient cannot do without is protein, and to it everything else must be subservient. While testing the protein tolerance, a small quantity of fat is included in the eggs and meat given."
@@ -61,11 +85,13 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1935** - [“Adventures in Diet”](http://www.drbass.com/stefansson2.html) by Vilhjalmur Stefansson
 
+* **1939** - [_Nutrition and Physical Degeneration_](http://gutenberg.net.au/ebooks02/0200251h.html) by Weston A. Price, M.S., D.D.S., F.A.G.D.
+
 * **1946** - [_Not By Bread Alone_](/docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf) by Vilhjalmur Stefansson
 
     > Later expanded and revised as _The Fat of the Land_ (1956).
     
-* **1951** - [_The Practice of Endocrinology - A Diet for Obesity_]() by Dr. Raymond Greene - Stanford Medical School
+* **1951** - [_The Practice of Endocrinology - A Diet for Obesity_](http://www.britishjournalofobesity.co.uk/resources/article_pdfs/2015-1-3-84.pdf) by Dr. Raymond Greene - Stanford Medical School
 
     > Foods to be avoided:
         1. Bread, and everything else made with flour...
@@ -120,18 +146,54 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "John Yudkin was one of the first to point out the dangers of sugar when he published the original edition of _Pure, White, and Deadly_ in 1972. Now, in this extensively rewritten and expanded edition, he reveals the new evidence about the dangers of sugar and its drastic consquences for our health. In everyday language Professor Yudkin explains how sugar consumption is linked to diabetes, heart and liver disease, dental caries and other conditions. He pays particular attention to its effects on young children and shows how they, like everyone else, can benefit from reduced sugar intake. He also examines the role of the sugar industry, which has made strenous efforts to dismiss the case against sugar."
 
+* **1972** - [_Dr. Atkins Diet Revolution_](https://www.amazon.com/Dr-Atkins-Diet-Revolution-Calorie/dp/B0006C4BC0/) by Dr. Robert Atkins M.D.
+
 * **1975** - [_The Stone Age Diet_](/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
     > This book is a study of the ecology of Man, as his environment has changed with (relatively) lightning-like rapidity from prehistorical to modern times, and to delineate the effect these changes have had on nutrition. An attempt will be made to answer the question: "Is modern Man actually better or worse off nutritionally than was his Stone Age forbear?"
     >
     > Writing this book has indeed been fun. While collecting material for the early chapters I was able to add greatly to my knowledge of comparative anatomy and physiology, how all various sorts of animals are constructed, and how their digestive tracts function. Later chapters led me into a fascinating world of the past, of anthropology and archaeology, which I embraced enthusiastically though amateurishly. Finally I ventured into the shadowy sphere of philosophy, explored some aspects of future food production, and have set down the dire predictions of population ecologists for the arrival of the 21st century. It has been thrilling to see how each bit of scientific data from such widely separated disciplines fitted together into a mosaic of such undeniable clarity that the aphorism: "That contrary to Nature cannot be fact"-was again verified, this time in the field of human dietetics and nutrition.
 
+
+
 * **1987** - [“The Worst Mistake in the History of the Human Race”](http://www.ditext.com/diamond/mistake.html) by Jared Diamond
 
     > "There are many things that we seldom question; the truth seems so evident and the answers obvious. One such sacred cow is the tremendous prosperity brought about by the agricultural revolution. This selection is a thought-provoking introduction to the connection between culture and agriculture. The transition from food foraging to farming (what archaeoloqists call the Neolithic revolution) may have been the worst mistake human history or its most important event. You be the judge. But for better or worse, this cultural evolution has occurred, and the world will never be the same again."
 
+* **1996** - [_Protein Power: The High-Protein/Low Carbohydrate Way to Lose Weight, Feel Fit, and Boost Your Health-in Just Weeks!_](https://www.amazon.com/gp/product/0553574752/) by Drs. Michael R and Mary Dan Eades
+
+    > "New York Times Bestseller - An effective, medically sound diet that lets you eat bacon, eggs, steak, even cheese? It's true!  Lose fat.  Feel fit.  Stop craving.  Without counting fat grams and without giving up the foods you love. Includes recipes for healthy meals to lose weight."
+    
+* **1997** - [_Dr. Bernstein's Diabetes Solution: The Complete Guide to Achieving Normal Blood Sugars_](https://www.amazon.com/Dr-Bernsteins-Diabetes-Solution-Achieving/dp/0316182699) by Dr. Richard K. Bernstein M.D. - New York
+
+    > "Originally published in 1997, DR. BERNSTEIN'S DIABETES SOLUTION is a unique resource that covers both adult- and childhood-onset diabetes, explains step-by-step how to normalize blood sugar levels and prevent or reverse complications, and offers detailed guidelines for establishing a treatment plan. Readers will find fifty gourmet recipes, in addition to a comprehensive discussion of diet, obesity, and new drugs to curb carbohydrate craving and overeating."
+
 ## 2000s
 
+* **2000** - [_Eat Fat, Get Thin!_]() by Barry Groves [Homo Carnivorus - What We Are Designed to Eat](http://highsteaks.com/homo-carnivorus-what-we-are-designed-to-eat-barry-groves/)
+
+    > "Do you like the idea of bacon and eggs for breakfast? Would you enjoy a lunch of roast salmon and a satisfying dinner accompanied by wine?
+    
+    > The EAT FAT GET THIN diet will allow you to do just that: the emphasis being on what you eat rather than how many calories the food contains. The rules are simple: keep your carbohydrates to a minimum by cutting out bread, potatoes and cereals, leave out the sugar, eat only the good fats and concentrate on protein rich foods.
+    
+    > The beauty of the EAT FAT GET THIN diet is that you will never go hungry. EAT FAT GET THIN proves that the diet on which it is most difficult to lose weight is a low-fat high carbohydrate diet. In fact, a century of studies and medical trials has consistently demonstrated that for safe wight loss a high fat diet is best."
+
+* **2005** - [_Fiber Menace_](https://www.gutsense.org) by Dr. Konstantin Monastyrsky
+
+* **2008** - [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462) by Gary Taubes
+
+* **2008** - [_Diabetes Epidemic & You_](https://www.amazon.com/Diabetes-Epidemic-You-Joseph-Kraft/dp/1425168094/) by Joseph R. Kraft
+
 * **2008** - [_Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains_](/docs/imagining-head-smashed-in-jack-w-brink.pdf)
+
+* **2008** - [_The Great Cholesterol Con: The Truth About What Really Causes Heart Disease and How to Avoid It by Malcolm Kendrick_](https://www.amazon.com/Great-Cholesterol-Really-Causes-Disease/dp/1844546101/) by Dr. Malcolm Kendrick
+
+* **2009** - [_Fat and Cholesterol are Good for You_](https://www.amazon.com/Fat-Cholesterol-are-Good-You/dp/919755538X/) by Dr. Uffe Ravnskov
+
+* **2009** - [_The Vegetarian Myth: Food, Justice, and Sustainability_](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability-ebook/dp/B003PJ7JXY/) by Lierre Keith
+
+* **2011** - [_Primal Body, Primal Mind & Primal Fat Burner_](https://www.amazon.com/Primal-Fat-Burner-Super-Power-High-Fat/dp/150111641X/) by Nora T. Gedgaudas, CNS, CNT
+
+* **2014** - [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz
 
 * **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/the-early-history-of-the-highfat-diet-for-diabetes-Henderson-2016.pdf) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
