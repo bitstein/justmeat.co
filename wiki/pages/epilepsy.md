@@ -45,7 +45,9 @@ The diet can lead to cholesterol levels that are considered unhealthy, although 
 For a discussion of other side effects, see:
 
 [2001] [The Ketogenic Diet: An Effective Medical Therapy With Side Effects](https://journals.sagepub.com/doi/pdf/10.1177/088307380101600901)
+
 [2004] [Early‐ and Late‐onset Complications of the Ketogenic Diet for Intractable Epilepsy](https://doi.org/10.1111/j.0013-9580.2004.10004.x) – This Korean paper reports side effects in children.
+
 [2009] [Optimal clinical management of children receiving the ketogenic diet: Recommendations of the International Ketogenic Diet Study Group](https://doi.org/10.1111/j.1528-1167.2008.01765.x) – Skip ahead to the section on Adverse effects of the KD.  It discusses the conflicting data on the effect of the KD on growth in children.
 
 **The diet is the treatment of choice for specific conditions**.  Table 1 of [this 2009 review paper](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1528-1167.2008.01765.x) lists epilepsy syndromes and other conditions where it is particularly beneficial:
@@ -109,5 +111,7 @@ See [this primer](https://obscurescience.com/2018/11/21/just-meat-the-un-western
 
 ## Resources
 
-* Reddit r/keto - [Search this Reddit community for "epilepsy"](https://www.reddit.com/r/keto/search?q=epilepsy&restrict_sr=1) or "seizures" on posts about the ketogenic diet's effect on epilepsy.
+* Reddit r/keto - [Search this Reddit community for "epilepsy"](https://www.reddit.com/r/keto/search?q=epilepsy&restrict_sr=1) or "seizures" to find posts about the ketogenic diet's effect on epilepsy.
+* Reddit r/epilepsy - Search this Reddit community for "[ketogenic](https://www.reddit.com/r/Epilepsy/search?q=ketogenic&restrict_sr=1)" or "[keto](https://www.reddit.com/r/Epilepsy/search?q=keto&restrict_sr=1)" to find relevant posts.
+* The [main JustMeat.co webpage](https://justmeat.co/) has many links to various carnivore communities on Reddit and Facebook.
 * [Epilepsy and unfashionable science](https://obscurescience.com/2019/01/27/epilepsy-and-unfashionable-science/) - This blog post discusses the various known causes of epilepsy, some of which are not typically screened for prior to treatment.
