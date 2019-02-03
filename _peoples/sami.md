@@ -1,6 +1,7 @@
 ---
 place: Europe
 layout: people
+current_tab: /peoples/
 ---
 
 > By this time I was heartily tired, and found the refreshment of some cow's milk, and meat, with a chair to sit upon, very acceptable. I could not but wonder to see my two Laplanders, who had accompanied me during the whole of this day's tedious walk, one of them fifty years of age, the other upwards of seventy, running and frisking about in sport, though each of them had carried a burthen all the way; not indeed a very heavy one, but, considering the distance, by no means trifling. This set me seriously to consider the question put by Dr. Rosen, "why are the Laplanders so swift-footed?" To which I answer, that it arises not from any one cause, but from the cooperation of many.

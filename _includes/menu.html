@@ -1,0 +1,18 @@
+<div class='menu'>
+  {% for item in site.data.menu %}
+
+    <a
+      href="{{ item.href }}"
+      {% if page.url == item.href or page.current_tab == item.href  %}
+        class="-active"
+      {% endif %}
+    >
+      {{ item.name }}
+
+      {% if item.new %}
+        <span class='badge-new'>new</span>
+      {% endif %}
+    </a>
+
+  {% endfor %}
+</div>

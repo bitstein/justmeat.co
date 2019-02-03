@@ -3,12 +3,10 @@ layout: default
 ---
 
 <div class="container col-md-8">
+  {% include breadcrumb.html backlink='/peoples/' %}
   <h2 class="text-center">{{page.title}}</h2>
-  <div class="navigation text-center">
-    <span><a href="/peoples/">Back</a></span>&bull;<span><a href="/">Home</a></span>
-  </div>
   {{ content }}
-  <div class="navigation text-center">
-    <span><a href="/peoples/">Back</a></span>&bull;<span><a href="/">Home</a></span>
-  </div>
+  <br>
+  <hr />
+  {% include breadcrumb.html backlink='/peoples/' %}
 </div>

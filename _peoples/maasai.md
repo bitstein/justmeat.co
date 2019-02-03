@@ -1,6 +1,7 @@
 ---
 place: Africa
 layout: people
+current_tab: /peoples/
 ---
 
 > _Masai Tribe._ The Masai are tall and strong. Fig. 39 shows a typical belle, also a Masai man who is much taller than our six-foot guide. It is interesting to study the methods of living and observe the accumulated wisdom of the Masai. They are reported to have known for over two hundred years that malaria was carried by mosquitoes, and further they have practiced exposing the members of their tribes who had been infected with syphilis by the Arabs to malaria to prevent the serious injuries resulting from the spirochetal infection. Yet modern medicine boasts of being the discoverers of this great principle of using malaria to prevent or relieve syphilitic infections of the spinal cord and brain.

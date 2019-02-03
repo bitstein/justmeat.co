@@ -1,0 +1,45 @@
+.menu {
+  margin: 0 -16px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -1px;
+
+  a {
+    display: inline-block;
+    line-height: 40px;
+    min-width: 120px;
+    position: relative;
+    overflow: hidden;
+    color: #212529;
+
+    &:visited { color: #212529 }
+
+    @media (max-width: 500px) {
+      min-width: inherit;
+      flex: 1;
+    }
+
+    &.-active {
+      font-weight: bold;
+      box-shadow: 0px -2px inset;
+      .badge-new { display: none; }
+    }
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    &:not(.-active) {
+      .badge-new {
+        height: 4px;
+        width: 4px;
+        border-radius: 50%;
+        background: #F40D1A;
+        display: block;
+        position: absolute;
+        left: 0; right: 0; margin: auto;
+        bottom: 5px;
+      }
+    }
+  }
+}
