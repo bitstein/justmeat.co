@@ -11,8 +11,8 @@
     overflow: hidden;
 
     @media (max-width: 500px) {
-      width: 33%;
       min-width: inherit;
+      flex: 1;
     }
 
     &.-active {
