@@ -29,7 +29,20 @@ blockquote {
   margin-bottom: 2rem;
   border-radius: 0;
   background-color: #fff;
-  box-shadow: 0px 1px 1px rgba(0,0,0,.2)
+  position: relative;
+  border-bottom: 1px solid #e0e1e3;
+
+  &:before {
+    position: absolute;
+    z-index: -1;
+    width: 99%;
+    bottom: 0;
+    height: 10px;
+    left: .5%;
+    border-radius: 100px / 2px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.1);
+    content: '';
+  }
 }
 .container-fluid {
   -webkit-columns: 3 350px;
