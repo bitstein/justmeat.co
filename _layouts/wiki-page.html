@@ -53,7 +53,7 @@ current_tab: '/wiki/'
     <h1>{{ page.title }}</h1>
     {{ content }}
   </section>
-  {% if page.url != '/wiki/'' %}
+  {% if page.url != '/wiki/' %}
     <br/>
     <hr />
     {% include breadcrumb.html backlink="/wiki/" %}
