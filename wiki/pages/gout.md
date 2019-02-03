@@ -1,7 +1,5 @@
 ---
 title: Gout
-categories: wiki
-current_tab: /wiki/
 ---
 
 * TOC

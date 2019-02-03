@@ -1,6 +1,5 @@
 ---
 title: Saturated Fat
-categories: wiki
 ---
 
 * TOC

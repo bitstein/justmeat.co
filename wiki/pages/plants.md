@@ -1,7 +1,5 @@
 ---
 title: Plants
-categories: wiki
-current_tab: /wiki/
 ---
 
 * TOC

@@ -38,6 +38,8 @@ defaults:
     values:
       layout: wiki-page
       permalink: /wiki/:basename/
+      current_tab: /wiki/
+      categories: wiki
 
 exclude:
   - Gemfile

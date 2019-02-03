@@ -1,6 +1,5 @@
 ---
 title: Special:Link Dump
-current_tab: /wiki/
 categories:
   - wiki
   - special

@@ -1,7 +1,5 @@
 ---
 title: Human Evolution
-categories: wiki
-current_tab: /wiki/
 ---
 
 **Human Evolution, Food, Digestion, Ketosis, Hunting and Meat, Adaptations, and Paleoanthropology**

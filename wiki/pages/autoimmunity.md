@@ -1,7 +1,5 @@
 ---
 title: Autoimmunity
-categories: wiki
-current_tab: /wiki/
 ---
 
 ## Summary

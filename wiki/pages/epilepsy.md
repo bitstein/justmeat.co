@@ -1,6 +1,5 @@
 ---
 title: Epilepsy
-categories: wiki
 ---
 
 * TOC

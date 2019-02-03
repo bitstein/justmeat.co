@@ -1,7 +1,5 @@
 ---
 title: History
-categories: wiki
-current_tab: /wiki/
 ---
 
 The carnivore diet draws on the works, ideas, experiences, observations, and studies of many people.

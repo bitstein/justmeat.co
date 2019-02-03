@@ -1,6 +1,5 @@
 ---
 title: Special:Suggestions
-current_tab: /wiki/
 categories:
   - wiki
   - special

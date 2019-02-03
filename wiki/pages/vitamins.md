@@ -1,7 +1,5 @@
 ---
 title: Vitamins
-current_tab: /wiki/
-categories: wiki
 ---
 
 * TOC

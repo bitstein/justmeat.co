@@ -1,6 +1,5 @@
 ---
 title: Protein
-categories: wiki
 ---
 
 * TOC

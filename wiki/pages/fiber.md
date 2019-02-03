@@ -1,7 +1,5 @@
 ---
 title: Fiber
-categories: wiki
-current_tab: /wiki/
 ---
 
 * TOC
