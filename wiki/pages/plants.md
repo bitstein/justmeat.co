@@ -1,6 +1,7 @@
 ---
 title: Plants
 categories: wiki
+current_tab: /wiki/
 ---
 
 * TOC
@@ -120,7 +121,7 @@ _It is probable that almost every fruit and vegetable in the supermarket contain
 
 [Major Antinutrients Found in Plant Protein Sources: Their Effect on Nutrition - FREE PDF - 2010 Pakistan Journal of Nutrition](https://www.researchgate.net/publication/49965865_Major_Antinutrients_Found_in_Plant_Protein_Sources_Their_Effect_on_Nutrition)
 
-**Abstract:** Compounds or substances which act to reduce nutrient intake, digestion, absorption and utilization and may produce other adverse effects are referred to as antinutrients or antinutritional factors. Seeds of legumes and other plant sources contain in their raw state wide varieties of antinutrients which are potentially toxic. The major antinutrients includes: toxic amino acids, saponins, cyanogenic glycosides, tannins, phytic acid, gossypol, oxalates, goitrogens, lectins (phytohaemagglutinins), protease inhibitors, chlorogenic acid and amylase inhibitors. These antinutrients pose a major constraint in the use of plant protein sources in livestock feeds without adequate and effective processing. The level or concentration of these anitnutrients in plant protein sources vary with the species of plant, cultivar and post-harvest treatments (processing methods). This paper reviews the nutritional effect of major antinutrients present in plant protein sources.  
+**Abstract:** Compounds or substances which act to reduce nutrient intake, digestion, absorption and utilization and may produce other adverse effects are referred to as antinutrients or antinutritional factors. Seeds of legumes and other plant sources contain in their raw state wide varieties of antinutrients which are potentially toxic. The major antinutrients includes: toxic amino acids, saponins, cyanogenic glycosides, tannins, phytic acid, gossypol, oxalates, goitrogens, lectins (phytohaemagglutinins), protease inhibitors, chlorogenic acid and amylase inhibitors. These antinutrients pose a major constraint in the use of plant protein sources in livestock feeds without adequate and effective processing. The level or concentration of these anitnutrients in plant protein sources vary with the species of plant, cultivar and post-harvest treatments (processing methods). This paper reviews the nutritional effect of major antinutrients present in plant protein sources.
 Key words: Antinutrients, plant protein, legumes
 
 **INTRODUCTION** Antinutrients or antinutritional factors may be defined as those substances generated in natural feedstuffs by the normal metabolism of species and by different mechanisms (for example inactivation of some nutrients, diminution of the digestive process or metabolic utilization of feed) which exerts effect contrary to optimum nutrition. Being an antinutritional factor is not an intrinsic characteristic of a compound but depends upon the digestive process of the ingesting animal. Trypsin inhibitors, which are antinutritional factors for monogastric animals, do not exert adverse effects in ruminants because they are degraded in the rumen (Cheeke and Shull, 1985). Many plant components have potential to precipitate adverse effects on the productivity of farm livestock. These compounds are present in the foliage and seeds of virtually every plant that is used in practical feeding (D’Mello, 2000).

@@ -1,6 +1,7 @@
 ---
 place: Asia
 layout: people
+current_tab: /peoples/
 ---
 
 > The food of the Mongols also consists of milk prepared in various ways, either as butter, curds, whey, or kumiss. The curds are made from the unskimmed milk, which is gently simmered over a slow fire, and then allowed to stand for some time, after which the thick cream is skimmed of and dried, and roasted millet often added to it. The whey is prepared from sour skimmed milk, and is made into small dry lumps of cheese. Lastly, the kumiss (_tarasum_), is prepared from mares' or sheep's milk; all through the summer it is considered the greatest luxury, and Mongols are in the habit of constantly riding to visit their friends and taste the tarasum till they generally become intoxicated. They are all inclined to indulge too freely, although drunkenness is not so rife among them as it is in some more civilised countries.

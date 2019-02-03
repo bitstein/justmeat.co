@@ -1,6 +1,7 @@
 ---
 title: Cancer
 categories: wiki
+current_tab: /wiki/
 ---
 
 * TOC
@@ -91,7 +92,7 @@ categories: wiki
 * [A Phase Ib Study of Alpelisib (BYL719), a PI3Kα-Specific Inhibitor, with Letrozole in ER+/HER2- Metastatic Breast Cancer.](https://www.ncbi.nlm.nih.gov/pubmed/27126994)
 * [Phosphorylation of TXNIP by AKT Mediates Acute Influx of Glucose in Response to Insulin.](https://www.ncbi.nlm.nih.gov/pubmed/28591573)
 
-    > **Abstract**  
+    > **Abstract**
     > Growth factors, such as insulin, can induce both acute and long-term glucose uptake into cells. Apart from the rapid, insulin-induced fusion of glucose transporter (GLUT)4 storage vesicles with the cell surface that occurs in muscle and adipose tissues, the mechanism behind acute induction has been unclear in other systems. Thioredoxin interacting protein (TXNIP) has been shown to be a negative regulator of cellular glucose uptake. TXNIP is transcriptionally induced by glucose and reduces glucose influx by promoting GLUT1 endocytosis. Here, we report that TXNIP is a direct substrate of protein kinase B (AKT) and is responsible for mediating AKT-dependent acute glucose influx after growth factor stimulation. Furthermore, TXNIP functions as an adaptor for the basal endocytosis of GLUT4 in vivo, its absence allows excess glucose uptake in muscle and adipose tissues, causing hypoglycemia during fasting. Altogether, TXNIP serves as a key node of signal regulation and response for modulating glucose influx through GLUT1 and GLUT4.
 
 * [Cancer metabolism gets physical](http://vivo.med.cornell.edu/display/pubid85047566023) [ Sci-Hub Full PDF](http://sci-hub.tw/10.1126/scitranslmed.aaq1011)
@@ -154,7 +155,7 @@ categories: wiki
     > Some are pointing at TMAO as a potential mechanism for meat to cause cancer, but it actually seems that insulin plays as part, and gut bacteria are also a major factor.  See this
 
 * [Dr Alex Rinehard - Red Meat and Heart Disease](https://info.dralexrinehart.com/articles/nutrition-benefits/red-meat-and-heart-disease)
-* [Listening to Our Gut: Contribution of Gut Microbiota and Cardiovascular Risk in Diabetes Pathogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832136/) .  
+* [Listening to Our Gut: Contribution of Gut Microbiota and Cardiovascular Risk in Diabetes Pathogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832136/) .
 * It is also shown that there are specific gut bacteria in the gut that cause TMAO accumulation doesn’t happen in mice that are simply given an antibiotic…  With the other gut bacteria die off that seems to be implied with the low fiber content of a carnivorous diet, it just might be that these gut bacteria die off and become irrelevant when we are pointing the finger regarding heart disease.
 
 * [Trimethylamine N-Oxide: The Good, the Bad and the Unknown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127123/)

@@ -1,6 +1,7 @@
 ---
 ---
 @import url('https://fonts.googleapis.com/css?family=Gentium+Basic');
+@import 'menu';
 
 body {
   font-family: 'Gentium Book Basic', serif;
@@ -24,9 +25,11 @@ blockquote {
 .jumbotron {
   text-align: center;
   padding: 2rem 1rem;
-  margin-bottom: 0rem;
+  padding-bottom: 0;
+  margin-bottom: 2rem;
   border-radius: 0;
   background-color: #fff;
+  box-shadow: 0px 1px 1px rgba(0,0,0,.2)
 }
 .container-fluid {
   -webkit-columns: 3 350px;
@@ -95,5 +98,15 @@ blockquote {
   ul {
     list-style: decimal;
     padding-left: 1.5em;
+  }
+}
+
+.breadcrumb {
+  background: none;
+  padding: 0;
+
+  a {
+    text-decoration: underline;
+    margin-right: 4px;
   }
 }

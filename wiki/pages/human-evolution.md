@@ -1,6 +1,7 @@
 ---
 title: Human Evolution
 categories: wiki
+current_tab: /wiki/
 ---
 
 **Human Evolution, Food, Digestion, Ketosis, Hunting and Meat, Adaptations, and Paleoanthropology**
@@ -104,9 +105,9 @@ The main question this wiki page is trying to answer is what kind of diet did mo
 | Guanaco                     | Herbivore/Foregut           | 7.3                     |
 > {:.table  .table-responsive .table-bordered}
 >
-> \*Obligate - Animals that depend solely on that diet.  
-> Generalist - Is able to thrive in a wide variety of environmental conditions and can make use of a variety of different resources.  
-> Specialist - Can thrive only in a narrow range of environmental conditions or has a limited diet. Eats only insects or fish as a carnivore, for example.  
+> \*Obligate - Animals that depend solely on that diet.
+> Generalist - Is able to thrive in a wide variety of environmental conditions and can make use of a variety of different resources.
+> Specialist - Can thrive only in a narrow range of environmental conditions or has a limited diet. Eats only insects or fish as a carnivore, for example.
 > Facultative - Does best on a said diet, but can survive-but-not-thrive on a different one.
 >
 > **Results**

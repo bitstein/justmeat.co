@@ -1,6 +1,7 @@
 ---
 place: North America
 layout: people
+current_tab: /peoples/
 ---
 
 > In his primitive state he has provided an example of physical excellence and dental perfection such as has seldom been excelled by any race in the past or present. We are concerned to know the secret of this great achievement since his circumscribed life greatly reduces the factors that may enter as controlling units in molding this excellence. While we are primarily concerned in this study with the characteristics of the Eskimo dentition and facial form and the effect upon it of his contact with modern civilization, we are also deeply concerned to know the formula of his nutrition in order that we may learn from it the secrets that will not only aid the unfortunate modern or so-called civilized races, but will also, if possible, provide means for assisting in their preservation.

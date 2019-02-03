@@ -1,5 +1,6 @@
 ---
 title: Vitamins
+current_tab: /wiki/
 categories: wiki
 ---
 
@@ -141,8 +142,8 @@ Below is a detailed analysis of the bioavailability of different plant foods and
 * [Vitamin K2](https://chrismasterjohnphd.com/advanced-results-mk-4/?type-of-food&category&typesMK=Total+Vitamin+K2&frm-page-3556=1)
 * [Vitamin A, polar bear and seal livers](https://www.onlineholistichealth.com/warning-polar-bear-livers/)
 * [Vitamin A, polar bear and seal livers](https://polarbearfacts.net/polar-bear-organs/)
-* [Bone composition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1062811/)    
-* [Bone composition](http://www.jbc.org/content/79/1/147.full.pdf)    
+* [Bone composition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1062811/)
+* [Bone composition](http://www.jbc.org/content/79/1/147.full.pdf)
 * [Bone composition](http://www.retrieverpro.com/dog-healthy-food-calcium/)
 * [Sulphur](http://apjcn.nhri.org.tw/server/info/books-phds/books/foodfacts/html/data/data5g.html)
 * [Chromium](http://apjcn.nhri.org.tw/server/info/books-phds/books/foodfacts/html/data/data5m.html)

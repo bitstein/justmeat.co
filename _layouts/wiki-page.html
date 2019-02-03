@@ -1,13 +1,13 @@
 ---
 layout: default
+current_tab: '/wiki/'
 ---
 
 <div class="wiki-container container col-md-8">
   {% if page.url != '/wiki/' %}
-  <div class="navigation text-center">
-    <span><a href="/wiki/">Wiki Index</a></span>&bull;<span><a href="/">Home</a></span>
-  </div>
+    {% include breadcrumb.html backlink="/wiki/" %}
   {% endif %}
+
   {% if page.url != '/wiki/' %}
     <ul class="nav nav-tabs mb-4">
     {% if page.categories contains 'talk' %}
@@ -53,7 +53,9 @@ layout: default
     <h1>{{ page.title }}</h1>
     {{ content }}
   </section>
-  <div class="navigation text-center">
-    <span>{% if page.url != '/wiki/' %}<a href="/wiki/">Back to Index</a></span>&bull;{% endif %}<span><a href="/">Home</a></span>
-  </div>
+  {% if page.url != '/wiki/'' %}
+    <br/>
+    <hr />
+    {% include breadcrumb.html backlink="/wiki/" %}
+  {% endif %}
 </div>

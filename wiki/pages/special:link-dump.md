@@ -1,5 +1,6 @@
 ---
 title: Special:Link Dump
+current_tab: /wiki/
 categories:
   - wiki
   - special
@@ -425,7 +426,7 @@ While the author's arguments were convincing, it sometimes feels he's drifting t
 * [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio-Individualized Therapies](https://www.amazon.com/Metabolic-Approach-Cancer-Integrating-Bio-Individualized/dp/1603586865/)
 
 ### Alzheimer's
-#### Amy Berger  
+#### Amy Berger
 * [Amy Berger - Alzheimer's Researcher](http://www.tuitnutrition.com/p/about-tuit-nutrition.html) ::: [@TuitNutrition](https://twitter.com/TuitNutrition)##
 
 * [The Alzheimer's Antidote: Using a Low-Carb, High-Fat Diet to Fight Alzheimer’s Disease, Memory Loss, and Cognitive Decline by Amy Berger, Perlmutter MD(2017, 57 reviews, 4.7 stars)](https://www.amazon.com/Alzheimers-Antidote-Low-Carb-High-Fat-Cognitive-ebook/dp/B06XTXLP2N/)

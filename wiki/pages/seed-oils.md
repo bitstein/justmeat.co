@@ -1,6 +1,7 @@
 ---
 title: Seed Oils
 categories: wiki
+current_tab: /wiki/
 ---
 
 ## Introduction

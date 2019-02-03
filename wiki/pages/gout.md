@@ -1,6 +1,7 @@
 ---
 title: Gout
 categories: wiki
+current_tab: /wiki/
 ---
 
 * TOC
@@ -242,7 +243,7 @@ A marked increase in gout was observed in England during the 17th to 20th centur
 
 * [High-Protein Diet (Atkins Diet) and Uric Acid Response](https://acrabstracts.org/abstract/high-protein-diet-atkins-diet-and-uric-acid-response/)
 
-**Background/Purpose** The conventional low-purine dietary approach to gout offers limited efficacy, palatability, and sustainability, and promotes increased consumption of refined carbohydrates and saturated fat that can actually worsen gout’s cardiovascular (CV)-metabolic comorbidities.  In contrast, effective dietary approaches to reduce CV-metabolic conditions (including obesity) could also lower serum uric acid (SUA) levels by lowering adiposity and insulin resistance.  Similarly, high-protein, low-carbohydrate diets such as the Atkins diet may lower SUA despite substantial purine loading and ketogenesis. Indeed, a small study (n=13) that employed a high-protein diet with reduced calories found that mean SUA levels decreased from 9.6 to 7.9 mg/dL, with reduced gout attacks over 16 weeks (Ann Rheum Dis 2000). Additional benefits included an improved lipid profile.  We investigated the SUA response to the Atkins diet among overweight or obese individuals over a 6 month period.  
+**Background/Purpose** The conventional low-purine dietary approach to gout offers limited efficacy, palatability, and sustainability, and promotes increased consumption of refined carbohydrates and saturated fat that can actually worsen gout’s cardiovascular (CV)-metabolic comorbidities.  In contrast, effective dietary approaches to reduce CV-metabolic conditions (including obesity) could also lower serum uric acid (SUA) levels by lowering adiposity and insulin resistance.  Similarly, high-protein, low-carbohydrate diets such as the Atkins diet may lower SUA despite substantial purine loading and ketogenesis. Indeed, a small study (n=13) that employed a high-protein diet with reduced calories found that mean SUA levels decreased from 9.6 to 7.9 mg/dL, with reduced gout attacks over 16 weeks (Ann Rheum Dis 2000). Additional benefits included an improved lipid profile.  We investigated the SUA response to the Atkins diet among overweight or obese individuals over a 6 month period.
 
 **Methods** Our study population was derived from the Dietary Intervention Randomized Controlled Trial (DIRECT) of overweight or obese participants (BMI ≥ 27).  The Atkins diet (i.e., high protein, low-carbohydrate, no calorie restriction) was one of DIRECT’s intervention groups and was a focus of the current analysis.  We used serum samples at -80°C to compare SUA levels at baseline and 6 months among 74 participants with complete datasets and analyzed the SUA level response as well as lipid profile, weight change, fasting insulin levels, and glucose levels.
 

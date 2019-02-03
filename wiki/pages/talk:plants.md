@@ -1,5 +1,6 @@
 ---
 title: Talk:Plants
+current_tab: /wiki/
 categories:
   - wiki
   - talk
