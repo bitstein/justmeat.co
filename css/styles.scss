@@ -83,6 +83,11 @@ blockquote {
   h2 {
     margin-bottom: 0.75rem;
   }
+
+  li, a {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
 }
 
 #markdown-toc {
