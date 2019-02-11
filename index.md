@@ -28,6 +28,7 @@ layout: home
         * [“Gout, Uric Acid, low carb / keto diets (kidney stones / function)”](http://highsteaks.com/f/index.php?topic=111.0) (A common question)
 * [My Zero Carb Life](http://myzerocarblife.jamesdhogan.com/wp/) (Kelly Williams Hogan)
     * [“My Doctor Said Lose 100 Pounds”](http://myzerocarblife.jamesdhogan.com/wp/2015/01/my-doctor-said-lose-100-pounds/)
+* [Carnivore Aurelius](https://carnivoreaurelius.com)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
 * [Diagnosis: Diet](http://www.diagnosisdiet.com/) (Georgia Ede, M.D.)
     * [“Vegetables”](http://www.diagnosisdiet.com/food/vegetables/)
@@ -135,6 +136,7 @@ layout: home
 * [Joe Andersen](https://twitter.com/JoeCharlene8898) (@JoeCharlene8898)
 * [Kelly Williams Hogan](https://twitter.com/kelly_hogan_zc) (@kelly_hogan_zc)
 * [GuyNAustin](https://twitter.com/GuyNAustin) (@GuyNAustin)
+* [Carnivore Aurelius](https://twitter.com/KetoAurelius) (@KetoAurelius)
 * [Carnivores Twitter List](https://twitter.com/sarahkaltsounis/lists/carnivores)
 
 ## Instagram
