@@ -157,6 +157,10 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1972** - [_Dr. Atkins Diet Revolution_](https://www.amazon.com/Dr-Atkins-Diet-Revolution-Calorie/dp/B0006C4BC0/) by Dr. Robert Atkins M.D.
 
+* **1972** - [1973 U.S. Senate Select Committee](https://mic.com/articles/138265/who-was-dr-atkins-here-s-the-man-behind-the-atkins-diet#.ZtzEpRHk7) by Frederick J. Stare - Chair of Harvard Nutrition
+
+    > "The Atkins Diet is nonsense... Any book that recommends unlimited amounts of meat, butter, and eggs, as this one does, in my opinion is dangerous. The author who makes the suggestion is guilty of malpractice."
+
 * **1975** - [_The Stone Age Diet_](/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
     > This book is a study of the ecology of Man, as his environment has changed with (relatively) lightning-like rapidity from prehistorical to modern times, and to delineate the effect these changes have had on nutrition. An attempt will be made to answer the question: "Is modern Man actually better or worse off nutritionally than was his Stone Age forbear?"
