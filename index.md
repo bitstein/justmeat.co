@@ -6,8 +6,13 @@ layout: home
 * [Empirica](http://www.empiri.ca/) (Amber O’Hearn)
     * [“Eat meat. Not too little. Mostly fat.”](http://www.empiri.ca/p/eat-meat-not-too-little-mostly-fat.html)
     * [“Amber O’Hearn at Ketofest 2017 - The Carnivorous Human”](https://www.youtube.com/watch?v=Y4VRp5ZFFRU) [YouTube]
+    * ["Guide To The Carnivore Diet" ](https://nutrita.app/guide-to-the-carnivore-diet/)
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
+* [Meat.Health](https://meat.health/)(Kevin Stock)
+    * ["30 Day Guide To Going Full Carnivore"](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
+    * ["How To Loose Fat On the Carnivore Diet"](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
+    * ["Health Dangers Of A Plant Based Diet"](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
     * [Full archive](http://web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php) of forum posts
     * _The Bear’s Words of Wisdom_, a full collection of the Bear’s writings ([ePub](docs/the-bear.epub), [mobi](docs/the-bear.mobi), [PDF](docs/the-bear.pdf))
@@ -96,6 +101,9 @@ layout: home
 * [_Defending Beef: The Case for Sustainable Meat Production_](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production/dp/1603585362) by Nicolette Hahn Niman [Amazon]
 * [_The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Living/dp/0983490708) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
 * [_The Art and Science of Low Carbohydrate Performance_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Performance/dp/0983490716) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
+* [Carnivore Diet: Why would it work? What about Nutrients and Fiber?](https://www.youtube.com/watch?v=isIw2AN_-XU) by "What I've Learned" [Youtube]
+* [Ketogenic Endurance](https://ketogenicendurance.com/)
+    * [Comtemporary Carnivore Diet](https://www.amazon.co.uk/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/)
 
 ## Wikis
 
@@ -174,6 +182,7 @@ layout: home
 * [Human Performance Outliers Podcast](https://humanperformanceoutliers.libsyn.com/) (Shawn Baker & Zach Bitter)
 * [The Carnivore Cast](https://www.carnivorecast.com/) (Scott Myslinski)
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
+* [Kevin Stock Radio](https://www.kevinstock.io/podcast/) (Kevin Stock)
 
 ## Telegram
 
