@@ -116,8 +116,9 @@ layout: home
 * [Zeroing In On Health](https://www.facebook.com/groups/zioh2/)
 * [Zero Carb Health](https://www.facebook.com/groups/ZeroCarbHealth/)
 * [World Carnivore Tribe](https://www.facebook.com/groups/worldcarnivoretribe/)
-* [Carnivore PKD Style Discussion Group](https://www.facebook.com/groups/1685052231589351/)
 * [Principia Carnivora](https://www.facebook.com/groups/PrincipiaCarnivora/)
+* [Carnivore Nation](https://www.facebook.com/groups/2181200018569706/)
+* [Carnivore PKD Style Discussion Group](https://www.facebook.com/groups/1685052231589351/)
 * [Zero Carb UK](https://www.facebook.com/groups/1573011526289147/)
 * [Bitcoin Carnivory](https://www.facebook.com/groups/1685637418161785/)
 
