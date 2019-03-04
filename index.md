@@ -9,7 +9,7 @@ layout: home
     * ["Guide To The Carnivore Diet" ](https://nutrita.app/guide-to-the-carnivore-diet/)
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
-* [Meat.Health](https://meat.health/)(Kevin Stock)
+* [Meat.Health](https://meat.health/) (Kevin Stock)
     * ["30 Day Guide To Going Full Carnivore"](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
     * ["How To Loose Fat On the Carnivore Diet"](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
     * ["Health Dangers Of A Plant Based Diet"](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
