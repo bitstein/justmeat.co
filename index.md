@@ -118,6 +118,7 @@ layout: home
 * [World Carnivore Tribe](https://www.facebook.com/groups/worldcarnivoretribe/)
 * [Principia Carnivora](https://www.facebook.com/groups/PrincipiaCarnivora/)
 * [Carnivore Nation](https://www.facebook.com/groups/2181200018569706/)
+* [Don’t Eat That](https://www.facebook.com/groups/2012494102387997/)
 * [Carnivore PKD Style Discussion Group](https://www.facebook.com/groups/1685052231589351/)
 * [Zero Carb UK](https://www.facebook.com/groups/1573011526289147/)
 * [Bitcoin Carnivory](https://www.facebook.com/groups/1685637418161785/)
