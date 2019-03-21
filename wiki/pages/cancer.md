@@ -15,14 +15,7 @@ title: Cancer as a Metabolic Disease
     
 * [The Origin of Cancer Metastasis by Seyfried, Huysentruyt - 2013](https://drive.google.com/file/d/0B5VUGOVnSBRCY2lvQjlkSHY2dXFhTzU3ckdPRWp6MXFEQlFv/view?usp=sharing)
     
-    >  Metastasis involves the spread of cancer cells from the primary tumor to surrounding tissues and to distant organs
-and is the primary cause of cancer morbidity and mortality. In order to complete the metastatic cascade, cancer cells must detach
-from the primary tumor, intravasate into the circulatory and lymphatic systems, evade immune attack, extravasate at distant capil-
-lary beds, and invade and proliferate in distant organs. Currently, several hypotheses have been advanced to explain the origin of cancer metastasis. These involve an epithelial mesenchymal transition, an accumulation of mutations in stem cells, a macrophage
-facilitation process, and a macrophage origin involving either transformation or fusion hybridization with neoplastic cells. Many
-of the properties of metastatic cancer cells are also seen in normal macrophages. A macrophage origin of metastasis can also
-explain the long-standing “seed and soil” hypothesis and the absence of metastasis in plant cancers. The view of metastasis as a
-macrophage metabolic disease can provide novel insight for therapeutic management.
+    >  Metastasis involves the spread of cancer cells from the primary tumor to surrounding tissues and to distant organs and is the primary cause of cancer morbidity and mortality. In order to complete the metastatic cascade, cancer cells must detach from the primary tumor, intravasate into the circulatory and lymphatic systems, evade immune attack, extravasate at distant capillary beds, and invade and proliferate in distant organs. Currently, several hypotheses have been advanced to explain the origin of cancer metastasis. These involve an epithelial mesenchymal transition, an accumulation of mutations in stem cells, a macrophage facilitation process, and a macrophage origin involving either transformation or fusion hybridization with neoplastic cells. Many of the properties of metastatic cancer cells are also seen in normal macrophages. A macrophage origin of metastasis can also explain the long-standing “seed and soil” hypothesis and the absence of metastasis in plant cancers. The view of metastasis as a macrophage metabolic disease can provide novel insight for therapeutic management.
 
 * [Cancer as a Metabolic Disease - 2014](https://drive.google.com/file/d/0B5VUGOVnSBRCWndQM2pscHlJXzNHSXBfMTdSdlVHZTdTZG9J/view?usp=sharing)
 
