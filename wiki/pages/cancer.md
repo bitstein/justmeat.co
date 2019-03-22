@@ -5,26 +5,35 @@ title: Cancer
 * TOC
 {:toc}
 
-## Benefits of Ketogenic Diet
-
-* [Beneficial effects of ketogenic diets for cancer patients: a realist review with focus on evidence and confirmation - 2017](https://link.springer.com/article/10.1007%2Fs12032-017-0991-5)
-* [Cancer: Disease of Civilization?](http://solus.life/stefansson/) by Vilhjalmur Stefansson
+## Researchers
 
 ### Dr. Thomas Seyfried
 
-* [Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer by Thomas Seyfried \(2010, 90 reviews, 4.3 stars\)](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920)
-* [Ketoscience AMA with Professor Thomas Seyfried - June 27th 2018](https://www.reddit.com/r/ketoscience/comments/8szcl0/ama_with_professor_thomas_seyfried/)
-* [Press-pulse: a novel therapeutic strategy for the metabolic management of cancer](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2)
-* [Thomas Seyfried, PhD -- Cancer as a Mitochondrial Metabolic Disease](https://www.youtube.com/watch?v=PuG5XZSR4vs)
-* [Cancer as a Metabolic Disease - What You Need to Know: Professor Thomas Seyfried](https://www.youtube.com/watch?v=0FALEe0EZUc)
-* [2 Keto Dudes #113 - Thomas Seyfried may have just cured Cancer](https://youtu.be/nIZLBSKyVW0?t=1005)
+* [Is the restricted ketogenic diet a viable alternative to the standard of care for managing malignant brain cancer? by Thomas Seyfried, Jeremy Marsha, Laura Shelton, Leanne Huysentruyt, Purna Mukherjeea - August 2011](https://cloudfront.escholarship.org/dist/prd/content/qt7v8176q8/qt7v8176q8.pdf)
 
-#### Published Works
+    > Malignant brain cancer persists as a major disease of morbidity and mortality. The failure to recognize brain cancer as a disease of energy metabolism has contributed in large part to the failure in management. As long as brain tumor cells have access to glucose and glutamine, the disease will progress. The current standard of care provides brain tumors with access to glucose and glutamine. The high fat low carbohydrate ketogenic diet (KD) will target glucose availability and possibly that of glutamine when administered in carefully restricted amounts to reduce total caloric intake and circulating levels of glucose. The restricted KD (RKD) targets major signaling pathways associated with glucose and glutamine metabolism including the IGF-1/PI3K/Akt/Hif pathway. The RKD is anti-angiogenic, anti-invasive, anti-inflammatory, and pro-apoptotic when evaluated in mice with malignant brain cancer. The therapeutic efficacy of the restricted KD can be enhanced when combined with drugs that also target glucose and glutamine. Therapeutic efficacy of the RKD was also seen against malignant gliomas in human case reports. Hence, the RKD can be an effective non-toxic therapeutic option to the current standard of care for inhibiting the growth and invasive properties of malignant brain cancer.
 
-* [The Origin of Cancer Metastasis](https://drive.google.com/file/d/0B5VUGOVnSBRCY2lvQjlkSHY2dXFhTzU3ckdPRWp6MXFEQlFv/view?usp=sharing)
-* [Cancer as a Metabolic Disease](https://drive.google.com/file/d/0B5VUGOVnSBRCWndQM2pscHlJXzNHSXBfMTdSdlVHZTdTZG9J/view?usp=sharing)
-* [Cancer as a Mitochondrial Metabolic Disease](https://drive.google.com/file/d/0B5VUGOVnSBRCZzQ1dUJMdklpTGo0Z01hWWZFUFBJQlpHd3I4/view?usp=sharing)
-* [Press-Pulse: a novel therapeutic strategy for the metabolic management of cancer](https://drive.google.com/file/d/0B5VUGOVnSBRCRTRGX1ppWmJBNW45ZmdzTG5rVFdKM2l4MWlZ/view?usp=sharing)
+* [The Origin of Cancer Metastasis by Seyfried, Huysentruyt - 2013](https://drive.google.com/file/d/0B5VUGOVnSBRCY2lvQjlkSHY2dXFhTzU3ckdPRWp6MXFEQlFv/view?usp=sharing)
+
+    >  Metastasis involves the spread of cancer cells from the primary tumor to surrounding tissues and to distant organs and is the primary cause of cancer morbidity and mortality. In order to complete the metastatic cascade, cancer cells must detach from the primary tumor, intravasate into the circulatory and lymphatic systems, evade immune attack, extravasate at distant capillary beds, and invade and proliferate in distant organs. Currently, several hypotheses have been advanced to explain the origin of cancer metastasis. These involve an epithelial mesenchymal transition, an accumulation of mutations in stem cells, a macrophage facilitation process, and a macrophage origin involving either transformation or fusion hybridization with neoplastic cells. Many of the properties of metastatic cancer cells are also seen in normal macrophages. A macrophage origin of metastasis can also explain the long-standing “seed and soil” hypothesis and the absence of metastasis in plant cancers. The view of metastasis as a macrophage metabolic disease can provide novel insight for therapeutic management.
+
+* [Cancer as a Metabolic Disease - 2014](https://drive.google.com/file/d/0B5VUGOVnSBRCWndQM2pscHlJXzNHSXBfMTdSdlVHZTdTZG9J/view?usp=sharing)
+
+    > Emerging evidence indicates that cancer is primarily a metabolic disease involving disturbances in energy production through respiration and fermentation. The genomic instability observed in tumor cells and all other recognized hallmarks of cancer are considered downstream epiphenomena of the initial disturbance of cellular energy metabolism. The disturbances in tumor cell energy metabolism can be linked to abnormalities in the structure and function of the mitochondria. When viewed as a mitochondrial metabolic disease, the evolutionary theory of Lamarck can better explain cancer progression than can the evolutionary theory of Darwin. Cancer growth and progression can be man- aged following a whole body transition from fermentable metabolites, primarily glucose and glutamine, to respiratory metabolites, primarily ketone bodies. As each individual is a unique metabolic entity, personalization of metabolic therapy as a broad-based cancer treatment strategy will require fine-tuning to match the therapy to an individual’s unique physiology.
+
+* [Cancer as a Mitochondrial Metabolic Disease - 2015](https://drive.google.com/file/d/0B5VUGOVnSBRCZzQ1dUJMdklpTGo0Z01hWWZFUFBJQlpHd3I4/view?usp=sharing)
+
+    > Cancer is widely considered a genetic disease involving nuclear mutations in oncogenes and tumor suppressor genes. This view persists despite the numerous inconsistencies associated with the somatic mutation theory. In contrast to the somatic mutation theory, emerging evidence suggests that cancer is a mitochondrial metabolic disease, according to the original theory of Otto Warburg. The findings are reviewed from nuclear cytoplasm transfer experiments that relate to the origin of cancer. The evidence from these experiments is difficult to reconcile with the somatic mutation theory, but is consistent with the notion that cancer is primarily a mitochondrial metabolic disease.
+
+* [Press-Pulse: a novel therapeutic strategy for the metabolic management of cancer - 2017](https://drive.google.com/file/d/0B5VUGOVnSBRCRTRGX1ppWmJBNW45ZmdzTG5rVFdKM2l4MWlZ/view?usp=sharing) [Nutrition&Metabolism](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-017-0178-2)
+
+    > **Background:** A shift from respiration to fermentation is a common metabolic hallmark of cancer cells. As a result, glucose and glutamine become the prime fuels for driving the dysregulated growth of tumors. The simultaneous occurrence of “Press-Pulse” disturbances was considered the mechanism responsible for reduction of organic populations during prior evolutionary epochs. Press disturbances produce chronic stress, while pulse disturbances produce acute stress on populations. It was only when both disturbances coincide that population reduction occurred. **Methods:** This general concept can be applied to the management of cancer by creating chronic metabolic stresses on tumor cell energy metabolism (press disturbance) that are coupled to a series of acute metabolic stressors that restrict glucose and glutamine availability while also stimulating cancer-specific oxidative stress (pulse disturbances). The elevation of non-fermentable ketone bodies protect normal cells from energy stress while further enhancing energy stress in tumor cells that lack the metabolic flexibility to use ketones as an efficient energy source. Mitochondrial abnormalities and genetic mutations make tumor cells vulnerable metabolic stress. **Results:** The press-pulse therapeutic strategy for cancer management is illustrated with calorie restricted ketogenic diets (KD-R) used together with drugs and procedures that create both chronic and intermittent acute stress on tumor cell energy metabolism, while protecting and enhancing the energy metabolism of normal cells. **Conclusions:** Optimization of dosing, timing, and scheduling of the press-pulse therapeutic strategy will facilitate the eradication of tumor cells with minimal patient toxicity. This therapeutic strategy can be used as a framework for the design of clinical trials for the non-toxic management of most cancers.
+
+* [Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer by Thomas Seyfried \(2010, 90 reviews, 4.3 stars\) - Excellent Book](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920)
+* [r/KetoScience AMA with Professor Thomas Seyfried - June 27th 2018](https://www.reddit.com/r/ketoscience/comments/8szcl0/ama_with_professor_thomas_seyfried/)
+* [Thomas Seyfried, PhD -- Cancer as a Mitochondrial Metabolic Disease - YouTube](https://www.youtube.com/watch?v=PuG5XZSR4vs)
+* [Cancer as a Metabolic Disease - What You Need to Know: Professor Thomas Seyfried - YouTube](https://www.youtube.com/watch?v=0FALEe0EZUc)
+* [2 Keto Dudes #113 - Thomas Seyfried may have just cured Cancer - YouTube](https://youtu.be/nIZLBSKyVW0?t=1005)
 
 ### Travis Christofferson, MS
 
@@ -49,7 +58,7 @@ title: Cancer
 * [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio\-Individualized Therapies](https://www.amazon.com/Metabolic-Approach-Cancer-Integrating-Bio-Individualized/dp/1603586865/)
 * [YouTube: Fasting, Cancer Prevention & Mitochondria Health - Dr. Nasha Winters](https://youtu.be/KvnzkoCfLno)
 
-### Colin Champ, MD
+### Dr. Colin Champ
 
 * [YouTube: Colin Champ, MD -- The Ketogenic Diet and Cancer: Teaching an Old Dog New Tricks](https://www.youtube.com/watch?v=gIKVsHbW1yQ)
 
@@ -58,13 +67,47 @@ title: Cancer
 * [YouTube: Dr. Dawn Lemanne - 'Carbohydrate Restriction in Cancer Therapy'](https://www.youtube.com/watch?v=8RvByLXyoYk)
 * [YouTube: 'The Roles of Intermittent Fasting and Carbohydrates in Cancer Therapy' - Dawn Lemanne, MD, MPH](https://www.youtube.com/watch?v=uG3lUgIvBZM)
 
-### Dominic D'Agostino
+### Dominic D'Agostino, Ph.D.
 
 * [YouTube: Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww)
 
-### Angela Poff, PhD
+
+### Sebastian Winter
+
+* [Role of ketogenic metabolic therapy in malignant glioma: A systematic review. by Winter, Loebel, Dietrich - 2017](https://www.ncbi.nlm.nih.gov/pubmed/28325264)
+
+    > BACKGROUND:  
+    > Coined as the "Warburg effect" and a recognized hallmark of cancer, energy metabolism is aberrantly geared towards aerobic glycolysis in most human cancers, including malignant glioma. Ketogenic metabolic therapy (KMT), i.e. nutritional intervention with ketogenic or low-glycemic diets, has been proposed as an anti-neoplastic strategy in glioma patients.
+    >
+    > MATERIALS AND METHODS:  
+    > We here review the rationale and existing data investigating KMT in management of patients with malignant glioma and discuss the promise and potential challenges of this novel strategy. Results from published clinical studies and ongoing clinical trials on the topic are systematically reviewed, including 6 published original articles and 10 ongoing clinical trials. Search criteria for this review entailed the databases MEDLINE, EMBASE, Cochrane CENTRAL, and Google Scholar, as well as ICTRP (WHO) and ClinicalTrials.gov (NIH) registries.
+    >
+    > RESULTS:  
+    > A substantial amount of preclinical literature demonstrates KMT efficacy and safety in model systems of malignant glioma. Clinical literature indicates KMT safety and feasibility; 2 clinical studies suggest KMT-associated anti-neoplastic efficacy and clinical benefit. Ongoing clinical trials address KMT safety and metabolic impact, patient compliance, and patient clinical/survival benefit.
+    >
+    > CONCLUSIONS:  
+    > While clinical evidence is still limited in this evolving field, increasing numbers of ongoing clinical trials suggest that KMT is emerging as a potential therapeutic option and might be combinable with existing anti-neoplastic treatments for malignant glioma. Emerging clinical data will help answer questions concerning safety and efficacy of KMT, and are aiming to identify the most promising KMT regimen, compatibility with other anti-cancer treatments, ethical aspects, and impact on quality of life of cancer patients.
+
+### Angela Poff PhD -- University of South Florida
 
 * [YouTube: Ketogenic Diet, Cancer Metabolism & The Warburg Effect w/ Angela Poff, PhD](https://www.youtube.com/watch?v=uKsoKtkvChA)
+* [Dr. Angela Poff on Exploiting Cancer Metabolism with Ketosis and Hyperbaric Oxygen - March 2019](https://blog.virtahealth.com/dr-angela-poff-cancer-ketosis-hyperbaric-oxygen/)
+
+    > "We think ketosis could provide the background for a variety of approaches that together could put extreme pressure on the tumor while reducing the side effects for the host."
+
+* [Targeting the Warburg effect for cancer treatment: Ketogenic diets for management of glioma. Poff, Koutnik, Egan, Sahebjam, D'Agostino, Kumar - 2018](https://www.ncbi.nlm.nih.gov/pubmed/29294371)
+
+    > Gliomas are a highly heterogeneous tumor, refractory to treatment and the most frequently diagnosed primary brain tumor. Although the current WHO grading system (2016) demonstrates promise towards identifying novel treatment modalities and better prediction of prognosis over time, to date, existing targeted and mono therapy approaches have failed to elicit a robust impact on disease progression and patient survival. It is possible that tumor heterogeneity as well as specifically targeted agents fail because redundant molecular pathways in the tumor make it refractory to such approaches. Additionally, the underlying metabolic pathology, which is significantly altered during neoplastic transformation and tumor progression, is unaccounted for. With several molecular and metabolic pathways implicated in the carcinogenesis of CNS tumors, including glioma, we postulate that a systemic, broad spectrum approach to produce robust targeting of relevant and multiple molecular and metabolic regulation of growth and survival pathways, critical to the modulation of hallmarks of carcinogenesis, without clinically limiting toxicity, may provide a more sustained impact on clinical outcomes compared to the modalities of treatment evaluated to date. The objective of this review is to examine the emerging hallmark of reprogramming energy metabolism of the tumor cells and the tumor microenvironment during carcinogenesis, and to provide a rationale for exploiting this hallmark and its biological capabilities as a target for secondary chemoprevention and treatment of glioma. This review will primarily focus on interventions to induce ketosis to target the glycolytic phenotype of many cancers, with specific application to secondary chemoprevention of low grade glioma- to halt the progression of lower grade tumors to more aggressive subtypes, as evidenced by reduction in validated intermediate endpoints of disease progression including clinical symptoms.
+
+### Andrew Koutnik, B.S.
+
+* [Andrew Koutnik, M.S.: Cancer Cachexia: Current and Future Therapeutics - Epigenix Foundation Lecture - YouTube](https://www.youtube.com/watch?v=_tf1XCsoqPY)
+* [Rethinking Nutrition for Type-1 Diabetics \| Andrew Koutnik \| TEDxUSF - YouTube](https://www.youtube.com/watch?v=eDfgulV_F6o)
+* [Delaying latency to hyperbaric oxygen-induced CNS oxygen toxicity seizures by combinations of exogenous ketone supplements.](https://www.ncbi.nlm.nih.gov/pubmed/30604923)
+
+### Dr. Adrienne Scheck
+
+* [Dr. Adrienne Scheck - Tumor Metabolism and the Ketogenic Diet  - 2018 Presentation at OSU - YouTube](https://www.youtube.com/watch?v=xjyh2lE8Wok)
 
 ### Dr. John Bergman
 
@@ -80,21 +123,11 @@ title: Cancer
 * [Brain tumour (glioblastoma) and paleo-ketogenic diet](https://www.paleomedicina.com/en/brain_tumor_glioblastoma_paleolithic_ketogenic_diet)
 * ["Every patient that received my initial treatment passed away" Interview with Andrew Scarborough](https://www.paleomedicina.com/en/every-patient-that-received-my-initial-treatment-passed-away-interview-with%20andrew-scarborough)
 
-### PI 3-Kinase
+### Nathan Ward, PhD at Moffett Cancer Center
 
-* [PI 3-Kinase: The Diabetes, Insulin Resistance, and Cancer Connection - Dr. Lewis Cantley NY](https://www.youtube.com/watch?v=Rr6ZhQATdzU)
-* [Suppression of insulin feedback enhances the efficacy of PI3K inhibitors](http://vivo.med.cornell.edu/display/pubid85051695315)
+* [Complex I inhibition augments dichloroacetate cytotoxicity through enhancing oxidative stress in VM-M3 glioblastoma cells by Nathan P. Ward, Angela M. Poff, Andrew P. Koutnik, Dominic P. D’Agostino](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180061)
 
-    > Mutations in PIK3CA, which encodes the p110α subunit of the insulin-activated phosphatidylinositol-3 kinase (PI3K), and loss of function mutations in PTEN, which encodes a phosphatase that degrades the phosphoinositide lipids generated by PI3K, are among the most frequent events in human cancers1,2. However, pharmacological inhibition of PI3K has resulted in variable clinical responses, raising the possibility of an inherent mechanism of resistance to treatment. As p110α mediates virtually all cellular responses to insulin, targeted inhibition of this enzyme disrupts glucose metabolism in multiple tissues. For example, blocking insulin signalling promotes glycogen breakdown in the liver and prevents glucose uptake in the skeletal muscle and adipose tissue, resulting in transient hyperglycaemia within a few hours of PI3K inhibition. The effect is usually transient because compensatory insulin release from the pancreas (insulin feedback) restores normal glucose homeostasis3. However, the hyperglycaemia may be exacerbated or prolonged in patients with any degree of insulin resistance and, in these cases, necessitates discontinuation of therapy3–6. We hypothesized that insulin feedback induced by PI3K inhibitors may reactivate the PI3K–mTOR signalling axis in tumours, thereby compromising treatment effectiveness7,8. Here we show, in several model tumours in mice, that systemic glucose–insulin feedback caused by targeted inhibition of this pathway is sufficient to activate PI3K signalling, even in the presence of PI3K inhibitors. This insulin feedback can be prevented using dietary or pharmaceutical approaches, which greatly enhance the efficacy/toxicity ratios of PI3K inhibitors. These findings have direct clinical implications for the multiple p110α inhibitors that are in clinical trials and provide a way to increase treatment efficacy for patients with many types of tumour.
-
-* [A Phase Ib Study of Alpelisib (BYL719), a PI3Kα-Specific Inhibitor, with Letrozole in ER+/HER2- Metastatic Breast Cancer.](https://www.ncbi.nlm.nih.gov/pubmed/27126994)
-* [Phosphorylation of TXNIP by AKT Mediates Acute Influx of Glucose in Response to Insulin.](https://www.ncbi.nlm.nih.gov/pubmed/28591573)
-
-    > **Abstract**
-    > Growth factors, such as insulin, can induce both acute and long-term glucose uptake into cells. Apart from the rapid, insulin-induced fusion of glucose transporter (GLUT)4 storage vesicles with the cell surface that occurs in muscle and adipose tissues, the mechanism behind acute induction has been unclear in other systems. Thioredoxin interacting protein (TXNIP) has been shown to be a negative regulator of cellular glucose uptake. TXNIP is transcriptionally induced by glucose and reduces glucose influx by promoting GLUT1 endocytosis. Here, we report that TXNIP is a direct substrate of protein kinase B (AKT) and is responsible for mediating AKT-dependent acute glucose influx after growth factor stimulation. Furthermore, TXNIP functions as an adaptor for the basal endocytosis of GLUT4 in vivo, its absence allows excess glucose uptake in muscle and adipose tissues, causing hypoglycemia during fasting. Altogether, TXNIP serves as a key node of signal regulation and response for modulating glucose influx through GLUT1 and GLUT4.
-
-* [Cancer metabolism gets physical](http://vivo.med.cornell.edu/display/pubid85047566023) [ Sci-Hub Full PDF](http://sci-hub.tw/10.1126/scitranslmed.aaq1011)
-* [Warning, real science ahead from a real scientist -- Tldr: Keto diet decreases resistance to inhibitors targeting the second most abundant genetic pathway across all cancers.](https://www.reddit.com/r/keto/comments/a41b9b/warning_real_science_ahead_from_a_real_scientist/)
+    > The robust glycolytic metabolism of glioblastoma multiforme (GBM) has proven them susceptible to increases in oxidative metabolism induced by the pyruvate mimetic dichloroacetate (DCA). Recent reports demonstrate that the anti-diabetic drug metformin enhances the damaging oxidative stress associated with DCA treatment in cancer cells. We sought to elucidate the role of metformin’s reported activity as a mitochondrial complex I inhibitor in the enhancement of DCA cytotoxicity in VM-M3 GBM cells. Metformin potentiated DCA-induced superoxide production, which was required for enhanced cytotoxicity towards VM-M3 cells observed with the combination. Similarly, rotenone enhanced oxidative stress resultant from DCA treatment and this too was required for the noted augmentation of cytotoxicity. Adenosine monophosphate kinase (AMPK) activation was not observed with the concentration of metformin required to enhance DCA activity. Moreover, addition of an activator of AMPK did not enhance DCA cytotoxicity, whereas an inhibitor of AMPK heightened the cytotoxicity of the combination. Our data indicate that metformin enhancement of DCA cytotoxicity is dependent on complex I inhibition. Particularly, that complex I inhibition cooperates with DCA-induction of glucose oxidation to enhance cytotoxic oxidative stress in VM-M3 GBM cells. Published: June 23, 2017
 
 ### Tucker Goodrich
 
@@ -111,6 +144,56 @@ title: Cancer
     > [Linoleic Acid](https://en.wikipedia.org/wiki/Linoleic_acid) (LA) in the diet is in fact required to induce cancer in animals experimentally. The cancer-promoting effects of LA increase as it increases in the diet. This effect plateaus at around 4.4% of total energy, well below levels of consumptions seen in industrial civilizations [58].
     >
     > One of the hallmark traits of cancer cells is the seemingly random mutations pervading unstable and disorganized nuclear genomes. There can be tens of thousands of mutations, much fewer than that [60] and sometimes none at all [61]. For many cancers, the theory of it resulting from a single mutation doesn’t hold for most cancers. HNE and [malondialdehyde](https://en.wikipedia.org/wiki/Malondialdehyde) (MDA) both damage DNA in vivo and HNE preferentially damages the p53 gene. The latter is part of the body’s natural cancer-control mechanism and is defective in colorectal and hepatocellular cancers [62, 63].
+
+## Ascorbate
+
+* [Anti-Cancer Effects of Ascorbic Acid and Hyperbaric Oxygen Therapy in vitro by Janine M. DeBlasi, Nathan P. Ward, Angela M. Poff, Andrew P. Koutnik, Christopher Q. Rogers, and Dominic P. D’Agostino](https://www.fasebj.org/doi/abs/10.1096/fasebj.31.1_supplement.879.4)
+
+    > Cancer is the second leading cause of death in the U.S., projected to take 595,690 lives in 2016 and cost the nation over 125 billion dollars. To effectively reduce these detrimental losses, non-toxic, low-cost therapies should be further examined to supplement the standard of care. An anti-carcinogenic, non-toxic therapy currently under investigation is high dose ascorbic acid (AA). AA can function as a pro-oxidant at pharmacological levels, delivering H2O2 to tumorous tissue upon oxidation and initiating cell death. At pharmacological concentrations (achieved i.v.), AA has shown significant anticancer effects in vitro, in vivo, and in small-scale human reports at concentrations nontoxic to normal cells, thus having great potential as an adjuvant to the standard of care. Hyperbaric oxygen therapy (HBOT) is another non-toxic, pro-oxidant metabolic therapy that delivers 100% oxygen at elevated barometric pressure, elevating tissue pO2 and oxygenating hypoxic tumor cells, which, coupled with high levels of reactive oxygen and nitrogen species present in cancer cells, can further augment oxidative stress (OxS) and lead to cell death. This study’s aims are as follows (1) to examine the anticancer effect of AA in vitro, (2) to evaluate the mechanism of AA-induced OxS, (3) to investigate the potential synergy between AA and HBOT. We anticipate that this approach will yield significant insight into and further investigate the hypothesis that AA and HBOT can supplement the current standard of care.
+    >
+    > To characterize the anticancer effects of AA in vitro, we measured cell viability and proliferation following treatment with varying concentrations of AA in mouse brain tumor-derived VM-M3 cells. It was found that AA mediates cell death in a concentration-dependent manner, with all tested concentrations ≥ 0.3mM AA significantly inducing cell death compared to control, specifically 0.3mM (p<0.05) and 0.5– 5mM (p=0.0001). Preliminary results also indicate that concentrations ≥ 0.05mM AA inhibit cell proliferation compared to control and 0.01mM AA.
+    >
+    > To investigate the role of OxS in AA-induced cytotoxicity, we measured VM-M3 cell viability in the presence of AA and antioxidant N-Acetylcysteine (NAC) and found that treatment with 5mM NAC attenuates the cytotoxic effect of AA (p<0.0001). To evaluate the role of H2O2 in AA-induced cytotoxicity, we will measure VM-M3 cell viability in the presence of AA and the antioxidant enzyme catalase. Consistent with the literature, we anticipate that treatment with 300 units/mL of catalase will attenuate the cytotoxic effect of AA in vitro.
+    >
+    >To determine if HBOT can enhance the therapeutic effect of AA, we measured measure VM-M3 cell viability following treatment with HBOT and AA. We found that HBOT significantly enhanced the cytotoxic effect of 0.3mM AA (p<0.001). To complete this aim, we will measure VM-M3 cell proliferation following treatment with HBOT, HBOT pre-treatment, and AA.
+    >
+    >This data indicates that AA exhibits anti-cancer effect in vitro through an OxS mechanism and that HBOT can enhance this therapeutic effect. These non-toxic, pro-oxidant metabolic therapies should be further investigated as adjuvants to the current standard of care.
+
+* [Pharmacological Ascorbic Acid and Hyperbaric Oxygen Therapy Target Tumor Cell Metabolism via an Oxidative Stress Mechanism](pdf to upload)
+* [High Dose Ascorbate Causes Both Genotoxic and Metabolic Stress in Glioma Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618086/)
+
+    > We have previously shown that exposure to high dose ascorbate causes double stranded breaks (DSBs) and a build-up in S-phase in glioblastoma (GBM) cell lines. Here we investigated whether or not this was due to genotoxic stress as well as metabolic stress generated by exposure to high dose ascorbate, radiation, ascorbate plus radiation and H2O2 in established and primary GBM cell lines. Genotoxic stress was measured as phosphorylation of the variant histone protein, H2AX, 8-oxo-7,8-dihydroguanine (8OH-dG) positive cells and cells with comet tails. Metabolic stress was measured as a decrease in NADH flux, mitochondrial membrane potential (by CMXRos), ATP levels (by ATP luminescence) and mitochondrial superoxide production (by mitoSOX). High dose ascorbate, ascorbate plus radiation, and H2O2 treatments induced both genotoxic and metabolic stress. Exposure to high dose ascorbate blocked DNA synthesis in both DNA damaged and undamaged cell of ascorbate sensitive GBM cell lines. H2O2 treatment blocked DNA synthesis in all cell lines with and without DNA damage. DNA synthesis arrest in cells with damaged DNA is likely due to both genotoxic and metabolic stress. However, arrest in DNA synthesis in cells with undamaged DNA is likely due to oxidative damage to components of the mitochondrial energy metabolism pathway.
+
+
+* [Increasing the Effectiveness of Intravenous Vitamin C as an Anticancer Agent - 2015](https://isom.ca/article/increasing-the-effectiveness-of-intravenous-vitamin-c-as-an-anticancer-agent/)
+
+    > Vitamin C has been mentioned as an agent with chemotherapeutic potential since 1952. Physiological concentrations of vitamin C (L-ascorbate or L-ascorbic acid) in the body are controlled through intestinal absorption, tissue accumulation, and renal reabsorption and excretion. Therefore, intravenous administration is used to achieve pharmacologic doses not attainable by other means. In relation to intravenous administration of ascorbate, high-dose intravenous vitamin C (>0.5 g/kg body weight) has several effects: cytotoxicity for cancer cells but not for normal cells; improved quality of life for cancer patients; protection of normal tissues from toxicity caused by chemotherapy; rein¬forcement of the action of radiation and some types of chemotherapy; immune system enhancement; and strengthening of collagen and hyaluronic acid. In this article we discuss important therapeutic variables that the clinician faces that are key for increasing the effectiveness of intravenous vitamin C as an anticancer agent.
+
+* [The Use of Intravenous Vitamin C as a Supportive Therapy for a Patient with Glioblastoma Multiforme](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6162462/)
+
+    > Glioblastoma multiforme is a high grade malignant brain tumour with a poor prognosis. Here we report the case of a woman with glioblastoma who lived for over four years from diagnosis (median survival 12 months and 2% survival for three years), experiencing good quality of life for most of that time. She underwent initial debulking craniotomy, radiotherapy and chemotherapy, as well as having intravenous vitamin C infusions 2–3 times weekly over the four years from diagnosis. Her progress was monitored by blood tests, regular computerised tomography (CT) and magnetic resonance imaging (MRI) scans, clinical reviews and European Organization for the Research and Treatment of Cancer quality of life questionnaires (EORTC QLQ C30). Our case report highlights the benefits of intravenous vitamin C as a supportive therapy for patients with glioblastoma.
+
+## PI 3-Kinase
+
+* [PI 3-Kinase: The Diabetes, Insulin Resistance, and Cancer Connection - Dr. Lewis Cantley NY](https://www.youtube.com/watch?v=Rr6ZhQATdzU)
+* [Increasing evidence of a strong connection between sugar and cancer - March 2019](https://medicalxpress.com/news/2019-03-evidence-strong-sugar-cancer.html)
+* [Suppression of insulin feedback enhances the efficacy of PI3K inhibitors](http://vivo.med.cornell.edu/display/pubid85051695315)
+
+    > Mutations in PIK3CA, which encodes the p110α subunit of the insulin-activated phosphatidylinositol-3 kinase (PI3K), and loss of function mutations in PTEN, which encodes a phosphatase that degrades the phosphoinositide lipids generated by PI3K, are among the most frequent events in human cancers1,2. However, pharmacological inhibition of PI3K has resulted in variable clinical responses, raising the possibility of an inherent mechanism of resistance to treatment. As p110α mediates virtually all cellular responses to insulin, targeted inhibition of this enzyme disrupts glucose metabolism in multiple tissues. For example, blocking insulin signalling promotes glycogen breakdown in the liver and prevents glucose uptake in the skeletal muscle and adipose tissue, resulting in transient hyperglycaemia within a few hours of PI3K inhibition. The effect is usually transient because compensatory insulin release from the pancreas (insulin feedback) restores normal glucose homeostasis3. However, the hyperglycaemia may be exacerbated or prolonged in patients with any degree of insulin resistance and, in these cases, necessitates discontinuation of therapy3–6. We hypothesized that insulin feedback induced by PI3K inhibitors may reactivate the PI3K–mTOR signalling axis in tumours, thereby compromising treatment effectiveness7,8. Here we show, in several model tumours in mice, that systemic glucose–insulin feedback caused by targeted inhibition of this pathway is sufficient to activate PI3K signalling, even in the presence of PI3K inhibitors. This insulin feedback can be prevented using dietary or pharmaceutical approaches, which greatly enhance the efficacy/toxicity ratios of PI3K inhibitors. These findings have direct clinical implications for the multiple p110α inhibitors that are in clinical trials and provide a way to increase treatment efficacy for patients with many types of tumour.
+
+* [A Phase Ib Study of Alpelisib (BYL719), a PI3Kα-Specific Inhibitor, with Letrozole in ER+/HER2- Metastatic Breast Cancer](https://www.ncbi.nlm.nih.gov/pubmed/27126994)
+* [Phosphorylation of TXNIP by AKT Mediates Acute Influx of Glucose in Response to Insulin](https://www.ncbi.nlm.nih.gov/pubmed/28591573)
+
+    > **Abstract**
+    > Growth factors, such as insulin, can induce both acute and long-term glucose uptake into cells. Apart from the rapid, insulin-induced fusion of glucose transporter (GLUT)4 storage vesicles with the cell surface that occurs in muscle and adipose tissues, the mechanism behind acute induction has been unclear in other systems. Thioredoxin interacting protein (TXNIP) has been shown to be a negative regulator of cellular glucose uptake. TXNIP is transcriptionally induced by glucose and reduces glucose influx by promoting GLUT1 endocytosis. Here, we report that TXNIP is a direct substrate of protein kinase B (AKT) and is responsible for mediating AKT-dependent acute glucose influx after growth factor stimulation. Furthermore, TXNIP functions as an adaptor for the basal endocytosis of GLUT4 in vivo, its absence allows excess glucose uptake in muscle and adipose tissues, causing hypoglycemia during fasting. Altogether, TXNIP serves as a key node of signal regulation and response for modulating glucose influx through GLUT1 and GLUT4.
+
+* [Cancer metabolism gets physical](http://vivo.med.cornell.edu/display/pubid85047566023) [ Sci-Hub Full PDF](http://sci-hub.tw/10.1126/scitranslmed.aaq1011)
+* [r/keto post: Warning, real science ahead from a real scientist -- Tldr: Keto diet decreases resistance to inhibitors targeting the second most abundant genetic pathway across all cancers.](https://www.reddit.com/r/keto/comments/a41b9b/warning_real_science_ahead_from_a_real_scientist/)
+
+## Benefits of Ketogenic Diet
+
+* [Beneficial effects of ketogenic diets for cancer patients: a realist review with focus on evidence and confirmation - 2017](https://link.springer.com/article/10.1007%2Fs12032-017-0991-5)
+* [Cancer: Disease of Civilization?](http://solus.life/stefansson/) by Vilhjalmur Stefansson
 
 ## Anecdotes / Case Studies
 
@@ -153,9 +236,8 @@ title: Cancer
     > Some are pointing at TMAO as a potential mechanism for meat to cause cancer, but it actually seems that insulin plays as part, and gut bacteria are also a major factor.  See this
 
 * [Dr Alex Rinehard - Red Meat and Heart Disease](https://info.dralexrinehart.com/articles/nutrition-benefits/red-meat-and-heart-disease)
-* [Listening to Our Gut: Contribution of Gut Microbiota and Cardiovascular Risk in Diabetes Pathogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832136/) .
+* [Listening to Our Gut: Contribution of Gut Microbiota and Cardiovascular Risk in Diabetes Pathogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832136/)
 * It is also shown that there are specific gut bacteria in the gut that cause TMAO accumulation doesn’t happen in mice that are simply given an antibiotic…  With the other gut bacteria die off that seems to be implied with the low fiber content of a carnivorous diet, it just might be that these gut bacteria die off and become irrelevant when we are pointing the finger regarding heart disease.
-
 * [Trimethylamine N-Oxide: The Good, the Bad and the Unknown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127123/)
 
 From the first article linked here about TMAO, initial questions immediately rise:
