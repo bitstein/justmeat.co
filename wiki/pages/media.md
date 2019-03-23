@@ -41,14 +41,27 @@ title: Media Appearances
 * [News.Com.Au: New diet claims you can lose weight eating only steaks and burgers](https://www.news.com.au/lifestyle/fitness/weight-loss/new-diet-claims-you-can-lose-weight-eating-only-steaks-and-burgers/news-story/8827331ce27e199e3f10cbdc296a3c40) AUGUST 5, 2018
 
 * [Inquisitr: PETA Takes Life Insurance Policy Out On A Carnivore Dieter, Hopes To Turn Him Vegan](https://www.inquisitr.com/5014032/peta-takes-life-insurance-policy-out-on-a-carnivore-dieter-hopes-to-turn-him-vegan/)
+
 * [Results of my 30 day carnivore diet experiment 🥩](https://medium.com/@ketocoder/results-of-my-30-day-carnivore-diet-experiment-541409b2484a)
+
 * [Self: I'm a Registered Dietitian and I Really Don't Want You to Eat a Carnivore Diet](https://www.self.com/story/im-a-registered-dietitian-and-i-really-dont-want-you-to-eat-a-carnivore-diet) August 7th, 2018
+
 * [Outside Online: What I Learned from a Month on the Carnivore Diet Andrew Zaleski - Jan 22, 2019](https://www.outsideonline.com/2382501/shawn-baker-carnivore-diet-test)
+
 * [NBCNews: TRENDS TO TOSS (OR MODERATE) IN 2019 CARNIVORE DIET](https://www.nbcnews.com/better/pop-culture/diet-nutrition-trends-keep-toss-2019-ncna952286)
+
 * [Eating brains and bones saved my life: Vegan, 25, gave up her 'raw' diet of fruit and vegetables for a meat-ONLY menu because the lack of nutrients was 'killing her' Alma-Jade Chanter was vegan since 13 after watching campaign videos. She lost hair, weight, and teeth from her restrictive 'raw' diet of fruit and veg. Doctors urged her to change after an autoimmune disease diagnosis.She now eats up to 2kg of animal a day and says she is 'free of pain'](https://www.dailymail.co.uk/health/article-6812893/Eating-bones-brains-saved-Vegan-gave-plant-based-diet-killing-her.html)
+
 * [The Telegraph: Meat only: I spent a week on the controversial carnivore diet... and felt fantastic](https://www.telegraph.co.uk/health-fitness/nutrition/meat-spent-week-controversial-carnivore-diet-felt-fantastic/)
+
 * [PlantBasedNews: 'Vegan Backlash Has Begun: Carnivore Diet Is Becoming Popular' Claims Major Newspaper: According to the Mail Online, an increasing number of people are opting for all-meat diets, rejecting plant-based foods in favor of high-protein options](https://www.plantbasednews.org/post/vegan-backlash-carnivore-diet-popular)
+
 * [Newsweek: WHAT IS THE CARNIVORE DIET? ALL MEAT MENU IS PART BAD NUTRITION, PART TROLLING](https://www.newsweek.com/carnivore-diet-what-meat-menu-eggs-keto-jordan-peterson-zero-carb-plan-1352342)
+
 * [Muscle for life: Should You Try the Carnivore Diet? What 74 Studies Say](https://www.muscleforlife.com/carnivore-diet/)
+
 * [The Insane Meat-Only Diet These Mega-Carnivores Are Peddling: The ‘carnivore diet’—popularized by the alt-right and bitcoin enthusiasts—is touted as a way to lose weight and ease depression. But scientists say don’t toss your kale just yet.](https://www.thedailybeast.com/the-insane-meat-only-diet-these-mega-carnivores-are-peddling)
+
 * [USNews: What to Know About the Carnivore Diet The meat-centric diet bucks science and conventional wisdom about the benefits of plant-based eating.](https://health.usnews.com/wellness/food/articles/2019-01-29/what-is-the-carnivore-diet)
+
+* [Telegraph Herald: What I learned from doing Carnivore Diet for 30 days](https://www.reddit.com/r/KetoNews/comments/b4g4zq/oncologist_tries_the_carnivore_diet_for_30_days/)
