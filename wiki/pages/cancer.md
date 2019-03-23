@@ -10,7 +10,6 @@ title: Cancer
 ### Dr. Thomas Seyfried
 
 * [Twitter: Author of Cancer as a Metabolic Disease. Boston College professor. #cancer will be managed with metabolic therapies.](https://twitter.com/tnseyfried)
-
 * [Is the restricted ketogenic diet a viable alternative to the standard of care for managing malignant brain cancer? by Thomas Seyfried, Jeremy Marsha, Laura Shelton, Leanne Huysentruyt, Purna Mukherjeea - August 2011](https://cloudfront.escholarship.org/dist/prd/content/qt7v8176q8/qt7v8176q8.pdf)
 
     > Malignant brain cancer persists as a major disease of morbidity and mortality. The failure to recognize brain cancer as a disease of energy metabolism has contributed in large part to the failure in management. As long as brain tumor cells have access to glucose and glutamine, the disease will progress. The current standard of care provides brain tumors with access to glucose and glutamine. The high fat low carbohydrate ketogenic diet (KD) will target glucose availability and possibly that of glutamine when administered in carefully restricted amounts to reduce total caloric intake and circulating levels of glucose. The restricted KD (RKD) targets major signaling pathways associated with glucose and glutamine metabolism including the IGF-1/PI3K/Akt/Hif pathway. The RKD is anti-angiogenic, anti-invasive, anti-inflammatory, and pro-apoptotic when evaluated in mice with malignant brain cancer. The therapeutic efficacy of the restricted KD can be enhanced when combined with drugs that also target glucose and glutamine. Therapeutic efficacy of the RKD was also seen against malignant gliomas in human case reports. Hence, the RKD can be an effective non-toxic therapeutic option to the current standard of care for inhibiting the growth and invasive properties of malignant brain cancer.
@@ -77,13 +76,9 @@ title: Cancer
 ### Dominic D'Agostino, Ph.D.
 
 * [Scientist, Believer, Aquanaut, Love my Wife, Nature, Dogs, SCUBA, Space, Shooting, Motorcycles, Neuroscience and Nutrition - Tampa, FL](https://twitter.com/DominicDAgosti2)
-
 * [KetoNutrition Science](https://www.ketonutrition.org/science)
-
 * [Ketogenic Diet and Metabolic Therapies Book](https://global.oup.com/academic/product/ketogenic-diet-and-metabolic-therapies-9780190497996?cc=us&lang=en&b)
-
 * [Targeting the Warburg effect for Cancer Treatment: Ketogenic Diets for Management of GliomaTargeting the Warburg effect for Cancer Treatment: Ketogenic Diets for Management of Glioma.Seminars in Cancer Biology](https://www.academia.edu/35611327/Targeting_the_Warburg_effect_for_Cancer_Treatment_Ketogenic_Diets_for_Management_of_GliomaTargeting_the_Warburg_effect_for_Cancer_Treatment_Ketogenic_Diets_for_Management_of_Glioma.Seminars_in_Cancer_Biology)
-
 * [YouTube: Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww)
 
 ### Dr. Sebastian Winter
@@ -118,7 +113,6 @@ title: Cancer
 * [Twitter: USF Morsani College of Medicine](https://twitter.com/AKoutnik)
 * [Andrew Koutnik, M.S.: Cancer Cachexia: Current and Future Therapeutics - Epigenix Foundation Lecture - YouTube](https://www.youtube.com/watch?v=_tf1XCsoqPY)
 * [Delaying latency to hyperbaric oxygen-induced CNS oxygen toxicity seizures by combinations of exogenous ketone supplements.](https://www.ncbi.nlm.nih.gov/pubmed/30604923)
-
 * [Anticatabolic Effects of Ketone Bodies in Skeletal Muscle by Andrew P.Koutnik, Dominic P.D’Agostino, Brendan Egan - April 2019](https://www.sciencedirect.com/science/article/pii/S1043276019300128?dgcid=coauthor)
 
 ### Dr. Adrienne Scheck
@@ -207,13 +201,14 @@ title: Cancer
 * [Cancer metabolism gets physical](http://vivo.med.cornell.edu/display/pubid85047566023) [ Sci-Hub Full PDF](http://sci-hub.tw/10.1126/scitranslmed.aaq1011)
 * [r/keto post: Warning, real science ahead from a real scientist -- Tldr: Keto diet decreases resistance to inhibitors targeting the second most abundant genetic pathway across all cancers.](https://www.reddit.com/r/keto/comments/a41b9b/warning_real_science_ahead_from_a_real_scientist/)
 
-## Fructose 
+## Fructose
 
 * [Asst Prof and Endocrinologist @WeillCornell. MD/PhD with specialty in muscle growth, metabolism, diabetes, obesity, exercise, diet, and cancer. NYJ/NYY/NYCFC](https://twitter.com/MarcusDGon)
 * [High-fructose corn syrup enhances intestinal tumor growth in mice](http://science.sciencemag.org/content/363/6433/1345.full)
+
     > Obesity increases an individual's risk of developing many types of cancer, including colorectal cancer. One of the factors driving the rise in obesity rates is thought to be the use of high-fructose corn syrup (HFCS) as a sweetener in soft drinks. Goncalves et al. found that ingestion of HFCS promotes the growth of intestinal cancer even in the absence of obesity in mouse tumor models. An enzyme in tumors (ketohexokinase) converts fructose to fructose-1-phosphate, which alters tumor cell metabolism and leads to enhanced cell growth. Whether a similar process occurs in humans remains to be seen.
 
-    > **Abstract**
+    > **Abstract**  
     > Excessive consumption of beverages sweetened with high-fructose corn syrup (HFCS) is associated with obesity and with an increased risk of colorectal cancer. Whether HFCS contributes directly to tumorigenesis is unclear. We investigated the effects of daily oral administration of HFCS in adenomatous polyposis coli (APC) mutant mice, which are predisposed to develop intestinal tumors. The HFCS-treated mice showed a substantial increase in tumor size and tumor grade in the absence of obesity and metabolic syndrome. HFCS increased the concentrations of fructose and glucose in the intestinal lumen and serum, respectively, and the tumors transported both sugars. Within the tumors, fructose was converted to fructose-1-phosphate, leading to activation of glycolysis and increased synthesis of fatty acids that support tumor growth. These mouse studies support the hypothesis that the combination of dietary glucose and fructose, even at a moderate dose, can enhance tumorigenesis.
 
 ## Benefits of Ketogenic Diet
@@ -288,6 +283,7 @@ From the first article linked here about TMAO, initial questions immediately ris
     > “When it comes to food, vegetables are the primary source of nitrites. On average, about 93% of nitrites we get from food come from vegetables. It may shock you to learn that one serving of arugula, two servings of butter lettuce, and four servings of celery or beets all have more nitrite than 467 hot dogs. (2) And your own saliva has more nitrites than all of them! So before you eliminate cured meats from your diet, you might want to address your celery intake. And try not to swallow so frequently.”
 
 * [Fructose consumption and cancer: is there a connection?](https://www.ncbi.nlm.nih.gov/pubmed/22922366)
+
     > “Whereas glucose favors overall growth kinetics, fructose enhances protein synthesis and appears to promote a more aggressive cancer phenotype”
 
     > “If you overfeed someone with fat, you don’t increase their cancer risk at all. If you overfeed someone with carbohydrates, you dramatically increase their cancer risk. Protein is half way in between.”
