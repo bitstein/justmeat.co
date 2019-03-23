@@ -9,6 +9,7 @@ title: Cancer
 
 ### Dr. Thomas Seyfried
 
+* [Twitter: Author of Cancer as a Metabolic Disease. Boston College professor. #cancer will be managed with metabolic therapies.](https://twitter.com/tnseyfried)
 * [Is the restricted ketogenic diet a viable alternative to the standard of care for managing malignant brain cancer? by Thomas Seyfried, Jeremy Marsha, Laura Shelton, Leanne Huysentruyt, Purna Mukherjeea - August 2011](https://cloudfront.escholarship.org/dist/prd/content/qt7v8176q8/qt7v8176q8.pdf)
 
     > Malignant brain cancer persists as a major disease of morbidity and mortality. The failure to recognize brain cancer as a disease of energy metabolism has contributed in large part to the failure in management. As long as brain tumor cells have access to glucose and glutamine, the disease will progress. The current standard of care provides brain tumors with access to glucose and glutamine. The high fat low carbohydrate ketogenic diet (KD) will target glucose availability and possibly that of glutamine when administered in carefully restricted amounts to reduce total caloric intake and circulating levels of glucose. The restricted KD (RKD) targets major signaling pathways associated with glucose and glutamine metabolism including the IGF-1/PI3K/Akt/Hif pathway. The RKD is anti-angiogenic, anti-invasive, anti-inflammatory, and pro-apoptotic when evaluated in mice with malignant brain cancer. The therapeutic efficacy of the restricted KD can be enhanced when combined with drugs that also target glucose and glutamine. Therapeutic efficacy of the RKD was also seen against malignant gliomas in human case reports. Hence, the RKD can be an effective non-toxic therapeutic option to the current standard of care for inhibiting the growth and invasive properties of malignant brain cancer.
@@ -41,7 +42,9 @@ title: Cancer
 * [YouTube: Travis Christofferson, MS -- Cancer 2.0: A Paradigm Shift](https://www.youtube.com/watch?v=ownKQ6xjeg0)
 * [YouTube: Ep. 31 - Travis Chistofferson: Ketosis, Hyperbaric Oxygen, & Cancer Therapy](https://www.youtube.com/watch?v=UTUDGS20VN0)
 
-### Richard David Feinman & Eugene Fine
+### Dr Richard David Feinman & Dr Eugene Fine
+
+* [Twitter: Biochemistry Professor & Founder of the Nutrition & Metabolism Society - Brooklyn, NY](https://twitter.com/DrFeinman)
 
 * [Targeting insulin inhibition as a metabolic therapy in advanced cancer: a pilot safety and feasibility dietary trial in 10 patients](https://www.ncbi.nlm.nih.gov/pubmed/22840388)
 * [YouTube: Ketogenic Cancer Therapy – Dr. Eugene Fine (Full Interview)](https://www.youtube.com/watch?v=io86CEIiWHE)
@@ -50,11 +53,13 @@ title: Cancer
 
 ### Miriam Kalamian
 
+* [Keto nutrition educator/author/speaker specializing in therapeutic ketogenic diets for cancer, brain tumors, Parkinson's, and healthy aging](https://twitter.com/DietaryTherapy)
 * [Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy by Miriam Kalamian \(2017, 18 reviews, 5 stars\)](https://www.amazon.com/Keto-Cancer-Ketogenic-Metabolic-Nutritional-ebook/dp/B076KDY8FR/)
 * [Miriam Kalamian -- Optimizing KD therapy to meet the diverse needs of individuals](https://youtu.be/kRJallNStdc)
 
 ### Dr. Nasha Winters ND FABNO L.Ac Dipl.OM
 
+* [Twitter](https://twitter.com/drnashawinters) [Dr Nasha](https://www.drnasha.com/)
 * [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio\-Individualized Therapies](https://www.amazon.com/Metabolic-Approach-Cancer-Integrating-Bio-Individualized/dp/1603586865/)
 * [YouTube: Fasting, Cancer Prevention & Mitochondria Health - Dr. Nasha Winters](https://youtu.be/KvnzkoCfLno)
 
@@ -64,15 +69,19 @@ title: Cancer
 
 ### Dr. Dawn Lemanne
 
+* [Twitter](https://twitter.com/Dr_Citrus)
 * [YouTube: Dr. Dawn Lemanne - 'Carbohydrate Restriction in Cancer Therapy'](https://www.youtube.com/watch?v=8RvByLXyoYk)
 * [YouTube: 'The Roles of Intermittent Fasting and Carbohydrates in Cancer Therapy' - Dawn Lemanne, MD, MPH](https://www.youtube.com/watch?v=uG3lUgIvBZM)
 
 ### Dominic D'Agostino, Ph.D.
 
+* [Scientist, Believer, Aquanaut, Love my Wife, Nature, Dogs, SCUBA, Space, Shooting, Motorcycles, Neuroscience and Nutrition - Tampa, FL](https://twitter.com/DominicDAgosti2)
+* [KetoNutrition Science](https://www.ketonutrition.org/science)
+* [Ketogenic Diet and Metabolic Therapies Book](https://global.oup.com/academic/product/ketogenic-diet-and-metabolic-therapies-9780190497996?cc=us&lang=en&b)
+* [Targeting the Warburg effect for Cancer Treatment: Ketogenic Diets for Management of GliomaTargeting the Warburg effect for Cancer Treatment: Ketogenic Diets for Management of Glioma.Seminars in Cancer Biology](https://www.academia.edu/35611327/Targeting_the_Warburg_effect_for_Cancer_Treatment_Ketogenic_Diets_for_Management_of_GliomaTargeting_the_Warburg_effect_for_Cancer_Treatment_Ketogenic_Diets_for_Management_of_Glioma.Seminars_in_Cancer_Biology)
 * [YouTube: Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww)
 
-
-### Sebastian Winter
+### Dr. Sebastian Winter
 
 * [Role of ketogenic metabolic therapy in malignant glioma: A systematic review. by Winter, Loebel, Dietrich - 2017](https://www.ncbi.nlm.nih.gov/pubmed/28325264)
 
@@ -99,11 +108,12 @@ title: Cancer
 
     > Gliomas are a highly heterogeneous tumor, refractory to treatment and the most frequently diagnosed primary brain tumor. Although the current WHO grading system (2016) demonstrates promise towards identifying novel treatment modalities and better prediction of prognosis over time, to date, existing targeted and mono therapy approaches have failed to elicit a robust impact on disease progression and patient survival. It is possible that tumor heterogeneity as well as specifically targeted agents fail because redundant molecular pathways in the tumor make it refractory to such approaches. Additionally, the underlying metabolic pathology, which is significantly altered during neoplastic transformation and tumor progression, is unaccounted for. With several molecular and metabolic pathways implicated in the carcinogenesis of CNS tumors, including glioma, we postulate that a systemic, broad spectrum approach to produce robust targeting of relevant and multiple molecular and metabolic regulation of growth and survival pathways, critical to the modulation of hallmarks of carcinogenesis, without clinically limiting toxicity, may provide a more sustained impact on clinical outcomes compared to the modalities of treatment evaluated to date. The objective of this review is to examine the emerging hallmark of reprogramming energy metabolism of the tumor cells and the tumor microenvironment during carcinogenesis, and to provide a rationale for exploiting this hallmark and its biological capabilities as a target for secondary chemoprevention and treatment of glioma. This review will primarily focus on interventions to induce ketosis to target the glycolytic phenotype of many cancers, with specific application to secondary chemoprevention of low grade glioma- to halt the progression of lower grade tumors to more aggressive subtypes, as evidenced by reduction in validated intermediate endpoints of disease progression including clinical symptoms.
 
-### Andrew Koutnik, B.S.
+### Andrew Koutnik, M.S.
 
+* [Twitter: USF Morsani College of Medicine](https://twitter.com/AKoutnik)
 * [Andrew Koutnik, M.S.: Cancer Cachexia: Current and Future Therapeutics - Epigenix Foundation Lecture - YouTube](https://www.youtube.com/watch?v=_tf1XCsoqPY)
-* [Rethinking Nutrition for Type-1 Diabetics \| Andrew Koutnik \| TEDxUSF - YouTube](https://www.youtube.com/watch?v=eDfgulV_F6o)
 * [Delaying latency to hyperbaric oxygen-induced CNS oxygen toxicity seizures by combinations of exogenous ketone supplements.](https://www.ncbi.nlm.nih.gov/pubmed/30604923)
+* [Anticatabolic Effects of Ketone Bodies in Skeletal Muscle by Andrew P.Koutnik, Dominic P.D’Agostino, Brendan Egan - April 2019](https://www.sciencedirect.com/science/article/pii/S1043276019300128?dgcid=coauthor)
 
 ### Dr. Adrienne Scheck
 
@@ -115,6 +125,7 @@ title: Cancer
 
 ### Dr. Darren Schmidt
 
+* [Bankrupting Drug Co’s #LCHF #keto #supplements. FTP=Follow The Physiology. Mechansim of chronic dz=lactic acidosis. Taught 3700 dr’s at seminars. +100k YT subs](https://twitter.com/realfoodcures)
 * [YouTube: Fasting kills cancer](https://www.youtube.com/watch?v=xJZrgyPRgY0)
 
 ### Paleomedicina - Dr. Csaba Tóth, Dr. Zsófia Clemens
@@ -190,6 +201,16 @@ title: Cancer
 * [Cancer metabolism gets physical](http://vivo.med.cornell.edu/display/pubid85047566023) [ Sci-Hub Full PDF](http://sci-hub.tw/10.1126/scitranslmed.aaq1011)
 * [r/keto post: Warning, real science ahead from a real scientist -- Tldr: Keto diet decreases resistance to inhibitors targeting the second most abundant genetic pathway across all cancers.](https://www.reddit.com/r/keto/comments/a41b9b/warning_real_science_ahead_from_a_real_scientist/)
 
+## Fructose
+
+* [Asst Prof and Endocrinologist @WeillCornell. MD/PhD with specialty in muscle growth, metabolism, diabetes, obesity, exercise, diet, and cancer. NYJ/NYY/NYCFC](https://twitter.com/MarcusDGon)
+* [High-fructose corn syrup enhances intestinal tumor growth in mice](http://science.sciencemag.org/content/363/6433/1345.full)
+
+    > Obesity increases an individual's risk of developing many types of cancer, including colorectal cancer. One of the factors driving the rise in obesity rates is thought to be the use of high-fructose corn syrup (HFCS) as a sweetener in soft drinks. Goncalves et al. found that ingestion of HFCS promotes the growth of intestinal cancer even in the absence of obesity in mouse tumor models. An enzyme in tumors (ketohexokinase) converts fructose to fructose-1-phosphate, which alters tumor cell metabolism and leads to enhanced cell growth. Whether a similar process occurs in humans remains to be seen.
+
+    > **Abstract**  
+    > Excessive consumption of beverages sweetened with high-fructose corn syrup (HFCS) is associated with obesity and with an increased risk of colorectal cancer. Whether HFCS contributes directly to tumorigenesis is unclear. We investigated the effects of daily oral administration of HFCS in adenomatous polyposis coli (APC) mutant mice, which are predisposed to develop intestinal tumors. The HFCS-treated mice showed a substantial increase in tumor size and tumor grade in the absence of obesity and metabolic syndrome. HFCS increased the concentrations of fructose and glucose in the intestinal lumen and serum, respectively, and the tumors transported both sugars. Within the tumors, fructose was converted to fructose-1-phosphate, leading to activation of glycolysis and increased synthesis of fatty acids that support tumor growth. These mouse studies support the hypothesis that the combination of dietary glucose and fructose, even at a moderate dose, can enhance tumorigenesis.
+
 ## Benefits of Ketogenic Diet
 
 * [Beneficial effects of ketogenic diets for cancer patients: a realist review with focus on evidence and confirmation - 2017](https://link.springer.com/article/10.1007%2Fs12032-017-0991-5)
@@ -262,6 +283,7 @@ From the first article linked here about TMAO, initial questions immediately ris
     > “When it comes to food, vegetables are the primary source of nitrites. On average, about 93% of nitrites we get from food come from vegetables. It may shock you to learn that one serving of arugula, two servings of butter lettuce, and four servings of celery or beets all have more nitrite than 467 hot dogs. (2) And your own saliva has more nitrites than all of them! So before you eliminate cured meats from your diet, you might want to address your celery intake. And try not to swallow so frequently.”
 
 * [Fructose consumption and cancer: is there a connection?](https://www.ncbi.nlm.nih.gov/pubmed/22922366)
+
     > “Whereas glucose favors overall growth kinetics, fructose enhances protein synthesis and appears to promote a more aggressive cancer phenotype”
 
     > “If you overfeed someone with fat, you don’t increase their cancer risk at all. If you overfeed someone with carbohydrates, you dramatically increase their cancer risk. Protein is half way in between.”
