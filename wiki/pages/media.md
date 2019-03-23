@@ -5,9 +5,9 @@ title: Media Appearances
 * TOC
 {:toc}
 
-* September 30, 2013 - [“This Guy’s Eaten Nothing but Raw Meat for Five Years”](https://www.vice.com/en_us/article/nnqw3q/this-guy-has-eaten-nothing-but-raw-meat-for-five-years) (_VICE_) [[Archive](https://web.archive.org/web/20181224213811/https://www.vice.com/en_us/article/nnqw3q/this-guy-has-eaten-nothing-but-raw-meat-for-five-years)]
+* September 30, 2013 - [“This Guy’s Eaten Nothing but Raw Meat for Five Years”](https://www.vice.com/en_us/article/nnqw3q/this-guy-has-eaten-nothing-but-raw-meat-for-five-years) (_Vice_) [[Archive](https://web.archive.org/web/20181224213811/https://www.vice.com/en_us/article/nnqw3q/this-guy-has-eaten-nothing-but-raw-meat-for-five-years)]
 
-* December 16, 2015 - [“Checking in with the Guy Who’s Eaten Nothing but Raw Meat for the Last Seven Years”](https://www.vice.com/en_us/article/avyqjg/its-now-seven-years-since-this-guy-ate-anything-besides-raw-meat) [[Archive](https://web.archive.org/web/20180705003436/https://www.vice.com/en_us/article/avyqjg/its-now-seven-years-since-this-guy-ate-anything-besides-raw-meat)]
+* December 16, 2015 - [“Checking in with the Guy Who’s Eaten Nothing but Raw Meat for the Last Seven Years”](https://www.vice.com/en_us/article/avyqjg/its-now-seven-years-since-this-guy-ate-anything-besides-raw-meat) (_Vice_) [[Archive](https://web.archive.org/web/20180705003436/https://www.vice.com/en_us/article/avyqjg/its-now-seven-years-since-this-guy-ate-anything-besides-raw-meat)]
 
 * September 22, 2017 - [“Steak Is the New Salad: Why These Techies Are Embracing an All-Meat Diet”](https://www.inc.com/sonya-mann/bitcoin-carnivores.html) (_Inc._) by [Sonya Mann](https://www.twitter.com/sonyaellenmann) [[Archive](https://web.archive.org/web/20181005220151/https://www.inc.com/sonya-mann/bitcoin-carnivores.html)]
 
