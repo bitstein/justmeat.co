@@ -6,7 +6,11 @@ title: Leaders
 - TOC
 {:toc}
 
-Living Doctors who do or recommend the carnivore diet
+## Boulder Carnivore Conference
+
+Picture of Boulder Carnivore Conference Speakers
+List people and names of talks. 
+
 
 ## Doctor of Medicine
 
@@ -18,6 +22,8 @@ Living Doctors who do or recommend the carnivore diet
 1. Dr. Ken D Berry https://twitter.com/KenDBerryMD
 
 ![kenberry]()
+
+[Dr Ken Berry MD Carnivore Diet Success Story (+ Tips) - Biohackers Lab - YouTube](https://www.youtube.com/watch?v=RT86U6_tRns)
 
 1. Dr. Jay Wrigley https://twitter.com/KetoDocCLT
 
@@ -40,6 +46,10 @@ https://proteinpower.com/drmike/
 
 ![]()
 
+* [Are Lections Bad for You? + How to Avoid them - Dr Paul Mason - Biohackers Lab - YouTube](https://www.youtube.com/watch?v=8kmo5UcGPXo)
+
+* [](https://www.youtube.com/watch?v=xqUO4P9ADI0&t=1s)
+
 1. Dr. Csaba Toth https://twitter.com/paleoketogenic
 ![]()
 https://www.paleomedicina.com/#blog
@@ -50,6 +60,7 @@ https://www.paleomedicina.com/#blog
 
 1. Dr. Ted Naiman https://twitter.com/tednaiman
 ![]()
+[](https://burnfatnotsugar.com/) [Diet 2.0](https://burnfatnotsugar.com/Diet20.html)
 
 1. Dr. Gary Fettke https://twitter.com/FructoseNo
 
@@ -85,9 +96,9 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 1. Dr. Eric Sodicoff https://twitter.com/ESodicoffMD/
 
-1. Dr. Zoe Harcombe 
+1. Dr. Zoe Harcombe  https://twitter.com/zoeharcombe
 
-* level of carbs needed = 0
+[Harcombe makes case for carnivore diet at Low Carb Denver - fiber and carbs unessential, meat and fat essential](https://www.reddit.com/r/ketoscience/comments/b4t78p/dr_higi_asks_if_fiber_is_necessary_and_dr/)
 
 
 1. Dr. Robert Pastore https://twitter.com/RP5hydroxy
@@ -145,6 +156,8 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 ![]()
 
+1. Diana Rodgers, RD https://twitter.com/SustainableDish
+
 ## Professor
 
 1. Professor Timothy Noakes https://twitter.com/ProfTimNoakes
@@ -154,7 +167,9 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 ## Nutritionist
 
-1. Nutritionist Amy Berger https://twitter.com/TuitNutrition
+1. Amy Berger MS, CNS, NTP o https://twitter.com/TuitNutrition
+
+* [What is the Carnivore Diet? Potential Benefits and Concerns](https://ketodietapp.com/Blog/lchf/what-is-the-carnivore-diet-potential-benefits-and-concerns)
 
 ## Registered Dietitian
 
