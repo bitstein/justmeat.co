@@ -196,6 +196,8 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 ## Veternarian
 
+1. Dr. Travis Einertson [Travis Einertson - I am a veterinarian who became interested in nutrition after we started getting remissions in diabetic cats with low carbohydrate diets.](https://twitter.com/LowCarbVet)
+
 ## Pharmacist
 1. Dr. Nevada Gray https://twitter.com/GrayNevada
 
