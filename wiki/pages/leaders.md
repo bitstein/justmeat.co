@@ -42,13 +42,15 @@ https://proteinpower.com/drmike/
 
 <blockquote class="twitter-tweet" data-theme="dark" data-link-color="#E81C4F"><p lang="en" dir="ltr">Carnivore diet has become my Go To Elimination Diet in my practice. But it has become a trap. Once on <a href="https://twitter.com/hashtag/CarnivoreDiet?src=hash&amp;ref_src=twsrc%5Etfw">#CarnivoreDiet</a> for 30 days, you don’t want to go back to the old inflammatory dietary ways. <a href="https://t.co/x76Jr5BYLl">https://t.co/x76Jr5BYLl</a></p>&mdash; The Real Dr. Steven Horvitz (@IMWHorvitz) <a href="https://twitter.com/IMWHorvitz/status/1109588227634221057?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote>
 
+https://twitter.com/IMWHorvitz/status/1109817862754103296
+
 1. Dr. Paul Mason https://twitter.com/DrPaulMason
 
 ![]()
 
 * [Are Lections Bad for You? + How to Avoid them - Dr Paul Mason - Biohackers Lab - YouTube](https://www.youtube.com/watch?v=8kmo5UcGPXo)
 
-* [](https://www.youtube.com/watch?v=xqUO4P9ADI0&t=1s)
+* [Dr. Paul Mason - 'From fibre to the microbiome: low carb gut health'](https://www.youtube.com/watch?v=xqUO4P9ADI0&t=1s)
 
 1. Dr. Csaba Toth https://twitter.com/paleoketogenic
 ![]()
@@ -150,7 +152,7 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 1. Dr. Peter Ballerstedt https://twitter.com/GrassBased
 1. Dr. Sara Place https://twitter.com/drsplace
 
-![]()
+![Environmental footprints of beef cattle production in the United States](https://www.sciencedirect.com/science/article/pii/S0308521X18305675?via%3Dihub)
 
 1. Professor Frank Mitloehner https://twitter.com/GHGGuru
 
@@ -181,8 +183,17 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 <blockquote class="twitter-tweet" data-theme="dark" data-link-color="#E81C4F"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/carnivore?src=hash&amp;ref_src=twsrc%5Etfw">#carnivore</a> <a href="https://twitter.com/hashtag/diet?src=hash&amp;ref_src=twsrc%5Etfw">#diet</a> is good enough for me and worth a try. I doubt it’s the optimal diet but i think it forms the basis for it <a href="https://t.co/zC4MMhTA44">https://t.co/zC4MMhTA44</a></p>&mdash; Raphi Sirt (@raphaels7) <a href="https://twitter.com/raphaels7/status/1109585884821770241?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote>
 
+1. Cody Cous RD candidate. Nutritional Sciences MPH. https://twitter.com/codycous/status/1109872061219041280
+
 ## Anthropologist
+
 1. Ph.D candidate Miki Ben-Dor https://twitter.com/bendormiki
+
+1. Eating4Health https://twitter.com/BsEating4 https://twitter.com/BsEating4/status/1109624143098462209
+
+* []()
+* []()
+
 ## Veternarian
 
 ## Pharmacist
@@ -191,12 +202,17 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 ## Chiropracter
 1. Dr. Darren Schmidt - D.C. https://twitter.com/realfoodcures
 1. Dr. Steven Horwitz - D.C. https://twitter.com/DrHorwitz
+1. Dr. Jerome Craig - CFMP D.C. https://twitter.com/DrJeromeDC/status/1109656386089021440
 
+* []()
+* []()
+ 
 ## Journalist
 
 1. Nina Teicholz https://twitter.com/bigfatsurprise
 1. Gary Taubes https://twitter.com/garytaubes
 
+* [Gary Taubes - 'The Qualities of Calories: lessons from the front line, Zurich & LCHF in practice'](https://www.youtube.com/watch?v=5hGyKbsQCuk)
 
 
 
