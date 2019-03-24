@@ -1,6 +1,6 @@
 
 ------
-title: Leaders
+title: Notables
 ------
 
 - TOC
@@ -183,7 +183,11 @@ What's up guys?! Lots of new folks following recently so I thought I'd introduce
 
 <blockquote class="twitter-tweet" data-theme="dark" data-link-color="#E81C4F"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/carnivore?src=hash&amp;ref_src=twsrc%5Etfw">#carnivore</a> <a href="https://twitter.com/hashtag/diet?src=hash&amp;ref_src=twsrc%5Etfw">#diet</a> is good enough for me and worth a try. I doubt it’s the optimal diet but i think it forms the basis for it <a href="https://t.co/zC4MMhTA44">https://t.co/zC4MMhTA44</a></p>&mdash; Raphi Sirt (@raphaels7) <a href="https://twitter.com/raphaels7/status/1109585884821770241?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote>
 
-1. Cody Cous RD candidate. Nutritional Sciences MPH. https://twitter.com/codycous/status/1109872061219041280
+1. Cody Cous RD candidate. Nutritional Sciences MPH. 
+https://twitter.com/codycous/status/1109872061219041280
+1. Bart Kay [Nutrition Scientist Bart Kay's YouTube Channel](https://www.youtube.com/channel/UChi5M3k_K4yuRpWAp00xBQA)
+* [Bart Kay on Carnivore Diet & Nutrition Science (Facts vs Myths)](https://www.youtube.com/watch?v=CG33qi8Zebs)
+    > Listen to Bart Kay, carnivore diet advocate & former senior lecturer in clinical physiology, talk about reputable nutrition advice, common myths, and carnivore diet benefits.
 
 ## Anthropologist
 
