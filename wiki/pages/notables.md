@@ -118,6 +118,10 @@ https://twitter.com/bschermd
 1. Dr. Christian Assad
 https://twitter.com/ChristianAssad
 ![CarnivoreMonth](https://i.redd.it/yduoyf1x6x821.png)
+1. Dr. Nadir Ali
+https://twitter.com/eatmostlyfatali
+https://twitter.com/eatmostlyfatali/status/1110670544633057282
+
 ## Psychiatrist
 1. Dr. Georgia Ede 
 http://wwww.diagnosisdiet.com 
@@ -125,6 +129,7 @@ https://twitter.com/GeorgiaEdeMD
 ![Ede](https://i.redd.it/w0btaf3max821.png)
 1. Dr. David Baldes M.D. https://twitter.com/ketoshrink/status/1081763193536634881?s=21
 ~[Baldes](https://i.redd.it/jnb60qs7hx821.png)
+
 ## Beef
 1. Dr. Peter Ballerstedt https://twitter.com/GrassBased
 * [Peter](https://i.redd.it/5is6bfshhx821.png)
