@@ -55,6 +55,7 @@ layout: home
 * [“Can Humans Digest Meat?”](http://roarofwolverine.com/archives/412) by Wolverine
 * [“Esquimo Teeth Prove Health of Meat Diet”](https://www.thecrimson.com/article/1929/1/29/esquimo-teeth-prove-health-of-meat/) by the Harvard Crimson (1929)
 * [Born to Eat Meat](http://borntoeatmeat.com/) (Paul A. Mabry, MD)
+* [“Carnivore Diet for Beginners — How to Start the Zero-Carbohydrate Carnivore Diet”](https://nutritionwithjudy.com/carnivore-diet-for-beginners-how-to-start-the-zero-carbohydrate-carnivore-diet/) by Judy Cho
 * [“Homo Carnivorus: What We Are Designed to Eat”](https://www.youtube.com/watch?v=qn5zdWucv6I) by Barry Groves, M.D. [YouTube] ([Slides](docs/homo-carnivorus-barry-groves-md.pdf))
 * [“The Aboriginal Argument”](https://www.youtube.com/watch?v=ayf4R-y_RYo) by Stephen D. Phinney, M.D., Ph.D. [YouTube]
     * [“Steve Phinney on Pemmican and Indigenous Diets”](http://www.meandmydiabetes.com/2010/03/23/steve-phinney-on-pemmican-and-indigenous-diets-will-become-public-in-2-weeks/)
@@ -148,6 +149,7 @@ layout: home
 * [Kelly Williams Hogan](https://twitter.com/kelly_hogan_zc) (@kelly_hogan_zc)
 * [GuyNAustin](https://twitter.com/GuyNAustin) (@GuyNAustin)
 * [Carnivore Aurelius](https://twitter.com/KetoAurelius) (@KetoAurelius)
+* [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
 * [Carnivores Twitter List](https://twitter.com/sarahkaltsounis/lists/carnivores)
 
 ## Instagram
@@ -161,6 +163,7 @@ layout: home
 * [Mariela Narvaez Stewart](https://www.instagram.com/mariela_n_stewart/) (@mariela_n_stewart)
 * [Joe Andersen](https://www.instagram.com/joe_andersen8898/) (@joe_andersen8898)
 * [Dutch Carnivore](https://www.instagram.com/dutchcarnivore/) (@dutchcarnivore)
+* [NutritionWithJudy](https://www.instagram.com/nutritionwithjudy/) (@nutritionwithjudy)
 
 ## YouTube
 
