@@ -61,6 +61,7 @@ layout: home
     * [“Steve Phinney on Pemmican and Indigenous Diets”](http://www.meandmydiabetes.com/2010/03/23/steve-phinney-on-pemmican-and-indigenous-diets-will-become-public-in-2-weeks/)
 * [“Guts and Grease: The Diet of Native Americans”](https://www.westonaprice.org/health-topics/traditional-diets/guts-and-grease-the-diet-of-native-americans/) by Sally Fallon and Mary Enig, Ph.D.
 * [“The Pemmican Manual”](docs/the-pemmican-manual-lex-rooker.pdf) by Lex Rooker [PDF]
+* ["The Zero Carb Experience"](https://borgefagerli.com/the-zero-carb-experience/) (Borge Fagerli)
 * [Paleomedicina](https://www.paleomedicina.com/en) (Dr. Csaba Tóth & Dr. Zsófia Clemens)
     * [“Crohn’s disease successfully treated with the paleolithic ketogenic diet”](docs/crohns-disease-successfully-treated-paleolithic-ketogenic-diet-csaba-toth-zsofia-clemens.pdf) [PDF]
     * [“Vitamin C and Disease: Insights from the Evolutionary Perspective”](docs/vitamin-c-from-evolutionary-perspective-zsofia-clemens-csaba-toth.pdf) [PDF]
@@ -164,6 +165,7 @@ layout: home
 * [Joe Andersen](https://www.instagram.com/joe_andersen8898/) (@joe_andersen8898)
 * [Dutch Carnivore](https://www.instagram.com/dutchcarnivore/) (@dutchcarnivore)
 * [NutritionWithJudy](https://www.instagram.com/nutritionwithjudy/) (@nutritionwithjudy)
+* [Ketogenic Endurance](https://www.instagram.com/ketogenicendurance/) (@ketogenicendurance)
 
 ## YouTube
 
@@ -173,6 +175,8 @@ layout: home
 * [Mikhaila Peterson](https://www.youtube.com/user/mikhailapeterson1)
 * [KetOMAD](https://www.youtube.com/channel/UCR3lAJ0iHpW5FopzckSJRfQ)
 * [Primal Edge Health](https://www.youtube.com/user/PrimalEdgeHealth)
+* [Paul Saladino MD](https://www.youtube.com/channel/UCgBg0LcHfnJDPmFTTf677Pw/)
+* [Carneval](https://www.youtube.com/channel/UCngtlLz7xTfiEAsDU-HrnBg/)
 
 ## Reddit
 
