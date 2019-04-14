@@ -35,14 +35,14 @@ title: Oxalates
 
 ![Iron oxalate](https://www.researchgate.net/publication/326311070/figure/fig2/AS:647013083402240@1531271348966/SEM-image-of-the-prepared-rod-like-ironII-oxalate-particles.png){: .wiki-image}
 
-<!-- ![Raphides purified from kiwifruit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3951349/bin/pone.0091341.g001.jpg){: .wiki-image} -->
+![Raphide Needles in Kiwifruit](https://www.researchgate.net/publication/260757558/figure/download/fig1/AS:203140830896130@1425443956062/Raphides-needle-shaped-calcium-oxalate-crystals-were-collected-from-kiwifruit.png){: .wiki-image-centered-half}
 
 > Raphides, needle-shaped calcium oxalate crystals, were collected from kiwifruit homogenate through heavy media separation using a dense CsCl solution. (A) The SEM image of purified raphides (x400). (B) Further magnification of the left part of the image (A) (x1,500).    
 > The white bars in photos indicate 100 μm (or 0.1 mm). Raphides purified from kiwifruit had sharp needle-like shapes with smooth surfaces, and did not have grooves and barb-like shapes observed in raphides of Araceae plants.
 
 ### Irritant Warning!
 
-![Irritant](https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg){: .wiki-image}
+![Irritant](https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg){: .wiki-image-centered-half}
 
 [Sodium Oxalate - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/6125)
 
@@ -60,19 +60,15 @@ title: Oxalates
 * H302 (100%): Harmful if swallowed [Warning Acute toxicity, oral]
 * H312 (100%): Harmful in contact with skin [Warning Acute toxicity, dermal]
 
-![molecule](https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=33005&t=l){: .wiki-image}
+![molecule](https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=33005&t=l){: .wiki-image-centered-half}
 
 [Oxalate PubMed Search Mesh](https://www.ncbi.nlm.nih.gov/mesh/68019815)
-
-![Oxalate ion 2D - Skeletal](https://upload.wikimedia.org/wikipedia/commons/d/db/Oxalate-ion-2D-skeletal.png){: .wiki-image}
 
 ## II. Where does oxalic acid come from?
 
 * Plants make it, possibly for mineral management, seed germination, or self-defense
 * You eat it, in many foods. It comes in many forms, both dissolved and as crystals, in a variety of shapes and sizes
 * Some foods have a lot of it, some have very little
-
-![Calcium oxalate crystals from kiwi. Konno -2014](https://sallyknorton.com/wp-content/uploads/2016/01/Konno2014DefensiveRaphides-Kiwi-p2Crop.jpg){: .wiki-image}
 
 ### Examples of High OX Foods
 
@@ -102,17 +98,16 @@ title: Oxalates
 
     > Thirteen sources were identified, and 8 sources (6 Web sites and 2 applications) were used to construct figures for comparison of commonly listed foods. Oxalate content was extremely variable between various sources. Fruits with the widest observed range of oxalate included oranges (2.07-10.64 mg/100 g) and bananas (0-9.9 mg/100 g). Among vegetables, the oxalate contents of spinach (364.44-1145 mg/100 g), rhubarb (511-983.61 mg/100 g), and beets (36.9-794.12 mg/100 g) were most variable. Among nuts, the oxalate content of peanuts ranged from 64.57 to 348.58 mg/100 g, and pecans ranged from 4.08 to 404.08 mg/100 g.
 
-### Examples of Low OX Foods
+### Examples of LOW / NO OX Foods
 
-**MEAT PRODUCTS**
-
-Since oxalate is only found in plant foods, all the meats are safe. Fish, too.
-
+**Since oxalate is only found in plant foods, all the meats and fish are safe.**
 * meats
 * dairy
 * eggs
 * fats and oils
 * other non-plant foods
+
+**Plants:**
 * arugula
 * avocado
 * Bok Choy
@@ -128,7 +123,8 @@ Since oxalate is only found in plant foods, all the meats are safe. Fish, too.
 * green peas
 * watercress
 
-![Food Oxalate Graph](http://wordpress.uchospitals.edu/kidney/files/food-oxalate-graph.jpg){: .wiki-image}
+![Food Oxalate Graph](https://drchristianson.com/wp-content/uploads/2018/05/oxalate-chart.png){: .wiki-image}
+
 
 Mammals make oxalate as a metabolic waste product, but it has no known function. Higher amounts are generated when:
 
@@ -249,6 +245,28 @@ There is no single pattern of symptoms that identifies oxalate toxicity, everyon
 * [The Role of Oxalates in Autism and Chronic Disorders](https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/the-role-of-oxalates-in-autism-and-chronic-disorders/)
 * [Dr. Jockers Low Oxalate Diet](https://drjockers.com/low-oxalate-diet/)
 * [Kidneystones - How to eat a low oxalate diet](https://kidneystones.uchicago.edu/how-to-eat-a-low-oxalate-diet/)
+* [RESPONSE TO ARTICLE ON THE LACK OF OXALATE DANGERS IN THE GREEN SMOOTHIE DIET - William Shaw, PhD](https://www.greatplainslaboratory.com/articles-1/2016/3/16/8b1z59xw8cfhr2iw09pw67c7crj7a3)
+
+    >(3)Inaccuracy about the contribution of endogenous production to total oxalate load.
+    >Lodi states that 80-90% of oxalates in the body are endogenously produced. Unfortunately, the best scientific study refutes his assertion. According to Holmes et al3, who did extremely well-controlled studies on every aspect of oxalate metabolism and has publishedforty-one scientific articles on oxalates in the peer reviewed literature, the mean dietary oxalate contribution to total oxalate in the diet is 52.6 % on a high oxalate diet which was defined as a diet of 250 mg oxalate per day. The person drinking a green smoothie with 2 cups of raw spinach ingests 1312 mg of oxalates or over five times the level of what Holmes considers a high-oxalate diet, just in the spinach consumption alone and over 26 times the amount of oxalates in a low oxalate diet (50 mg per day)4. The estimated human production of oxalates is 40 mg per day3. On a green smoothie diet with two cups of spinach, the diet in normal humans contains 33 times the endogenous human production of oxalates just based on the spinach alone.
+    >
+    >All of Lodi’s assertions about the benefits of a vegetarian diet are meaningless since there is no single vegetarian diet; there are as many vegetarian diets as there are vegetarians.
+    >
+    >(4)Inaccuracy about the availability of calcium and magnesium in spinach.
+    >Lodi states that “every plant, green and otherwise (including spinach) has abundant magnesium and calcium and potassium”. Unfortunately, none of the calcium and magnesium in spinach or other high oxalate plants is bioavailable since it is strongly bound to oxalates. Furthermore, the average oxalate value of spinach is 7.5 times its calcium content, making spinach a very poor choice for someone to maintain adequate calcium stores5. According to Kohmani, who added a good deal of spinach, similar to the diet of a person ingesting a daily green smoothie or a large daily spinach salad, to the diet of rats to determine its effects5:
+    >
+    >“If to a diet of meat, peas, carrots and sweet potatoes, relatively low in calcium but permitting good though not maximum growth and bone formation, spinach is added to the extent of about 8% to supply 60% of the calcium, a high percentage of deaths occurs among rats fed between the age of 21 and 90 days. Reproduction is impossible. The bones are extremely low in calcium, tooth structure is disorganized and dentine poorly calcified. Spinach not only supplies no available calcium but renders unavailable considerable of that of the other foods. Considerable of the oxalate appears in the urine, much more in the feces.”
+    >
+    >(5)Lodi argues that his patients haven’t complained about kidney stones while drinking a lot of green smoothies so oxalates must not be problematic.
+    >
+    >Lodi’s contention that his patients on a high oxalate diet don’t have kidney stones is anecdotal. He presents no data from active chart review of his patients to determine if questions about kidney stones were ever asked. Furthermore, it is doubtful that his patients would have even have connected their diet with their kidney stones. I have had numerous seminars on the connection between oxalates and kidney stones and it is common to get feedback from the audience members that they had kidney stones shortly after starting either a diet including a spinach green smoothie or a large spinach salad on a regular basis.  Since these comments were not even solicited, it is likely that even a larger number of individuals may have experienced kidney stones but were shy to voice their experiences. A neurologist friend attributes his recent severely-disabling stroke to the dietary changes encouraged by his wife that placed him on a daily green spinach smoothie for a considerable time.
+    >
+    >Furthermore, Lodi seems to think that a lack of kidney stones indicates a lack of oxalate problems. However, oxalates may form in virtually every organ of the body including the eyes, vulva, lymph nodes, liver, testes, skin, bones, gums, thyroid gland, heart, arteries, and muscles6-7. Oxalates may occur in these other organs without appearing in the urinary tract at all and in individuals without genetic hyperoxalurias7. Oxalates have been implicated in heart disease7, stroke, vulvodynia, and autism8-10. Women of child-bearing age need to be especially careful of the spinach green smoothie diet because of the autism oxalate connection and the negative effects of spinach containing oxalates on fertility5. Prisoners in the state prisons in Illinois were encouraged by the Weston-Price Nutrition Foundation to file a lawsuit against the state because of their deteriorating health due to a high amount of soy protein in the prison diet11. Soy protein is tied with spinach as the highest oxalate foods4. Oxalates are especially toxic to the endothelial cells of the arteries, leading to atherosclerosis12. Oxalate crystals are concentrated in the atherosclerotic lesions7.  Such lesions have commonly been overlooked by the use of stains of atherosclerotic lesions that make the oxalate crystals difficult to visualize.  The relatives of people consuming the green smoothie diet would only know of their loved ones’ oxalate deposits throughout their organs on the day of their autopsies which employed pathological examinations that can detect oxalates.
+     >
+     >Primary genetic hyperoxaluria is not the major cause of kidney stones in adults since 80% of individuals died of this disorder before age 20 and it is so rare that it could not possibly be the cause of most cases of oxalate kidney stones13.  However, a genetic polymorphism present in up to 20% of Caucasian groups called P11L codes for a protein with three times less activity of alanine: glyoxylate aminotransferase (AGT) than the predominant normal activity polymorphism, leading to excessive endogenous production of oxalates14. This substantial group of individuals would be even more susceptible to the harm of a high oxalate diet. Kidney stones were rampant in the United Kingdom during the World Wars when rhubarb, another high oxalate food, was recommended as a substitute for other low oxalate but unavailable vegetables13.
+
+    >In summary, those who do not care for their health can eat or drink whatever they want. But they should realize that their diets are fad-based and/or based on quasi-religious (“feasts” as part of the “awakening” according to Lodi) reasons, not based on hard scientific evidence. Furthermore, they should be aware that their diet may kill them. The green smoothie fad will go down in medical history with the AMA journal allowing cigarette advertising with physician endorsements and the use of mercury-containing teething powder for babies as one of the greatest health follies in a considerable time.
+
 
 # Science
 
@@ -282,10 +300,16 @@ There is no single pattern of symptoms that identifies oxalate toxicity, everyon
 * [Oxalate content of foods and its effect on humans. - 1999](https://www.ncbi.nlm.nih.gov/pubmed/24393738) [Full Link](http://apjcn.nhri.org.tw/server/APJCN/8/1/64.pdf)
 
     > Oxalic acid and its salts occur as end products of metabolism in a number of plant tissues. When these plants are eaten they may have an adverse effect because oxalates bind calcium and other minerals. While oxalic acid is a normal end product of mammalian metabolism, the consumption of additional oxalic acid may cause stone formation in the urinary tract when the acid is excreted in the urine. Soaking and cooking of foodstuffs high in oxalate will reduce the oxalate content by leaching. The mean daily intake of oxalate in English diets has been calculated to be 70-150 mg, with **tea** appearing to contribute the greatest proportion of oxalate in these diets; **rhubarb, spinach and beet** are other common high oxalate-content foods. _Vegetarians who consume greater amounts of vegetables will have a higher intake of oxalates, which may reduce calcium availability._ This may be an increased risk factor for women, who require greater amounts of calcium in the diet. In humans, diets low in calcium and high in oxalates are not recommended but the occasional consumption of high oxalate foods as part of a nutritious diet does not pose any particular problem.
+    
+    * [The Green Smoothie Fad: This Road to Health Hell is Paved with Toxic Oxalate Crystals by William Shaw, PhD](http://www.townsendletter.com/Jan2015/green0115.html)
+    
+    > Internet news this past fall indicated the conviction of an oncologist who attempted to kill her boyfriend who was involved with another woman. The weapon of choice was ethylene glycol, popularly known as antifreeze, which had been placed in his coffee. Although emergency measures saved his life, extensive deposits of oxalate crystals, the main toxic metabolite of ethylene glycol, had caused extensive kidney and liver damage, reducing the man's lifespan by about half. 
+    >  
+    > Similar results in sabotaging your own health can occur through the regular consumption of a popular concoction called a "green smoothie." A recent Google search for "green smoothie" yielded 609,000 hits. In addition, a recent "improving your diet" seminar that I attended promoted this same idea. Interestingly, on the same day, I reviewed test results of a urine organic acid test of a woman with oxalate values 3 times the upper limit of normal. A conversation with the patient indicated that she had recently turned to consuming daily "green smoothies" to "clean up her diet." The most common "green" components of the most popular green smoothies are spinach, kale, Swiss chard, and arugula. Each of these greens is loaded with oxalates. A typical Internet recipe advises that 2 cups of packed raw spinach leaves is a good starting point for a smoothie. In addition to the high oxalate greens added to the blender, green smoothie proponents frequently recommend adding a variety of berries or almonds, also containing high oxalate amounts. Similar high urine oxalate results were found in organic acid tests of a number of patients with kidney stones who had decided to eat large spinach salads daily as a "move to clean up my unhealthy diet." Unfortunately, kidney stones are not the only health problems that people who regularly consume green smoothies and large spinach salads will experience with their new "clean" diet.
 
 ## Biology
 
-* [Franceschi, V. R., & Nakata, P. A. (2005). CALCIUM OXALATE IN PLANTS: Formation and Function. Annual Review of Plant Biology, 56(1), 41–71.](http://sci-hub.tw/https://www.annualreviews.org/doi/full/10.1146/annurev.arplant.56.032604.144106#article-denial)
+* [Franceschi, V. R., & Nakata, P. A. (2005). CALCIUM OXALATE IN PLANTS: Formation and Function. Annual Review of Plant Biology, 56(1), 41–71.](http://sci-hub.tw/https://www.annualreviews.org/doi/full/10.1146/annurev.arplant.56.032604.144106)
 
     > **Abstract**
     >
@@ -345,6 +369,8 @@ There is no single pattern of symptoms that identifies oxalate toxicity, everyon
     > Shortly after organizing, the Foundation instituted a membership program for women, their families, friends, and interested health care professionals. Through membership, the VPF has continuously offered a network of support to sufferers. It is led by experienced volunteers who have recovered through the Pain Project research.
     >
     > In recent years men with parallel symptoms have joined the VPF, along with other patient groups who are experimenting with a low oxalate diet, including oxalate kidney stone formers.
+    
+    ![Pain Treatment Chart](http://www.thevpfoundation.org/images/paintreatmentchart.gif){: .wiki-image}
 
 ## Uric Acid
 
@@ -359,7 +385,6 @@ There is no single pattern of symptoms that identifies oxalate toxicity, everyon
 
 * [Mechanisms behind the Leaky Gut](http://www.lowoxalate.info/papers/mechanisms.html)
 * [BottomLine: The Toxin Hiding in Superfoods](https://bottomlineinc.com/health/diet-nutrition/oxalate-toxin-in-superfoods)
-* [Clive Owen - tissue disconnective process, autism]()
 * [Celiac and the Inflammasome: Reasons for the Relevance of Oxalate and other Triggers by Susan Owens - 2016](https://www.celiac.com/articles.html/journal-of-gluten-sensitivity/journal-of-gluten-sensitivity-summer-2016-issue/celiac-and-the-inflammasome-reasons-for-the-relevance-of-oxalate-and-other-triggers-r3803/)
 * [Cornell Poisonous Plants - Oxalate](http://poisonousplants.ansci.cornell.edu/toxicagents/oxalate.html)
 
@@ -368,12 +393,9 @@ There is no single pattern of symptoms that identifies oxalate toxicity, everyon
 * [Leaky Gut](https://333oee3bik6e1t8q4y139009mcg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/GUTHEALTH_LeakyGutSyndrome.png)
 * [Dietary Oxalates – When “Healthy” Foods Harm You, with Sally Norton](https://drruscio.com/dietary-oxalates-healthy-foods-harm-sally-norton/)
 
-# Testimonials
-
-* [Sally K Norton: Testimonials](https://sallyknorton.com/testimonials/)
 
 # YouTube
-
+* [Sally K Norton: Testimonials](https://sallyknorton.com/testimonials/)
 * [Testimonials about giving up oxalate - Sally K Norton - YouTube](https://youtu.be/nB8XLzI_CPo)
 * [AHS17 Lost Seasonality and Overconsumption of Plants: Risking Oxalate Toxicity - Sally Norton - YouTube](https://www.youtube.com/watch?v=i7ArmIYGH0s)
 
