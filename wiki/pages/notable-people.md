@@ -263,12 +263,10 @@ title: Notable People
 * [https://twitter.com/TuitNutrition](https://twitter.com/TuitNutrition)
 * [What is the Carnivore Diet? Potential Benefits and Concerns](https://ketodietapp.com/Blog/lchf/what-is-the-carnivore-diet-potential-benefits-and-concerns)
 
-## Registered Dietitians
-
 ## Researchers
 1. Dr. Ben Bikman
 
-[https://twitter.com/BenBikmanPhD](https://twitter.com/BenBikmanPhD)
+* [https://twitter.com/BenBikmanPhD](https://twitter.com/BenBikmanPhD)
 
 1. Dr. Raphael Sirtoli
 
@@ -313,7 +311,7 @@ title: Notable People
 
 1. Dr. Nevada Gray
 
-* [https://twitter.com/GrayNevada](https://twitter.com/GrayNevada)
+* [https://twitter.com/DrNevadaGray](https://twitter.com/DrNevadaGray)
 * [“Hello, My name is Nevada.....”](https://thepaleopharmacist.com/blog/f/hello-my-name-is-nevada-1)
 
     > Hello! My name is Nevada and I wanted to take a moment to introduce myself and why I started The PALEO Pharmacist LLC. After being diagnosed with what should have been a catastrophic life changing event, I chose to empower myself as a healthcare provider and patient implementing the most up to date nutrition and fitness science into my recovery. With the wealth of health information flooding the internet, I like many people struggled with where to start searching for quality resources & information and what to believe.  Over the past 3 years, I read countless books, studies, research papers, and reached out to many experts on the cutting edge of the continuously evolving nutrition and fitness science. Many of them generously shared their knowledge, resources and invited me into their coaching groups. The overwhelming support I received was a critical factor in my recovery. It didn't take long before my perspective and everything I believed about the standard of care began to change. Much of what we do in healthcare is a bandage over a larger issue, which is what is the root cause of chronic illness such as diabetes, cancer, hypertension, autoimmune conditions, obesity and the list goes on.  With more and more patients becoming sicker and taxing an already over taxed healthcare system it is no surprise that people are looking for quality resources to improve their health. This is why I created The PALEO Pharmacist LLC, to become the number #1 patient resource site for quality health information based in science. Connecting people with the resources they need to be set up for success in transforming their health is one of my #1 priorities. In addition to publishing eBooks, I will also offer several affordable coaching support programs for those looking to learn more about how to properly and safely implement fitness and the ketogenic or carnivore diets in a way that works in any kind of lifestyle. My Blog will feature informative articles and interviews with leading experts that I hope will add value to you on your journey.
