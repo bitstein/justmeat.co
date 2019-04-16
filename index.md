@@ -34,6 +34,8 @@ layout: home
 * [My Zero Carb Life](http://myzerocarblife.jamesdhogan.com/wp/) (Kelly Williams Hogan)
     * [“My Doctor Said Lose 100 Pounds”](http://myzerocarblife.jamesdhogan.com/wp/2015/01/my-doctor-said-lose-100-pounds/)
 * [Carnivore Aurelius](https://carnivoreaurelius.com)
+    * [“Carnivore Diet Meal Plan”](https://carnivoreaurelius.com/carnivore-diet-meal-plan/)
+    * [“16 Reasons Why The Carnivore Diet Works (+ Benefits)”](https://carnivoreaurelius.com/carnivore-diet/)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
 * [Diagnosis: Diet](http://www.diagnosisdiet.com/) (Georgia Ede, M.D.)
     * [“Vegetables”](http://www.diagnosisdiet.com/food/vegetables/)
