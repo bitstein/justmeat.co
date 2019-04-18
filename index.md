@@ -108,6 +108,10 @@ layout: home
 * [Carnivore Diet: Why would it work? What about Nutrients and Fiber?](https://www.youtube.com/watch?v=isIw2AN_-XU) by "What I've Learned" [Youtube]
 * [Ketogenic Endurance](https://ketogenicendurance.com/)
     * [Comtemporary Carnivore Diet](https://www.amazon.co.uk/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/)
+* Heart attack through 'evil fats'? by Dr. Natasha Campbell-McBride [Youtube]
+    * [Part 1](https://www.youtube.com/watch?v=T7OQT1SHf9w)
+    * [Part 2](https://www.youtube.com/watch?v=iLsSLFEIG7A)
+    * [Part 3](https://www.youtube.com/watch?v=oPrWLE2sakU)
 
 ## Wikis
 
