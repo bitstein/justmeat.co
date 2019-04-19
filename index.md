@@ -76,6 +76,8 @@ layout: home
 * [Crohn’s Carnivore](http://crohnscarnivore.blogspot.com/)
     * [“Introduction and Explanation”](http://crohnscarnivore.blogspot.com/2009/08/introduction-and-explanation.html)
     * [“August 2013 Update”](http://crohnscarnivore.blogspot.com/2013/08/august-2013-update.html)
+* [Ketogenic Endurance](https://ketogenicendurance.com/)
+  * [_Contemporary Carnivore Diet: Ancient Food for Ancient Health and Fat Loss in a Modern World_](https://www.amazon.com/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/) by Ketogenic Endurance
 * [Savory Institute](https://savory.global/)
 * [“How to green the world's deserts and reverse climate change \| Allan Savory”](https://www.youtube.com/watch?v=vpTHi7O66pI) [YouTube]
 * [Pleistocene Park: Restoration of the Mammoth Steppe Ecosystem](http://www.pleistocenepark.ru/en/)
@@ -110,8 +112,6 @@ layout: home
 * [_The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Living/dp/0983490708) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
 * [_The Art and Science of Low Carbohydrate Performance_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Performance/dp/0983490716) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
 * [Carnivore Diet: Why would it work? What about Nutrients and Fiber?](https://www.youtube.com/watch?v=isIw2AN_-XU) by "What I've Learned" [Youtube]
-* [Ketogenic Endurance](https://ketogenicendurance.com/)
-    * [Comtemporary Carnivore Diet](https://www.amazon.co.uk/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/)
 
 ## Wikis
 
