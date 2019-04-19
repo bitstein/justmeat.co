@@ -37,6 +37,10 @@ layout: home
     * [“Carnivore Diet Meal Plan”](https://carnivoreaurelius.com/carnivore-diet-meal-plan/)
     * [“16 Reasons Why The Carnivore Diet Works (+ Benefits)”](https://carnivoreaurelius.com/carnivore-diet/)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
+* “Heart attack through ’evil fats’?” by Dr. Natasha Campbell-McBride [Youtube]
+    * [Part 1](https://www.youtube.com/watch?v=T7OQT1SHf9w)
+    * [Part 2](https://www.youtube.com/watch?v=iLsSLFEIG7A)
+    * [Part 3](https://www.youtube.com/watch?v=oPrWLE2sakU)
 * [Diagnosis: Diet](http://www.diagnosisdiet.com/) (Georgia Ede, M.D.)
     * [“Vegetables”](http://www.diagnosisdiet.com/food/vegetables/)
     * [“The History of All-Meat Diets”](http://www.diagnosisdiet.com/all-meat-diets/)
