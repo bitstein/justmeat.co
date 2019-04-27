@@ -189,6 +189,7 @@ layout: home
 * [r/zerocarb](https://www.reddit.com/r/zerocarb)
 * [r/ketoscience](https://www.reddit.com/r/ketoscience)
 * [r/keto](https://www.reddit.com/r/keto)
+* [r/KetoAF](https://www.reddit.com/r/KetoAF)
 * [r/ketogains](https://www.reddit.com/r/ketogains)
 * [r/meatogains](https://www.reddit.com/r/meatogains)
 
