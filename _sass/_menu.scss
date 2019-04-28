@@ -10,9 +10,11 @@
     min-width: 120px;
     position: relative;
     overflow: hidden;
-    color: #212529;
+    color: #212529 !important;
 
-    &:visited { color: #212529 }
+    &:visited {
+      color: #212529 !important;
+    }
 
     @media (max-width: 500px) {
       min-width: inherit;
