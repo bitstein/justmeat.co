@@ -1,5 +1,6 @@
 ---
 title: History
+disclaimer: True
 ---
 
 The carnivore diet draws on the works, ideas, experiences, observations, and studies of many people.
@@ -123,7 +124,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > Expanded and revised edition of _Not By Bread Alone_ (1946).
 
-* **1957** - [_The Importance of Overweight_](https://www.amazon.com/importance-overweight-Hilde-Bruch/dp/B0006AUYKU) by Dr. Hilde Bruch - New York
+* **1957** - [_The Importance of Overweight_](https://amzn.to/2Y2o1sT) by Dr. Hilde Bruch - New York
 
     > "The great progress in dietary control of obesity, was the recognition that meat . . . was not fat producing; but that it was the innocent foodstuffs, such as bread and sweets, which lead to obesity."
 
@@ -151,11 +152,11 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "What was his secret? Meat and booze, simply put. Cameron reported his findings to the world in his self-published 1962 book, The Drinking Man’s Diet. It quickly became one of the most popular diets in the country, selling 2.4 million copies in 13 languages. Cameron had initiated a “carbo-craze” by suggesting that weight watchers count carbs not calories. When Atkins released Diet Revolution nine years later, Cameron responded, “Revolution? My foot!” He had been proselytizing against carbs for a decade already."
 
-* **1972** - [_Pure, White, and Deadly_](https://www.amazon.com/Pure-White-Deadly-John-Yudkin/dp/0241965284) by Dr. John Yudkin
+* **1972** - [_Pure, White, and Deadly_](https://amzn.to/2XV1yxE) by Dr. John Yudkin
 
     > "John Yudkin was one of the first to point out the dangers of sugar when he published the original edition of _Pure, White, and Deadly_ in 1972. Now, in this extensively rewritten and expanded edition, he reveals the new evidence about the dangers of sugar and its drastic consquences for our health. In everyday language Professor Yudkin explains how sugar consumption is linked to diabetes, heart and liver disease, dental caries and other conditions. He pays particular attention to its effects on young children and shows how they, like everyone else, can benefit from reduced sugar intake. He also examines the role of the sugar industry, which has made strenous efforts to dismiss the case against sugar."
 
-* **1972** - [_Dr. Atkins Diet Revolution_](https://www.amazon.com/Dr-Atkins-Diet-Revolution-Calorie/dp/B0006C4BC0/) by Dr. Robert Atkins M.D.
+* **1972** - [_Dr. Atkins Diet Revolution_](https://amzn.to/2GS9dad) by Dr. Robert Atkins M.D.
 
 * **1975** - [_The Stone Age Diet_](/docs/the-stone-age-diet-walter-l-voegtlin.pdf) by Dr. Walter L. Voegtlin, M.D., F.A.C.P.
 
@@ -169,17 +170,17 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
     > "There are many things that we seldom question; the truth seems so evident and the answers obvious. One such sacred cow is the tremendous prosperity brought about by the agricultural revolution. This selection is a thought-provoking introduction to the connection between culture and agriculture. The transition from food foraging to farming (what archaeoloqists call the Neolithic revolution) may have been the worst mistake human history or its most important event. You be the judge. But for better or worse, this cultural evolution has occurred, and the world will never be the same again."
 
-* **1996** - [_Protein Power: The High-Protein/Low Carbohydrate Way to Lose Weight, Feel Fit, and Boost Your Health-in Just Weeks!_](https://www.amazon.com/gp/product/0553574752/) by Drs. Michael R and Mary Dan Eades
+* **1996** - [_Protein Power: The High-Protein/Low Carbohydrate Way to Lose Weight, Feel Fit, and Boost Your Health-in Just Weeks!_](https://amzn.to/2DDeGQe) by Drs. Michael R and Mary Dan Eades
 
     > "New York Times Bestseller - An effective, medically sound diet that lets you eat bacon, eggs, steak, even cheese? It's true!  Lose fat.  Feel fit.  Stop craving.  Without counting fat grams and without giving up the foods you love. Includes recipes for healthy meals to lose weight."
 
-* **1997** - [_Dr. Bernstein's Diabetes Solution: The Complete Guide to Achieving Normal Blood Sugars_](https://www.amazon.com/Dr-Bernsteins-Diabetes-Solution-Achieving/dp/0316182699) by Dr. Richard K. Bernstein M.D. - New York
+* **1997** - [_Dr. Bernstein's Diabetes Solution: The Complete Guide to Achieving Normal Blood Sugars_](https://amzn.to/2PFA5xe) by Dr. Richard K. Bernstein M.D. - New York
 
     > "Originally published in 1997, DR. BERNSTEIN'S DIABETES SOLUTION is a unique resource that covers both adult- and childhood-onset diabetes, explains step-by-step how to normalize blood sugar levels and prevent or reverse complications, and offers detailed guidelines for establishing a treatment plan. Readers will find fifty gourmet recipes, in addition to a comprehensive discussion of diet, obesity, and new drugs to curb carbohydrate craving and overeating."
 
 ## 2000s
 
-* **2000** - [_Eat Fat, Get Thin!_](https://www.amazon.com/Eat-Fat-Get-Thin-weight-ebook/dp/B004WODW1O/) by Barry Groves ([Homo Carnivorus - What We Are Designed to Eat](http://highsteaks.com/homo-carnivorus-what-we-are-designed-to-eat-barry-groves/))
+* **2000** - [_Eat Fat, Get Thin!_](https://amzn.to/2J4jP7B) by Barry Groves ([Homo Carnivorus - What We Are Designed to Eat](http://highsteaks.com/homo-carnivorus-what-we-are-designed-to-eat-barry-groves/))
 
     > "Do you like the idea of bacon and eggs for breakfast? Would you enjoy a lunch of roast salmon and a satisfying dinner accompanied by wine?
 
@@ -189,20 +190,22 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **2005** - [_Fiber Menace_](https://www.gutsense.org) by Dr. Konstantin Monastyrsky
 
-* **2008** - [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462) by Gary Taubes
+* **2008** - [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://amzn.to/2GIrV2U) by Gary Taubes
 
-* **2008** - [_Diabetes Epidemic & You_](https://www.amazon.com/Diabetes-Epidemic-You-Joseph-Kraft/dp/1425168094/) by Joseph R. Kraft
+* **2008** - [_Diabetes Epidemic & You_](https://amzn.to/2XTMNuV) by Joseph R. Kraft
 
 * **2008** - [_Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains_](/docs/imagining-head-smashed-in-jack-w-brink.pdf)
 
-* **2008** - [_The Great Cholesterol Con: The Truth About What Really Causes Heart Disease and How to Avoid It by Malcolm Kendrick_](https://www.amazon.com/Great-Cholesterol-Really-Causes-Disease/dp/1844546101/) by Dr. Malcolm Kendrick
+* **2008** - [_The Great Cholesterol Con: The Truth About What Really Causes Heart Disease and How to Avoid It by Malcolm Kendrick_](https://amzn.to/2GJGh38) by Dr. Malcolm Kendrick
 
-* **2009** - [_Fat and Cholesterol are Good for You_](https://www.amazon.com/Fat-Cholesterol-are-Good-You/dp/919755538X/) by Dr. Uffe Ravnskov
+* **2009** - [_Fat and Cholesterol are Good for You_](https://amzn.to/2GKT5pM) by Dr. Uffe Ravnskov
 
-* **2009** - [_The Vegetarian Myth: Food, Justice, and Sustainability_](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability-ebook/dp/B003PJ7JXY/) by Lierre Keith
+* **2009** - [_The Vegetarian Myth: Food, Justice, and Sustainability_](https://amzn.to/2PEONnP) by Lierre Keith
 
-* **2011** - [_Primal Body, Primal Mind & Primal Fat Burner_](https://www.amazon.com/Primal-Fat-Burner-Super-Power-High-Fat/dp/150111641X/) by Nora T. Gedgaudas, CNS, CNT
+* **2011** - [_Primal Body, Primal Mind: Beyond Paleo for Total Health and a Longer Life_](https://amzn.to/2IPRClv) by Nora T. Gedgaudas, CNS, CNT
 
-* **2014** - [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz
+* **2014** - [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://amzn.to/2PBCitn) by Nina Teicholz
 
 * **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/the-early-history-of-the-highfat-diet-for-diabetes-Henderson-2016.pdf) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
+
+* **2016** - [_Primal Fat Burner: Primal Fat Burner: Live Longer, Slow Aging, Super-Power Your Brain, and Save Your Life with a High-Fat, Low-Carb Paleo Diet_](https://amzn.to/2GJS2Xf) by Nora T. Gedgaudas, CNS, CNT

@@ -1,5 +1,6 @@
 ---
 title: Ruminants
+disclaimer: True
 ---
 
 This page is dedicated to Ruminants, Sustainability, Regenerative Agriculture, Beef, Lamb, Goats, Holistic Management, Foraging, Agronomy, Human Health, Livestock, Global Warming, Methane
@@ -22,7 +23,7 @@ This page is dedicated to Ruminants, Sustainability, Regenerative Agriculture, B
 
   > Addressing global desertification & destabilising climate though holistic management [https://twitter.com/AllanRSavory](https://twitter.com/AllanRSavory)
 
-* [Holistic Management: A Commonsense Revolution to Restore Our Environment by Allan Savory (2016, 9 reviews, 4.8 stars)](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/161091743X)
+* [Holistic Management: A Commonsense Revolution to Restore Our Environment by Allan Savory (2016, 9 reviews, 4.8 stars)](https://amzn.to/2GR8hSe)
 * [THE GLOBAL SAVORY NETWORK](https://www.savory.global/)
 * [The Science Library includes technical papers documenting the results achieved with Holistic Management, case studies, profiles, white papers and photos that tell the stories behind the data, plus papers and articles by Allan Savory.](https://www.savory.global/holistic-management/science-library/)
 
@@ -106,7 +107,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
   > The case for sustainable meat -The manifesto of an environmental lawyer & vegetarian turned cattle rancher  Nicolette Hahn Niman [https://twitter.com/DefendingBeef](https://twitter.com/DefendingBeef)
 
-* [Defending Beef: The Case for Sustainable Meat Production](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production/dp/1603585362)
+* [Defending Beef: The Case for Sustainable Meat Production](https://amzn.to/2J6LAMH)
 
     > For decades it has been nearly universal dogma among environmentalists and health advocates that cattle and beef are public enemy number one.
     >
@@ -127,7 +128,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 ## Lierre Keith
 
 * [https://twitter.com/Lierre_Keith](https://twitter.com/Lierre_Keith)
-* [The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith (2009, 360 reviews, 3.5 stars, 24% are 1 star)](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability-ebook/dp/B003PJ7JXY/)
+* [The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith (2009, 360 reviews, 3.5 stars, 24% are 1 star)](https://amzn.to/2GOszf4)
 * [Sustainable Dish Episode 46: The Vegetarian Myth with Lierre Keith](https://sustainabledish.com/podcasts/sustainable-dish-episode-46-vegetarian-myth-lierre-keith/)
 * [Peak Human Podcast - Lierre Keith on the Moral, Nutritional, and Environmental Superiority of Eating Meat](http://peakhuman.libsyn.com/part-11-lierre-keith-on-the-moral-nutritional-and-environmental-superiority-of-eating-meat)
 * [LCCP039: Lierre Keith — The Dark Truths Behind Veganism & Vegetarianism](https://drbretscher.libsyn.com/lccp-039-lierre-keith-the-dark-truths-behind-veganism-vegetarianism)
@@ -144,25 +145,25 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
   > Holistic Management and Regenerative Agriculture practitioner and writer. [https://twitter.com/sheldon_frith](https://twitter.com/sheldon_frith)
 
-* [Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration by Sheldon Frith (2016, 18 reviews, 4.4 stars)](https://www.amazon.com/Letter-Vegetarian-Nation-Sustainable-Environmental-ebook/dp/B01BK3HKNA)
+* [Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration by Sheldon Frith (2016, 18 reviews, 4.4 stars)](https://amzn.to/2Y12As9)
 * [Regenerate Land](http://www.regenerateland.com/)
 
 ## Gabe Brown
 
-* [Dirt to Soil: One Family’s Journey into Regenerative Agriculture - 2018](https://www.amazon.com/Dirt-Soil-Familys-Regenerative-Agriculture/dp/1603587632/)
+* [Dirt to Soil: One Family’s Journey into Regenerative Agriculture - 2018](https://amzn.to/2IPRZwp)
 
 ## David R. Montgomery
 
-* [Growing a Revolution: Bringing Our Soil Back to Life](https://www.amazon.com/dp/0393356094)
+* [Growing a Revolution: Bringing Our Soil Back to Life](https://amzn.to/2IPS2bz)
 * [David R. Montgomery on Symbioses in the Soil](https://www.youtube.com/watch?v=Ly-_WeqhSWA)
 
 ## Heather Smith Thomas
 
-* [Storey's Guide to Raising Beef Cattle](https://www.amazon.com/Storeys-Guide-Raising-Beef-Cattle/dp/1603424547)
+* [Storey's Guide to Raising Beef Cattle](https://amzn.to/2GNNRtj)
 
 ## John Nicholson
 
-* [The Meat Fix: How a lifetime of healthy eating nearly killed me! by John Nicholson](https://www.amazon.com/Meat-Fix-lifetime-healthy-eating-ebook/dp/B006YZ27LU/)
+* [The Meat Fix: How a lifetime of healthy eating nearly killed me! by John Nicholson](https://amzn.to/2J1i4b4)
 
 ## Belinda Fettke
 
@@ -170,11 +171,11 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## Adam Danforth
 
-* [Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth (2014, 61 reviews, 4.8 stars)](https://www.amazon.com/Butchering-Beef-Comprehensive-Photographic-Slaughtering/dp/1612121837)
+* [Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth (2014, 61 reviews, 4.8 stars)](https://amzn.to/2PG1FdI)
 
 ## Julius Ruechel
 
-* [Grass-Fed Cattle: How to Produce and Market Natural Beef by Julius Ruechel (2006, 91 reviews, 4.8 stars)](https://www.amazon.com/Grass-Fed-Cattle-Produce-Market-Natural/dp/1580176054)
+* [Grass-Fed Cattle: How to Produce and Market Natural Beef by Julius Ruechel (2006, 91 reviews, 4.8 stars)](https://amzn.to/2Lg9UOT)
 
 ## Geoff Maynard
 
@@ -186,7 +187,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## Maureen Ogle
 
-* [In Meat We Trust: An Unexpected History of Carnivore America](https://www.amazon.com/Meat-We-Trust-Unexpected-Carnivore/dp/0151013403/)
+* [In Meat We Trust: An Unexpected History of Carnivore America](https://amzn.to/2ISEtZ5)
 
     > The moment European settlers arrived in North America, they began transforming the land into a meat-eater’s paradise. Long before revolution turned colonies into nation, Americans were eating meat on a scale the Old World could neither imagine nor provide: an average European was lucky to see meat once a week, while even a poor American man put away about two hundred pounds a year.
     >
@@ -194,7 +195,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## Judith D. Schwartz
 
-* [Cows Save the Planet: And Other Improbable Ways of Restoring Soil to Heal the Earth ](https://www.amazon.com/Cows-Save-Planet-Improbable-Restoring/dp/1603584323/)
+* [Cows Save the Planet: And Other Improbable Ways of Restoring Soil to Heal the Earth ](https://amzn.to/2XUTJrO)
     > In Cows Save the Planet, journalist Judith D. Schwartz looks at soil as a crucible for our many overlapping environmental, economic, and social crises. Schwartz reveals that for many of these problems―climate change, desertification, biodiversity loss, droughts, floods, wildfires, rural poverty, malnutrition, and obesity―there are positive, alternative scenarios to the degradation and devastation we face. In each case, our ability to turn these crises into opportunities depends on how we treat the soil.
     >
     > Drawing on the work of thinkers and doers, renegade scientists and institutional whistleblowers from around the world, Schwartz challenges much of the conventional thinking about global warming and other problems. For example, land can suffer from undergrazing as well as overgrazing, since certain landscapes, such as grasslands, require the disturbance from livestock to thrive. Regarding climate, when we focus on carbon dioxide, we neglect the central role of water in soil―"green water"―in temperature regulation. And much of the carbon dioxide that burdens the atmosphere is not the result of fuel emissions, but from agriculture; returning carbon to the soil not only reduces carbon dioxide levels but also enhances soil fertility.
@@ -207,14 +208,14 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## Stephanie Anderson
 
-* [One Size Fits None: A Farm Girl’s Search for the Promise of Regenerative Agriculture](https://www.amazon.com/One-Size-Fits-None-Regenerative/dp/1496205057/)
+* [One Size Fits None: A Farm Girl’s Search for the Promise of Regenerative Agriculture](https://amzn.to/2IMOPJO)
     > “Sustainable” has long been the rallying cry of agricultural progressives; given that much of our nation’s farm and ranch land is already degraded, however, sustainable agriculture often means maintaining a less-than-ideal status quo. Industrial agriculture has also co-opted the term for marketing purposes without implementing better practices. Stephanie Anderson argues that in order to provide nutrient-rich food and fight climate change, we need to move beyond sustainable to regenerative agriculture, a practice that is highly tailored to local environments and renews resources.
     >
     > In One Size Fits None Anderson follows diverse farmers across the United States: a South Dakota bison rancher who provides an alternative to the industrial feedlot; an organic vegetable farmer in Florida who harvests microgreens; a New Mexico super-small farmer who revitalizes communities; and a North Dakota midsize farmer who combines livestock and grain farming to convert expensive farmland back to native prairie. The use of these nontraditional agricultural techniques show how varied operations can give back to the earth rather than degrade it. This book will resonate with anyone concerned about the future of food in America, providing guidance for creating a better, regenerative agricultural future.
 
 ## Maryn McKenna
 
-* [Big Chicken: The Incredible Story of How Antibiotics Created Modern Agriculture and Changed the Way the World Eats](https://www.amazon.com/Big-Chicken-Incredible-Antibiotics-Agriculture/dp/1426217668/)
+* [Big Chicken: The Incredible Story of How Antibiotics Created Modern Agriculture and Changed the Way the World Eats](https://amzn.to/2XX7t58)
 
     > In this eye-opening exposé, acclaimed health journalist and National Geographic contributor Maryn McKenna documents how antibiotics transformed chicken from local delicacy to industrial commodity—and human health threat—uncovering the ways we can make America's favorite meat safer again.
     >

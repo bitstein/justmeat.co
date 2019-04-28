@@ -1,5 +1,6 @@
 ---
 layout: home
+disclaimer: True
 ---
 
 * [The Ketogenic Diet for Health](http://www.ketotic.org/) (Amber O’Hearn) [Read every article]
@@ -79,7 +80,7 @@ layout: home
     * [“Introduction and Explanation”](http://crohnscarnivore.blogspot.com/2009/08/introduction-and-explanation.html)
     * [“August 2013 Update”](http://crohnscarnivore.blogspot.com/2013/08/august-2013-update.html)
 * [Ketogenic Endurance](https://ketogenicendurance.com/)
-  * [_Contemporary Carnivore Diet: Ancient Food for Ancient Health and Fat Loss in a Modern World_](https://www.amazon.com/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/) by Ketogenic Endurance
+  * [_Contemporary Carnivore Diet: Ancient Food for Ancient Health and Fat Loss in a Modern World_](https://amzn.to/2WdBkWz) by Ketogenic Endurance
 * [Savory Institute](https://savory.global/)
 * [“How to green the world's deserts and reverse climate change \| Allan Savory”](https://www.youtube.com/watch?v=vpTHi7O66pI) [YouTube]
 * [Pleistocene Park: Restoration of the Mammoth Steppe Ecosystem](http://www.pleistocenepark.ru/en/)
@@ -96,23 +97,23 @@ layout: home
 * [_The Relation of Alimentation and Disease_](docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, M.D. [PDF]
 * [_What Must I Do To Get Well? And How Can I Keep It So?_](docs/what-must-i-do-to-get-well-by-elma-stuart.pdf) by Elma Stuart [PDF]
 * [_Dr. Newbold’s Type A/Type B Weight Loss Book_](docs/dr-newbolds-type-a-type-b-weight-loss-book-h-l-newbold-md.pdf) by H. L. Newbold, M.D. [PDF]
-* [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462) by Gary Taubes [Amazon]
-* [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz [Amazon]
+* [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://amzn.to/2XSOjxy) by Gary Taubes [Amazon]
+* [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://amzn.to/2GT9sRt) by Nina Teicholz [Amazon]
 * [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
-* [_Life Without Bread: How a Low-Carbohydrate Diet Can Save Your Life_](https://www.amazon.com/Life-Without-Bread-Low-Carbohydrate-Diet/dp/0658001701) by Christian B. Allan, Ph.D. & Wolfang Lutz, M.D. [Amazon]
-    * [_My Life Without Bread: Dr. Lutz at 90_](https://www.amazon.com/My-Life-Without-Bread-Lutz/dp/0992694418) by Valerie Bracken [Amazon]
-* [_Lore of Nutrition: Challenging Conventional Dietary Beliefs_](https://www.amazon.com/Lore-Nutrition-Challenging-conventional-dietary/dp/1776092619) by Tim Noakes and Marika Sboros
+* [_Life Without Bread: How a Low-Carbohydrate Diet Can Save Your Life_](https://amzn.to/2GLU7Ca) by Christian B. Allan, Ph.D. & Wolfang Lutz, M.D. [Amazon]
+    * [_My Life Without Bread: Dr. Lutz at 90_](https://amzn.to/2J1EDg4) by Valerie Bracken [Amazon]
+* [_Lore of Nutrition: Challenging Conventional Dietary Beliefs_](https://amzn.to/2DCA0FH) by Tim Noakes and Marika Sboros [Amazon]
 * [_Fiber Menace_](https://www.gutsense.org/fiber-menace/about-fiber-menace-book.html) by Konstantin Monastyrsky
 * [_The Cholesterol Myths: Exposing the Fallacy that Saturated Fat and Cholesterol Cause Heart Disease_](http://www.ravnskov.nu/cm/) by Uffe Ravnskov, M.D., Ph.D. ([ePub](docs/the-cholesterol-myths-uffe-ravnskov-md.epub), [mobi](docs/the-cholesterol-myths-uffe-ravnskov-md.mobi), [azw3](docs/the-cholesterol-myths-uffe-ravnskov-md.azw3))
-* [_The Vegetarian Myth: Food, Justice, and Sustainability_](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability/dp/1604860804) by Lierre Keith [Amazon]
-* [_Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration_](https://www.amazon.com/Letter-Vegetarian-Nation-Sustainable-Environmental-ebook/dp/B01BK3HKNA) by Sheldon Frith [Amazon] ([Other formats](http://lettertovegetarians.com/))
-* [_Holistic Management: A Commonsense Revolution to Restore Our Environment_](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/161091743X) by Allan Savory and Jody Butterfield [Amazon]
-* [_Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering_](https://www.amazon.com/Butchering-Beef-Comprehensive-Photographic-Slaughtering/dp/1612121837) by Adam Danforth [Amazon]
-* [_Grass-Fed Cattle: How to Produce and Market Natural Beef_](https://www.amazon.com/Grass-Fed-Cattle-Produce-Market-Natural/dp/1580176054) by Julius Ruechel [Amazon]
-* [_Storey's Guide to Raising Beef Cattle_](https://www.amazon.com/Storeys-Guide-Raising-Beef-Cattle/dp/1603424547) by Heather Smith Thomas [Amazon]
-* [_Defending Beef: The Case for Sustainable Meat Production_](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production/dp/1603585362) by Nicolette Hahn Niman [Amazon]
-* [_The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Living/dp/0983490708) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
-* [_The Art and Science of Low Carbohydrate Performance_](https://www.amazon.com/Art-Science-Low-Carbohydrate-Performance/dp/0983490716) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
+* [_The Vegetarian Myth: Food, Justice, and Sustainability_](https://amzn.to/2DCzdEG) by Lierre Keith [Amazon]
+* [_Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration_](https://amzn.to/2IZCTnr) by Sheldon Frith [Amazon] ([Other formats](http://lettertovegetarians.com/))
+* [_Holistic Management: A Commonsense Revolution to Restore Our Environment_](https://amzn.to/2GEdInI) by Allan Savory and Jody Butterfield [Amazon]
+* [_Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering_](https://amzn.to/2ZIxSWk) by Adam Danforth [Amazon]
+* [_Grass-Fed Cattle: How to Produce and Market Natural Beef_](https://amzn.to/2ZHf9KD) by Julius Ruechel [Amazon]
+* [_Storey's Guide to Raising Beef Cattle_](https://amzn.to/2UIkVrS) by Heather Smith Thomas [Amazon]
+* [_Defending Beef: The Case for Sustainable Meat Production_](https://amzn.to/2L6tfSr) by Nicolette Hahn Niman [Amazon]
+* [_The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable_](https://amzn.to/2LbeGNx) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
+* [_The Art and Science of Low Carbohydrate Performance_](https://amzn.to/2GKOB2j) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
 * [Carnivore Diet: Why would it work? What about Nutrients and Fiber?](https://www.youtube.com/watch?v=isIw2AN_-XU) by "What I've Learned" [Youtube]
 
 ## Wikis

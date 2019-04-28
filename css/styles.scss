@@ -7,6 +7,16 @@ body {
   font-family: 'Gentium Book Basic', serif;
 }
 
+footer {
+  padding: 1.5rem 2rem 0;
+  text-align: center;
+  max-width: 860px;
+  margin: auto;
+  p {
+    color: #808080;
+  }
+}
+
 a {
   &, &:link, &:hover, &:active, &:focus {
     color: #808080;
@@ -139,4 +149,4 @@ blockquote {
   margin-right: auto;
   width: 50%;
   max-width:50%;
-}  
+}

@@ -1,5 +1,6 @@
 ---
 title: Cancer
+disclaimer: True
 ---
 
 * TOC
@@ -30,7 +31,7 @@ title: Cancer
 
     > **Background:** A shift from respiration to fermentation is a common metabolic hallmark of cancer cells. As a result, glucose and glutamine become the prime fuels for driving the dysregulated growth of tumors. The simultaneous occurrence of “Press-Pulse” disturbances was considered the mechanism responsible for reduction of organic populations during prior evolutionary epochs. Press disturbances produce chronic stress, while pulse disturbances produce acute stress on populations. It was only when both disturbances coincide that population reduction occurred. **Methods:** This general concept can be applied to the management of cancer by creating chronic metabolic stresses on tumor cell energy metabolism (press disturbance) that are coupled to a series of acute metabolic stressors that restrict glucose and glutamine availability while also stimulating cancer-specific oxidative stress (pulse disturbances). The elevation of non-fermentable ketone bodies protect normal cells from energy stress while further enhancing energy stress in tumor cells that lack the metabolic flexibility to use ketones as an efficient energy source. Mitochondrial abnormalities and genetic mutations make tumor cells vulnerable metabolic stress. **Results:** The press-pulse therapeutic strategy for cancer management is illustrated with calorie restricted ketogenic diets (KD-R) used together with drugs and procedures that create both chronic and intermittent acute stress on tumor cell energy metabolism, while protecting and enhancing the energy metabolism of normal cells. **Conclusions:** Optimization of dosing, timing, and scheduling of the press-pulse therapeutic strategy will facilitate the eradication of tumor cells with minimal patient toxicity. This therapeutic strategy can be used as a framework for the design of clinical trials for the non-toxic management of most cancers.
 
-* [Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer by Thomas Seyfried \(2010, 90 reviews, 4.3 stars\) - Excellent Book](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920)
+* [Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer by Thomas Seyfried \(2010, 90 reviews, 4.3 stars\) - Excellent Book](https://amzn.to/2LdaRri)
 * [r/KetoScience AMA with Professor Thomas Seyfried - June 27th 2018](https://www.reddit.com/r/ketoscience/comments/8szcl0/ama_with_professor_thomas_seyfried/)
 * [Thomas Seyfried, PhD -- Cancer as a Mitochondrial Metabolic Disease - YouTube](https://www.youtube.com/watch?v=PuG5XZSR4vs)
 * [Cancer as a Metabolic Disease - What You Need to Know: Professor Thomas Seyfried - YouTube](https://www.youtube.com/watch?v=0FALEe0EZUc)
@@ -38,7 +39,7 @@ title: Cancer
 
 ### Travis Christofferson, MS
 
-* [Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms by Travis Christofferson, Dominic D'Agostino \(2017, 332 reviews, 4.8 stars\)](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched-ebook/dp/B01N25FPY9/)
+* [Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms by Travis Christofferson, Dominic D'Agostino \(2017, 332 reviews, 4.8 stars\)](https://amzn.to/2GKKWlh)
 * [YouTube: Travis Christofferson, MS -- Cancer 2.0: A Paradigm Shift](https://www.youtube.com/watch?v=ownKQ6xjeg0)
 * [YouTube: Ep. 31 - Travis Chistofferson: Ketosis, Hyperbaric Oxygen, & Cancer Therapy](https://www.youtube.com/watch?v=UTUDGS20VN0)
 
@@ -54,13 +55,13 @@ title: Cancer
 ### Miriam Kalamian
 
 * [Keto nutrition educator/author/speaker specializing in therapeutic ketogenic diets for cancer, brain tumors, Parkinson's, and healthy aging](https://twitter.com/DietaryTherapy)
-* [Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy by Miriam Kalamian \(2017, 18 reviews, 5 stars\)](https://www.amazon.com/Keto-Cancer-Ketogenic-Metabolic-Nutritional-ebook/dp/B076KDY8FR/)
+* [Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy by Miriam Kalamian \(2017, 18 reviews, 5 stars\)](https://amzn.to/2V6QRei)
 * [Miriam Kalamian -- Optimizing KD therapy to meet the diverse needs of individuals](https://youtu.be/kRJallNStdc)
 
 ### Dr. Nasha Winters ND FABNO L.Ac Dipl.OM
 
 * [Twitter](https://twitter.com/drnashawinters) [Dr Nasha](https://www.drnasha.com/)
-* [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio\-Individualized Therapies](https://www.amazon.com/Metabolic-Approach-Cancer-Integrating-Bio-Individualized/dp/1603586865/)
+* [The Metabolic Approach to Cancer: Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio\-Individualized Therapies](https://amzn.to/2DIAnP4)
 * [YouTube: Fasting, Cancer Prevention & Mitochondria Health - Dr. Nasha Winters](https://youtu.be/KvnzkoCfLno)
 
 ### Dr. Colin Champ

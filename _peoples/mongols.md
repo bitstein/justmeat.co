@@ -2,6 +2,7 @@
 place: Asia
 layout: people
 current_tab: /peoples/
+disclaimer: True
 ---
 
 > The food of the Mongols also consists of milk prepared in various ways, either as butter, curds, whey, or kumiss. The curds are made from the unskimmed milk, which is gently simmered over a slow fire, and then allowed to stand for some time, after which the thick cream is skimmed of and dried, and roasted millet often added to it. The whey is prepared from sour skimmed milk, and is made into small dry lumps of cheese. Lastly, the kumiss (_tarasum_), is prepared from mares' or sheep's milk; all through the summer it is considered the greatest luxury, and Mongols are in the habit of constantly riding to visit their friends and taste the tarasum till they generally become intoxicated. They are all inclined to indulge too freely, although drunkenness is not so rife among them as it is in some more civilised countries.
@@ -40,4 +41,4 @@ Nikolay Mikhaylovich Przhevalsky, [_Travels in Eastern High Asia, Vol. I: Mongol
 >
 > * In the fall, when the men took the animals far from home to graze and fatten them for the winter, they lived mostly on fermented horse or camel milk supplemented by wild marmots, which they cooked in their skin. Fermented camel and horse milk produce nearly constant diarrhea, but since the men lived outside, it was not considered too big a problem.
 
-["The Mongol Diet"](https://web.archive.org/web/20170604135902/http://luckypeach.com/the-mongol-diet/), adapted from correspondence with Professor Jack Weatherford, author of [_Genghis Khan and the Making of the Modern World_](https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644/)
+["The Mongol Diet"](https://web.archive.org/web/20170604135902/http://luckypeach.com/the-mongol-diet/), adapted from correspondence with Professor Jack Weatherford, author of [_Genghis Khan and the Making of the Modern World_](https://amzn.to/2DDOrt3)

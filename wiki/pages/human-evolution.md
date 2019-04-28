@@ -1,5 +1,6 @@
 ---
 title: Human Evolution
+disclaimer: True
 ---
 
 **Human Evolution, Food, Digestion, Ketosis, Hunting and Meat, Adaptations, and Paleoanthropology**
@@ -21,11 +22,11 @@ The main question this wiki page is trying to answer is what kind of diet did mo
 
 ## Books
 
-* [Evolving Human Nutrition (Cambridge Studies in Biological and Evolutionary Anthropology Book 64) by Stanley Ulijaszek, Neil Mann, Sarah Elton - 2012](https://www.amazon.com/Nutrition-Cambridge-Biological-Evolutionary-Anthropology-ebook/dp/B009P2EYOC/)
-* [Food and Western Disease: Health and Nutrition from an Evolutionary Perspective 1st Edition by Staffan Lindeberg - 2010](https://www.amazon.com/Food-Western-Disease-Evolutionary-Perspective/dp/1405197714/)
-* [The Story of the Human Body: Evolution, Health, and Disease by Daniel Lieberman - 2014](https://www.amazon.com/Story-Human-Body-Evolution-Disease/dp/030774180X/)
-* [Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body by Neil Shubin - 2009](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453/)
-* [Why Evolution Is True by Jerry A. Coyne - 2010](https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649/)
+* [Evolving Human Nutrition (Cambridge Studies in Biological and Evolutionary Anthropology Book 64) by Stanley Ulijaszek, Neil Mann, Sarah Elton - 2012](https://amzn.to/2Y2q8Nl)
+* [Food and Western Disease: Health and Nutrition from an Evolutionary Perspective 1st Edition by Staffan Lindeberg - 2010](https://amzn.to/2DGeekb)
+* [The Story of the Human Body: Evolution, Health, and Disease by Daniel Lieberman - 2014](https://amzn.to/2DGOHr4)
+* [Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body by Neil Shubin - 2009](https://amzn.to/2DGaD5N)
+* [Why Evolution Is True by Jerry A. Coyne - 2010](https://amzn.to/2GOAyZX)
 
 ## Human Stomach pH Compared to Other Animals
 
