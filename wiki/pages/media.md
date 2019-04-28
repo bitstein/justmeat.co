@@ -49,6 +49,8 @@ title: Media Appearances
 
 * September 19, 2018 - [“Meat only: I spent a week on the controversial carnivore diet... and felt fantastic”](https://www.telegraph.co.uk/health-fitness/nutrition/meat-spent-week-controversial-carnivore-diet-felt-fantastic/) (_The Telegraph_) [[Archive](https://web.archive.org/web/20190110195544/https://www.telegraph.co.uk/health-fitness/nutrition/meat-spent-week-controversial-carnivore-diet-felt-fantastic/)]
 
+* September 19, 2018 - [“My beef with Jordan Peterson's all-cow diet”](https://www.theguardian.com/commentisfree/2018/sep/19/my-beef-with-jordan-petersons-all-cow-diet) (_The Guardian_) [[Archive](https://web.archive.org/web/20180919171524/https://www.theguardian.com/commentisfree/2018/sep/19/my-beef-with-jordan-petersons-all-cow-diet)]
+
 * October 16, 2018 - [“Should You Try the Carnivore Diet? What 74 Studies Say”](https://www.muscleforlife.com/carnivore-diet/) (_Muscle For Life_) [[Archive](https://web.archive.org/web/20190323151359/https://www.muscleforlife.com/carnivore-diet/)]
 
 * October 24, 2018 - [“Why Right Wingers Are Going Crazy About Meat”](https://www.thedailybeast.com/why-right-wingers-are-going-crazy-about-meat) (_The Daily Beast_) by [Kelly Weill](https://twitter.com/KELLYWEILL) [[Archive](https://web.archive.org/web/20180826013122/https://www.thedailybeast.com/why-right-wingers-are-going-crazy-about-meat)]
