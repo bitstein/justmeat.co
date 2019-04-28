@@ -111,7 +111,7 @@ Current national estimates are provided, with important caveats regarding their 
 CONCLUSION:
 Given the limitations of the data on which they are based, this report provides the best available prevalence estimates for arthritis and other rheumatic conditions overall, and for selected musculoskeletal disorders, in the US population.
 
-* 3 [Gout - The Patrician Malady by Roy and G.S. Rousseau Porter](https://www.amazon.com/Gout-Roy-G-S-Rousseau-Porter/dp/B000ORZLQM)
+* 3 [Gout - The Patrician Malady by Roy and G.S. Rousseau Porter](https://www.amazon.com/Gout-Dr-Roy-Porter/dp/0300082746/)
 
 Gout has been recognised since antiquity, and descriptions of the disease date back to the Babylonian empire. It was certainly well described by Hippocrates. Called the “king of diseases” and the “disease of kings,” gout is more the “disease of plenty.” In Gout Porter and Rousseau track medical thinking about the disease across the centuries, from Hippocrates and Galen to Paracelsus, Harvey, Archibald Garrod in the Victorian era, and beyond. They discuss the cultural, moral, religious, and personal qualities associated with the condition, examining social commentary, personal writings, cartoons and visual arts, and literature (including novels by Dickens, Thackeray, and Joseph Conrad).
 Many of the quotations still ring true: “gout the bitter fruit of luxury” (Cheyne), “the seeds of this evil are frequently derived from the parents!” (Blackmore), “those most vulnerable were men with hail and athletic constitution,” who must pursue “abstinence in eating, temperance in drinking strong liquors and proper exercise.” Folklore deemed gout a disease of the better sort, a superiority tax, a celebrity complaint “fit for a man of quality.” Gout was the distemper of a gentleman whereas the rheumatism was the distemper of a hackney coachman.
@@ -127,7 +127,7 @@ This review summarizes the recent data on lifestyle factors that influence serum
 
 5 hydrick and fox, p. 748-749.
 
-* [6 Duncan's Diseases of Metabolism: Genetics and Metabolism (German) Hardcover – 1969, p. 632.](https://www.amazon.com/Duncans-Diseases-Metabolism-Genetics/dp/B000RRNZZ8)
+* [6 Duncan's Diseases of Metabolism: Genetics and Metabolism (German) Hardcover – 1969, p. 632.](https://www.amazon.com/Duncans-Diseases-Metabolism-Genetics/dp/B000RRNZZ8/)
 
 7 Hydrick cr and fox ih, nutrition and gout, in present knowledge in nutrition, fifth edition, the nutrition foundation, Washington dc, 1984, p. 743
 
@@ -174,8 +174,7 @@ We have reexamined this proposition in four gouty subjects: one mild overproduce
 
 In addition, greater enrichment of N-9 than of N-3 on days 1 and 2 provided suggestive evidence for a second pathway for synthesis of the initial precursor of purine biosynthesis, phosphoribosylamine, perhaps utilizing ammonia rather than the amide-N of glutamine as nitrogen donor. In this limited study, the activity of this potential second pathway did not appear to be selectively increased in gout.
 
-
-* [17 18 19 p. 64, 66 Sydney Mintz, Sweetness and Power, The Place of Sugar in Modern History, penguin books, ny 1985 p. 96.](https://www.amazon.com/Sweetness-Power-Place-Modern-History/dp/0140092331)
+* [17 18 19 p. 64, 66 Sydney Mintz, Sweetness and Power, The Place of Sugar in Modern History, penguin books, ny 1985 p. 96.](https://www.amazon.com/Sweetness-Power-Place-Modern-History/dp/0140092331/)
 
 A fascinating persuasive history of how sugar has shaped the world, from European colonies to our modern diets
 In this eye-opening study, Sidney Mintz shows how Europeans and Americans transformed sugar from a rare foreign luxury to a commonplace necessity of modern life, and how it changed the history of capitalism and industry. He discusses the production and consumption of sugar, and reveals how closely interwoven are sugar's origins as a "slave" crop grown in Europe's tropical colonies with is use first as an extravagant luxury for the aristocracy, then as a staple of the diet of the new industrial proletariat. Finally, he considers how sugar has altered work patterns, eating habits, and our diet in modern times.
@@ -465,7 +464,7 @@ Currently, we are experiencing an epidemic of cardiorenal disease characterized 
 * [Sugar, Uric Acid, and the Etiology of Diabetes and Obesity by Richard J. Johnson, Takahiko Nakagawa, L. Gabriela Sanchez-Lozada, Mohamed Shafiu, Shikha Sundaram, Myphuong Le, Takuji Ishimoto, Yuri Y. Sautin, and Miguel A. Lanaspa](http://sci-hub.tw/https://www.ncbi.nlm.nih.gov/pubmed/24065788) (9 Page PDF) [[Fig 1](https://i.redd.it/vfw8u7ylhq821.png)] [[Fig 2](https://i.redd.it/cv2jhfighq821.png)] [[Fig 3](https://i.redd.it/o0zawn0vgq821.png)]
 * [Prof. Richard Johnson - 'Sugar and its Role in Driving Obesity and Fatty Liver'](https://www.youtube.com/watch?v=blzZKUFN4x0)
 * [223: Dr. Richard Johnson Says Fructose Alone Is The Real Health Enemy - The Livin' La Vida Low-Carb Show with Jimmy Moore!](http://www.thelivinlowcarbshow.com/shownotes/438/dr-richard-johnson-ep-223/)
-* [The Sugar Fix: The High-Fructose Fallout That Is Making You Fat and Sick – April 1, 2008 by Richard Johnson](https://www.amazon.com/Sugar-Fix-High-Fructose-Fallout-Making/dp/1594866651)
+* [The Sugar Fix: The High-Fructose Fallout That Is Making You Fat and Sick – April 1, 2008 by Richard Johnson](https://www.amazon.com/Sugar-Fix-High-Fructose-Fallout-Making/dp/1439101671/)
 
 ### Mark Sisson
 

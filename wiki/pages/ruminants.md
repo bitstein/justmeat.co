@@ -22,7 +22,7 @@ This page is dedicated to Ruminants, Sustainability, Regenerative Agriculture, B
 
   > Addressing global desertification & destabilising climate though holistic management [https://twitter.com/AllanRSavory](https://twitter.com/AllanRSavory)
 
-* [Holistic Management: A Commonsense Revolution to Restore Our Environment by Allan Savory (2016, 9 reviews, 4.8 stars)](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/161091743X)
+* [Holistic Management: A Commonsense Revolution to Restore Our Environment by Allan Savory (2016, 9 reviews, 4.8 stars)](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/161091743X/)
 * [THE GLOBAL SAVORY NETWORK](https://www.savory.global/)
 * [The Science Library includes technical papers documenting the results achieved with Holistic Management, case studies, profiles, white papers and photos that tell the stories behind the data, plus papers and articles by Allan Savory.](https://www.savory.global/holistic-management/science-library/)
 
@@ -106,7 +106,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
   > The case for sustainable meat -The manifesto of an environmental lawyer & vegetarian turned cattle rancher  Nicolette Hahn Niman [https://twitter.com/DefendingBeef](https://twitter.com/DefendingBeef)
 
-* [Defending Beef: The Case for Sustainable Meat Production](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production/dp/1603585362)
+* [Defending Beef: The Case for Sustainable Meat Production](https://www.amazon.com/Defending-Beef-Case-Sustainable-Production/dp/1603585362/)
 
     > For decades it has been nearly universal dogma among environmentalists and health advocates that cattle and beef are public enemy number one.
     >
@@ -127,7 +127,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 ## Lierre Keith
 
 * [https://twitter.com/Lierre_Keith](https://twitter.com/Lierre_Keith)
-* [The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith (2009, 360 reviews, 3.5 stars, 24% are 1 star)](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability-ebook/dp/B003PJ7JXY/)
+* [The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith (2009, 360 reviews, 3.5 stars, 24% are 1 star)](https://www.amazon.com/Vegetarian-Myth-Food-Justice-Sustainability/dp/1604860804/)
 * [Sustainable Dish Episode 46: The Vegetarian Myth with Lierre Keith](https://sustainabledish.com/podcasts/sustainable-dish-episode-46-vegetarian-myth-lierre-keith/)
 * [Peak Human Podcast - Lierre Keith on the Moral, Nutritional, and Environmental Superiority of Eating Meat](http://peakhuman.libsyn.com/part-11-lierre-keith-on-the-moral-nutritional-and-environmental-superiority-of-eating-meat)
 * [LCCP039: Lierre Keith — The Dark Truths Behind Veganism & Vegetarianism](https://drbretscher.libsyn.com/lccp-039-lierre-keith-the-dark-truths-behind-veganism-vegetarianism)
@@ -144,7 +144,7 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
   > Holistic Management and Regenerative Agriculture practitioner and writer. [https://twitter.com/sheldon_frith](https://twitter.com/sheldon_frith)
 
-* [Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration by Sheldon Frith (2016, 18 reviews, 4.4 stars)](https://www.amazon.com/Letter-Vegetarian-Nation-Sustainable-Environmental-ebook/dp/B01BK3HKNA)
+* [Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration by Sheldon Frith (2016, 18 reviews, 4.4 stars)](https://www.amazon.com/Letter-Vegetarian-Nation-Sustainable-Environmental-ebook/dp/B01BK3HKNA/)
 * [Regenerate Land](http://www.regenerateland.com/)
 
 ## Gabe Brown
@@ -153,16 +153,16 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## David R. Montgomery
 
-* [Growing a Revolution: Bringing Our Soil Back to Life](https://www.amazon.com/dp/0393356094)
+* [Growing a Revolution: Bringing Our Soil Back to Life](https://www.amazon.com/dp/0393356094/)
 * [David R. Montgomery on Symbioses in the Soil](https://www.youtube.com/watch?v=Ly-_WeqhSWA)
 
 ## Heather Smith Thomas
 
-* [Storey's Guide to Raising Beef Cattle](https://www.amazon.com/Storeys-Guide-Raising-Beef-Cattle/dp/1603424547)
+* [Storey's Guide to Raising Beef Cattle](https://www.amazon.com/Storeys-Guide-Raising-Beef-Cattle/dp/1603424547/)
 
 ## John Nicholson
 
-* [The Meat Fix: How a lifetime of healthy eating nearly killed me! by John Nicholson](https://www.amazon.com/Meat-Fix-lifetime-healthy-eating-ebook/dp/B006YZ27LU/)
+* [The Meat Fix: How a lifetime of healthy eating nearly killed me! by John Nicholson](https://www.amazon.com/Meat-Fix-Lifetime-Healthy-Eating/dp/184954462X/)
 
 ## Belinda Fettke
 
@@ -170,11 +170,11 @@ https://filmmakerscollab.networkforgood.com/projects/45545-filmmakers-collaborat
 
 ## Adam Danforth
 
-* [Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth (2014, 61 reviews, 4.8 stars)](https://www.amazon.com/Butchering-Beef-Comprehensive-Photographic-Slaughtering/dp/1612121837)
+* [Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth (2014, 61 reviews, 4.8 stars)](https://www.amazon.com/Butchering-Beef-Comprehensive-Photographic-Slaughtering/dp/1612121837/)
 
 ## Julius Ruechel
 
-* [Grass-Fed Cattle: How to Produce and Market Natural Beef by Julius Ruechel (2006, 91 reviews, 4.8 stars)](https://www.amazon.com/Grass-Fed-Cattle-Produce-Market-Natural/dp/1580176054)
+* [Grass-Fed Cattle: How to Produce and Market Natural Beef by Julius Ruechel (2006, 91 reviews, 4.8 stars)](https://www.amazon.com/Grass-Fed-Cattle-Produce-Market-Natural/dp/1580176054/)
 
 ## Geoff Maynard
 

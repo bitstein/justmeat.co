@@ -21,7 +21,7 @@ The main question this wiki page is trying to answer is what kind of diet did mo
 
 ## Books
 
-* [Evolving Human Nutrition (Cambridge Studies in Biological and Evolutionary Anthropology Book 64) by Stanley Ulijaszek, Neil Mann, Sarah Elton - 2012](https://www.amazon.com/Nutrition-Cambridge-Biological-Evolutionary-Anthropology-ebook/dp/B009P2EYOC/)
+* [Evolving Human Nutrition (Cambridge Studies in Biological and Evolutionary Anthropology Book 64) by Stanley Ulijaszek, Neil Mann, Sarah Elton - 2012](https://www.amazon.com/Evolving-Human-Nutrition-Implications-Evolutionary-dp-1107692660/dp/1107692660/)
 * [Food and Western Disease: Health and Nutrition from an Evolutionary Perspective 1st Edition by Staffan Lindeberg - 2010](https://www.amazon.com/Food-Western-Disease-Evolutionary-Perspective/dp/1405197714/)
 * [The Story of the Human Body: Evolution, Health, and Disease by Daniel Lieberman - 2014](https://www.amazon.com/Story-Human-Body-Evolution-Disease/dp/030774180X/)
 * [Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body by Neil Shubin - 2009](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453/)
