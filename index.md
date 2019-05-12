@@ -157,6 +157,7 @@ layout: home
 * [GuyNAustin](https://twitter.com/GuyNAustin) (@GuyNAustin)
 * [Carnivore Aurelius](https://twitter.com/KetoAurelius) (@KetoAurelius)
 * [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
+* [Dr. Tro](https://twitter.com/DoctorTro) (@DoctorTro)
 * [Carnivores Twitter List](https://twitter.com/sarahkaltsounis/lists/carnivores)
 
 ## Instagram
