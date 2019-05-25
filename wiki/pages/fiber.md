@@ -595,6 +595,12 @@ A low-fiber diet reduces the chances of the digestive system getting struck by c
 >
 > Quality of life and the preservation of health should be key considerations for anyone considering a low-fiber diet while they’re still relatively healthy. The reversal and prevention of disease should be a key concern for people who are already experiencing digestive and metabolic disorders.
 
+## Dr. Zoe Harcombe
+
+* [“What About Fiber?”](https://www.youtube.com/watch?v=4KrmpK_Lckg)
+* ["Why do studies conclude that fiber is associated with better health?"](http://www.zoeharcombe.com/2019/01/why-do-studies-conclude-that-fiber-is-associated-with-better-health/)
+* ["Fiber: An umbrella review"](http://www.zoeharcombe.com/2018/10/fiber-an-umbrella-review/)
+
 ## Other Articles
 
 * [“Low Residue Diet: Can Limiting Your Fiber Intake Help You Live a Healthier Life?”](https://legionathletics.com/low-residue-diet/)
