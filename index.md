@@ -178,6 +178,7 @@ layout: home
 * [Josh Blackburn](https://www.instagram.com/logical_lynx/) (@logical_lynx)
 * [ketoanimalfoods](https://www.instagram.com/ketoanimalfoods/) (@ketoanimalfoods)
 * [Ketogenic Endurance](https://www.instagram.com/ketogenicendurance/) (@ketogenicendurance)
+* [Nicole Carter](https://www.instagram.com/healthy_with_nicole/) (@healthy_with_nicole)
 
 ## YouTube
 
@@ -189,6 +190,10 @@ layout: home
 * [Primal Edge Health](https://www.youtube.com/user/PrimalEdgeHealth)
 * [Paul Saladino MD](https://www.youtube.com/channel/UCgBg0LcHfnJDPmFTTf677Pw/)
 * [Carneval](https://www.youtube.com/channel/UCngtlLz7xTfiEAsDU-HrnBg/)
+* [EONutrition](https://www.youtube.com/channel/UCFqXidfUsI0vm73xsBMIQdQ/)
+* [Michaelanthony](https://www.youtube.com/channel/UCf6KKvTXvVzKru76pNbABhA)
+* [Phil Escott](https://www.youtube.com/channel/UCcHEYrfmQH-5RxiFL5RD08g/)
+* [Healthy With Nicole](https://www.youtube.com/channel/UCmvpZgcp7SPR1VRz1NV5wKQ/)
 
 ## Reddit
 
@@ -205,6 +210,7 @@ layout: home
 * [The Carnivore Cast](https://www.carnivorecast.com/) (Scott Myslinski)
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
 * [Kevin Stock Radio](https://www.kevinstock.io/podcast/) (Kevin Stock)
+* [Fundamental Health](https://www.paulsaladinomd.com/podcast) (Kevin Stock)
 
 ## Telegram
 
