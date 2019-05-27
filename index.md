@@ -161,6 +161,7 @@ layout: home
 * [Carnivore Aurelius](https://twitter.com/KetoAurelius) (@KetoAurelius)
 * [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
 * [Dr. Tro](https://twitter.com/DoctorTro) (@DoctorTro)
+* [Michael Anthony](https://twitter.com/meat0sis) (@meat0sis)
 * [Carnivores Twitter List](https://twitter.com/sarahkaltsounis/lists/carnivores)
 
 ## Instagram
