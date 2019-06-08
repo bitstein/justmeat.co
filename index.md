@@ -211,7 +211,7 @@ layout: home
 * [The Carnivore Cast](https://www.carnivorecast.com/) (Scott Myslinski)
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
 * [Kevin Stock Radio](https://www.kevinstock.io/podcast/) (Kevin Stock)
-* [Fundamental Health](https://www.paulsaladinomd.com/podcast) (Kevin Stock)
+* [Fundamental Health](https://www.paulsaladinomd.com/podcast) (Paul Saladino)
 
 ## Telegram
 
