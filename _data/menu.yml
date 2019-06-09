@@ -1,9 +1,12 @@
 - name: 'Home'
   href: '/'
 
+- name: 'Archives'
+  href: '/archives/'
+  new: true
+
 - name: 'Wiki'
   href: '/wiki/'
-  new: true
 
 - name: 'Peoples'
   href: '/peoples/'

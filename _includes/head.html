@@ -7,9 +7,14 @@
   <meta name="description" content="Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat." />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@bitstein">
+  <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}Just meat.{% endif %}" />
+  {% if page.is_article %}
+  <meta property="og:type" content="article" />
+  <meta property="og:article:author" content="{{page.author}}" />
+  {% else %}
   <meta property="og:type" content="website" />
+  {% endif %}
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{% if page.title %}{{page.title}} | {% endif %}Just meat." />
   <meta property="og:description" content="Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat." />
   <meta property="og:image" content="https://justmeat.co/img/mammoth-hunt.jpg" />
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">

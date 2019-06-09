@@ -19,6 +19,7 @@ layout: home
 * [Vilhjalmur Stefansson](http://highsteaks.com/carnivores-creed/vilhjalmur-stefansson/)
     * _The Fat of the Land_ ([ePub](docs/the-fat-of-the-land-vilhjalmur-stefansson.epub), [mobi](docs/the-fat-of-the-land-vilhjalmur-stefansson.mobi), [azw3](docs/the-fat-of-the-land-vilhjalmur-stefansson.azw3), [PDF](docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf)) [Produced by Sylvain of [_Clair et Lipide_](https://clairetlipide.wordpress.com/2014/08/31/the-fat-of-the-land-vilhjalmur-stefansson-ebook-epub-azw3-mobi/)]
     * _Cancer: Disease of Civilization?_ ([HTML](http://solus.life/stefansson/), [ePub](docs/cancer-disease-of-civilization-vilhjalmur-stefansson.epub)) [Produced by [Solus Factor](https://twitter.com/solus_factor)]
+    * [“Adventures in Diet” (1935)]({% link _archives/adventures-in-diet.md %})
     * [“Prolonged Meat Diets With A Study Of Kidney Function And Ketosis”](docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois [PDF]
     * [“The Effects on Human Beings of a Twelve Months’ Exclusive Meat Diet”](docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb, M.D. [PDF]
     * [“Rare footage of Vilhjalmur Stefansson the Arctic explorer”](https://www.youtube.com/watch?v=gT7u2GlEfxs) [YouTube]
