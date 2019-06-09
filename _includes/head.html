@@ -15,7 +15,12 @@
   <meta property="og:type" content="website" />
   {% endif %}
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.description %}
+  <meta property="og:description" content="{{page.description}}" />
+  <meta property="twitter:description" content="{{page.description}}" />
+  {% else %}
   <meta property="og:description" content="Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat." />
+  {% endif %}
   <meta property="og:image" content="https://justmeat.co/img/mammoth-hunt.jpg" />
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
