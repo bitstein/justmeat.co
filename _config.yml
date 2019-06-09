@@ -29,6 +29,9 @@ collections:
   peoples:
     output: true
     permalink: /:collection/:name/
+  archives:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
   -
@@ -40,6 +43,14 @@ defaults:
       permalink: /wiki/:basename/
       current_tab: /wiki/
       categories: wiki
+  -
+    scope:
+      path: "_archives"
+    values:
+      layout: archive-page
+      current_tab: /archives/
+      categories: archives
+      is_article: true
 
 exclude:
   - Gemfile

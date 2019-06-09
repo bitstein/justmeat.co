@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="archive-container container col-md-8">
+  {% include breadcrumb.html backlink='/archives/' %}
+  <hr />
+  <article>
+   <header class="text-center">
+     <h1>{{page.title}}</h1>
+     <span class="archive-author">{{page.author}}</span>
+     <span class="archive-date">{% if page.special_date %}{{page.special_date}}{% else %}{{page.date}}{% endif %}</span>
+     {% if page.notes %}
+     <span class="archive-notes">{{page.notes}}</span>
+     {% endif %}
+   </header>
+   <hr class="header-separator" />
+   {{content}}
+  </article>
+  <hr />
+  {% include breadcrumb.html backlink='/archives/' %}
+</div>

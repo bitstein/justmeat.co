@@ -94,9 +94,67 @@ blockquote {
   }
 }
 
+.archive-container.container,
 .wiki-container.container {
   max-width: 850px;
+}
 
+.archive-container hr {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
+  // max-width: 600px;
+  &.article-separator {
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    border-color: #888;
+    max-width: 500px;
+  }
+  &.header-separator {
+    margin-top: 2em;
+    margin-bottom: 3em;
+    &:after {
+      content: "§";
+      display:
+      inline-block;
+      position: relative;
+      top: -0.7em;
+      font-size: 1.5em;
+      padding: 0 0.25em;
+      background: white;
+    }
+  }
+}
+
+.archive-container article {
+  header {
+    h1 {
+      margin-bottom: 0;
+    }
+    span {
+      display: block;
+      &.archive-author {
+        font-size: 1.5rem;
+      }
+      &.archive-notes {
+        margin-top: 1.5rem;
+        font-size: 0.8em;
+      }
+    }
+  }
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
+.wiki-container.container {
   h1, h2, h3, h4 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1)
   }
