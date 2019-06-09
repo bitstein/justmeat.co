@@ -10,10 +10,6 @@ disclaimer: True
     * ["Guide To The Carnivore Diet" ](https://nutrita.app/guide-to-the-carnivore-diet/)
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
-* [Meat.Health](https://meat.health/) (Kevin Stock)
-    * ["30 Day Guide To Going Full Carnivore"](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
-    * ["How To Loose Fat On the Carnivore Diet"](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
-    * ["Health Dangers Of A Plant Based Diet"](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
     * [Full archive](http://web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php) of forum posts
     * _The Bear’s Words of Wisdom_, a full collection of the Bear’s writings ([ePub](docs/the-bear.epub), [mobi](docs/the-bear.mobi), [PDF](docs/the-bear.pdf))
@@ -38,6 +34,10 @@ disclaimer: True
 * [Carnivore Aurelius](https://carnivoreaurelius.com)
     * [“Carnivore Diet Meal Plan”](https://carnivoreaurelius.com/carnivore-diet-meal-plan/)
     * [“16 Reasons Why The Carnivore Diet Works (+ Benefits)”](https://carnivoreaurelius.com/carnivore-diet/)
+* [Meat.Health](https://meat.health/) (Kevin Stock)
+    * ["30 Day Guide To Going Full Carnivore"](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
+    * ["How To Loose Fat On the Carnivore Diet"](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
+    * ["Health Dangers Of A Plant Based Diet"](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
 * “Heart attack through ’evil fats’?” by Dr. Natasha Campbell-McBride [Youtube]
     * [Part 1](https://www.youtube.com/watch?v=T7OQT1SHf9w)
