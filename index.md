@@ -13,6 +13,8 @@ disclaimer: True
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
     * [Full archive](http://web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php) of forum posts
     * _The Bear’s Words of Wisdom_, a full collection of the Bear’s writings ([ePub](docs/the-bear.epub), [mobi](docs/the-bear.mobi), [PDF](docs/the-bear.pdf))
+    * [“Diet and Exercise”]({% link _archives/diet-and-exercise.md %})
+    * [“Seven Simple Rules for the Human Carnivore”]({% link _archives/seven-simple-rules-for-the-human-carnivore.md %})
 * [Vilhjalmur Stefansson](http://highsteaks.com/carnivores-creed/vilhjalmur-stefansson/)
     * _The Fat of the Land_ ([ePub](docs/the-fat-of-the-land-vilhjalmur-stefansson.epub), [mobi](docs/the-fat-of-the-land-vilhjalmur-stefansson.mobi), [azw3](docs/the-fat-of-the-land-vilhjalmur-stefansson.azw3), [PDF](docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf)) [Produced by Sylvain of [_Clair et Lipide_](https://clairetlipide.wordpress.com/2014/08/31/the-fat-of-the-land-vilhjalmur-stefansson-ebook-epub-azw3-mobi/)]
     * _Cancer: Disease of Civilization?_ ([HTML](http://solus.life/stefansson/), [ePub](docs/cancer-disease-of-civilization-vilhjalmur-stefansson.epub)) [Produced by [Solus Factor](https://twitter.com/solus_factor)]
