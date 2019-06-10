@@ -1,6 +1,9 @@
 ---
 title: Seven Simple Rules for the Human Carnivore
 author: "Owsley “The Bear” Stanley"
+date: 2008-11-21
+source: Zeroing in on Health
+source_url: http://web.archive.org/web/20160519022721/http://blog.zeroinginonhealth.com/about/#comment-25
 ---
 
 1. Eat only from the animal world (eggs, fish, redmeat and fowl and some dairy are all animal sourced foods, i.e.: meat).
