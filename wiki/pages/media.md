@@ -78,3 +78,5 @@ title: Media Appearances
 * March 15, 2019 - [“Eating brains and bones saved my life: Vegan, 25, gave up her ‘raw’ diet of fruit and vegetables for a meat-ONLY menu because the lack of nutrients was ‘killing her’”](https://www.dailymail.co.uk/health/article-6812893/Eating-bones-brains-saved-Vegan-gave-plant-based-diet-killing-her.html) (_The Daily Mail_) [[Archive](https://web.archive.org/web/20190323150650/https://www.dailymail.co.uk/health/article-6812893/Eating-bones-brains-saved-Vegan-gave-plant-based-diet-killing-her.html)]
 
 * May 20, 2019 - [“Inside the All-Meat, Only-Meat Carnivore Diet That Took the Internet by Storm”](https://www.menshealth.com/nutrition/a27405997/carnviore-diet-plan/) (_Men’s Health_) [[Archive](http://web.archive.org/web/20190520213429/https://www.menshealth.com/nutrition/a27405997/carnviore-diet-plan/)]
+
+* June 5, 2019 - [“All You Need to Know About the Carnivore (All-Meat) Diet”](https://www.healthline.com/nutrition/carnivore-diet) (_Healthline_) [[Archive](http://web.archive.org/web/20190607123140/https://www.healthline.com/nutrition/carnivore-diet)]
