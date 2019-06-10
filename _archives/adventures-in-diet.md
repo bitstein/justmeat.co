@@ -3,7 +3,7 @@ title: Adventures in Diet
 author: Vilhjalmur Stefansson
 date: 11-1-1935
 special_date: "November 1935 – January 1936"
-notes: "Originally published in Harper’s Monthly Magazine"
+source: "Harper’s Monthly Magazine"
 description: "Vilhjalmur Stefansson, 1935. Originally published in Harper’s Monthly Magazine."
 ---
 
