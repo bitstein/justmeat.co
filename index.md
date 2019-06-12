@@ -11,7 +11,7 @@ disclaimer: True
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
-    * [Full archive](http://web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php) of forum posts
+    * [“Active Low-Carber Forum Posts”]({% link _archives/active-low-carber-forum-posts.md %})
     * _The Bear’s Words of Wisdom_, a full collection of the Bear’s writings ([ePub](docs/the-bear.epub), [mobi](docs/the-bear.mobi), [PDF](docs/the-bear.pdf))
     * [“Diet and Exercise”]({% link _archives/diet-and-exercise.md %})
     * [“Seven Simple Rules for the Human Carnivore”]({% link _archives/seven-simple-rules-for-the-human-carnivore.md %})
