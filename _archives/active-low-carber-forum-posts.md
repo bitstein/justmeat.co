@@ -6,7 +6,7 @@ source: Active Low-Carber Forums
 source_url: https://forum.lowcarber.org/showthread.php?t=287013
 ---
 
-_Editor's note: On February 25th, 2006, Owsley “The Bear” Stanley started a thread on the Active Low-Carber Forums about his carnivorous diet. The thread spanned 251 pages, in which the Bear made 292 posts explaining his dietary wisdom and knowledge. This page contains all of the Bear's posts in one location, originally archived [here](web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php). You can read the full original thread [here](https://forum.lowcarber.org/showthread.php?t=287013)._
+_Editor's note: On February 25th, 2006, Owsley “The Bear” Stanley, the prolific LSD manufacturer, Grateful Dead soundman, and carnivore of 50 years, started a thread on the Active Low-Carber Forums about his carnivorous diet. The thread spanned 251 pages, in which the Bear made 292 posts explaining his dietary wisdom and knowledge. This page contains all of the Bear's posts in one location, originally archived [here](web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php). You can read the full original thread [here](https://forum.lowcarber.org/showthread.php?t=287013)._
 
 ***
 
