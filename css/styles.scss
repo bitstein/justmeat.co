@@ -84,6 +84,12 @@ blockquote {
   }
 }
 
+.archive-index {
+  ul {
+    list-style-type: none;
+  }
+}
+
 .archive-container.container,
 .wiki-container.container {
   max-width: 850px;
