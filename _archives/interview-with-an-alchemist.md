@@ -6,7 +6,7 @@ source: Island Web
 source_url: http://web.archive.org/web/20020601142607/http://www.island.org:80/news/
 ---
 
-_Editor's note: This is an excerpt from part 3 of a four-hour interview conducted by Bruce Eisner with Owsley Stanley, where Owsley expounds upon his dietary philosophy. The PDF of this part is available [here](docs/interview-with-an-alchemist.pdf), and a larger edit of the full interview can be found [here](https://web.archive.org/web/20050408054847/http://www.bruceeisner.com/writings/2004/08/interview_with__2.html), although it does not contain this excerpt._
+_Editor's note: This is an excerpt from part 3 of a four-hour interview conducted by Bruce Eisner with Owsley Stanley, where Owsley expounds upon his dietary philosophy. The PDF of this part is available [here](/docs/interview-with-an-alchemist.pdf), and a larger edit of the full interview can be found [here](https://web.archive.org/web/20050408054847/http://www.bruceeisner.com/writings/2004/08/interview_with__2.html), although it does not contain this excerpt._
 
 ***
 
