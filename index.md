@@ -7,7 +7,7 @@ disclaimer: True
 * [Empirica](http://www.empiri.ca/) (Amber O’Hearn)
     * [“Eat meat. Not too little. Mostly fat.”](http://www.empiri.ca/p/eat-meat-not-too-little-mostly-fat.html)
     * [“Amber O’Hearn at Ketofest 2017 - The Carnivorous Human”](https://www.youtube.com/watch?v=Y4VRp5ZFFRU) [YouTube]
-    * ["Guide To The Carnivore Diet" ](https://nutrita.app/guide-to-the-carnivore-diet/)
+    * [“Guide To The Carnivore Diet”](https://nutrita.app/guide-to-the-carnivore-diet/)
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
@@ -38,9 +38,9 @@ disclaimer: True
     * [“Carnivore Diet Meal Plan”](https://carnivoreaurelius.com/carnivore-diet-meal-plan/)
     * [“16 Reasons Why The Carnivore Diet Works (+ Benefits)”](https://carnivoreaurelius.com/carnivore-diet/)
 * [Meat.Health](https://meat.health/) (Kevin Stock)
-    * ["30 Day Guide To Going Full Carnivore"](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
-    * ["How To Loose Fat On the Carnivore Diet"](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
-    * ["Health Dangers Of A Plant Based Diet"](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
+    * [“30 Day Guide To Going Full Carnivore”](docs/The-30-Day-Guide-to-Going-Full-Carnivore.pdf)
+    * [“How To Loose Fat On the Carnivore Diet”](docs/How-to-Lose-Fat-on-the-Carnivore-Diet.pdf)
+    * [“Health Dangers Of A Plant Based Diet”](docs/Health-Dangers-of-a-Plant-Based-Diet.pdf)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
 * “Heart attack through ’evil fats’?” by Dr. Natasha Campbell-McBride [Youtube]
     * [Part 1](https://www.youtube.com/watch?v=T7OQT1SHf9w)
@@ -74,7 +74,7 @@ disclaimer: True
     * [“Steve Phinney on Pemmican and Indigenous Diets”](http://www.meandmydiabetes.com/2010/03/23/steve-phinney-on-pemmican-and-indigenous-diets-will-become-public-in-2-weeks/)
 * [“Guts and Grease: The Diet of Native Americans”](https://www.westonaprice.org/health-topics/traditional-diets/guts-and-grease-the-diet-of-native-americans/) by Sally Fallon and Mary Enig, Ph.D.
 * [“The Pemmican Manual”](docs/the-pemmican-manual-lex-rooker.pdf) by Lex Rooker [PDF]
-* ["The Zero Carb Experience"](https://borgefagerli.com/the-zero-carb-experience/) (Borge Fagerli)
+* [“The Zero Carb Experience”](https://borgefagerli.com/the-zero-carb-experience/) (Borge Fagerli)
 * [Paleomedicina](https://www.paleomedicina.com/en) (Dr. Csaba Tóth & Dr. Zsófia Clemens)
     * [“Crohn’s disease successfully treated with the paleolithic ketogenic diet”](docs/crohns-disease-successfully-treated-paleolithic-ketogenic-diet-csaba-toth-zsofia-clemens.pdf) [PDF]
     * [“Vitamin C and Disease: Insights from the Evolutionary Perspective”](docs/vitamin-c-from-evolutionary-perspective-zsofia-clemens-csaba-toth.pdf) [PDF]
@@ -90,6 +90,7 @@ disclaimer: True
 * [“How to green the world's deserts and reverse climate change \| Allan Savory”](https://www.youtube.com/watch?v=vpTHi7O66pI) [YouTube]
 * [Pleistocene Park: Restoration of the Mammoth Steppe Ecosystem](http://www.pleistocenepark.ru/en/)
     * [“Wild Field Manifesto”](docs/wild-field-manifesto.pdf)
+* [“Carnivore Diet: Why would it work? What about Nutrients and Fiber?”](https://www.youtube.com/watch?v=isIw2AN_-XU) by “What I've Learned” [Youtube]
 * [“How To Butcher An Entire Cow: Every Cut Of Meat Explained”](https://www.youtube.com/watch?v=WrOzwoMKzH4) [YouTube]
 * [“How to Butcher an Entire Pig: Every Cut of Pork Explained”](https://www.youtube.com/watch?v=JtnsZ2JaKso) [YouTube]
 * [“How to Butcher an Entire Lamb: Every Cut of Meat Explained”](https://www.youtube.com/watch?v=Uq_GB3ldQW8) [YouTube]
@@ -119,7 +120,6 @@ disclaimer: True
 * [_Defending Beef: The Case for Sustainable Meat Production_](https://amzn.to/2L6tfSr) by Nicolette Hahn Niman [Amazon]
 * [_The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable_](https://amzn.to/2LbeGNx) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
 * [_The Art and Science of Low Carbohydrate Performance_](https://amzn.to/2GKOB2j) by Jeff Volek, Ph.D., R.D. & Stephen D. Phinney, M.D., Ph.D. [Amazon]
-* [Carnivore Diet: Why would it work? What about Nutrients and Fiber?](https://www.youtube.com/watch?v=isIw2AN_-XU) by "What I've Learned" [Youtube]
 
 ## Wikis
 
