@@ -40,7 +40,7 @@ layout: home
     * [“16 Reasons Why The Carnivore Diet Works (+ Benefits)”](https://carnivoreaurelius.com/carnivore-diet/)
 * [Meat.Health](https://meat.health/) (Kevin Stock)
     * [“30 Day Guide To Going Full Carnivore”](docs/the-30-day-guide-to-going-full-carnivore.pdf)
-    * [“How To Loose Fat On the Carnivore Diet”](docs/how-to-lose-fat-on-the-carnivore-diet.pdf)
+    * [“How To Lose Fat On the Carnivore Diet”](docs/how-to-lose-fat-on-the-carnivore-diet.pdf)
     * [“Health Dangers Of A Plant Based Diet”](docs/health-dangers-of-a-plant-based-diet.pdf)
 * [“Food: Serious as a Heart Attack”](http://carmineleo.com/blog/food-serious-as-a-heart-attack/) by Carmine Leo
 * “Heart attack through ’evil fats’?” by Dr. Natasha Campbell-McBride [Youtube]
