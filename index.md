@@ -18,6 +18,7 @@ layout: home
 * [Vilhjalmur Stefansson](http://highsteaks.com/carnivores-creed/vilhjalmur-stefansson/)
     * _The Fat of the Land_ ([ePub](docs/the-fat-of-the-land-vilhjalmur-stefansson.epub), [mobi](docs/the-fat-of-the-land-vilhjalmur-stefansson.mobi), [azw3](docs/the-fat-of-the-land-vilhjalmur-stefansson.azw3), [PDF](docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf)) [Produced by Sylvain of [_Clair et Lipide_](https://clairetlipide.wordpress.com/2014/08/31/the-fat-of-the-land-vilhjalmur-stefansson-ebook-epub-azw3-mobi/)]
     * _Cancer: Disease of Civilization?_ ([HTML](http://solus.life/stefansson/), [ePub](docs/cancer-disease-of-civilization-vilhjalmur-stefansson.epub)) [Produced by [Solus Factor](https://twitter.com/solus_factor)]
+    * [_My Life with the Eskimo_](docs/my-life-with-the-eskimo-vilhjalmur-stefansson.pdf) [PDF]
     * [“Adventures in Diet” (1935)]({% link _archives/adventures-in-diet.md %})
     * [“Preface to Eat Fast and Grow Slim” (1958)]({% link _archives/preface-to-eat-fat-and-grow-slim.md %}) by Evelyn Stefansson
     * [“Prolonged Meat Diets With A Study Of Kidney Function And Ketosis”](docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois [PDF]
