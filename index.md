@@ -16,6 +16,7 @@ disclaimer: True
     * [“Diet and Exercise”]({% link _archives/diet-and-exercise.md %})
     * [“Seven Simple Rules for the Human Carnivore”]({% link _archives/seven-simple-rules-for-the-human-carnivore.md %})
     * [“Interview with an Alchemist”]({% link _archives/interview-with-an-alchemist.md %})
+    * [“Q&A with igibike”]({% link _archives/q-and-a-with-igibike.md %})
 * [Vilhjalmur Stefansson](http://highsteaks.com/carnivores-creed/vilhjalmur-stefansson/)
     * _The Fat of the Land_ ([ePub](docs/the-fat-of-the-land-vilhjalmur-stefansson.epub), [mobi](docs/the-fat-of-the-land-vilhjalmur-stefansson.mobi), [azw3](docs/the-fat-of-the-land-vilhjalmur-stefansson.azw3), [PDF](docs/the-fat-of-the-land-vilhjalmur-stefansson.pdf)) [Produced by Sylvain of [_Clair et Lipide_](https://clairetlipide.wordpress.com/2014/08/31/the-fat-of-the-land-vilhjalmur-stefansson-ebook-epub-azw3-mobi/)]
     * _Cancer: Disease of Civilization?_ ([HTML](http://solus.life/stefansson/), [ePub](docs/cancer-disease-of-civilization-vilhjalmur-stefansson.epub)) [Produced by [Solus Factor](https://twitter.com/solus_factor)]
