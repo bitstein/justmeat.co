@@ -204,6 +204,7 @@ disclaimer: True
 * [EONutrition](https://www.youtube.com/channel/UCFqXidfUsI0vm73xsBMIQdQ/)
 * [Michaelanthony](https://www.youtube.com/channel/UCf6KKvTXvVzKru76pNbABhA)
 * [Phil Escott](https://www.youtube.com/channel/UCcHEYrfmQH-5RxiFL5RD08g/)
+* [Asra Conlu](https://www.youtube.com/channel/UCiQmTQaquK3U1uWkHWdiepA/)
 * [Healthy With Nicole](https://www.youtube.com/channel/UCmvpZgcp7SPR1VRz1NV5wKQ/)
 
 ## Reddit
