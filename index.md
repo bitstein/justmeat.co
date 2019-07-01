@@ -56,6 +56,7 @@ disclaimer: True
     * [“The Vegan Brain: Plant-based diets, micronutrients, and mental health”](https://www.psychologytoday.com/blog/diagnosis-diet/201709/the-vegan-brain)
     * [“Low-Carbohydrate Diet Superior to Antipsychotic Medications”](https://www.psychologytoday.com/blog/diagnosis-diet/201709/low-carbohydrate-diet-superior-antipsychotic-medications)
     * [“Preventing Alzheimer’s Disease Is Easier Than You Think”](https://www.psychologytoday.com/blog/diagnosis-diet/201609/preventing-alzheimer-s-disease-is-easier-you-think)
+    * [“Ketogenic Diets for Mental Health: A Guide to Resources”](https://www.diagnosisdiet.com/ketogenic-diets-for-mental-health-resources/)
 * [r/zerocarb](https://www.reddit.com/r/zerocarb/) [reddit]
     * [“What is Zero Carb”](https://www.reddit.com/r/zerocarb/wiki/faq) by Charles Washington
 * [Paleo Style](http://www.paleostyle.com/) (Miki Ben-Dor)
