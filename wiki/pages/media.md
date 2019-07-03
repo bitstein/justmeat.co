@@ -80,3 +80,5 @@ title: Media Appearances
 * May 20, 2019 - [“Inside the All-Meat, Only-Meat Carnivore Diet That Took the Internet by Storm”](https://www.menshealth.com/nutrition/a27405997/carnviore-diet-plan/) (_Men’s Health_) [[Archive](http://web.archive.org/web/20190520213429/https://www.menshealth.com/nutrition/a27405997/carnviore-diet-plan/)]
 
 * June 5, 2019 - [“All You Need to Know About the Carnivore (All-Meat) Diet”](https://www.healthline.com/nutrition/carnivore-diet) (_Healthline_) [[Archive](http://web.archive.org/web/20190607123140/https://www.healthline.com/nutrition/carnivore-diet)]
+
+* June 21, 2019 - [“Former vegan says switching to a diet of raw meat gave her ‘the body of a 25-year-old’”](https://metro.co.uk/2019/06/21/former-vegan-says-switching-diet-raw-meat-gave-body-25-year-old-10023893/) (_Metro_) [[Archive](http://web.archive.org/web/20190622145434/https://metro.co.uk/2019/06/21/former-vegan-says-switching-diet-raw-meat-gave-body-25-year-old-10023893/)]
