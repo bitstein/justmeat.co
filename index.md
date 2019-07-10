@@ -207,6 +207,9 @@ disclaimer: True
 * [Phil Escott](https://www.youtube.com/channel/UCcHEYrfmQH-5RxiFL5RD08g/)
 * [Asra Conlu](https://www.youtube.com/channel/UCiQmTQaquK3U1uWkHWdiepA/)
 * [Healthy With Nicole](https://www.youtube.com/channel/UCmvpZgcp7SPR1VRz1NV5wKQ/)
+* [Ken D. Berry, MD](https://www.youtube.com/user/KenDBerry)
+* [Thankful Carnivore](https://www.youtube.com/user/TheStickmann)
+
 
 ## Reddit
 
