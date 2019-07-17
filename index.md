@@ -142,6 +142,7 @@ layout: home
 * [Carnivore PKD Style Discussion Group](https://www.facebook.com/groups/1685052231589351/)
 * [Zero Carb UK](https://www.facebook.com/groups/1573011526289147/)
 * [Bitcoin Carnivory](https://www.facebook.com/groups/1685637418161785/)
+* [RAW-some Primal Carnivore & Zero Carb Sanctuary](https://www.facebook.com/groups/191667651770756/)
 
 ## Twitter
 
@@ -226,6 +227,7 @@ layout: home
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
 * [Kevin Stock Radio](https://www.kevinstock.io/podcast/) (Kevin Stock)
 * [Fundamental Health](https://www.paulsaladinomd.com/podcast) (Paul Saladino)
+* [Peak Human](https://www.peak-human.com/) (Brian Sanders)
 
 ## Telegram
 
