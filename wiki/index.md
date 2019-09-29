@@ -5,7 +5,7 @@ title: Just Meat Wiki
 
 ## Welcome to the Just Meat Wiki!
 
-This wiki is a collection of pages dedicated to specific topics related to carnivorous diets.
+This wiki is a collection of pages dedicated to specific topics related to carnivorous diets. A Dutch translation of this wiki can be found at [AlleenVlees.nl](https://alleenvlees.nl).
 
 ## Pages
 
