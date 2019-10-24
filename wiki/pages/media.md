@@ -84,3 +84,5 @@ title: Media Appearances
 * June 21, 2019 - [“Former vegan says switching to a diet of raw meat gave her ‘the body of a 25-year-old’”](https://metro.co.uk/2019/06/21/former-vegan-says-switching-diet-raw-meat-gave-body-25-year-old-10023893/) (_Metro_) [[Archive](http://web.archive.org/web/20190622145434/https://metro.co.uk/2019/06/21/former-vegan-says-switching-diet-raw-meat-gave-body-25-year-old-10023893/)]
 
 * July 15, 2019 - [“Mum refuses to feed son vegetables and only gives him steak, organs and bone marrow”](https://www.mirror.co.uk/news/world-news/mum-refuses-feed-son-vegetables-18211953) (_Mirror_) [[Archive](http://web.archive.org/web/20190715145848/https://www.mirror.co.uk/news/world-news/mum-refuses-feed-son-vegetables-18211953)]
+
+* October 23, 2019 - [“The trouble with the Petersons’ ‘carnivore diet’”](https://spectator.us/trouble-carnivore-diet-mikhaila-peterson/) (_Spectator USA_) [[Archive](http://archive.fo/Ib6j3)]
