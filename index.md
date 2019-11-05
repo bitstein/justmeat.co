@@ -84,6 +84,7 @@ layout: home
     * [“Vitamin C and Disease: Insights from the Evolutionary Perspective”](docs/vitamin-c-from-evolutionary-perspective-zsofia-clemens-csaba-toth.pdf) [PDF]
     * [Publications by Dr. Csaba Tóth](https://www.researchgate.net/profile/Csaba_Toth9) [ResearchGate]
     * [“Lard or Coconut Oil?”](https://www.slideshare.net/paleomedicina/lard-or-coconut-oil-62466384) by Dr. Csaba Tóth
+* [“Treating Overweight Patients”](https://jamanetwork.com/journals/jama/article-abstract/321847) (1957) by George L. Thorpe, M.D.
 * [Crohn’s Carnivore](http://crohnscarnivore.blogspot.com/)
     * [“Introduction and Explanation”](http://crohnscarnivore.blogspot.com/2009/08/introduction-and-explanation.html)
     * [“August 2013 Update”](http://crohnscarnivore.blogspot.com/2013/08/august-2013-update.html)

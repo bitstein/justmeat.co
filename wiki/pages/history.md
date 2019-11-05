@@ -129,7 +129,11 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1958** - [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
 
-* **1958** - [_How to Prevent Heart Attacks_](/docs/how-to-prevent-heart-attacks-benjamin-p-sandler-md.pdf) by Benjamin P. Sandler M.D.
+* **1958** - [_How to Prevent Heart Attacks_](/docs/how-to-prevent-heart-attacks-benjamin-p-sandler-md.pdf) by Benjamin P. Sandler, M.D.
+
+* **1959** - [“Treating Overweight Patients”](https://jamanetwork.com/journals/jama/article-abstract/321847) by George L. Thorpe, M.D.
+
+    > The simplest to prepare and most easily obtainable high-protein, high-fat, low-carbohydrate diet, and the one that will produce the most rapid loss of weight without hunger, weakness, lethargy, or constipation, is made up of meat, fat, and water. The total quantity eaten need not be noted, but the ratio of three parts of lean to one part of fat must be maintained. Usually within two or three days, the patient is found to be taking about 170 Gm. of lean meat and 57 Gm. of fat three times a day. Black coffee, clear tea, and water are unrestricted, and the salt intake is not reduced. When the patient complains of monotony, certain fruits and vegetables are added for variety. The overweight patient must be dealt with as an individual. He usually needs help in recognizing the factors at work in his particular case as well as considerable education in the matter of foods.
 
 * **1962** - [_Strong Medicine_](/docs/strong-medicine-blake-donaldson.pdf) by Dr. Blake Donaldson
 
