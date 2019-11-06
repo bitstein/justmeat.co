@@ -86,3 +86,5 @@ title: Media Appearances
 * July 15, 2019 - [“Mum refuses to feed son vegetables and only gives him steak, organs and bone marrow”](https://www.mirror.co.uk/news/world-news/mum-refuses-feed-son-vegetables-18211953) (_Mirror_) [[Archive](http://web.archive.org/web/20190715145848/https://www.mirror.co.uk/news/world-news/mum-refuses-feed-son-vegetables-18211953)]
 
 * October 23, 2019 - [“The trouble with the Petersons’ ‘carnivore diet’”](https://spectator.us/trouble-carnivore-diet-mikhaila-peterson/) (_Spectator USA_) [[Archive](http://archive.fo/Ib6j3)]
+
+* November 5, 2019 - [“Does Jordan Peterson’s carnivore diet work?”](https://life.spectator.co.uk/articles/does-jordan-petersons-carnivore-diet-work/) (_The Spectator_) [[Archive](http://web.archive.org/web/20191106131125/https://life.spectator.co.uk/articles/does-jordan-petersons-carnivore-diet-work/)]
