@@ -88,3 +88,5 @@ title: Media Appearances
 * October 23, 2019 - [“The trouble with the Petersons’ ‘carnivore diet’”](https://spectator.us/trouble-carnivore-diet-mikhaila-peterson/) (_Spectator USA_) [[Archive](http://archive.fo/Ib6j3)]
 
 * November 5, 2019 - [“Does Jordan Peterson’s carnivore diet work?”](https://life.spectator.co.uk/articles/does-jordan-petersons-carnivore-diet-work/) (_The Spectator_) [[Archive](http://web.archive.org/web/20191106131125/https://life.spectator.co.uk/articles/does-jordan-petersons-carnivore-diet-work/)]
+
+* November 8, 2019 - [“Trendy keto diet will NOT protect your teeth: Dentists urge followers of low-carb regimes to keep brushing twice a day - even if they are eating less sugar”](https://www.dailymail.co.uk/health/article-7640197/Keto-carnivore-diets-NOT-protect-teeth-Dentists-warn-against-trendy-low-carb-diets.html) (_The Daily Mail_) [[Archive](http://web.archive.org/web/20191112145229/https://www.dailymail.co.uk/health/article-7640197/Keto-carnivore-diets-NOT-protect-teeth-Dentists-warn-against-trendy-low-carb-diets.html)]
