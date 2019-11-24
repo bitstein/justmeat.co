@@ -145,6 +145,7 @@ layout: home
 * [Zero Carb UK](https://www.facebook.com/groups/1573011526289147/)
 * [Bitcoin Carnivory](https://www.facebook.com/groups/1685637418161785/)
 * [RAW-some Primal Carnivore & Zero Carb Sanctuary](https://www.facebook.com/groups/191667651770756/)
+* [להתאפס בריא (Zeroing in on Health בעברית)](https://www.facebook.com/groups/827266607340148/)
 
 ## Twitter
 
