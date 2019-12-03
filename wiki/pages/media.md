@@ -47,6 +47,8 @@ title: Media Appearances
 
 * September 10, 2018 - [“My carnivore diet: what I learned from eating only beef, salt and water”](https://www.theguardian.com/food/2018/sep/10/my-carnivore-diet-jordan-peterson-beef) (_The Guardian_) [[Archive](https://web.archive.org/web/20180911040155/https://www.theguardian.com/food/2018/sep/10/my-carnivore-diet-jordan-peterson-beef)]
 
+* September 17, 2018 - [“There’s Something You Should Know About The 100% Meat ‘Pure Carnivore Diet’”](https://www.sciencealert.com/something-you-should-know-about-100-meat-pure-carnivore-diet-palaeo-keto-health-cancer-vitamins-nutrients) (_Science Alert_) [[Archive](http://web.archive.org/web/20180917102919/https://www.sciencealert.com/something-you-should-know-about-100-meat-pure-carnivore-diet-palaeo-keto-health-cancer-vitamins-nutrients)]
+
 * September 19, 2018 - [“Meat only: I spent a week on the controversial carnivore diet... and felt fantastic”](https://www.telegraph.co.uk/health-fitness/nutrition/meat-spent-week-controversial-carnivore-diet-felt-fantastic/) (_The Telegraph_) [[Archive](https://web.archive.org/web/20190110195544/https://www.telegraph.co.uk/health-fitness/nutrition/meat-spent-week-controversial-carnivore-diet-felt-fantastic/)]
 
 * September 19, 2018 - [“My beef with Jordan Peterson's all-cow diet”](https://www.theguardian.com/commentisfree/2018/sep/19/my-beef-with-jordan-petersons-all-cow-diet) (_The Guardian_) [[Archive](https://web.archive.org/web/20180919171524/https://www.theguardian.com/commentisfree/2018/sep/19/my-beef-with-jordan-petersons-all-cow-diet)]
@@ -60,6 +62,8 @@ title: Media Appearances
 * November 1, 2018 - [“I Tried the Carnivore Diet and It Broke Me After 3 Days”](https://www.menshealth.com/nutrition/a24488031/carnivore-diet-results/) (_Men’s Health_) [[Archive](https://web.archive.org/web/20190102210146/https://www.menshealth.com/nutrition/a24488031/carnivore-diet-results/)]
 
 * November 10, 2018 - [“Tech workers seeking an edge on peers turn to all-meat ‘carnivore diet’”](https://www.sfchronicle.com/business/article/Tech-workers-seeking-an-edge-on-their-peers-do-an-13377065.php) (_SFChronicle_) [[Archive](https://web.archive.org/web/20181111022023/https://www.sfchronicle.com/business/article/Tech-workers-seeking-an-edge-on-their-peers-do-an-13377065.php)]
+
+* November 15, 2018 - [“The Carnivore Diet: A Beefy Leap of Faith”](https://www.mcgill.ca/oss/article/health-nutrition/carnivore-diet-beefy-leap-faith) (_The McGill Office for Science and Society (OSS)_) [[Archive](http://web.archive.org/web/20190423122012/https://www.mcgill.ca/oss/article/health-nutrition/carnivore-diet-beefy-leap-faith)]
 
 * November 19, 2018 - [“'Vegan Backlash Has Begun: Carnivore Diet Is Becoming Popular' Claims Major Newspaper”](https://www.plantbasednews.org/post/vegan-backlash-carnivore-diet-popular) (_Plant Based News_) [[Archive](https://web.archive.org/web/20190323150926/https://www.plantbasednews.org/post/vegan-backlash-carnivore-diet-popular)]
 
@@ -94,3 +98,5 @@ title: Media Appearances
 * November 13, 2019 - [“Sisters claim swapping their plant-based lifestyle for a RAW MEAT diet has cured their autoimmune disease - and feast on uncooked organs, suet and eggs every day”](https://www.dailymail.co.uk/femail/article-7680323/Sisters-claim-raw-meat-diet-cured-lifelong-autoimmune-disease.html) (_The Daily Mail_) [[Archive](http://web.archive.org/web/20191115203818/https://www.dailymail.co.uk/femail/article-7680323/Sisters-claim-raw-meat-diet-cured-lifelong-autoimmune-disease.html)]
 
 * November 14, 2019 - [“Is The All Meat Diet Crazy? Maybe Not”](https://wholefoodsmagazine.com/columns/nutrition-mythbuster/is-the-all-meat-diet-crazy-maybe-not/) (_WholeFoods Magazine_) [[Archive](http://web.archive.org/web/20191115203446/https://wholefoodsmagazine.com/columns/nutrition-mythbuster/is-the-all-meat-diet-crazy-maybe-not/)]
+
+* December 2, 2019 - [“The 9 most dangerous health myths debunked in 2019, from drinking bleach to vaping”](https://www.insider.com/most-dangerous-health-myths-of-2019-vaping-charcoal-vaginal-steaming-2019-12) (_INSIDER_) [[Archive](http://archive.md/2JTBc)]
