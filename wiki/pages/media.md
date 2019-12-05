@@ -100,3 +100,5 @@ title: Media Appearances
 * November 14, 2019 - [“Is The All Meat Diet Crazy? Maybe Not”](https://wholefoodsmagazine.com/columns/nutrition-mythbuster/is-the-all-meat-diet-crazy-maybe-not/) (_WholeFoods Magazine_) [[Archive](http://web.archive.org/web/20191115203446/https://wholefoodsmagazine.com/columns/nutrition-mythbuster/is-the-all-meat-diet-crazy-maybe-not/)]
 
 * December 2, 2019 - [“The 9 most dangerous health myths debunked in 2019, from drinking bleach to vaping”](https://www.insider.com/most-dangerous-health-myths-of-2019-vaping-charcoal-vaginal-steaming-2019-12) (_INSIDER_) [[Archive](http://archive.md/2JTBc)]
+
+* December 5, 2019 - [“Carnivore diet of meat and little else gains traction but health experts urge caution”](https://www.abc.net.au/news/2019-12-05/carnivore-diet-of-meat-and-water/11757396) (_ABC News_) [[Archive](http://web.archive.org/web/20191205175319/https://www.abc.net.au/news/2019-12-05/carnivore-diet-of-meat-and-water/11757396)]
