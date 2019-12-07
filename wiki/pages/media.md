@@ -102,3 +102,7 @@ title: Media Appearances
 * December 2, 2019 - [“The 9 most dangerous health myths debunked in 2019, from drinking bleach to vaping”](https://www.insider.com/most-dangerous-health-myths-of-2019-vaping-charcoal-vaginal-steaming-2019-12) (_INSIDER_) [[Archive](http://archive.md/2JTBc)]
 
 * December 5, 2019 - [“Carnivore diet of meat and little else gains traction but health experts urge caution”](https://www.abc.net.au/news/2019-12-05/carnivore-diet-of-meat-and-water/11757396) (_ABC News_) [[Archive](http://web.archive.org/web/20191205175319/https://www.abc.net.au/news/2019-12-05/carnivore-diet-of-meat-and-water/11757396)]
+
+* December 6, 2019 - [“How Fans Are Handling Their Favorite Influencer Going From Vegan To An All-Carnivore Diet”](https://www.buzzfeednews.com/article/tanyachen/please-like-me-newsletter-emily-schuman-alyse-parker) (_BuzzFeed News_) [[Archive](http://web.archive.org/web/20191207160052/https://www.buzzfeednews.com/article/tanyachen/please-like-me-newsletter-emily-schuman-alyse-parker)]
+
+* December 6, 2019 - [“Vegan YouTube star is branded a fraud by her furious followers after revealing she followed the CARNIVORE DIET for 30 days - and insisting the meat-based plan was 'way better' than veganism”](https://www.dailymail.co.uk/femail/article-7765293/Former-vegan-YouTube-star-faces-backlash-trying-carnivore-diet.html) (_The Daily Mail_) [[Archive](http://web.archive.org/web/20191207172437/https://www.dailymail.co.uk/femail/article-7765293/Former-vegan-YouTube-star-faces-backlash-trying-carnivore-diet.html)]
