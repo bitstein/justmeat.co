@@ -21,6 +21,8 @@ Twitter:
 * Dr. Zsófia Clemens: [@clemenszsofia](https://twitter.com/clemenszsofia)
 * Dr. Csaba Tóth: [@paleoketogenic](https://twitter.com/paleoketogenic)
 
+Facebook: [https://www.facebook.com/paleomedicina/](https://www.facebook.com/paleomedicina/)
+
 Instagram:
 * Dr. Zsófia Clemens: [@zsofiaclemens](https://www.instagram.com/zsofiaclemens/)
 * Ancestral Carnivore: [@ancestralcarnivore](https://www.instagram.com/ancestralcarnivore/)
