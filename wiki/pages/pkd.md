@@ -2,7 +2,7 @@
 title: Paleolithic Ketogenic Diet
 ---
 
-This page is dedicated to showcasing English-language research and content done by the International Center for Medical Nutritional Intervention (ICMNI) clinic in Hungary, formerly known as Paleomedicina Hungary. The Paleolithic Ketogenic Diet is trademarked by ICMNI. This website is not affiliated with ICMNI, and as such, this page should be viewed solely as an introduction to their research. You should consult with ICMNI if you have interest in PKD, to ensure that the diet is implemented according to their standards.
+This page is dedicated to showcasing English-language research and content produced by the International Center for Medical Nutritional Intervention (ICMNI) clinic in Hungary, formerly known as Paleomedicina Hungary. The Paleolithic Ketogenic Diet is trademarked by ICMNI. This website is not affiliated with ICMNI, and as such, this page should be viewed solely as an introduction to their research. You should consult with ICMNI if you have interest in PKD, to ensure that the diet is implemented according to their standards.
 
 To learn more about their services and programs, read additional content (including other languages), and schedule consultations here, visit their website here: [https://paleomedicina.com/en/](https://paleomedicina.com/en/)
 
