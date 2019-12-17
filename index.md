@@ -220,6 +220,7 @@ layout: home
 * [r/ketoscience](https://www.reddit.com/r/ketoscience)
 * [r/keto](https://www.reddit.com/r/keto)
 * [r/KetoAF](https://www.reddit.com/r/KetoAF)
+* [r/PaleolithicKetogenic](https://www.reddit.com/r/PaleolithicKetogenic/)
 * [r/ketogains](https://www.reddit.com/r/ketogains)
 * [r/meatogains](https://www.reddit.com/r/meatogains)
 
