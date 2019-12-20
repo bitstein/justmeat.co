@@ -111,4 +111,6 @@ title: Media Appearances
 
 * December 10, 2019 - [“Will an All-Meat Diet Kill You or Cure You?”](https://elemental.medium.com/will-an-all-meat-diet-kill-you-or-cure-you-73b90a2cd724) (_Elemental_) [[Archive](http://web.archive.org/web/20191212030819/https://elemental.medium.com/will-an-all-meat-diet-kill-you-or-cure-you-73b90a2cd724?gi=eb713709080c)]
 
-* December 18, 2019 - [“What You Need to Know About the Carnivore Diet”](https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/) (_San Diego Entertainer Magazine_) [[Archive](http://web.archive.org/web/20191219182511/https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/)]
+* December 18, 2019 - [“What You Need to Know About the Carnivore Diet”](https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/) (_San Diego Entertainer Magazine_) [[Archive](http://web.archive.org/web/20191220193050/https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/)]
+
+* December 19, 2019 - [“These Are the Diet Trends That Dominated the Last Decade”](https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s) (_InStyle_) [[Archive](http://web.archive.org/web/20191220193141/https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s)]
