@@ -114,3 +114,5 @@ title: Media Appearances
 * December 18, 2019 - [“What You Need to Know About the Carnivore Diet”](https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/) (_San Diego Entertainer Magazine_) [[Archive](http://web.archive.org/web/20191220193050/https://www.sdentertainer.com/lifestyle/what-you-need-to-know-about-the-carnivore-diet/)]
 
 * December 19, 2019 - [“These Are the Diet Trends That Dominated the Last Decade”](https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s) (_InStyle_) [[Archive](http://web.archive.org/web/20191220193141/https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s)]
+
+* January 6, 2020 - [“Joe Rogan Reveals He Will Be Following an All-meat Diet this January”](https://www.menshealth.com/uk/nutrition/a30414389/joe-rogan-carnivore-diet/) (_Men’s Health UK_) [[Archive](http://web.archive.org/web/20200106190048/https://www.menshealth.com/uk/nutrition/a30414389/joe-rogan-carnivore-diet/)]
