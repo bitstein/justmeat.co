@@ -92,6 +92,7 @@ layout: home
 * [Ketogenic Endurance](https://ketogenicendurance.com/)
   * [_Contemporary Carnivore Diet: Ancient Food for Ancient Health and Fat Loss in a Modern World_](https://www.amazon.com/Contemporary-Carnivore-Diet-Ancient-Health-ebook/dp/B07H8GDSLQ/) by Ketogenic Endurance
 * [Raw Food Diets](https://rawdiets.wordpress.com/) by Yuri Morgunov
+* [“Splendid Specimens: The History of Nutrition in Bodybuilding”](https://www.westonaprice.org/health-topics/splendid-specimens-the-history-of-nutrition-in-bodybuilding/)
 * [Savory Institute](https://savory.global/)
 * [“How to green the world's deserts and reverse climate change \| Allan Savory”](https://www.youtube.com/watch?v=vpTHi7O66pI) [YouTube]
 * [Pleistocene Park: Restoration of the Mammoth Steppe Ecosystem](http://www.pleistocenepark.ru/en/)
