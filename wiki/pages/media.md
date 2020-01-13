@@ -116,3 +116,9 @@ title: Media Appearances
 * December 19, 2019 - [“These Are the Diet Trends That Dominated the Last Decade”](https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s) (_InStyle_) [[Archive](http://web.archive.org/web/20191220193141/https://www.instyle.com/lifestyle/food-drink/diet/diet-trends-of-decade-2010s)]
 
 * January 6, 2020 - [“Joe Rogan Reveals He Will Be Following an All-meat Diet this January”](https://www.menshealth.com/uk/nutrition/a30414389/joe-rogan-carnivore-diet/) (_Men’s Health UK_) [[Archive](http://web.archive.org/web/20200106190048/https://www.menshealth.com/uk/nutrition/a30414389/joe-rogan-carnivore-diet/)]
+
+* January 7, 2020 - [“Raymond Nazon, 47, of Atlanta lost 62 pounds”](https://www.ajc.com/lifestyles/raymond-nazon-atlanta-lost-pounds/kcOIxMup6721yHoj5axyiN/) (_Atlanta Journal Constitution_) [[Archive](http://web.archive.org/web/20200109141436/https://www.ajc.com/lifestyles/raymond-nazon-atlanta-lost-pounds/kcOIxMup6721yHoj5axyiN/)]
+
+* January 10, 2020 - [“Nutrition consultant, 38, who claims her vegan diet left her too weak to hold a glass of water, revels she’s switched to eating offal including sheep’s head and brains - and has ‘never felt better’”](https://www.dailymail.co.uk/femail/article-7872671/Woman-switched-vegan-diet-eating-offal-says-shes-never-felt-better.html) (_The Daily Mail_) [[Archive](http://web.archive.org/web/20200113214336/https://www.dailymail.co.uk/femail/article-7872671/Woman-switched-vegan-diet-eating-offal-says-shes-never-felt-better.html)]
+
+* January 13, 2020 - [“Joe Rogan Is On The Carnivore Diet And Now He's Ready To Sh*t Himself”](https://www.menshealth.com.au/joe-rogan-carnivore-diet-diarrhea) (_Australian Men’s Health_) [[Archive](http://web.archive.org/web/20200113214916/https://www.menshealth.com.au/joe-rogan-carnivore-diet-diarrhea)]
