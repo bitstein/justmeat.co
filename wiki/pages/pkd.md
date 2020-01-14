@@ -144,3 +144,4 @@ YouTube:
 * December 15, 2016 – [“In Depth: Ostracised by the medical community, Dr Csaba Tóth insists the paleo keto diet is a groundbreaking diabetes treatment”](http://www.diabetes.co.uk/in-depth/ostracised-medical-community-dr-csaba-toth-insists-paleo-keto-diet-groundbreaking-diabetes-treatment/)
   * Interview: [“Is the paleolithic ketogenic diet a groundbreaking diabetes treatment?”](https://www.youtube.com/watch?v=fKzWxDkTPCg) [YouTube] [17:31]
 * July 13, 2018 – [“Interview with Dr. Csaba Tóth by Evolutamente.it”](https://www.paleomedicina.com/en/dr_csaba_toth_interview_evolutamente.it)
+* January 14, 2020 - [“Dr Zsofia Clemens talks about her work with the PKD diet at the Spanish carnivore retreat 2019.”](https://www.youtube.com/watch?v=CxyUTmnlzu4) [YouTube] [20:03]
