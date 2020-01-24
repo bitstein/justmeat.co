@@ -127,6 +127,7 @@ YouTube:
 * 2019-08-04 – [“My change to a meat-based diet: An English class project”](https://www.paleomedicina.com/en/my_change_to_a_meat_based_diet)
 * 2019-08-10 – [“Brilliant scientific success! Type 1 diabetes has been overcome. There is only one question left: will Hungarian or French researchers take credit for this groundbreaking discovery?”](https://www.paleomedicina.com/en/brilliant_scientific_success_T1DM_overcome_french_or_hungarian_researchers_take_credit)
 * 2019-11-20 – [“Open letter to Professor Loren Cordain about Ketogenic and Paleolithic Diet(s)”](https://www.paleomedicina.com/en/open_letter_to_professor_loren_cordain_about_ketogenic_and_paleolithic_diets)
+* 2020-01-17 - [“Paleolithic ketogenic diet (PKD) efficacy and applicability: FAQ”](https://www.paleomedicina.com/en/paleolithic_ketogenic_diet_PKD_efficacy_applicability)
 
 ## Podcasts
 
