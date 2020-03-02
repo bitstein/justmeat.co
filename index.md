@@ -156,7 +156,6 @@ layout: home
 * [Zsófia Clemens, PhD](https://twitter.com/ClemensZsofia) (@ClemensZsofia)
 * [High Steaks](https://twitter.com/CarnivoresCreed) (@CarnivoresCreed)
 * [Georgia Ede, M.D.](https://twitter.com/GeorgiaEdeMD) (@GeorgiaEdeMD)
-* [Frank Tufano](https://twitter.com/franktufan) (@franktufan)
 * [Miki Ben-Dor](https://twitter.com/bendormiki) (@bendormiki)
 * [Raphi Sirt](https://twitter.com/raphaels7) (@raphaels7)
 * [Mikhaila Peterson](https://twitter.com/MikhailaAleksis) (@MikhailaAleksis)
@@ -182,7 +181,6 @@ layout: home
 ## Instagram
 
 * [Shawn Baker, M.D.](https://instagram.com/shawnbaker1967/) (@shawnbaker1967)
-* [Frank Tufano](https://www.instagram.com/franktufano/) (@franktufano)
 * [Dr. Zsófia Clemens](https://www.instagram.com/zsofiaclemens/) (@zsofiaclemens)
 * [Raphi Sirt](https://www.instagram.com/raphaels711/) (@raphaels711)
 * [Ancestral Carnivore](https://www.instagram.com/ancestralcarnivore/) (@ancestralcarnivore)
@@ -198,7 +196,6 @@ layout: home
 
 ## YouTube
 
-* [Frank Tufano](https://www.youtube.com/channel/UCIEiE-hnAUXUZNNeMJsZBYA)
 * [Shawn Baker](https://www.youtube.com/channel/UC5apkKkeZQXRSDbqSalG8CQ)
 * [Sv3rige](https://www.youtube.com/user/sv3rige/)
 * [Mikhaila Peterson](https://www.youtube.com/user/mikhailapeterson1)
@@ -213,7 +210,6 @@ layout: home
 * [Healthy With Nicole](https://www.youtube.com/channel/UCmvpZgcp7SPR1VRz1NV5wKQ/)
 * [Ken D. Berry, MD](https://www.youtube.com/user/KenDBerry)
 * [Thankful Carnivore](https://www.youtube.com/user/TheStickmann)
-
 
 ## Reddit
 
