@@ -110,6 +110,8 @@ layout: home
 * [_The Relation of Alimentation and Disease_](docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf) by J. H. Salisbury, M.D. [PDF]
 * [_What Must I Do To Get Well? And How Can I Keep It So?_](docs/what-must-i-do-to-get-well-by-elma-stuart.pdf) by Elma Stuart [PDF]
 * [_Dr. Newbold’s Type A/Type B Weight Loss Book_](docs/dr-newbolds-type-a-type-b-weight-loss-book-h-l-newbold-md.pdf) by H. L. Newbold, M.D. [PDF]
+* [_The Carnivore Diet_](https://www.amazon.com/Carnivore-Diet-Shawn-Baker/dp/162860350X/) by Shawn Baker
+* [_The Carnivore Code_](https://www.amazon.com/Carnivore-Code-Unlocking-Returning-Ancestral/dp/1734640707/) by Paul Saladino, M.D.
 * [_Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_](https://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462/) by Gary Taubes [Amazon]
 * [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz [Amazon]
 * [_Eat Fat and Grow Slim_](https://www.ourcivilisation.com/fat/) by Richard Mackarness, M.B., B.S.
