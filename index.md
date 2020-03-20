@@ -212,6 +212,7 @@ layout: home
 * [Healthy With Nicole](https://www.youtube.com/channel/UCmvpZgcp7SPR1VRz1NV5wKQ/)
 * [Ken D. Berry, MD](https://www.youtube.com/user/KenDBerry)
 * [Thankful Carnivore](https://www.youtube.com/user/TheStickmann)
+* [Greg Judy Regenerative Rancher](https://www.youtube.com/channel/UCi8jM5w49UezskDWBGyKq5g/)
 
 ## Reddit
 
