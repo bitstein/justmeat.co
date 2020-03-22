@@ -2,9 +2,11 @@
 layout: home
 ---
 
-* [The Ketogenic Diet for Health](http://www.ketotic.org/) (Amber O’Hearn) [Read every article]
-* [Empirica](http://www.empiri.ca/) (Amber O’Hearn)
-    * [“Eat meat. Not too little. Mostly fat.”](http://www.empiri.ca/p/eat-meat-not-too-little-mostly-fat.html)
+* [Mostly Fat](https://www.mostly-fat.com/) (Amber O’Hearn) [Read every article]
+    * [The Ketogenic Diet for Health](http://www.ketotic.org/) (Amber O’Hearn)
+    * [Empirica](http://www.empiri.ca/) (Amber O’Hearn)
+    * [“Eat meat. Not too little. Mostly fat.”](https://www.mostly-fat.com/eat-meat-not-too-little-mostly-fat/)
+    * [_Eat Meat. Not Too Little. Mostly Fat.: The Facultative Carnivore_](https://facultativecarnivore.com/)
     * [“Amber O’Hearn at Ketofest 2017 - The Carnivorous Human”](https://www.youtube.com/watch?v=Y4VRp5ZFFRU) [YouTube]
     * [“Guide To The Carnivore Diet”](https://nutrita.app/guide-to-the-carnivore-diet/)
 * [Zero Carb Zen](https://zerocarbzen.com/)
