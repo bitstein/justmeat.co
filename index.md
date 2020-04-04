@@ -81,6 +81,7 @@ layout: home
     * [“Steve Phinney on Pemmican and Indigenous Diets”](http://www.meandmydiabetes.com/2010/03/23/steve-phinney-on-pemmican-and-indigenous-diets-will-become-public-in-2-weeks/)
 * [“Guts and Grease: The Diet of Native Americans”](https://www.westonaprice.org/health-topics/traditional-diets/guts-and-grease-the-diet-of-native-americans/) by Sally Fallon and Mary Enig, Ph.D.
 * [“The Pemmican Manual”](docs/the-pemmican-manual-lex-rooker.pdf) by Lex Rooker [PDF]
+  * [“The $10 Jerky Maker”](docs/the-10-dollar-jerky-maker-lex-rooker.pdf) by Lex Rooker [PDF]
 * [“The Zero Carb Experience”](https://borgefagerli.com/the-zero-carb-experience/) (Borge Fagerli)
 * [Paleomedicina](https://www.paleomedicina.com/en) (Dr. Csaba Tóth & Dr. Zsófia Clemens)
     * [“Crohn’s disease successfully treated with the paleolithic ketogenic diet”](docs/crohns-disease-successfully-treated-paleolithic-ketogenic-diet-csaba-toth-zsofia-clemens.pdf) [PDF]
