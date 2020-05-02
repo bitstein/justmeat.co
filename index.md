@@ -173,7 +173,6 @@ layout: home
 * [Savory Institute](https://twitter.com/SavoryInstitute) (@SavoryInstitute)
 * [Charles Washington](https://twitter.com/chaszero) (@chaszero)
 * [Dana Spencer Shute](https://twitter.com/ZeroCarbHealth) (@ZeroCarbHealth)
-* [Joe Andersen](https://twitter.com/JoeCharlene8898) (@JoeCharlene8898)
 * [Josh Blackburn](https://twitter.com/LogicalLynx) (@LogicalLynx)
 * [Kelly Williams Hogan](https://twitter.com/kelly_hogan_zc) (@kelly_hogan_zc)
 * [GuyNAustin](https://twitter.com/GuyNAustin) (@GuyNAustin)
@@ -181,7 +180,6 @@ layout: home
 * [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
 * [Dr. Tro](https://twitter.com/DoctorTro) (@DoctorTro)
 * [Michael Anthony](https://twitter.com/meat0sis) (@meat0sis)
-* [Carnivores Twitter List](https://twitter.com/sarahkaltsounis/lists/carnivores)
 
 ## Instagram
 
