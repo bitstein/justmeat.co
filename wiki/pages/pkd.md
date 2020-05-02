@@ -129,6 +129,8 @@ YouTube:
 * 2019-11-20 – [“Open letter to Professor Loren Cordain about Ketogenic and Paleolithic Diet(s)”](https://www.paleomedicina.com/en/open_letter_to_professor_loren_cordain_about_ketogenic_and_paleolithic_diets)
 * 2020-01-17 - [“Paleolithic ketogenic diet (PKD) efficacy and applicability: FAQ”](https://www.paleomedicina.com/en/paleolithic_ketogenic_diet_PKD_efficacy_applicability)
 * 2020-02-28 - [“PKD explained by 14-year-old Isabella”](https://www.paleomedicina.com/en/PKD_juvenile_idiopathic_arthritis)
+* 2020-03-24 - [“Possibilities of reducing the spread of the SARS-CoV-2 virus and increasing natural resistance to the disease via nutritional intervention”](https://www.paleomedicina.com/en/sars-cov-2_virus_nutritional_intervention)
+* 2020-05-02 - [“COVID-19 coronavirus and vitamin D”](https://www.paleomedicina.com/en/coronavirus_vitamin-d)
 
 ## Podcasts
 
