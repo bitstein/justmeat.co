@@ -122,3 +122,37 @@ title: Media Appearances
 * January 10, 2020 - [“Nutrition consultant, 38, who claims her vegan diet left her too weak to hold a glass of water, revels she’s switched to eating offal including sheep’s head and brains - and has ‘never felt better’”](https://www.dailymail.co.uk/femail/article-7872671/Woman-switched-vegan-diet-eating-offal-says-shes-never-felt-better.html) (_The Daily Mail_) [[Archive](http://web.archive.org/web/20200113214336/https://www.dailymail.co.uk/femail/article-7872671/Woman-switched-vegan-diet-eating-offal-says-shes-never-felt-better.html)]
 
 * January 13, 2020 - [“Joe Rogan Is On The Carnivore Diet And Now He's Ready To Sh*t Himself”](https://www.menshealth.com.au/joe-rogan-carnivore-diet-diarrhea) (_Australian Men’s Health_) [[Archive](http://web.archive.org/web/20200113214916/https://www.menshealth.com.au/joe-rogan-carnivore-diet-diarrhea)]
+
+* February 3, 2020 - [“Joe Rogan Has Dropped 6 Kg After Following The Carnivore Diet For A Month”](https://www.menshealth.com.au/joe-rogan-ripped-physique) (_Australian Men’s Health_) [[Archive](http://web.archive.org/web/20200530202441/https://www.menshealth.com.au/joe-rogan-ripped-physique)]
+
+* February 5, 2020 - [“5 People Who Tried the Carnivore Diet”](https://www.muscleandfitness.com/athletes-celebrities/news/5-people-who-tried-carnivore-diet/) (_Muscle & Fitness_) [[Archive](http://web.archive.org/web/20200327000220/https://www.muscleandfitness.com/athletes-celebrities/news/5-people-who-tried-carnivore-diet)]
+
+* February 5, 2020 - [“UFC legend Joe Rogan shows off dramatic body transformation via bizarre carnivore diet after being fat shamed”](https://www.thesun.co.uk/sport/10897867/joe-rogan-body-transformation-carnivore/) (_The Sun_) [[Archive](http://web.archive.org/web/20200206175207/https://www.thesun.co.uk/sport/10897867/joe-rogan-body-transformation-carnivore/)]
+
+* February 10, 2020 - [“Inside The Carnivore Diet, The Latest Health Fad That's Dividing The Wellness Community”](https://www.gq.com.au/fitness/health-nutrition/inside-the-carnivore-diet-the-latest-health-fad-thats-dividing-the-wellness-community/news-story/316057ae5d7ed560be835ce01f80c81a) (_GQ Australia_) [[Archive](http://web.archive.org/web/20200211082728/https://www.gq.com.au/fitness/health-nutrition/inside-the-carnivore-diet-the-latest-health-fad-thats-dividing-the-wellness-community/news-story/316057ae5d7ed560be835ce01f80c81a)]
+
+* February 11, 2020 - [“Fasting and the Carnivore Diet Helped This Man Lose 82 Pounds”](https://www.menshealth.com/weight-loss/a30795948/fasting-carnivore-diet-transformation/) (_Men’s Health_) [[Archive](http://web.archive.org/web/20200215060856/https://www.menshealth.com/weight-loss/a30795948/fasting-carnivore-diet-transformation/)]
+
+* February 11, 2020 - [“Jordan Peterson's all-meat diet raises questions”](https://lfpress.com/wellness/jordan-petersons-all-meat-diet-raises-questions/wcm/693af8e1-4ae5-4af3-b720-3afbc6035029/) (_The London Free Press_) [[Archive](http://web.archive.org/web/20200530204228/https://lfpress.com/wellness/jordan-petersons-all-meat-diet-raises-questions/wcm/693af8e1-4ae5-4af3-b720-3afbc6035029/)]
+
+* February 16, 2020 - [“Joe Rogan ate nothing but meat for 30 days and said his ‘energy levels were amazing’”](https://www.cnbc.com/2020/02/14/what-joe-rogan-learned-from-eating-a-carnivore-diet-for-30-days.html) (_CNBC_) [[Archive](http://web.archive.org/web/20200519235120/https://www.cnbc.com/2020/02/14/what-joe-rogan-learned-from-eating-a-carnivore-diet-for-30-days.html)]
+
+* February 17, 2020 - [“Joe Rogan's ‘Carnivore Diet’ limits carbs, beefs up on protein”](https://www.foxbusiness.com/lifestyle/joe-rogan-reviews-carnivore-diet) (_Fox Business_) [[Archive](http://web.archive.org/web/20200530204616/https://www.foxbusiness.com/lifestyle/joe-rogan-reviews-carnivore-diet)]
+
+* March 6, 2020 - [“What Happens in the First Week of the Carnivore Diet?”](https://goodmenproject.com/health/what-happens-in-the-first-week-of-the-carnivore-diet/) (_The Good Men Project_) [[Archive](http://web.archive.org/web/20200530204952/https://goodmenproject.com/health/what-happens-in-the-first-week-of-the-carnivore-diet/)]
+
+* March 10, 2020 - [“Some call it the ‘all meat’ diet. Here’s the 411 on the Carnivore Diet”](https://www.wxyz.com/lifestyle/living-a-better-life/some-call-it-the-all-meat-diet-heres-the-411-on-the-carnivore-diet) (_WXYZ Detroit_) [[Archive](http://web.archive.org/web/20200530205138/https://www.wxyz.com/lifestyle/living-a-better-life/some-call-it-the-all-meat-diet-heres-the-411-on-the-carnivore-diet)]
+
+* March 11, 2020 - [“Nothin’ but meat: Sault native goes carnivore in YouTube experiment”](https://www.sootoday.com/lets-eat/nothin-but-meat-sault-native-goes-carnivore-in-youtube-experiment-2154256) (_Soo Today_) [[Archive](http://web.archive.org/web/20200312162939/https://www.sootoday.com/lets-eat/nothin-but-meat-sault-native-goes-carnivore-in-youtube-experiment-2154256)]
+
+* March 11, 2020 - [“Coronavirus: Tips to Improve Your Immune System With the Carnivore Diet”](https://www.theepochtimes.com/coronavirus-tips-to-improve-your-immune-system-with-the-carnivore-diet_3269005.html) (_The Epoch Times_) [[Archive](http://web.archive.org/web/20200331223709/https://www.theepochtimes.com/coronavirus-tips-to-improve-your-immune-system-with-the-carnivore-diet_3269005.html)]
+
+* March 21, 2020 - [“The carnivore confessions: I’ve never felt better than on my meat-only diet”](https://spectator.us/carnivore-confessions-meat-only-diet/) (_The Spectator USA_) [[Archive](http://web.archive.org/web/20200420224222/https://spectator.us/carnivore-confessions-meat-only-diet/)]
+
+* April 2, 2020 - [“The Carnivore Diet Helped This Fitness Coach Lose Weight, but Gave Him Diarrhea for Weeks”](https://www.menshealth.com/nutrition/a32018053/jordan-syatt-carnivore-diet-diarrhea/) (_Men’s Health_) [[Archive](http://web.archive.org/web/20200417021022/https://www.menshealth.com/nutrition/a32018053/jordan-syatt-carnivore-diet-diarrhea/)]
+
+* April 26, 2020 - [“Few golfers shoot the breeze like Eddie Pepperell, who is forthright about the game’s new challenges”](https://www.thetimes.co.uk/article/few-golfers-shoot-the-breeze-like-eddie-pepperell-who-is-forthright-about-the-games-new-challenges-b937cvvfw) (_The Times_) [[Archive](http://archive.fo/o0qmj)]
+
+* May 17, 2020 - [“Rugby: Quade Cooper and Sonny Bill Williams’ diet regime”](https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12332465) (_The New Zealand Herald_) [[Archive](http://web.archive.org/web/20200524100514/https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12332465)]
+
+* May 20, 2020 - [“Cache Valley man runs 100 miles on zero calories”](https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories) (_KSL.com_) [[Archive](http://web.archive.org/web/20200529152114/https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories)]
