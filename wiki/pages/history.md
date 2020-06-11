@@ -40,6 +40,14 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 ## 1800s
 
+* **1856** - [_The Philosophy of the Stomach, or An Exclusively Animal Diet (Without any Vegetable or Condiment Whatever) is the Most Wholesome and Fit for Man_](1856) by Bernard Moncriff
+
+    > A diet corresponding to Parry's recommendations was actually followed for a long period by a resident of Birkenhead called Bernard Moncriff, who left a complete record of his experiment in a book entitled _The Philosophy of the Stomach, or An Exclusively Animal Diet (Without any Vegetable or Condiment Whatever) is the Most Wholesome and Fit for Man_ (1856). Taking his lead from Cornaro (see pages 36-7) he decided to limit his meals to cold roast beef, and originally also two quarts of milk (‘good country milk’), the yolk of one egg, and some sweet almonds, as his daily ration of food and drink. In six months, he tells us, he had become much healthier and had lost 20lb from his original 154lb (which, according to a modern table of heights and weights, is about 12lb overweight for his declared height of 5ft 5in). Having maintained the diet for the full six months, Moncriff decided it was too rich, and eliminated the egg, almonds, and half the milk.
+    >
+    > Some of his conclusions are extremely interesting: on this restricted diet he perspired very little despite regular exercise, and found that he needed little more fluid than the pint of milk provided. On the other hand, if he ventured to eat bread or potatoes, he became thirsty, and his intake of fluids increased greatly. After about a year on this monotonous diet, he found that he had lost the taste for almost all highly-flavoured food and drink—wines, beer, coffee, tea, and ‘salt, pepper, mustard, vinegar, apples, pears, and some of the most fashionable “fish-sauces” which happened to be in my possession. Even honey and sugar had lost much of their attraction for my palate’.
+    >
+    > — Terence McLaughlin, [_If You Like It, Don’t Eat It_](https://archive.org/details/ifyoulikeitdonte00mcla)
+
 * **1857** - [_An Argument on Behalf of the Primitive Diet of Man_](/docs/an-argument-on-behalf-of-the-primitive-diet-of-man-frederic-r-lees.pdf) by Dr. Frederic R. Lees (Pro-Vegetarian)
 
 * **1863** - [_Letter on Corpulence, Addressed to the Public_](https://archive.org/details/letteroncorpulen00bant) by William Banting
@@ -48,7 +56,7 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **1865** - [_Introduction à l'étude de la médecine expérimentale._](https://mechanism.ucsd.edu/teaching/philbio/CLAUDE%20BERNARD.htm) by Claude Bernard - Paris
 
-    > "In August of 1862 Banting consulted a noted Fellow of the Royal College of Surgeons: an ear, nose and throat specialist. Dr. William Harvey. It was an historic meeting. Dr. Harvey had recently returned from a symposium in Paris where he had heard Dr. Claude Bernard, a renowned physiologist, talk of a new theory about the part the liver played in the disease of diabetes. Bernard believed that the liver, as well as secreting bile, also secreted a sugar-like substance that it made from elements of the blood passing through it. This started Harvey’s thinking about the roles of the various food elements in diabetes and he began a major course of research into the whole question of the way in which fats, sugars and starches affected the body."  [via Barry Groves](https://www.westonaprice.org/health-topics/know-your-fats/william-banting-father-of-the-low-carbohydrate-diet/)
+    > "In August of 1862 Banting consulted a noted Fellow of the Royal College of Surgeons: an ear, nose and throat specialist. Dr. William Harvey. It was an historic meeting. Dr. Harvey had recently returned from a symposium in Paris where he had heard Dr. Claude Bernard, a renowned physiologist, talk of a new theory about the part the liver played in the disease of diabetes. Bernard believed that the liver, as well as secreting bile, also secreted a sugar-like substance that it made from elements of the blood passing through it. This started Harvey’s thinking about the roles of the various food elements in diabetes and he began a major course of research into the whole question of the way in which fats, sugars and starches affected the body." [via Barry Groves](https://www.westonaprice.org/health-topics/know-your-fats/william-banting-father-of-the-low-carbohydrate-diet/)
 
 * **1870** - [_On The Relations which Dental Caries May Be Supposed to Hold to Their Food and Social Condition._](/docs/on-the-relations-which-dental-caries-may-be-supposed-to-hold-to-their-food-and-social-condition-john-r-mummery.pdf) by John R. Mummery, F.L.S., L.D.S. - Vice President of the Odontological Society of Great Britain
 
@@ -209,6 +217,6 @@ The carnivore diet draws on the works, ideas, experiences, observations, and stu
 
 * **2014** - [_The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet_](https://www.amazon.com/Big-Fat-Surprise-Butter-Healthy/dp/1451624433/) by Nina Teicholz
 
-* **2016** - [Court of Last Appeal - The Early History of the High-fat Diet for Diabetes](/docs/the-early-history-of-the-highfat-diet-for-diabetes-Henderson-2016.pdf) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
+* **2016** - [_Court of Last Appeal - The Early History of the High-fat Diet for Diabetes_](/docs/the-early-history-of-the-highfat-diet-for-diabetes-Henderson-2016.pdf) by George Henderson - Human Potential Centre, Auckland University of Technology, New Zealand
 
 * **2016** - [_Primal Fat Burner: Primal Fat Burner: Live Longer, Slow Aging, Super-Power Your Brain, and Save Your Life with a High-Fat, Low-Carb Paleo Diet_](https://www.amazon.com/Primal-Fat-Burner-Super-Power-High-Fat/dp/1501116428/) by Nora T. Gedgaudas, CNS, CNT
