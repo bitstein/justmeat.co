@@ -156,3 +156,5 @@ title: Media Appearances
 * May 17, 2020 - [“Rugby: Quade Cooper and Sonny Bill Williams’ diet regime”](https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12332465) (_The New Zealand Herald_) [[Archive](http://web.archive.org/web/20200524100514/https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12332465)]
 
 * May 20, 2020 - [“Cache Valley man runs 100 miles on zero calories”](https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories) (_KSL.com_) [[Archive](http://web.archive.org/web/20200529152114/https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories)]
+
+* June 15, 2020 - [“How Red Meat Became the Red Pill for the Alt-Right”](https://www.thenation.com/article/society/beef-red-pill-right/) (_The Nation_) [[Archive](https://web.archive.org/web/20200615221617/https://www.thenation.com/article/society/beef-red-pill-right/)]
