@@ -132,6 +132,7 @@ YouTube:
 * 2020-03-24 - [“Possibilities of reducing the spread of the SARS-CoV-2 virus and increasing natural resistance to the disease via nutritional intervention”](https://www.paleomedicina.com/en/sars-cov-2_virus_nutritional_intervention)
 * 2020-05-02 - [“COVID-19 coronavirus and vitamin D”](https://www.paleomedicina.com/en/coronavirus_vitamin-d)
 * 2020-05-09 - [“Honey is the only healthy sweetener, even for people with diabetes”](https://www.paleomedicina.com/en/honey_only_healthy_sweetener)
+* 2020-05-17 - [“Suicide rates among the First Nations in Canada are on the rise. Reasons and a possible solution.”](https://www.paleomedicina.com/en/suicide_first_nations_canada_rise)
 
 ## Podcasts
 
