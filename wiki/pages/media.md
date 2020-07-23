@@ -158,3 +158,7 @@ title: Media Appearances
 * May 20, 2020 - [“Cache Valley man runs 100 miles on zero calories”](https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories) (_KSL.com_) [[Archive](http://web.archive.org/web/20200529152114/https://www.ksl.com/article/46753117/cache-valley-man-runs-100-miles-on-zero-calories)]
 
 * June 15, 2020 - [“How Red Meat Became the Red Pill for the Alt-Right”](https://www.thenation.com/article/society/beef-red-pill-right/) (_The Nation_) [[Archive](https://web.archive.org/web/20200615221617/https://www.thenation.com/article/society/beef-red-pill-right/)]
+
+* July 21, 2020 - [“British Masters: Eddie Pepperell feels fit, lean and healthy and ready to impress Lee Westwood”](https://www.skysports.com/golf/news/12176/12033356/british-masters-eddie-pepperell-feels-fit-lean-and-healthy-and-ready-to-impress-lee-westwood) (_Sky Sports_) [[Archive](https://archive.fo/791Qj)]
+
+* July 22, 2020 - [“Eddie Pepperell feels the benefits of his steak, liver and bone broth diet after carding a fine four-under par 67 in the first round of the British Masters”](https://www.dailymail.co.uk/sport/golf/article-8550171/Eddie-Pepperell-feels-benefits-steak-liver-bone-broth-diet-British-Masters.html) (_The Daily Mail_) [[Archive](https://archive.fo/PPkvO)]
