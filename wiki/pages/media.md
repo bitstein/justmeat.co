@@ -162,3 +162,5 @@ title: Media Appearances
 * July 21, 2020 - [“British Masters: Eddie Pepperell feels fit, lean and healthy and ready to impress Lee Westwood”](https://www.skysports.com/golf/news/12176/12033356/british-masters-eddie-pepperell-feels-fit-lean-and-healthy-and-ready-to-impress-lee-westwood) (_Sky Sports_) [[Archive](https://archive.fo/791Qj)]
 
 * July 22, 2020 - [“Eddie Pepperell feels the benefits of his steak, liver and bone broth diet after carding a fine four-under par 67 in the first round of the British Masters”](https://www.dailymail.co.uk/sport/golf/article-8550171/Eddie-Pepperell-feels-benefits-steak-liver-bone-broth-diet-British-Masters.html) (_The Daily Mail_) [[Archive](https://archive.fo/PPkvO)]
+
+* July 24, 2020 - [“‘I f...ing love meat’: the athletes who swear by a ‘carnivore’ diet”](https://www.smh.com.au/national/i-f-ing-love-meat-the-athletes-who-swear-by-the-carnivore-diet-20200604-p54zn7.html) (_The Syndney Morning Herald_) [[Archive](https://archive.fo/kjXCu)]
