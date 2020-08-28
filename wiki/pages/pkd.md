@@ -133,6 +133,8 @@ YouTube:
 * 2020-05-02 - [“COVID-19 coronavirus and vitamin D”](https://www.paleomedicina.com/en/coronavirus_vitamin-d)
 * 2020-05-09 - [“Honey is the only healthy sweetener, even for people with diabetes”](https://www.paleomedicina.com/en/honey_only_healthy_sweetener)
 * 2020-05-17 - [“Suicide rates among the First Nations in Canada are on the rise. Reasons and a possible solution.”](https://www.paleomedicina.com/en/suicide_first_nations_canada_rise)
+* 2020-07-22 - [“PKD Questions and Answers - 1”](https://www.paleomedicina.com/en/questions)
+* 2020-07-29 - [“PKD Questions and Answers - 2”](https://www.paleomedicina.com/en/questions_and_answers_2)
 
 ## Podcasts
 
