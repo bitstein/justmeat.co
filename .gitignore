@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 bin/purge_cache
 *.DS_Store
 push-hook
