@@ -37,6 +37,7 @@ layout: home
     * [“Carnivore vs Omnivore vs Herbivore Chart”](http://highsteaks.com/carnivore-vs-omnivore-vs-herbivore-chart/)
     * [Forum](http://highsteaks.com/f/) - Contains many threads aggregating sources and quotes on various health and meat-related topics
         * [“Gout, Uric Acid, low carb / keto diets (kidney stones / function)”](http://highsteaks.com/f/index.php?topic=111.0) (A common question)
+* [“How to Grill a Steak and Beat Fiat Food”](https://saifedean.com/meat/) by Saifedean Ammous
 * [My Zero Carb Life](http://myzerocarblife.jamesdhogan.com/wp/) (Kelly Williams Hogan)
     * [“My Doctor Said Lose 100 Pounds”](http://myzerocarblife.jamesdhogan.com/wp/2015/01/my-doctor-said-lose-100-pounds/)
 * [Carnivore Aurelius](https://carnivoreaurelius.com)
