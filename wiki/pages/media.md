@@ -166,3 +166,5 @@ title: Media Appearances
 * July 22, 2020 - [“Eddie Pepperell feels the benefits of his steak, liver and bone broth diet after carding a fine four-under par 67 in the first round of the British Masters”](https://www.dailymail.co.uk/sport/golf/article-8550171/Eddie-Pepperell-feels-benefits-steak-liver-bone-broth-diet-British-Masters.html) (_The Daily Mail_) [[Archive](https://archive.fo/PPkvO)]
 
 * July 24, 2020 - [“‘I f...ing love meat’: the athletes who swear by a ‘carnivore’ diet”](https://www.smh.com.au/national/i-f-ing-love-meat-the-athletes-who-swear-by-the-carnivore-diet-20200604-p54zn7.html) (_The Syndney Morning Herald_) [[Archive](https://archive.fo/kjXCu)]
+
+* October 16, 2020 - [“Nurse says he’s in the best shape of his life after swapping veganism for a raw meat diet”](https://metro.co.uk/2020/10/16/nurse-says-hes-in-the-best-shape-of-his-life-after-swapping-veganism-for-a-raw-meat-diet-13431462/) (_Metro_) [[Archive](https://web.archive.org/web/20201017180904/https://metro.co.uk/2020/10/16/nurse-says-hes-in-the-best-shape-of-his-life-after-swapping-veganism-for-a-raw-meat-diet-13431462/)]
