@@ -9,6 +9,7 @@ layout: home
     * [_Eat Meat. Not Too Little. Mostly Fat.: The Facultative Carnivore_](https://facultativecarnivore.com/)
     * [“Amber O’Hearn at Ketofest 2017 - The Carnivorous Human”](https://www.youtube.com/watch?v=Y4VRp5ZFFRU) [YouTube]
     * [“Guide To The Carnivore Diet”](https://nutrita.app/guide-to-the-carnivore-diet/)
+    * [“The Lipivore: what is fat for?”](https://www.youtube.com/watch?v=b1C5wW7hePs) [YouTube]
 * [Zero Carb Zen](https://zerocarbzen.com/)
 * [Zero Carb Health](http://www.zerocarbhealth.com/)
 * [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
