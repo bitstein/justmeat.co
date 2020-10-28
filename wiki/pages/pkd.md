@@ -146,6 +146,7 @@ YouTube:
 * 2019-03-20 – _The Human Performance Outliers Podcast_ – [“Episode 84: Dr. Zsófia Clemens”](https://humanperformanceoutliers.libsyn.com/episode-84-dr-zsofia-clemens) [[iTunes](https://podcasts.apple.com/us/podcast/human-performance-outliers-podcast/id1363389413?i=1000432469519)] [[YouTube](https://www.youtube.com/watch?v=lBzheqmqlH0)]
 * 2019-08-21 – _Peak Human_ – [“Dr. Zsófia Clemens on How to Cure Almost Any Modern Disease Without Medicine”](https://www.peak-human.com/post/dr-zsofia-clemens-on-how-to-cure-almost-any-modern-disease-without-medicine) [[iTunes](https://podcasts.apple.com/us/podcast/peak-human-unbiased-nutrition-info-for-optimum-health/id1393265937?i=1000447414182)]
 * 2019-09-16 – _Fundamental Health Podcast_ – [“Zsófia Clemens on reversing Type 1 diabetes, Crohns, and cancer with a high fat, nose to tail carnivore diet”](https://carnivoremd.com/zsofia-clemens-on-reversing-type-1-diabetes-crohns-and-cancer-with-a-high-fat-nose-to-tail-carnivore-diet/) [[iTunes](https://podcasts.apple.com/us/podcast/fundamental-health-with-paul-saladino-md/id1461771083?i=1000450039371)]
+* 2020-10-19 - _Move Wild Podcast_ - [“The Paleolithic Ketogenic Diet With Natalie Daniels”](https://anchor.fm/jake-clapson/episodes/S-2--EP-49---THE-PALEOLITHIC-KETOGENIC-DIET-WITH-NATALIE-DANIELS-el32d1) [[iTunes](https://podcasts.apple.com/au/podcast/s-2-ep-49-paleolithic-ketogenic-diet-natalie-daniels/id1477730747?i=1000495317569)]
 
 ## Media
 
