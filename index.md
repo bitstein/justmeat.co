@@ -203,6 +203,7 @@ layout: home
 ## YouTube
 
 * [Shawn Baker](https://www.youtube.com/channel/UC5apkKkeZQXRSDbqSalG8CQ)
+* [MeatRx](https://www.youtube.com/c/MeatRx)
 * [Mikhaila Peterson](https://www.youtube.com/user/mikhailapeterson1)
 * [KetOMAD](https://www.youtube.com/channel/UCR3lAJ0iHpW5FopzckSJRfQ)
 * [Primal Edge Health](https://www.youtube.com/user/PrimalEdgeHealth)
@@ -231,6 +232,7 @@ layout: home
 
 * [Human Performance Outliers Podcast](https://humanperformanceoutliers.libsyn.com/) (Shawn Baker & Zach Bitter)
 * [The Carnivore Cast](https://www.carnivorecast.com/) (Scott Myslinski)
+* [MeatRx](https://meatrx.libsyn.com/) (MeatRx)
 * [Zero Carb Journal](http://www.permanenthomestead.com/category/zero-carb-journal/) (Permsteader)
 * [Kevin Stock Radio](https://www.kevinstock.io/podcast/) (Kevin Stock)
 * [Fundamental Health](https://www.paulsaladinomd.com/podcast) (Paul Saladino)
