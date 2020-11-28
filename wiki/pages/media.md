@@ -168,3 +168,5 @@ title: Media Appearances
 * July 24, 2020 - [“‘I f...ing love meat’: the athletes who swear by a ‘carnivore’ diet”](https://www.smh.com.au/national/i-f-ing-love-meat-the-athletes-who-swear-by-the-carnivore-diet-20200604-p54zn7.html) (_The Syndney Morning Herald_) [[Archive](https://archive.fo/kjXCu)]
 
 * October 16, 2020 - [“Nurse says he’s in the best shape of his life after swapping veganism for a raw meat diet”](https://metro.co.uk/2020/10/16/nurse-says-hes-in-the-best-shape-of-his-life-after-swapping-veganism-for-a-raw-meat-diet-13431462/) (_Metro_) [[Archive](https://web.archive.org/web/20201017180904/https://metro.co.uk/2020/10/16/nurse-says-hes-in-the-best-shape-of-his-life-after-swapping-veganism-for-a-raw-meat-diet-13431462/)]
+
+* November 27, 2020 - [“Bitcoin’s Carnivore Cult Is Both Stupid and Correct”](https://www.coindesk.com/bitcoin-carnivore-cult-both-stupid-and-correct) (_CoinDesk_) [[Archive](https://web.archive.org/web/20201127184201/https://www.coindesk.com/bitcoin-carnivore-cult-both-stupid-and-correct)]
