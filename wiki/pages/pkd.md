@@ -149,6 +149,7 @@ YouTube:
 - 2020-11-05 - [“Charismatic Youtube influencers and science. Is it a good combination or not?”](https://www.paleomedicina.com/en/charismatic_youtube_influencers_and_science)
 - 2021-02-03 - [“Coffee consumption from the perspective of toxicology and nutrition. Let us see the facts.”](https://nutriintervention.com/coffee-consumption-from-the-perspective-of-toxicology-and-nutrition-let-us-see-the-facts/)
 - 2021-02-17 - [“The deeper meaning of PKD. Be careful, very hard!”](https://nutriintervention.com/the-deeper-meaning-of-pkd-be-careful-very-hard/)
+- 2021-06-08 - [“The case of the best performing glioblastoma patient in the world and Frontiers in Nutrition”](https://nutriintervention.com/the-case-of-the-best-performing-glioblastoma-patient-in-the-world-and-frontiers-in-nutrition/)
 
 ## Podcasts
 
