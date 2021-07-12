@@ -628,6 +628,7 @@ Supporting evidence that the following doctors recommend Carnivore Diet or close
 * Dr. Cameron Sepah https://Twitter.com/DrSepah
 * Dr. David Baldes M.D. https://twitter.com/ketoshrink/status/1081763193536634881?s=21
 * Nutritionist Amy Berger https://twitter.com/TuitNutrition
+* Nutritionist Jillian Ceasrine https://twitter.com/ceasrine/status/1221788838344962048
 * Professor Timothy Noakes https://twitter.com/ProfTimNoakes
 * Professor Stuart Phillips https://twitter.com/mackinprof
 * Journalist Nina Teicholz https://twitter.com/bigfatsurprise
