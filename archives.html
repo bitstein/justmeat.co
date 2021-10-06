@@ -7,13 +7,16 @@ permalink: /archives/
 <div class="container archive-index text-center">
   <h1>Archives</h1>
 
-  {% assign authors = site.archives | group_by: 'author' | sort: 'name' %}
-  {% for author in authors %}
-    <h3>{{ author.name }}</h3>
-    <ul>
+  {% assign authors = site.archives | group_by: 'author' | sort: 'name' %} {%
+  for author in authors %}
+  <h3>{{ author.name }}</h3>
+  <ul class="px-0">
     {% for article in author.items %}
-      <li><a href="{{ site.baseurl }}{{ article.url }}">“{{article.title}}”</a></li>
+    <li>
+      <a href="{{ site.baseurl }}{{ article.url }}">“{{article.title}}”</a>
+    </li>
     {% endfor %}
-    </ul>
+  </ul>
   {% endfor %}
-<p class="text-center"><a href="/">Home</a></p>
+  <p class="text-center"><a href="/">Home</a></p>
+</div>
