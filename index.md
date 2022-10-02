@@ -25,7 +25,7 @@ layout: home
   - _Cancer: Disease of Civilization?_ ([HTML](http://solus.life/stefansson/), [ePub](docs/cancer-disease-of-civilization-vilhjalmur-stefansson.epub)) [Produced by [Solus Factor](https://twitter.com/solus_factor)]
   - [_My Life with the Eskimo_](docs/my-life-with-the-eskimo-vilhjalmur-stefansson.pdf) [PDF]
   - [“Adventures in Diet” (1935)]({% link _archives/adventures-in-diet.md %})
-  - [“Preface to Eat Fast and Grow Slim” (1958)]({% link _archives/preface-to-eat-fat-and-grow-slim.md %}) by Evelyn Stefansson
+  - [“Preface to Eat Fat and Grow Slim” (1958)]({% link _archives/preface-to-eat-fat-and-grow-slim.md %}) by Evelyn Stefansson
   - [“Prolonged Meat Diets With A Study Of Kidney Function And Ketosis”](docs/prolonged-meat-diets-walter-s-mclellan-eugen-f-du-bois.pdf) by Walter S. McClellan and Eugene F. Du Bois [PDF]
   - [“The Effects on Human Beings of a Twelve Months’ Exclusive Meat Diet”](docs/twelve-months-exclusive-meat-diet-clarence-w-lieb-md.pdf) by Clarence W. Lieb, M.D. [PDF]
   - [“Rare footage of Vilhjalmur Stefansson the Arctic explorer”](https://www.youtube.com/watch?v=gT7u2GlEfxs) [YouTube]
