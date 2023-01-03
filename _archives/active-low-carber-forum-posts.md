@@ -6,9 +6,9 @@ source: Active Low-Carber Forums
 source_url: https://forum.lowcarber.org/showthread.php?t=287013
 ---
 
-_Editor's note: On February 25th, 2006, Owsley “The Bear” Stanley, the prolific LSD manufacturer, Grateful Dead soundman, and carnivore of 50 years, started a thread on the Active Low-Carber Forums about his carnivorous diet. The thread spanned 251 pages, in which the Bear made 292 posts explaining his dietary wisdom and knowledge. This page contains all of the Bear's posts in one location, originally archived [here](web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php). You can read the full original thread [here](https://forum.lowcarber.org/showthread.php?t=287013)._
+_Editor's note: On February 25th, 2006, Owsley “The Bear” Stanley, the prolific LSD manufacturer, Grateful Dead soundman, and carnivore of 50 years, started a thread on the Active Low-Carber Forums about his carnivorous diet. The thread spanned 251 pages, in which the Bear made 292 posts explaining his dietary wisdom and knowledge. This page contains all of the Bear's posts in one location, originally archived [here](https://web.archive.org/web/20170303163347/http://activenocarber.myfreeforum.org/ftopic22-0-0-asc-.php). You can read the full original thread [here](https://forum.lowcarber.org/showthread.php?t=287013)._
 
-***
+---
 
 **The real human diet is a totally carnivorous one.**
 
@@ -33,7 +33,7 @@ We evolved as an active, group-hunting animal. We have a high natural requiremen
 
 I hope my post is of some help to others. Just persist. I show that it IS possible to overcome your dietary socialisation.
 
-***
+---
 
 -Ok.
 
@@ -71,7 +71,7 @@ Concerning vegetables, there is no 'baby'- it is all just a load of dirty water.
 
 The only thing careful about my diet is I don't use salt (a chemical) and I don't cook the meat much, I make sure I eat a lot of fat. Virtually any meat is ok, even for long periods, it is a matter of personal taste, like- I really like raw oysters and soft shell crabs (and for that matter Aussie mud crabs.)
 
-***
+---
 
 I eat butter, of course. Mayo is normally made with unsat veg oils and is high in salt. If you like the stuff, which I do, you should make your own from egg yolks, macadamia oil and lemon juice.
 
@@ -85,7 +85,7 @@ All meat is 'organic'- you cannot feed cattle (or other foodd animals like chick
 
 Paying the premium (often twice the usual amount) for so-called organic meat is like piling up your hard earned and setting fire to it- it is just plain dumb. Actually most organic meat is tough, lack a proper marbling of fat and has nothing to recommend it over normal beef in the nutrition department- save your money so you can buy more food with it.
 
-***
+---
 
 Chocolate, 100% unsweetened, is ~50% carbs. The xanthines are what give it a bitter taste (theobromine, caffeine and theophylline). The true (best) human diet is NOT about what 'tastes good'- actually most vegetables taste perfectly awful plain and virtually 100% of babies reject them on first exposure, while all accept meats (human milk and pulped meat are the only foods a newborn can digest- but be careful with the fat content). It is the complex of spices and cooking additives/techniques which make up 'cuisine' (I am a highly skilled cook).
 
@@ -93,7 +93,7 @@ Once habituated to the taste of vegetables, as I have noted, it is so difficult 
 
 I dispute the claim about human coproliths in association with true plaeo- lithic remains- Those have been found only with meso- or neo- lithic sites. My research has not uncovered that claim for the true paleo- period. The claim of many modern 'research' projects are questionable, since financial sponsorship can and does predetermine outcomes.
 
-***
+---
 
 I don't think books are going to provide a way to understand something like this. No one has previously written about it, because, like doing brain surgery on oneself, examination of our 'instinctive' and unconscious socialisation process is very difficult. Babies will 'trip' inbuilt responses in the adults and other children around them to provide answers and information on skills they need according to their age-window. Children will repeat things taught them seemingly endlesssly until they become skilled.
 
@@ -103,7 +103,7 @@ For instance read my essay on Children's TV. I worked for many years as a broadc
 
 You need only understand that we have only the most basic animalistic instincts at birth and our early cultural training is fixed so strongly into who we are that it can usually override them all. Failure of acculturation therefore is a very serious and difficult to remedy disaster for humanity.
 
-***
+---
 
 Hmmm.
 
@@ -131,7 +131,7 @@ I enjoy cooking, been at it since age 12. So, rather than menus, how about a rec
 
 Try this: A large chicken, 4-5 lbs (2.2+ kg). Carefully separate the skin from the meat by passing your hand gently through the evisceration opening in the abdomen- try not to tear the skin.. Make a mixture of 4 oz (100gm) of unsalted butter and the same amount of Philly cream cheese. Mix spices, like curry or chilli powder, 2 teaspoons with the softened (not too soft) cheese and butter to make a uniform paste- I like a spice mix used in Argentina, called Chimi Churi- a spice preparation which I buy here in Oz from Peter Watson in Melbourne Vic. But it is not required what spices you use, try different mixtures. Using a spoon, place the mix through the opening, some on each side, and squeeze it out between the skin and meat to form a thickness of 1/8" (3mm). Take the last bit and smear it over the skin, place on a rack over a pan in a 350F (180C) oven, preferably a fan-circulating one, and roast for 60-70 min. It is hard to stop eating this bird. The drippings make a wonderful gravy. I like this style of chook so much that I often roast two birds at once- two people can completely devastate one between them.
 
-***
+---
 
 Opps, almost forgot:
 
@@ -139,7 +139,7 @@ How to make mayo- basic instructions may be found in any good basic cookbook, li
 
 The only good veg oils are palm, coconut and macadamia nut- but only mac is easy to use in mayo, although if you can get a fine quality of palm it may be worth a try. Coconut has too high a melting point. Mac oil gives mayo a nice nutty flavour.
 
-***
+---
 
 Ok, jandlsmom- but please read carefully my earlier posts and my essays, I think most of your questions have already been seen to.
 
@@ -149,7 +149,7 @@ Olive oil has a lot of poly-unsats- has a strong, not very pleasant taste, as we
 
 Smart thing is to stick to animal fat, which is the perfect fuel our body was 'designed' to use (saturated triglycerides are the kind of fat you store). High cuisine was traditionally based on beef tallow, lard and butter, vegetable oils used were few and put mostly on salads. What do you put mayo on? I can find few things other than cold chicken or fish on which it can be used- it is something put on vegetables, bread (andwiches) etc., which are not a part of my diet. I have not used much mayo in a long time. Last major use was for canned tuna, but i gave that away. I think egg 'salad' is about it.
 
-***
+---
 
 I see acculturation is alive and well, all the comments on vegetation as well as young kids copying mum are to be expected, as the eating of veggies is learned long before speech.
 
@@ -157,7 +157,7 @@ So far as duparc, I am appalled to find his mind so poisoned with his own calcif
 
 Creationist is it? Whew. Superstition should play no part in a modern educated person's life. This is not to say that the Universe is not a conscious entity, only to say that it works perfectly without a humanoid god-figure controlling it, and follows exactly all the rules of science and nature (I suggest reading a little book called the Kybalion). In my mind, the Universe is a constantly created thing which we are part of, and is not a clock wound up once and let go. Everything in Alchemy can be tested in science and science has proven evolution. But this is not really a part of dietary practice other than to say that life is just as conscious for plants as for animals. Plants are likely to be more conscious due to a lack of an ego limiting and focusing perception due to the need to move around a seek food. It is just that we are not able to understand plants. Some research (Backster)has verified their ability to respond to music and identify threat, etc. Life lives on life, whether an animal eats animals or plants it is the way organic creatures exist, face it. We are what our evolution has made us. If we began and remained herbivorous (which we did not- earliest primates were insectivores), we would be about as intelligent as the other animals which eat plants, like cattle and sheep. The development and maintenance of a large brain and high intelligence, is a very energy intensive undertaking- and is unlikely ever to occur in a herbivore who lives on very low quality, high mass foods- and none have.
 
-***
+---
 
 I suggest that people coming on to this thread read ALL my posts first before asking about things I have already covered, like dairy, eggs etc. Animal husbandry was a true paleo food solution, and appeared well before agriculture.
 
@@ -173,7 +173,7 @@ Before that human populations were locked into prey availability, vis-a-vis the 
 
 Of course a meat diet did not and in fact cannot exceed or even reach 70%- it is toxic at hign levels. It was ~20% to maybe as high as 50% in times of low fat on the prey available. The all meat diet is NOT in strict terms a 'low carb diet', it is a high FAT diet. It is possible to survive a verylong period on not pretein as well as not carbs, in other words on fat alone- many months can go by. In a shortage of dietary protein the body becomes very conserving of amino acids and if not damaged, does not break them down, but recycles them
 
-***
+---
 
 Correction (oops)
 
@@ -181,7 +181,7 @@ Of course IN a meat diet, PROTEIN did not, and in fact cannot exceed or even rea
 
 It was ~20% to maybe as high as 50% in times of low fat on the prey available.
 
-***
+---
 
 You mean that direct and repeated implication that I am a liar and have commercial interests in my postings is ok, but requesting the accuser to desist is not?
 
@@ -199,7 +199,7 @@ For this reason it is not necessary to defend your diet by accusing me of perfid
 
 I just felt that I needed to let people know that eatiing nothing but meat works, and not only that but it works fantastically well. You do not need science projects or extensive research into the past to understand what works, a person's life experiences should do it- Stefansson's did it for me. And don't forget all those Inuit…
 
-***
+---
 
 The majority of Inuit live on land and eat mostly caribou and elk. They also will eat fish and few tribes hunt whales, but the marine animals are mostly taken during the warmer time of year- the tribes that live on or near the ocean will hunt seal by staking out the breathing holes, as do polar bears.
 
@@ -207,15 +207,15 @@ Polar bears, by the way, are the largest bears on the planet and are total carni
 
 Fire and napped-stone tools came along at about the same time, and it is this which allowed us to become carnivorous hunters and scavengers. But you don't need to go back into the past to find the truth, your body (not your mind) knows what is right and will respond to the right mix. What is real is what you and your body are like after following your path for more than 10 years- better- for more than forty.
 
-***
+---
 
 If you ask an Aboriginal man what traditional food is, he will name all the animals he can hunt. If you ask him about other food, he will than tell you about the 'bush tucker' you can eat when you can't find any animals. Both men and women will hunt, but men rarely gather. The Aborigines are modern hunter-gatherers, their prehistory (dreamtime) is not known to science.
 
-***
+---
 
 Oh, by the way- it is not hard to eat raw meat, cut it small, mash it a bit in the mouth and swallow- Inuit eat a lot of their meat raw. Many of the women have worn down their teeth (no cavities, however) from chewing on sandy hides when making clothes- it is not always convenient to cook the meat- it is easy to eat it. This is the reason that trichina is a problem in the north.
 
-***
+---
 
 I don't think that trying to duplicate a diet like the paleolithic hunters ate is very wise and is certainly unnecessary, for one thing we haven't a clue as to what it was other than from the bones etc in the digs.
 
@@ -227,7 +227,7 @@ I used to take vitamins, but stopped years ago. After noticing some difficulties
 
 'I (heart) animals, they're delicious'- …. from a much-loved bumper sticker.
 
-***
+---
 
 Actually I wasn't run off, I was in hospital Tuesday/Wed for an operation to repair holes in my eardrums. I got the holes from grommets placed there to relieve blocked Eustachian tubes caused by radiation therapy in '04 for throat cancer- the cancer was killed- but not without some collateral damage. Tubes opened up after a few months, but the grommets did not 'fall out' as I was told they would. As a musician, I have been very upset over my hearing for a while, but I think this is going to work and I will get back what hearing I had, at least. Nothing can fix the roll-off that years of Grateful Dead did to me, of course. And… I used cotton wool in my ears most of the time.
 
@@ -239,7 +239,7 @@ They said it was very odd I should get this kind of cancer, it is usually a mark
 
 I smoked for a couple of years from about 11, but it made me feel shitty in the morning and I gave it away. I much prefer cannabis to alcohol, never liked hard liquor and gave away even having the odd glass of wine in '90 when I began lifting weights.
 
-***
+---
 
 I don't know whether polar bears ever eat any non-meat items, certainly Stefansson did not think they did, and the polar bear is considered an endangered species due to a reduction in prey availability. That some carnivores, especially the canids, the family to which all true bears belong (pandas are not bears but large members of the raccoon family) may eat some non-meat items does not mean they can digest them- and anyway, what does this line of pursuit have to do with what a human eats? I mentioned the polar bear only because one posting said bears were omnivores, but the polar bear is not an omnivore.
 
@@ -247,7 +247,7 @@ I don't know whether polar bears ever eat any non-meat items, certainly Stefanss
 
 The thing which makes humans unique is our society, and our culture. Animals also may have culture, like the Japanese monkeys who learn to wash their food in the ocean from each other and chimps learning to use simple tools from other chimps, and the most extreme, learning (human) sign language from another chimp- but in humans it completely overrides all our instinctive behaviour. The upside is so obvious I don't need to mention it, but the down side is that, like trying to do brain surgery on yourself, it is very hard to understand and change- it is written at too deep a level in our consciousness.
 
-***
+---
 
 Thanks, folks- for the defense. It IS getting a bit wearing. If a person has nothing real to say, it is best to keep the mouth shut.
 
@@ -263,11 +263,11 @@ Cancer has not been shown to be connected to diet- the scare over colon cancer a
 
 A few cancers have been shown to be connected to viruses, and those of the skin with UV exposure in a susceptible individual, but most causes are still mysterious. My developing of the specific kind of cancer was considered very unusual, and I agreed to participate in a project which is looking for causes other than alcohol and tobacco. A sample of normal tissue was taken, as well as cancerous, and I was told they suspect something concerning DNA may hold the key.
 
-***
+---
 
 Did I understand that there is someone who wishes answers (to unasked questions)? Plese define the questions. Oh, and also, please define exactly what you mean when you use the word 'candid'. I may have a different dictionary than you do.
 
-***
+---
 
 'Acculturation' = Acquiring culture. What you are taught as a baby/child about living as a human being in society, starting at birth and virtually complete by age 8. A kind of social toolkit. Without this we would be just another animal. Our culture is what defines humanity. It is very difficult for any person to change any part of this early training which was burned in heavily. If some of the things we need to know to be human is not learned during the several short, skill-specific 'windows' which open and close as a child ages, in time, that particular skill may never be learned (the rare so-called feral children, which were lost and raised by animals, exhibited varying amounts of disability, some could not learn to talk, some not able to walk upright). Culture includes such things ashow to walk, what to eat, how to dress, language, manners and much more.
 
@@ -277,7 +277,7 @@ Anyone on an 'all meat diet' (i.e.-zero-carbs) who is hungry, is eating carbs, i
 
 'Candid' = Plainspoken. Open. Speaking out on the subject, not prevaricating, even when it is not PC to do so. Suits me right down to the ground.
 
-***
+---
 
 Correct. You need to think about eating.
 
@@ -287,7 +287,7 @@ It is perfectly ok to only eat one large meal/day, like a three pound steak- but
 
 Meat eaten alone is out of the stomach in about one hour. (vegetation takes 3-4 hours).
 
-***
+---
 
 The reason you were taught to eat vegetables by your mum is because your mum was taught to eat vegetables by her mum as a baby, and her mum was taught that before her, and her mum's mum….all the way back to prehistory.
 
@@ -295,7 +295,7 @@ Benefit or no- health or illness- has nothing to do with why we eat what we do, 
 
 Culture is not a plan which some mysterious 'culture elite' have prescribed and agreed upon, it is a set of traditions, evolved in each society over a long period of time, learned by rote and passed down without thought or question from generation to generation. There are many cultures.
 
-***
+---
 
 Meat is dissolved quickly by the hydrochloric acid your stomach is optimised to produce over 75% of its surface area. Vegetation stimulates the production of certain enzymes which are not quickly made and come from about 25%. The HCl is easy to turn on and turn off, the enzyme systems are not easy, and it is one of the reasons the mixed diet person experiences hunger- the stomach is busy making more digestive juice.
 
@@ -305,11 +305,11 @@ This is very basic physiology. Any textbook gives the time of transit of food in
 
 In high school, I joined the boxing team to learn a bit of skill and get the other kids to stop messing with me- (it worked like a charm). Our coach would feed us a plain rare steak, with fat on, but with no water about one hour before every match. He said it took 45 minutes to leave the stomach, and fifteen to be absorbed into the blood- thus providing a lot of energy for the bout- he was not wrong, we won almost every match. This was in 1949, well before the diet-nazis had taken over. Obviously you would not want to be hit in the gut if there was anything still undigested in your stomach, and boxers always go for the gut.
 
-***
+---
 
 I have said- I will eat any animal, and I love seafood. I drink about 2 to 4 litres of rainwater a day. Our rain is very pure, we do not have any air pollution in the southern hemisphere because there is virtually no nuclear south of the equator.
 
-***
+---
 
 The truth is, there is no excuse to eat any carbs at all. Your body has a built-in fat level it will maintain. Without dietary carbs it is very hard to store fat. All dietary fat must be burned, there is no mechanism to store it.
 
@@ -319,7 +319,7 @@ Once you reach your proper level, which varies a bit from person to person, but 
 
 Atkins' was on the right road but some of his ideas were wrong- he made up his diet to appeal to people used to eating a lot of vegetation, he couldn't tell the truth that all carbs are the enemy of the genetically obese. I was on my routine for years before his book came out, and I pinned him as a diet-wuss. There is no such things as 'induction' in dietary terms- you eat what you eat and your body accepts what it is, and adapts. Most really heavy people cannot lose the excess body fat they carry if they eat as Atkins suggests.
 
-***
+---
 
 I sometimes make beef jerky. It can be an excellent snack, but lacks fat and is therefore not a complete food, some supplemental fat is necessary. It can be made into pemmican, a complete food, by adding fat. The instructions are pretty simple, take lean (heavy fat marbling slows drying, and can lead to spoilage) meat, slice to about 1/8" thickness, and dry with heat at 104F (40C) max. This is very important any higher will cause the loss of nutrients, lower will not do the job quickly enough. Never use any salt or other additive, just clean, fresh lean raw meat. I have used a gas oven with a pilot light and the door left ajar, but you must check it empty with an accurate thermometer to be sure it is not too hot. If no pilot, such as in an electric oven, use an incandescent lamp, try different wattages to select the right size. Jerky is dry to crumble in about 8 hours. To make pemmican, powder the jerky and add an equal weight of, not hot (melted) tallow made from rendering beef suet. This is a greasy mass and is not really very palatable as is, but can be added to warm water to make a sort of soup. Jerky should be very dry and not leathery like the commercial junk- which means it is still too wet and will spoil. Pemmican can be kept for up to 30 years so long as it is kept sealed away from air. More information on jerky and pemmican can be found in either Fat of the Land or The US Army Arctic Survival manual 1944, by Stefansson.
 
@@ -333,7 +333,7 @@ Meat and dairy are very labour intensive, and do not give a high profit return t
 
 Although many doctors are primarily motivated to help people, still, a good income is always important. The zero carb diet is perfect for diabetics, however that would cut out the need for constant supervision by a physician, and eliminate the need for a very profitable drug, insulin. The drug industry, well known for placing profit in front of any sense of proper conduct, funds a powerful lobby to the medical profession.
 
-***
+---
 
 quax:
 
@@ -347,7 +347,7 @@ In case anyone has not followed the current scandal over wheat and Iraq, cereals
 
 I live in the middle of cattle country, where the grass is exceptionally nourishing and I know the local graziers well- trust me, they all live close to the line, so close that one has opened a butcher shop in order to sell his meat at retail in order to raise his family's income level. Low fat is a huge bonus for Big Ag with its automated planting and harvesting. Whether you want to accept it or not, your data is suspect. Unlike raising grains and oilseeds which is virtually automated, the is no special advantage to being big as a meat producer other than some economy of scale on land use- it is the labour component which rules the costs. A large mob of cattle needs dozens of men to handle them, whereas thousands of acres of wheat or corn can be planted, fed and harvested by a very few operators. There are no veterinary costs to raising plants, and the product is very stable, keeps well and does not require expensive storage- like energy-intensive refrigeration, nor does it require rapid sale and consumption up on 'harvest'. Why is this so difficult to comprehend? It is so obvious.
 
-***
+---
 
 I live in a different time zone, so i have a lot to catch up on each morning. Here is a hodgepodge of answers and ripostes.
 
@@ -365,7 +365,7 @@ I make a wonderful zero-carb ice cream with raw egg yolks, heavy cream, lactose-
 
 The Inuit can be taken as an example in nature that there are no nutritional deficiencies under an all meat diet: All examinations and tests done back when they still lived the traditional life showed perfect health, no dental caries, no CAD, no obesity and no diabetes, plus- barring accidents and severe bouts of starvation and parasites, a very long life to ~90+ yrs..
 
-***
+---
 
 The eating of wheat by humans is regional, since wheat is the most toxic of the cereal grains. Unless wheat is started very early in life it cannot be tolerated- unlike rice, the least toxic. So 'food aid' sent to many parts of the world is used only as animal feed. This is a distortion, but unlike feedlot grain, the farmers are paid human food prices for the aid input. Animal feed grain is lower in required quality and attracts a much lower price, all producers attempt to sell their grain into the human market, thus massive amounts of money are directed towards human 'grain as food' promotion. The most amazing marketing coup of recent times has been the promotion of the fibrous rubbish cover removed from grain before milling into flour, as human food. Formerly this material was sold to the makers of cardboard, but some marketing genius figured out that a 'scientific study' could be configured to show some kind of benefit from including this nourishing and intestine-irritating trash in food, thus permitting the sale of a cheap waste byproduct at food prices. ABSOLUTELY brilliant.
 
@@ -379,7 +379,7 @@ My great uncle was a farmer in central KY. He raised Jersey cows and pigs. I rem
 
 Most cultivated vegetables are highly modified by selective breeding to remove the natural defense-toxins, so much so that tonnes of chemicals must be used to enable them to escape being eaten by 'pests'.
 
-***
+---
 
 Lisa: I think you have been misinformed. This is common amongst sufferers of diabetes- they use a lot of scare tactics.
 
@@ -391,15 +391,15 @@ In a study titled 'Atherosclerosis: An insulin-dependent disease?' some interest
 
 I thought I had already covered this misconception: You CANNOT raise your blood glucose level above your normal fasting level by gluconeogenesis, no matter what. Gluconeogenesis cannot and will not even take place so long as there is enough fat intake, period. 'Excess' dietary protein is broken down and discarded, never converted to glucose except in an emergency- such as under heavy and extensive fasting- and then only after all the stored glycogen in liver and muscle has been converted first. The liver under these circumstances only produces from protein the exact amount necessary to maintain the normal level. Only dietary intake can drive the blood glucose level above your baseline.
 
-***
+---
 
 Our local cream has ~1 gm/100 ml, so 2 l contains 20 gms. There are not 10 gms of total solids in three cups of my expresso (I grow, roast, grind and brew coffee- I have Rancilio and Conti machines), and the sugars have been caramelised by roasting. My vanilla extract label says it is 0 carb- I don't buy the cheap stuff. Perhaps there may be ~30 gm total, but that is spread out over 3.5 litres of ice cream, or one gm per 125 ml. How close to zero do you want to go?
 
-***
+---
 
 I love tongue- nice and fatty- and lamb's brains. My mum fed us tongue sandwiches with mustard, and my granny used to serve scrambled brains and eggs- but she used calf brains, I like lamb better, just dipped in duck egg and fried. Duck egg sticks to things much better than chicken egg. I have never liked tripe or chitlins. Basically the only part of an animal I won't eat is the hooves hair and bones.
 
-***
+---
 
 I am sorry, Lisa, I mis-read the carton- I took the .9 gm/portion figure instead of 100ml- which is 3.1gm. Thus six cartons gives 45 gm which is close to your figure. Even the 60% cream lists carbs as 2.8, with sugars at 1.8.
 
@@ -409,7 +409,7 @@ I questioned only your contention that the level of dissolved solids in three 20
 
 Could it be that it was the flu which raised your blood sugar? Some sort of reaction by your immune system. So long as your body has retained any level of glycogen (the liver usually is about 40% glycogen, plus some is stored in muscles) you will not tear apart proteins for glucose- a simple and rapid enzymatic process cuts the the poly-sacccarhide glygocen into its constitutent mono-saccarhide units, i.e., glucose. Long, severe fasting is necessary for all glycogen to be depleted, not 48 hrs, let alone 24.
 
-***
+---
 
 There are no 'unique nutrients' required for humans which can be found in vegetables. Humans live very well indeed on just muscle tissue with sufficient fat. This is a fact and is history, so all the conjecture and theorising in the world will not change it. If the body was able to create glucose on demand from ripping he core out of protein, then why is 100% protein so deadly it can kill you in about a week to ten days? Adding dietary fat or carbs prevents this poisoning. The fact is gluconeogenesis is rare except under two conditions, severe fasting and recovery from starvation-induced bodyfat depletion on a zero carb diet. Then the adipose tissues are re-built by diverting a small amount of blood sugar which stimulates mild gluconeogenesis.
 
@@ -419,7 +419,7 @@ The body does not need any carbs to replenish glycogen, it just does not happen 
 
 The inherent proof, if any is needed, that we entered a period of heavy if not total carnivory millions of years ago is imbedded in the development of our huge brain, which required vast amounts of high energy density food intake to be able to afford development and requires similar amounts to maintain it. As most people know, we have a brain much larger for an animal of our size than is the norm. Gathering and eating vegetation does not take a lot of brain power so long as the animal has enough to be alert to predators and an instinct for avoidance behaviour- but predators do need good brains to stalk and outwit their prey.
 
-***
+---
 
 Sorry, what exactly is meant by 'optimum nutrition'? Sounds like diet-cult talk.
 
@@ -437,7 +437,7 @@ Rakey Watson Australia Pty Ltd +61 3 9417 0209
 
 I am giving the phone # only, because I don't think it is good practice to post anyone's email address on the forum.
 
-***
+---
 
 Glycogen is not depleted by exercise, period. The muscles ONLY use free fatty acids complexed with n-acetylcarnitine to provide the energy to reverse ADP to ATP, no carbs are consumed in this process, either as glucose or as glycogen.
 
@@ -449,7 +449,7 @@ Google? Trust me- I am an expert on 'rabbit starvation'.
 
 The link to medbio.info produces a very conventional description of the way a person functions on a normal MIXED diet containing carbs. Unfortunately it is not valid for a zero- carb or very low carb regime. This should not come as a surprise, because medicine does not accept that anyone could (or would even want to) live on such a regime.
 
-***
+---
 
 Optimum nutrition is exactly- what? You cannot make a valid statement in assertion without an antecedent for the word 'that'. Bad grammar. What all we strive for? this is not a definition, it is a statement of ideal without defining the ideal in question. I mentioned my physical condition at 71, compared to my contemporaries- which indicates far more than just following a bare minimum of nutrition to avoid deficiency diseases. The entire human population on a 'normal diet' may validly be considered the 'controls'.
 
@@ -459,11 +459,11 @@ I am very much interested in meeting ANY individual who has remained on a zero-c
 
 Underfeeding has been shown to enhance longevity. Keep that in mind when considering people who survive into extreme old age.
 
-***
+---
 
 I guess in the US organ meats (called 'offal' here) must have something of a premium-food reputation. I recently bought a calve's tongue and it was \$6.95/kg, at the time porterhouse was \$21.90. Liver is usually \$4, kidneys about the same. All these items are always significantly cheaper than any cut of steak. For some weird reason lamb is today priced above beef, whereas 15 years ago it was less than 1/3 the price.
 
-***
+---
 
 I guess we must agree to disagree, Lisa. I am not here to do battle over fondly held belief systems, just to share what has proven to work in my life.
 
@@ -471,17 +471,17 @@ I am not a scientist, I am an artist, so I give very little credence to most of 
 
 For annotated examples of this widespread practice, please read “The Cholesterol Myths' by Uffe Ravnskov or visit the website www.thincs.org
 
-***
+---
 
 I am searching for my collection of metabolic studies, but so far it has eluded me. Two studies relate to energy source and exercise, both were done with lab rats. One shows by muscle biopsy/analysis that the glycogen in muscle tissue does not vary with exercise, whether anaerobic or anaerobic. The other shows massive gains in endurance over a sufficiently long period of adaptation to a zero carb diet. This study is one of the very few to use a true zero carb diet against a normal rat-chow control in a test.
 
 If lack of insulin will kill type 1 diabetics on a zero carb diet, then how do you explain all the cases in the literature from the pre-insulin period which confirm that removing carbs from the diet caused the sugar to leave the urine, and permitted the person to live a normal life. I first read about this in Macarness- Eat Fat and Grow Slim, however later on I found some other old texts which confirm this diet was a successful treatment. The medical profession in conjunction with the drug manufacturers do not want you to believe you can ever give up using insulin if you are type 1. But- by all means follow your own path. I have yet to meet a type 1 who was open to even considering not taking insulin, they were all scared shitless by their doctors. So I will merely mention it. Check it out if you like. Insulin is a fairly recent drug.
 
-***
+---
 
 paleodeano- yes- it is myth.
 
-***
+---
 
 Weight training- yes, it has been 16 years now as of Jan. I began lifting on my birthday at age 55. I ride my mountain bike on a very hilly dirt track for about 30-45 minutes before each workout. The aerobics session immediately prior to lifting gets every warmed up and functioning, and brings the liver online with the enzymes needed by the muscles for optimal activity-muscle cells do not make them, and do not store them in the quantity needed by strenuous exercise.
 
@@ -499,7 +499,7 @@ Carbs will actually interfere with muscle growth, whereas dietary fat seems to s
 
 I love my one morning cup of coffee- but not black. I found some time ago that a couple of tablespoons of heavy cream diluted with water will froth up like milk and makes a delicious cappuccino
 
-***
+---
 
 I have stated my blood glucose levels in terms understood in the US, where the other forum correspondents live. I am not in the UK, but in Oz. Yes, we use the metric system here as does the entire world- except only the USA.
 
@@ -513,7 +513,7 @@ The same thing is found in the choice of the 'normal' blood sugar level- it is n
 
 I have tested all my contentions over a very long period of time. Most research studies are not done over a long enough time scale to really verify or confirm the results…
 
-***
+---
 
 Any type 1 diabetic who is not monitoring their glucose level frequently during the day with today's simple technology would themselves be abnormal. Even an 'uneducated kid' would have to know this basic routine is highly imperative…
 
@@ -523,7 +523,7 @@ What I think we have here is just a bold attempt to find verification from other
 
 If the intent of these posts is to somehow convince me to change my tested knowledge structure, it is not going to be effective. If I responded to other people's proffered 'wisdom', my foray into the zero carb diet would not have lasted a year.
 
-***
+---
 
 Hmm: Is this thread now to become a diabetes thread?
 
@@ -531,7 +531,7 @@ This was never my intention. Sorry to disappoint, but please, let's stay on the 
 
 I am sure there are many threads around devoted to diabetes.
 
-***
+---
 
 I lift at a normal rate. But only do three sets of one exercise per body part. Time spent lifting should only be about 45-60 min.
 
@@ -555,13 +555,13 @@ The other one is from the Journal of the American College of Nutrition 5:417-427
 
 These were spare copies, I still have not located my main collection of metabolic studies.
 
-***
+---
 
 Did I mention that you must never work out without sufficient days off? At least one day minimum in between workouts and the best is two to three. A proper workout micro-damages tissues, and uses up your store of energy reserves- this is what stimulates you to grow stronger/bigger. The day after a workout is used up just restoring you to the state you were in before the last workout, plus maybe part of the next day as well, if you are an advanced trainer and just increased your work load. The second day of (total) rest is when you will gain. You need only work each muscle once a week. A cycle of two and three days off is ideal in most cases. This equals twice a week in the gym. Trust me, I began at 55 and it was a hard go until I had tested all the (misinfo) and found out the truth.
 
 I was even told that it was impossible to gain muscle mass after age 40- by an MD, no less. He did not recognise me a few years later, and was blown away by my new mass. The awful thing was, after spending a considerable amount of time first-off telling me my diet was (nuts) and I was wasting time at my age lifting, he had grown obese. Funny how the truth will out.
 
-***
+---
 
 On the contrary, eating only meat is great, in fact just eating nothing but NY sirloin steaks for several MONTHS exclusively leads to each one tasting even better than the last (been there, done that). Vegetables ARE boring- tasteless (or slightly bad) for the most part, requiring a dose of spices to make them palatable, and the idea you need a lot of variety at mealtime comes strictly from having learned to eat them.
 
@@ -589,11 +589,11 @@ I finally found one stash of articles, not all. I failed to note a few dates on 
 
 This batch is not complete, there are several more papers here- somewhere. I am still searching.
 
-***
+---
 
 I have followed my dietary path for 47 years, it is as natural as breathing now (but it wasn't always). Be sure to eat plenty of fat.
 
-No one is born with a 'taste' for any kind of food- everything is learned, so if you 'crave' veggies or fruit, it is your social *mind* at work, your *body* does not 'crave' non-meat foods.
+No one is born with a 'taste' for any kind of food- everything is learned, so if you 'crave' veggies or fruit, it is your social _mind_ at work, your _body_ does not 'crave' non-meat foods.
 
 What is this 'induction' thing?
 
@@ -607,7 +607,7 @@ Don't follow ANYTHING you read in the bodybuilding mags concerning food and supp
 
 Fat is very filling, don't worry, you won't eat too much.
 
-***
+---
 
 No headaches normally- perhaps with a cold or flu, but I have not suffered from either in many years, even after what must have been severe damage to my immune system from the cancer therapy. I highly recommend getting a yearly flu shot.
 
@@ -623,7 +623,7 @@ Before age 23, I managed to get cavities in all my molars (bread), including my 
 
 My current very excellent dentist likes to see me every few months since the radiation, but there has been no change at all. Before that I only went in when I had an event, like an inlay coming adrift. My amalgam replacement 30 years ago was done by an old timer, old fashioned restorational dentist, a regular 'tooth artist', who did everything himself, but he used the old style cement, which is slowly coming loose, necessitating the occasional refitting.
 
-***
+---
 
 Sorry, I did not mean to step on your belief system.
 
@@ -649,21 +649,21 @@ I do not know of any meat processors who freeze any of their meat other than liv
 
 The only US fish which have parasites (broad fish tapeworm) are the fresh water fish in the Great Lakes region- it is common in parts of Europe. There are only a few fish in salt water which harbour parasite which can effect humans- the wild salmon of the pacific coast can carry the larvae of a seal-specific parasite which, if eaten raw may cause what is called the 'sushi-worm syndrome', it will not colonise us, but chews on the stomach a bit and eventually dies- I have had it, very uncomfortable (I made sashimi from fresh salmon I caught- qualified Japanese sushi chefs are trained to find and remove it from the fish). But- even light cooking will destroy any fish-borne parasite. You have to eat it raw to have a problem.
 
-***
+---
 
 Could it be those 3 cups of veggies that gave you 11 pounds?
 
-***
+---
 
 I guess echinacea is a vegetable, after all- that is one seems to help one's immune system. But I don't think you should eat it in dietary quantities. All the great medicines and psychic activators come from vegetables of one kind or another. That is the great gift to mankind from the plant kingdom. Medicines and shamanic sacraments…Not food.
 
-***
+---
 
 “…increase their veggie intake.” Truly amazing. I don't understand this of course, it sounds like water running up hill to me. I wonder what other changes were involved, both before and after getting 'stalled'.
 
 I have only had 47 years of interest and experience in low carb diet regimes and their results, in this relatively short time span I may have missed something important about vegetables.
 
-***
+---
 
 I am looking for the study on non-depletion of glycogen with exercise. This study specifically showed no reduction in glycogen after intense exercise- that contention proved to be only an assumption, not based on data. The effect of 'hitting a wall' known to runners is due to carb loading and the accompanying reduction in endurance. Another study in the batch I have not located shows a tripling or more of exercise endurance in rats fed a zero carb diet versus those fed a normal rat-chow diet. Glycogen storage is stable in a person with sufficient fat intake.
 
@@ -685,7 +685,7 @@ No, my wife does not eat bread or any sugar, and only very small amounts of past
 
 …The following is just my opinion, remember- you can be trained young to eat anything, and will then 'love' it. For example, Vegemite, a heavy, very salty, strong tasting concentrated yeast paste- a byproduct of the brewing industry, is eaten by Aussie kids (and adults), like the Yanks eat jam- on toast… Turnips taste, for lack of a better word, nasty- (along with mustard, collard and kale greens, and the cabbage family). I always wondered how they were ever considered edible in the first place- near starvation, I guess. Conditioning rules the palate.
 
-***
+---
 
 Bathroom problems? You should not have this problem, you must be doing something wrong. The carnivore's diet totally eliminates constipation. I am never constipated unless I must take an opiate like codeine (tramadol is better- and not constipating) or eat too much cheese.
 
@@ -695,29 +695,29 @@ Coffee in excess can cause a loose bowel, and cheese, which is mostly casein (th
 
 A 'protein shake' should be based on heavy cream. My first meal is 60 ml cream, 10 ml water, with three heaping tablespoons of protein powder (90% calcium caseinate, 6% ion exchange whey, 4% egg albumin). I buy all the ingredients in bulk and make up the mixture myself, as all the commercial mixes suck (it is way cheaper this way, too)- either they have soy in them, carbs, or way too much of some cloying synthetic sweetener, or they lack caseinate and thus are too quickly metabolised, thus ineffective. Whey is used up very rapidly- casein lasts for hours. Egg white balances the amino acid profile.
 
-***
+---
 
 Goat is better than lamb
 
-***
+---
 
 How much fat do you eat?
 
-***
+---
 
 The Krebs cycle is simply a description of the conversion path from glucose to fat, and not a metabolic energy source. Some of us genetic-obese may have difficulty in the step- oxidation of pyruvic acid- Macarness thought so.
 
-***
+---
 
 Good, try my suggestion on coffee- I llke it with cream.
 
 Basically, you should not suffer constipation on a zerocarb regime with a good balance of fat. Even Stefansson noted this.
 
-***
+---
 
 MIlk is very carby (~10%) and can be constipating due to the casein, which turns into hard curd (cheese like) in an adult's stomach- perhaps this is your problem. Try making your shakes with diluted heavy cream instead.
 
-***
+---
 
 Been down to sealevel yesterday to see the ear doc, so this is a long one-
 
@@ -765,7 +765,7 @@ What indeed, did I start, dietary heretic that I am.
 
 Other than as a guide to our lengthy period of evolution under a carnivorous lifestyle, resulting is the loss of tolerance for diet with a high carb/vegetable content, the actual diet of paleolithic people is not really of much value to us in today's modern world. Most of the animals they hunted for food are extinct, and we really do not have any solid data on what they may have consumed but did not bring home.
 
-***
+---
 
 It behooves late comers to this 500+ posting thread to go back and read the entire thing before putting their foot in a bucket. Virtually every thing used in attack has been answered thoroughly already. Some recaps below:
 
@@ -803,7 +803,7 @@ Our teeth are pure carnivore, they have a continuous enamel coat, are quite shar
 
 We really don't have any very 'close' relatives- a term needing definition, as the closest, the pongids or great apes (some of whom like the chimp are good hunters and eat large amounts of meat- mostly monkeys) separated out ~6 million years ago. Of the large genera primates, many are heavy meat eaters, some are widely omnivorous, a few rather short lived monkeys are herbivorous, like the proboscids, and some- like the tree shrew are totally insectivorous.
 
-***
+---
 
 I have only used the paleo people's limited evidence of diet to show that we went through a multimillion year long period of total carnivory, and we are the result of selective evolution as to the kinds of things we are most suited to use as food, not to bolster or use as the basis of any of my eating habits, which are based on the Inuit and extensive examination and tests done during the period when there were still those who followed their traditional diet… Plus careful awareness of my own body and the effect of foods on it. I have been subjected to complete examinations on a five to ten year basis all my life, I am not a person who avoids the doctor's clinic. I made many medical friends who were very interested in testing and measuring me over the years. By nature I am conservative and very skeptical. The things I have found to be true have been through the fire, so to speak.
 
@@ -833,9 +833,9 @@ Please, let's have no more unsupported, open ended claims used in attack mode. P
 
 In a great many years of studying plants, I have only found medicines, defined as things which heal illnesses and disabilities, and things which change or expand consciousness, not 'nutrients'.
 
-***
+---
 
-Some cancer is known to be caused by chemical agents, like lung cancer and mesothelioma (asbestos). Some are caused by UV radiation, like skin cancer. Radiation exposure is a known cause, and a few have viral causes (HPV). Many, however are mysterious. I suspect the air pollution mediated by nuclear energy- i.e., tritium decay- the caused of 'photochemical smog, and perhaps others. Lung cancer amongst non smokers is on the rise, particularly in women in the US- home to well over 100 reactors, plus tonnes of waste held in water. Neutrons and the hydrogen in water wind up as tritium, an unstable, radiation emitting isotope: water- *hydrogen* plus neutron = 'heavy' water- *deuterium* plus neutron = 'heavy-(er)' water- *tritium*…. tritium minus beta particle- *electron* plus O2 = helium 3 plus 2 O *atomic oxygen*… 2 O plus 2 O2 = 2 O3 *ozone*. Perhaps this ozone is carcinogenic and perhaps beta particles emitted inside the lung are the thing. Food however would have to be contaminated with something… Vegetables raised as food are fed chemicals and pesticides, which may be carcinogenic, but nothing like that is likely to make it through the animal into its meat.
+Some cancer is known to be caused by chemical agents, like lung cancer and mesothelioma (asbestos). Some are caused by UV radiation, like skin cancer. Radiation exposure is a known cause, and a few have viral causes (HPV). Many, however are mysterious. I suspect the air pollution mediated by nuclear energy- i.e., tritium decay- the caused of 'photochemical smog, and perhaps others. Lung cancer amongst non smokers is on the rise, particularly in women in the US- home to well over 100 reactors, plus tonnes of waste held in water. Neutrons and the hydrogen in water wind up as tritium, an unstable, radiation emitting isotope: water- _hydrogen_ plus neutron = 'heavy' water- _deuterium_ plus neutron = 'heavy-(er)' water- _tritium_…. tritium minus beta particle- _electron_ plus O2 = helium 3 plus 2 O _atomic oxygen_… 2 O plus 2 O2 = 2 O3 _ozone_. Perhaps this ozone is carcinogenic and perhaps beta particles emitted inside the lung are the thing. Food however would have to be contaminated with something… Vegetables raised as food are fed chemicals and pesticides, which may be carcinogenic, but nothing like that is likely to make it through the animal into its meat.
 
 When I eat out, I ask the waiter to leave all teh veggies in the kitchen, as 'I hate to see food go to waste'. On arrival I may ask the bread dish be removed, but the butter left on the table I don't order any 'meat dish' type food, but rare beef, fried or roasted chicken, fish or soft eggs. I ask that they not put any salt on the meat (I will return overcooked and/or salted meat to the kitchen).
 
@@ -883,7 +883,7 @@ Note on cheese, also one of my faves, and something that I consume in every meal
 
 If you do not add sugar, whipped cream is the same as fresh pouring cream. It is quite tasty- I love it.
 
-***
+---
 
 It is the casein in cheese which causes the binding. It makes an excellent glue. Elmer's is an example.
 
@@ -905,7 +905,7 @@ I like a bit of bacon from time to time, but I have a lot of trouble finding bac
 
 Salt is not good in your food, it is a chemical- and will damage your skin and your kidneys over time. It also interferes with fat metabolism. When I was a dancer, I used no salt in anything, I drank huge amounts of plain water during class, and never had a bit of problem, whereas the other dancers scarfed salt tablets like candy and still had problems- plus their clothes dried out with a heavy salt rime on them. The skin and the kidneys are forced to shed excess salt and cannot quickly stop, however if you eat at least 30 gm of meat a day you will get all the salt you need, the urine and sweat can go as low as a few parts/billion of salt to conserve it.
 
-***
+---
 
 I never said we had 'carnivore' teeth- if you define that as the dentition of cats and dogs. I also did not say we had 'insectivore' teeth like bats etc. I noted that the primate lineage was insectivorous in deep antiquity and our dentition was derivative of that origin. Our mouth shape and jaw motion is specialised for speech, not chewing or grinding food. Our teeth changed with the development of both speech and the use of knives. Our teeth have absolutely no relationship, in either structure or durability to the teeth of herbivores and fully evolved omnivores like the rodenta.
 
@@ -913,7 +913,7 @@ Sorry, I am not trying to show you as less than you are, but the tooth shape and
 
 Unfortunately the human mixed or omnivorous diet in 'recent' times- i.e., prior to today's dentistry- meant that virtually no-one had any teeth left in their head by the age of thirty. Many people, indeed most- died from abscessed teeth. Compare that to the animals whose diet is either herbivorous or omnivorous, who do not have access to dentistry- they live a full lifespan without serious problems from their dentition. Say what you like, you cannot change truth into falsehood nor fables into reality: If we eat no carbs, our teeth will outlast us- no matter how long we live.
 
-***
+---
 
 I am not attacking anyone, just asking a couple of reasonable questions based on observed behaviour, both of which have been on my mind for a while now:
 
@@ -923,13 +923,13 @@ Does 'Depraved Superhero' mean that you feel you must attempt to show all others
 
 Or is this just your way of exhibiting an odd sense of humour on a basically egalitarian and meat-oriented dietary thread?
 
-***
+---
 
 I have collected many papers over a long period of time that support my contentions. However I live on a very large, only partially developed rural property, which is basically somewhat unorganised and still takes a disproportionate amount of my time to manage.
 
 I have not handled those papers for over 15 years, and it is going to take a bit more time for me to ferret them out from wherever they have gotten to over the years. I am working on it- trust me, I want very much to put all this contention to bed.
 
-***
+---
 
 I remembered the glowing reference to tongue on Sat while I was shopping, and bought a nice veal tongue. It was A\$ 4.20/kg- equivalent to US \$ 1.43/lb. In the same meat cooler sirloin steak was A\$ 21.00/kg. I just don't see tongue as either expensive or difficult to find, at least here in Oz. Tongue is about the only meat I can take well-cooked, but of course it is only eaten as an occasional treat. Tongue is not quite edible rare- it is so tough it could be used to make shoe soles- the only other cut that tough is beef cheeks- even ground up for burger that cut is TOUGH and very chewy.
 
@@ -957,7 +957,7 @@ So, just accept that your culture is going to rule your life, make whatever adju
 
 The Chinese eat anything and everything that will not kill you quickly. If it moves or grows, they will eat it- pets included. Only the French even come close- i.e.- both like to eat tiny songbirds.
 
-***
+---
 
 Who cares on this thread about soil depletion? I have not seen anything like that criticised, on the thread. Links are not messages. Here is the point:
 
@@ -971,7 +971,7 @@ It is not necessary to defend the eating routines and foods that you were traine
 
 I have a lifetime of watching the same people over nearly a half century on normal mixed diets, both the common ones and all the faddish 'healthy foods' ones, and I have not seen them as being good, nor in any way equaling the effects I have had in my body during such a period. So, say what you like, you have not proven the 'correctness' of your particular dietary viewpoint by applying it over a lengthy period in life, and thus whatever format your ideal mixed diet is, (or the 'balanced' one), as you claim will yield good health and longevity, has not been established by practice and is merely a dream in your head.
 
-***
+---
 
 OK.
 
@@ -993,7 +993,7 @@ A little bit of dissembling:
 
 We are the eaters of cows, and we must NOT eat their food. That is the way of Gaia, the Conscious Planet who has placed us at the very pinnacle of the food-chain-eco-pyramid which is very small at the top. If we had remained where we belonged, rather than stepping down a level or two, not only would we live well and enjoy good health, but there would only be as many of us as the world can support. There would be no crowded struggling cities filled with the desperately poor, no pollution and no destruction of the ecosystem. The planet cannot carry us at the present population level, it is rapidly failing. The worst, most disastrous move we have made, worse even than the wide spread havoc caused by our uptake of the fundamental superstitious religions, is the consumption of vegetation. It has allowed us to infest the planet like ten thousand fleas on a Chihuahua. At least that is how I view it. 5 million, or up to 10 million, maybe- but no more is a good human population level, NOT six thousand million.
 
-***
+---
 
 No problem- it is not worth discussing, IMHO.
 
@@ -1025,7 +1025,7 @@ You know, I suggest all you non-cooks get a copy of the venerated classic book T
 
 Never look too closely at your food! That is why we invented sauces. Squid heads and tentacles are the best and tastiest part- for some weird reason Americans toss them out- and only eat the rubber-like chewy part which has very little flavour.
 
-***
+---
 
 I see my answers were not understood or accepted. Perhaps the questions were not clearly enough stated, so the answers based on them were not what was expected, but never mind, let's move on. I am not going to go over it all again, and anyway, it has little to add to this thread.
 
@@ -1037,21 +1037,21 @@ As a case in point, if you suffer a stroke and blood leaks into the brain tissue
 
 I am sorry you feel pain on exercising, perhaps you should find a better trainer. I do not feel pain when I work out, only challenge and exertion. If it hurts, you are doing something wrong. As to why the 'old ones' worked so hard physically in searching for and capturing their prey, well if you don't, you starve. Ever watch kids in a playground? Why would they run around and exhaust themselves if it did not feel so good? I'm sorry, but I interpret your rejection of exercise as good and desirable, as pathological. I also question the direction this line is taking.
 
-***
+---
 
 I would not eat pig's anything.
 
-***
+---
 
 Dean, interesting article. A dog is not strictly speaking a pure carnivore, it is more of an opportunistic feeder- thus the slightly longer gut. If he had chosen a panther (obligate carnivore) which is our size, the intestines etc, would have been a closer match. Perhaps this is one reason why dogs were better able (and willing) than cats to adapt to us as our diet changed. Here in Queensland there are packs of feral dogs who feed on the fallen fruit in avocado orchards!
 
-***
+---
 
 You don't find much carbs in meat, liver is the the exception. Brains have a slightly sweet taste as do kidneys, but I think they are basically very low in carbs. I am not as sure about sweetbreads, which can be either the pancreas, considered the better kind), or the thymus- in a very young animal.
 
 A note on the pig: This omnivorous animal has notoriously bad dietary preferences/habits- they are fed by the business end of (human) latrines in Asia- ('as happy as a pig in ….') and often, even in the western world,can be infested with parasites, etc. Pigs have organs with poor taste and texture anyway. Not good for food.
 
-***
+---
 
 What made the 'high protein' dieters sick? That's dead simple- lack of adequate fat intake. There is actually no such thing as a 'high protein' diet, Protein does not need to be higher than 20% for health and must never go above 50%. There are, therefore, only high-carb and high-fat diets.
 
@@ -1059,13 +1059,13 @@ Anyone with tooth problems should act at once to fix the problem. Modern dentist
 
 I have had one root canal and gold crown from damage done during an amalgam restoration in my 20's, which was not reparable in gold and the nerve subsequently died. I had one more for a tooth which had a broken tooth next to it which developed an abcess which on X-ray appeared to be related to the subsequently root-canalled tooth- this tooth's crack was not discovered at the time, but once into the other tooth my dentist discovered the nerve was still good- it was the one next to it which had broken and caused the abcess- the crack was so fine as to be totally invisible, but was permeable to bacteria, not cariogenic ones- infective ones. I had the broken tooth removed- (the abcess proved resistant to antibiotics- it finally separated in two) and a titanium post and crown installed (gold, of course). All the trouble was in the molars. Once one tooth goes, the rest tend to follow, bridges and dentures are not a good idea. It is very important to take action to keep your teeth, and get permanent implants to replace any lost ones. I have only trauma to threaten my teeth, caries is not a problem with my diet, even if I don't brush…
 
-***
+---
 
 I have studiously avoided cameras since the '60's, therefore very few pix exist of me from any period.
 
 Visit my website.
 
-***
+---
 
 “Actually lifespan is highly correlated to body mass, metabolism and nutrient flow in the body-not whether you are a carnivore or herbivore.”
 
@@ -1077,7 +1077,7 @@ Do I detect a 'grasping for straws', or is it a simply a case of ingrained contr
 
 We can discount the last, the pub article. The second shows size/metabolism, which is established. The first is invalid off the line, since it compares a chicken and an elephant, and metabolism as well as body-design differences impinging on metabolism (especially the lungs) in birds are radically different from mammals. Birds are the last surviving dinosaurs.
 
-***
+---
 
 I think I am wasting valuable communication time attempting to answer irrelevant questions. I am going to stick to the human diet and what I have experienced as true about it, and the short term and long term effects of what we eat.
 
@@ -1105,7 +1105,7 @@ Understanding and eliminating diet-connected damage and the aging effects it cau
 
 I hope I am making myself clear, as it is very frustrating to try to deal with a lot of unnecessary stuff. We want to see and appreciate the forest- not look too closely at only a few trees. I want to use my precious online time constructively (I live in deep bushland have a lot of work each day). I tend to react- or, if I ignore some posts I feel are completely irrelevant, the respondents then accuse me of avoiding the issues! I feel some 'issues' are non-issues with respect to the direction taken. I am sorry if this bothers anyone, I am enjoying most of that is going on, immensely.
 
-***
+---
 
 Yes, I am interested in seeing if, by holding this discussion, I can help other people who have naturally heavy constitutions find a way around their acculturation.
 
@@ -1124,7 +1124,7 @@ This is not to say that a way cannot be found to deal with acculturation, and th
 
 My statements may seem didactic, but that is just my 'way of speaking', it does not mean that I think everything I say is an absolute. I try to keep to what I have experienced, but like everyone else, I instinctively look for an explanation.
 
-***
+---
 
 Red meat should be fresh, never been frozen, well marbled and only cooked very little on the outside in a hot skillet with melted fat of the same kind. Fat is naturally delicious if fresh, but nasty if it gets old before cooking. Garlic and other spices may be used, but just plain meat should tasted wonderful.
 
@@ -1138,15 +1138,15 @@ It is not optimum (at any age) to perform heavy exercises more than one, or a ma
 
 Gradually increase the weight as you gain strength. I.e., if after ten reps, you can do some more, increase the weight a bit until 7 or 8 is all you can finish. The idea is to get stronger, and the body is essentially very conservative, not adding any more muscular strength than is necessary, so you must challenge your body to get the best value for your effort. Do not do any exercise which hurts during its performance, although it is to be expected that you will have a little (not very unpleasant) muscle soreness for the next day or two. Exercise causes some micro-damage, which stimulates the muscle. Remember to stretch once you have warmed up- this is very important. After working out for several months this soreness will become almost unnoticeable.
 
-***
+---
 
 Oh, and keep your workouts brief- do only three sets of one exercise for each body part. It helps to have a book so you know the proper form for each exercise- like Gold's Gym or Arnold Swartzenegger's bodybuilding books. Bill Pearl's 'Keys to the Kingdom' is definitely over the top, but has every exercise variation anyone ever dreamt up in it. You do not need a lot of variation, stick to what works. Work into it gradually. Start with one set of each exercise for a couple or three weeks, then move up to two sets. After a couple of months go to three. You will need patience, it takes some time to SEE the results, although you will start to feel great very quickly. Remember- exercise will not make you thin, only a proper diet can do that.
 
-***
+---
 
 bawd, The slang is derived from a plant (vegetable) being a passive-living entity, with no ego or the ability/need to move around. It has nothing to do with diet.
 
-***
+---
 
 Do you read? I have already said don't bother with this nonsense, as I do not have the time to waste on it (I said I wouldn't, so why am I bothering to even respond?). I have no problem whatsoever understanding exactly what you have said, trust me.
 
@@ -1158,7 +1158,7 @@ Just like the black box, it matters not what or why something works, only that i
 
 You may 'be in everything', but I'm sorry: IMHO, so far you have contributed zilch of value to our discussion.
 
-***
+---
 
 I began my journey of 100,000 steps when I was 23 years and 9 mos old. I did not attack nor question the veracity of my informant, I wrote to him (Stefansson) and told him about my trip at the time. He answered me, and I was stoked.
 
@@ -1168,7 +1168,7 @@ It seems that at the age of 23 and 6 mos, and after having discovered that she i
 
 I don't really think we should be arguing. 115 is a very good size/weight for a 5'5" female.
 
-***
+---
 
 By my experience, the scale runs something like this:
 
@@ -1184,7 +1184,7 @@ All carbs are identical: they all become glucose once in the body.
 
 Carbs (glucose)= insulin… Insulin = body damage/fat storage… Simple.
 
-***
+---
 
 I think we can agree that to avoid food poisoning, chicken should be just cooked (still very moist and soft, it is right when the pink just leaves the meat- no further). Most people dramatically overcook it. Other birds do not seem to have the same degree of dangerous bacterial contamination-hazard, and are traditionally eaten rare.
 
@@ -1212,13 +1212,13 @@ In a subject which is culturally, not logically imposed, what on earth is the te
 
 I don't care a rat's bum about 'scientifically valid' with regard to a subject charged with emotional and economic bias, in a world where scientific workers routinely lie, alter results and fabricate evidence. My evidence is rock-solid- I am living proof. I have no reason to doubt Stefansson's evidence either. So, can we get back the real world?
 
-***
+---
 
 Coconut and palm oils I feel are the good veggie ones. They are both primarily saturated fat, and coconut is among the medium chain triglycerides well regarded for rapid absorption and quick energy. They are still not as a good a food as butter and beef suet, however. You can render beef suet in the oven at 250F, draining the liquefied fat (tallow) off the crispy bits. It will be very dry as you remove it from the heat, and can be simply poured into a jar, and closed up. It will keep well at room temp. It is the best one for frying steaks.
 
 I am not sure what is meant by 'grilling'- I have heard this term used for cooking under an overhead flame; spitted over charcoal; and fried on a hot metal plate (sometimes called a 'grill'); and also placed on a wire rack over either a flame or hot coals. Frying very briefly in hot fat in a pan or skillet is best, it is very quick, cooks to a nice brown just the surface and therefore you lose only the smallest amount of vitamins and nutritive value. Beef fat (tallow) is very stable and does not turn or degrade when heated. If it gets too hot it will evaporate (smoke), however.
 
-***
+---
 
 Salt is an addiction. It is culturally induced induced by the need to add some salt for flavour in vegetables. When I gave up salt, the only food that I ate which seemed to need salt was eggs, but after a few years this passed- unsalted butter made the difference- without that added fat eggs are definitely very bland. Take care to only buy and use unsalted butter. Salt in butter is there as a preservative, thus the level is very high. Unsalted butter is a bit more expensive because only very fresh cream can be used to make it, whereas soured cream, neutralised with soda is used to make 'regular' butter that is then preserved with salt. The very best and tastiest butter possible is made at home by shaking pure cream, and separating the resulting delicious near-white butter from the whey.
 
@@ -1240,13 +1240,13 @@ Animal feed-plants are much less subject to pest predation than the specially br
 
 I could only find a recipe for preparing turtle in Joy of Cooking, I guess between 1931 when the book was written, and today, turtles have become a non-PC food item. I am not referring to sea turtle, only the fresh water kinds.
 
-***
+---
 
 'To lose body fat, eat more steak and eggs':
 
 This linked story, while stating some truth, also contains flawed information: It suggests the wrong mechanism for efficacy, i.e., 'spares carbohydrates to later…' which is simply nonsense- carbs are only converted into fat, and cannot provide energy for doing any work with the muscles.
 
-***
+---
 
 Your desire for various items in your diet has nothing to do with your organs of taste or smell (ever smell a durian fruit? Limburger cheese?). It is learned behaviour, which in some cases overrides a natural impulse of rejection- turnips and radishes are vegetables many like myself find totally repulsive. Hot chillies?
 
@@ -1264,7 +1264,7 @@ Indeed there is only one biological carb- glucose, everything gets broken down t
 
 All 'Health gurus', so far as I can determine are various types of vegetarians, and therefore know absolutely nothing about good health in the human body.
 
-***
+---
 
 What about George Burns? He smoked and drank his entire life, yet lived to reach 100? I doubt his diet was exemplary, either.
 I studied Russian language at same time I studied ballet- my turn-on to ballet was seeing the men dance in the Bolshoi Ballet in 1958. I was not able to talk to the dancers backstage, so I decided to learn Russian as well as dance.
@@ -1275,7 +1275,7 @@ Long ago, a situation of surviving a lack of prey animals, may have been how we 
 
 I did not think to enquire how the Caucasian's teeth responded to their dietary habits, it was not in the top of my mind back then.
 
-***
+---
 
 Ketone metabolism is not a 'rapid response mechanism'. Full keto-adaptation takes several weeks, and until that has been done, a slowly reducing level of ketones will spill into the urine. Once adapted, the ketones are barely present in the urine, having been used by the body (in place of glucose). (Resist the Monkey's meddlesome nature and accept that you need to learn new things all your life.)
 
@@ -1283,7 +1283,7 @@ It is rather childlike to concentrate on how often or when one poos. Perhaps it 
 
 The carnivorous diet has no left-over rubbish and masses of dead bacteria to void and even if you wind up only going every other day or even less, it is of no consequence. Eating veggies like lettuce while attempting a meat diet will REALLY upset your gut.
 
-***
+---
 
 I did not appear in that rather awful 1975 Dead movie, and I have dark brown hair (or rather I had then, it is pretty much grey now). I thought the performances were mediocre, the lighting atrocious. The best part IMHO was the animated intro and the various interviews with the band and audience. My period as soundman was the very beginning, from 1966 to '70 and '72 until I built the Wall of Sound system in late 73, which had no 'soundman', per se. The band lasted a long time, but the very best, most fun times, their 'golden age', was '66 to '70.
 
@@ -1313,7 +1313,7 @@ I have actually been able to codify a lot of my knowledge in the short period of
 
 I am sorry whenever my comments cause offense, it was in not intended that way.
 
-***
+---
 
 Sorry to be so late, we just had a powerful category 5 tropical cyclone (hurricane/typhoon) come ashore directly west of our place, and it was still cat 3 as it passed us by. Nearly 10" of rain so far and we had very strong wind. We have serious problems with downed trees, and some storm-induced problems with our electrical supply and other bits and pieces of work we must do to get it all back up and running. I will try to get back to you all more quickly tomorrow, and I may even get a window of opportunity later on today, but it is remote.
 
@@ -1341,19 +1341,19 @@ Please- do a search and at least read all my posts before stepping in the bucket
 
 Apes are not humans by a long period of divergent evolution. SOME great apes like to eat monkey meat better than fruit, and if it did not take so much effort and skill to kill the clever little buggers, they might eat ONLY monkey.
 
-***
+---
 
 Yes, thank you no-one here was hurt.
 
 If there are ketones spilling in the urine on a steady-composition (unchanging) diet, then there is some sort of problem with the person's metabolism. A very slight purple color on the test stick is not significant.
 
-***
+---
 
 No matter how you think ketones ( a type of carbohydrate) are dealt with, you do not BURN sugar. You ALWAYS burn fat. You can only STORE sugar as fat. If you consume NO carbs you will spill NO ketones in the urine- that is, once you have adapted to the lack of carbs. I have played with keto-sticks for a very long time, please, give me a break. So far as your own profiles indicate, not one of you have been eating a close facsimile of the zero carb style for even a couple of years steady and I doubt anyone in this thread has EVER gone low enough and long enough to become keto-adapted. You can read 'scientific' papers until the cows come home, but most if not all on metabolism are badly flawed and practice shows that to be so.
 
 I started this thread not to argue with people over their tenaciously held mythic beliefs about food, which they use to deny the true nature of human nutrition so they can just manage to go along with a partial reform. I did it to provide access to my experience, which shows very clearly what happens to a person if they can persevere and follow this path for a very long time. What you like is cultural, and has no basis in fact or science. It is what you were taught to eat and in my long term experience people will hang like grim death rather than completely drop the carb based foods which are literally killing many of them. SO let's not waste valuable time denigrating the things I say, they work and are excellent 'black box' solutions, whether the details of what goes on inside the 'black box' are correctly known or described is of no consequence in the real world.
 
-***
+---
 
 My dear rosebud:
 
@@ -1369,7 +1369,7 @@ In short- your responses in contradiction of my expressed knowledge fail to conv
 
 Medicine is an art… not a science. It is filled with dogma and ritual. It resists mightily any change or contradiction.
 
-***
+---
 
 Losing a genuine two pounds in the first 3 weeks is a fantastic result. You need not limit your calories so much- if you are obese, you will lose at near the same rate, and some people lose faster by eating whatever amount it takes to satisfy. NO CARBS, however. It will take another 3 weeks to get you keto-adaptation up, then the loss may increase. Once you reach the proper bodyfat % for your height and sex, then to lose more you must restrict caloric content, but not until then. If '63' means 5'3", then a proper female weight for that, with about 23-25% BF should be around 95-105 pounds. At that height 145 is very chubby, 195 obese.
 
@@ -1387,7 +1387,7 @@ Freeze the fat if can, or get it whenever you buy meat. A small electric cooler,
 
 'Roast' anything, bought pre-cooked in a restaurant or school food service- is relatively expensive compared to doing your own cooking and is basically not good for your health OR bodyfat. And, hey- take it from me- chicks love guys who can cook (and clean up afterwards).
 
-***
+---
 
 Yes, this thread has grown like the mythic Topsy.
 
@@ -1395,11 +1395,11 @@ I have no idea about feeling warm after a fat meal. I think it is probably due t
 
 It is very common to flush with warmth after ingesting sweets or sugary drinks, since the body produces some waste heat during glucose to fat conversion, but fatty zero-carb meals are- to me at least, heat-neutral or cooling.
 
-***
+---
 
 Vince Gironda was Arnold's coach- his idea of a power-drink was like mine, milk-protein powder, eggs and heavy cream. Vince insisted that you could not develop any significant muscle mass on a low fat regime, and of course- he was right.
 
-***
+---
 
 Actually, at the time he trained at Gironda's gym, his steroid use was very mild, just oral Dianabol, a relatively weak anabolic. 'Monster-maker' drugs came later- and he then turned into a huge, truly freaky mass of muscle. In any event, a proper diet is even more important if anabolics are to be used while training. Most steroid-taking pros have a truly bad idea of what a proper diet for muscle mass development is if you can believe the bodybuilding magazines. I do not know how they do it. A superhuman tolerance to massive amounts of weird drugs, I reckon.
 
@@ -1407,13 +1407,13 @@ If you can find a first edition (white cover) of Arnold's bodybuilding book, he 
 
 After being Reagan's fitness advisor, he figured it was not PC to have just the original book floating around and edited a new sanitised edition to release just before his run for governor of CA. As for PC, if you can find a copy of the classic movie Pumping Iron, check out what they pass around after the competition… So much for hypocrisy in politics… Did Bill C REALLY not inhale?
 
-***
+---
 
 Of course. Gironda believed in the then current myth of glycogen-depletion, it is still current amongst the supplement-maker-owned bodybuilding magazines, which make the most money off of selling carby protein drinks.
 
 Careful research has shown that glycogen is not depleted during exercise.
 
-***
+---
 
 I was searching for my collection of studies, including the one on glycogen depletion. I have to deal with cyclone damage right now, so it may be awhile before I can resume the search. I should not even be dealing with the thread, but feel I must.
 
@@ -1433,7 +1433,7 @@ However, keep in mind that excess Ca intake is definitely not good for your heal
 
 Alcohol is a social drug. It is a simple, easy to make and cheap, it is a body and brain damaging toxin- the metabolic waste of the fermenting organism. It is actually a carbohydrate, assigned a value of 7 cal.gm, nearly twice that of glucose, and is fattening. Furthermore, detoxifying it seriously interferes with the liver's normal processes. I gave it away after noting its effect on my weight training, which lasted for three days after drinking a single glass. I never drank much, maybe a single 4-6 oz glass with dinner, twice or three times a week. On testing- by reducing the amount taken to
 
-***
+---
 
 BMI does not take into consideration that a person's weight is made up of both muscle mass as well as BF. I know many women of 5'2" to 5'3" who look and feel great at that weight range. My wife is 5'6" and when we met she was far from 'skinny'- at 115 lbs. I am 5'6-1/4, and was for a while was 167 lbs at 11% BF, but BMI said I was obese. I wish that the certain few readers would try to only engage in constructive comments rather than- as some individuals seem only to be able- constantly harping over microscopic detail- and trying to show me either as a liar, or badly misinformed. I am not.
 
@@ -1443,13 +1443,13 @@ IF you eat a pound of meat (which includes the fat) it is enough. If you eat jus
 
 Curious, dean- how old were those longer threads?
 
-***
+---
 
 davideb: PLEASE READ THE ENTIRE THREAD BEFORE PUTTING YOUR FOOT IN A BUCKET—PLEASE!
 
 Your post is virtually total nonsense. Your 'two cents' are therefore, in 'counterfeit coin'
 
-***
+---
 
 Would someone please explain to me why I am feeling forced to have to say this? Shouldn't it be obvious?
 
@@ -1475,7 +1475,7 @@ Note, please- the title of this thread. If a person has any common courtesy, the
 
 Bone loss with age is primarily hormonally driven, also related to reduced fresh meat (bio-calcium) in the diet- plus lack of sunlight (or Vit D).
 
-***
+---
 
 We humans have an remarkable ability to survive almost anything. As a species, we are indeed a truly special animal.
 
@@ -1489,7 +1489,7 @@ By the way, I have only suffered one fracture in my life, I fell 15 feet onto ha
 
 Last August while tensioning an aerial electric distribution cable on the edge of a roof 12 feet up, the anchor failed and I was jerked off the edge and went straight down, landing on my feet. No damage other than a slightly sprained muscle in my lower back, and one displaced vertebra necessitating a trip to the chiropractor. I have extremely heavy, dense bones at 71- like an Inuit. Could any of you reading this NOT have expected to have broken something?
 
-***
+---
 
 Day on the Green, summer, Oakland- with the Who. It was at the stage left speaker-extension. Rex Jackson and I were shifting the boxes after the Who finished. He swung the box towards one side: I was holding on to the box, lost my footing and went out over the edge. I was knocked out briefly. I was not able to hang on to the box due to my gloves. Not fun, missed our entire set while at hospital getting the cast put on.
 
@@ -1527,13 +1527,13 @@ The 'recommended' levels are far below the actual average seen in normal, health
 
 Cold turkey on carbs causes some degree of feeling tired and having low energy levels for a while. This will pass away gradually over a few weeks to be replaced by boundless energy once you have keto-adapted. If you try to taper-off, you simple delay adaptation, how much so will depend on the level of carbs. But be warned, a surprisingly small amount of dietary carbs in some individuals will stop keto-adaptation in its tracks.
 
-***
+---
 
 MODERN Alaskan cooking. Not traditional subsistence Inuit.
 
 The Inuit ate much of their meat raw if not frozen, and only boiled their meat a little in skins over seal-oil lamps, no other cooking method was available. The ancient Inuit fed most of the animal (including the stomach and intestines) to their dogs. They consumed the tongue, liver (not seal) and nose, as well as some favoured cuts like the shoulder from the carcass, the remainder was fed to the dogs. Dogs were very important and ate as well or better than the people in most circumstances. It was end-game starvation if an Inuit either failed to feed or ate his dogs.
 
-***
+---
 
 Definitions:
 
@@ -1555,11 +1555,11 @@ Includes all meats, eggs and some dairy (that which has low to no carbs/lactose)
 
 Nutritional/energy value of animal-sourced foods: One unit of red (fat) meat equals 2 units of chicken or three units of fish or four units of eggs and/or cheese. Only some few cheeses have enough fat of the the non red-meat foods, some added fat is necessary to make them fat-balanced.
 
-***
+---
 
 You said it- better than I could, dean.
 
-***
+---
 
 Vision: I have excellent vision. For whatever reason, other than the astigmatism we all get after reaching the 40's (which has not changed in 30 years), I have noticed I retain a remarkable range of accommodation. I was always short sighted, but now not only can I read without any glasses, at a comfortable distance to hold reading material, but my acuity at a distance has slowly improved to a noticeable degree. I do not need glasses to pass a driving test nor to enjoy a theatre presented movie. The lenses in my glasses are undercompensated, but I rarely use them, as they make near things hard to see. I have no idea whether this is diet, but I do think there is a high probability as I seem to show very few signs of aging everywhere else. My lenses are very clear. My dad had to have cataracts removed in his late 50's, so I doubt it is genetics. He also broke his ankle stepping off a curb at around the same age.
 
@@ -1587,13 +1587,13 @@ Fat adult = Not considered a good thing in most cultures.
 
 Good on all of the readers who understand my motive for sharing my life experiences, and the reasons and proofs I found along the way.
 
-***
+---
 
 No difference- the fatty-acid content of beef suet is not dependent on diet, since the osmotic exchange of fatty acids into and out of adipose tissue is very small.
 
 Omega-3 is animal in origin thus not a component of an ox's diet, vegetables have omega-6, which has never been high on anyone's list for enhancing health. Omega -3 is produced in an animal's body, it is one of the unsats an animal needs- your own body can and will make it also. Today's paper had an article citing a study in the UK which unexpectedly showed NO significant relationship between omega-3 and heart disease. We know suet has plenty, so what's up?
 
-***
+---
 
 'Animals can't make omega-3'? I guess no one told the salmon or Australian silver perch and jade perch (six times the O-3 of salmon) this, or the many land animals who have it in significant amounts in their fat- but do not eat any vegetation. Another vegetarian myth, my friends, utter nonsense. Incidentally, some stone age Inuit ate no fish, water mammals or vegetation at all, only land animals- and yet had all the essentials- how could this be?
 
@@ -1611,13 +1611,13 @@ Note: 'VO2max' is maximum oygen intake and consumption, a measure of exercise ef
 
 It is important to read all the words in an article, not just those you want/expect to see.
 
-***
+---
 
 Sorry Ms 'lisa the contrarian', why not address the question of the fish.
 
 Likewise, if the unsat's we are referring to are truly 'essential' (needed for life) as is agreed, they must then be consumed in each animal, and not simply accumulated along the food chain from a bottom-of-the pile herbivore like DDT, mercury etc.
 
-***
+---
 
 Why are we even having this conversation? It is a total waste of time and resources.
 
@@ -1627,17 +1627,17 @@ Note, please: DDT and mercury are NOT used by an animal's body, the are toxins a
 
 The process of understanding how this sort of thing happens is called 'logic', an exercise you might find very useful to help reduce your need to post so much that is irrelevant .
 
-***
+---
 
 I do not make 'many errors', I do however make statements which are contrary to some individual's strongly held mythic belief systems about diet.
 
 This is very common in questions about what you should eat or not eat- a social condition which is very much like belief in a superstious religion such as those which claim someone could walk on water and 'rise again' from being truly dead. Unfortunately, while science can conclusively show that religious claims are bogus, it can be easily manipulated to support a lot of wrong ideas in diet.
 
-***
+---
 
 Brain as a source for efa comment reminded me that I still have a tray of (6) frozen lamb's brains…Yum.
 
-***
+---
 
 No, it is about an all-meat diet.
 
@@ -1667,7 +1667,7 @@ I HAVE indeed posted some links, and they were very important ones, at that. I n
 
 Now, please- can we get back to discussing important stuff?
 
-***
+---
 
 No, a very 'human' idea, but it is not correct, the meat does not reflect the feed.
 
@@ -1677,7 +1677,7 @@ It really doesn't matter which red meat you eat, all are much the same other tha
 
 Sheep bison and cattle are grass eaters. Deer and goats however are browsers, and will eat almost any plant except grass. The problem with grain as food for the grass-feeding ruminants, is that the natural bacteria in each of the various 'stomachs' are not very good at digesting it. Feedlot cattle are fed a bacterial mix which replaces the normal flora with ones which can digest grain. I do not think this is a particularly good idea, but it in no way damages or lessens the nutritional value of the resulting meat.
 
-***
+---
 
 Atherosclerosis: An Insulin-Dependent Disease? Nestor W Flodin J Am Col Nutrition 5:417-427 (1986).
 
@@ -1693,7 +1693,7 @@ Meat, that is, fat and lean muscle tissue- IS a complete food.
 
 I think where you ran off the track was by transferring your social training to eat a lot of variety because of the low and incomplete food value found in the major portion of the mixed diet- vegetation. If you run the vegetation through an animal intermediary, this problem disappears.
 
-***
+---
 
 I bought a big batch of strip loins (~15 lbs ea) very cheaply and that was what I ate until I used them up. Cheese? Not a major item in my diet. I have always used some cream and butter. As I have said, it matters not which kind of meat you eat, just do as you like or follow what circumstances may dictate. Don't worry the need for variety does not hold in the meat world.
 I did not drink coffee until '69 or so, when I discovered boutique-roasted espresso. I began to roast for myself in '73. I gave the tinned stuff away back in the '50's when I connected it with zits, which I think were caused by the very stale oils in the tinned coffee, roasted literally months before sale in the market.
@@ -1702,7 +1702,7 @@ At room temperature roasted bean coffee ages to the point it is nearly undrinkab
 
 I mentioned the 'new paper' on omega-3 oils already.
 
-***
+---
 
 I have no idea what green coffee tastes like nor of any easy way to try it, it is a very firm seed holding only ~10% moisture. Partially roasted, or under-roasted coffee does not taste very good, IMHO.
 
@@ -1716,7 +1716,7 @@ I do like fine Kona, and have actually imported several 5 kg lots of ExtraFancy 
 
 I have ten coffee bushes (they are actually scraggly, multiple-stemmed shrubs, not trees), one 12 years old the rest 7, which produce a small harvest of very nicely flavoured coffee. Each and every coffee growing location around the world has a distinctive coffee. In Oz, most of the coffee is grown at too low an elevation for good body- arabica needs at least 750 m to develop proper acidity and body- we are at 900 m and have a northfacing slope, ideal as there is no frost in winter here.
 
-***
+---
 
 Actually the difference between a light and a French roast is as short as one minute and does not significantly affect the caffeine content. This is another 'urban myth'. A darker roast may even arguably have some carcinogens from the burnt nitrogenous materials in it, in a similar fashion to the production of those found in tobacco smoke…Boiled 'Turkish coffee' like the Arabs drink has less caffeine than filtered, and both have less than espresso, but this is due to the combination of tannic acid (slow to dissolve) and caffeine (rapidly soluble), which produces insoluble caffeine tannate which precipitates out. Caffeine itself (much like aspirin- a semi-natural compound hated by the drug manufacturers since it is so effective but not patentable) has been shown to be of great benefit to the body, a mild mental 'alerting agent' (rather than a true stimulant like amphetamine). It also improves oxygen transport and athletic performance, as well as showing some anti-cancer properties. I would not drink coffee if it had no caffeine in it- the oils and other compounds in coffee cause a mild insulin reaction, Thus- consuming a lot of it is 'fattening' by default…
 
@@ -1742,7 +1742,7 @@ I once communed with a great and ancient redwood tree in Muir Woods CA, while un
 
 Grass (of various kinds) is quite different in structure and composition to the seeds of grasses, which is what all grain including corn (maize) actually is. The ruminant is specialise by commensal bacteria 'helpers' in its multiple stomachs coupled with re-mastication to digest grass, but not a large percentage of grass-seed. To force the animal to mange on a high intake of seed, the bacterial soup in each stomach or rumen must be replace by unnatural mixes of other bacteria. That this strategy is successful is self evident or the industry would fail. The animal builds its tissue from what ever is fed to it, and herbivore are capable unlike carnivores and most 'omnivores' to make up any missing bio-materials in their own bodies. Interestingly rats can somehow synthesise missing vitamins in their intestines, and then eat their own droppings to counter deficiencies. THAT is truly impressive. Rats, crocodiles, cockroaches, and ants will long survive on this planet Earth, and will be around long after humanity has joined the dinosaurs.
 
-***
+---
 
 PEMMICAN- how to make the real stuff.
 
@@ -1786,7 +1786,7 @@ TO EAT: Warm up some water (not hot), cut off a lump of pemmican and mash it in 
 
 JERKY requires added fat, to balance the protein. Unless you can add fat from another source, it is not good to eat it straight for very long by itself. Alone, lean jerky soon causes dysentery and debilitation from 'protein poisoning' (i.e.,'rabbit starvation').
 
-***
+---
 
 I have posted my take on the nutritional equivalence of red meat, fowl, fish and eggs/cheese. Any and all red meat is a complete food. Probably fowl is too, but you need twice as much mass to equal. Fish may not be fully complete, depending on species etc, but that is only my conjecture, it still would require triple the mass of red meat to equal. So far as eggs and cheese, I do not consider them fully complete foods in isolation (or only combined with each other), and you would need quadruple the mass of red meat to equal anyway. Even with an assumption they were complete, you simply would have serous trouble eating the equivalent masses each day of the lower-value two…the question really is moot. I don't really feel that posing hypothetical questions is going to carry us very far down the path. I think that all the fiddling around and finding ever more exotic ways to question the validity of meat as a complete food and cast various forms of doubt on the 'values' is counter productive. If you just would stop all the futzing and eat, it will soon become evident. In fact from most of the posts it has done so in virtually all the writer's experiences, only those who are obstinately clinging to non-meat foods are not progressing or are progressing very slowly.
 
@@ -1796,7 +1796,7 @@ I have managed to find out many of the simple truths hidden down amongst the fin
 
 But I digress….
 
-***
+---
 
 Sure.
 
@@ -1832,7 +1832,7 @@ I think you just need to be more creative in your search for meat bargains. I co
 
 Your 'fear' is just your acculturation speaking from the depths of your unconscious mind, telling you, in your mother's voice, to 'eat your veggies' or suffer from some unnamed, perhaps unmentionable form of malnutrition. You can and should simply relax, get on with life and ignore this.
 
-***
+---
 
 120 gm/day protein is low but ok but very (480 cal) low in energy. With only 50% fat, you are only consuming around 1000 cal/ day, it is the most extreme starvation-style diet I have yet heard of. You do not need to limit your calories UNTIL YOU ARE QUITE LEAN- in fact the more fat you eat, the faster you lose excess bodyfat… You can go up to 2 gm/day per pound of body weight in protein- common practice amongst body builders. You need to increase your fat to 60% or more, 80% is a common meat diet amount. At 50% you are not getting a daily amount of calories anyway I am not sure of the cause of your high BUN, but it may be you are not dumping your gall bladder completely. You should be aware that gall stones are one of the results of insufficient fat in the diet. 2000 cal at 50% fat needs 250 gm protein to balance. At 80% fat 100 gms will suit. Do your maths. Normal energy requirement is 1800 to 2500 cal/day, more if you exercise. My ballet years saw me consuming 5000/day.
 
@@ -1842,7 +1842,7 @@ Nutrients are lost when meat reaches 104F. This is bleu. The trick is to eat the
 
 Europeans culture (make sour intentionally) fresh cream and make unsalted butter from it, it tastes different and will not keep as well as unsalted sweet cream butter.
 
-***
+---
 
 Carb intake and low fat is the most likely reason for no loss. I have seen many who cannot lose past a certain point on 20 gm carbs/day. I don't see this happening on 5 gm or less.
 
@@ -1856,7 +1856,7 @@ You see, calories are not important if you are 'obese' or over-fat, the body has
 
 The key is to eat 'enough fat' and that is best determined while eating each meal. Measurements are pertinent only on conventional, carb- containing 'diets' which function as 'weight loss' regimes only by limiting caloric intake to less than your energy use.
 
-***
+---
 
 Avoid peanut butter, it is toxic, very hard to digest (somewhat constipating), and and pretty carby- the oil is unsat-heavy. Coconut meat may also be carby, how much depends on the method of preparation from the seed- many propcessor add sugar. Why eat such stuff? It is not good to stress your insides this way with roughage.
 
@@ -1880,15 +1880,15 @@ It will take some practice to get it right, but once you do, it is easy and a tr
 
 In fact- everyone loves a cheese eggwich.
 
-***
+---
 
 Melted cheese INSIDE fried eggs!
 
-***
+---
 
 Must something here of value. Or at least, of interest.
 
-***
+---
 
 FEW are those who are 'called' and fewer yet are those who are 'chosen'.
 
@@ -1898,7 +1898,7 @@ Everyone who is truly interested in this lifestyle will have an uphill battle ag
 
 Hey- Michael Jackson even managed to change his skin colour…. sort of.
 
-***
+---
 
 Vitillago? A disease? Nonsense. Must be a brand name for a skin-bleach. All the rest of the Jacksons have very nice coloured skin.
 
@@ -1916,13 +1916,13 @@ Please note: Fresh coffee is delicious BUT it is insulin releasing. It has the e
 
 Slice suet (raw fat) into 1/4"-1/2" slices, lay on a rack in a roasting pan to speed the render. The bit left is called a 'crispy'. The resulting rendered fat is called tallow.
 
-***
+---
 
 The indigenous people of both N America and Australia were primarily hunters, and only partial gatherers. Ask an Aborigine what is food, he will list all the animals that he knows are around and can be eaten, then stops. If you then ask if there is anything else, he will list all the various plants etc., the implication being that these things are only eaten when no animals can be taken. Both men and women will hunt, although the men rarely gather.
 
 Amongst the old Inuit, long active lifespans like Amber's grandfather were common, and death seemed to come as a choice, rather than an accident. (Stefansson)
 
-***
+---
 
 Sorry, close but no cigar: Cracklin's are the name of a specific item, pieces of (salted) deep fried pork rind (skin). It is a popular snack item in the American deep south (…zero-carb 'chips'?).
 
@@ -1934,37 +1934,37 @@ Crispies are the crunchy bits of greasy tryed-out connective tissue left over fr
 
 My morning cuppa is half a 'double' size basket short espresso with steamed cream/water. Volume is about 6 oz. May eventually have to go over to strong Aussie tea w/cream, however….
 
-***
+---
 
 Big gulps (sweet soda), perhaps, but two and a half (kitchen measuring) cups of coffee in one vessel? I am sorry… a bit hard to swallow(!). The last time I was stateside was in 02, and I never ran across that. However I would not put any weird trip past Starbucks. Who would want to drink cold coffee? A standard 8 oz cuppa gets a bit cool near the bottom, unless you chug it down- which sort of spoils the nice sipping time we all have with our precious, steamy fluid
 
-***
+---
 
 Ooof! 7 eggs is too many- stick to 5 or even 4. A couple of tablespoons of butter (one on bottom, one on top) will suffice. (~1/4 of a 4 oz stick). Eggwichs are to be eaten immediately while nice and hot- they don't make it as leftovers.
 
-***
+---
 
 Cravings are mental, not physical. They are your acculturation calling out to you. It is not due to carbs or stopping/lack of carbs. It does not have an 'expiry time. No matter what you eat or don't eat, these urges will only go away after you manage to totally accept the food you eat, i.e., what you know is the right food, is enough.
 
 It reminds me of the story of Don Quixote and the windmill.
 
-***
+---
 
 Dean, get yourself a small cup-top Swissgold filter. This is what I use on a short overnight trip when I don't want to carry along the little roadcase with my Rancilio Miss Sylvia (the very best small espresso machine made).
 
-***
+---
 
 That much excess butter during cooking either stays in the pan or is spattered out. Very little is absorbed by the eggs. The residual butter left in the pan has been damaged by the heat. If you want more butter, add it on top- on your plate.
 
 Butter is not a simple fat, it is a mixture of fats and waxes. It does not handle high temperature well, and decomposes. The byproducts of decomposition are hard to digest. This problem can be ameliorated to some extent by adding some mac-nut oil- when frying fish, for instance.
 
-***
+---
 
 I don't 'need' coffee, I just like it- a nicely fresh-roasted creamy Americano (cappuccino with steamed cream/water mix) espresso drink tastes just lovely. I am quite happy with my half cup of a morning. I drink a lot of water.
 
 I do like caffeine a lot, but it is easy to get it without coffee. Decaf coffee to me is as repulsive a concept as a vegan's lunch.
 
-***
+---
 
 People eat and drink all sorts of things …all day long.
 
@@ -1978,11 +1978,11 @@ Caffeine is actually a very beneficial substance- See a previous posting about i
 
 I don't 'need' anything, but I like a lot of things.
 
-***
+---
 
 A good shepherd always puts a few goats amongst his sheep to lead them to the good pasture and safely back home again,
 
-***
+---
 
 I cook with the fat of the meat being cooked.
 
@@ -1990,11 +1990,11 @@ I never eat anything from a pig, including lard.
 
 Butter must be used at low temps, see earlier post.
 
-***
+---
 
 Of course coffee in the morning is a great wake-up treat, that is why I drink some.
 
-***
+---
 
 It is ok to 'like' pigs, some people even keep the smaller breeds as pets, but I would not advise eating them. Or rats or bear either- for that matter.
 
@@ -2002,17 +2002,17 @@ Omnivores are not healthy sources for food, they are usually ridden with parasit
 
 I assure you all, mental CAUSES physical, bigtime. The correct term is psychosomatic and it has been known to even kill people ('pointing the bone') where shaman are concerned).
 
-***
+---
 
 Sausage and bacon are preserved meats, and are LOADED with salt and chemicals. Sausage is often 20% or more cereal. I like eggs, plain. I eat eggs with any and everything. In Australia they invented the breakfast of 'steak and eggs'.
 
 I think you just love salt, and texture, not bacon per se.
 
-***
+---
 
 That is why I am here, to share my knowledge. You would be surprised at what you can pick up in 71 years by keeping your eyes and ears open, your mind relaxed (and reading a lot from age 2).
 
-***
+---
 
 Everyone, please! You have to stop analysing your food to death. Mate any meat with any other, and enjoy it. Menus don't matter. What matters is that you enjoy the food and are satisfied when you finish.
 
@@ -2024,13 +2024,13 @@ Get a good knife and a sharpener. Cut steaks from the block as you eat it, reclo
 
 Spend less time thinking and worrying and more time just eating and living.
 
-***
+---
 
 I will eat anything and virtually everything NOT a vegetable. I choose not to eat pork and turkey. Otherwise any meat sold in the market is fine. I like rabbit, duck and goose, they are rarely available. I avoid preserved and/or frozen food. I sometimes freeze cooked food, however. On the occasion we buy some nice, preservative free, low salt, all beef sausages from a specialist butcher in David Jones Basement down in Sydney, and bring home more than we can eat in a few days, I will freeze some of them.
 
 I have spent several posts on alcohol, covering the fact it damages the liver, interferes with strength training and is a VERY fattening carb (7 cal.gm).
 
-***
+---
 
 Cryovac, a vacuum-sealed, heat-shrink heavy gauge plastic method for preserving fresh meat without freezing, and allowing it to age without losing weight, is used by all meat-packing plants. Very few butchers buy fresh whole sides of beef and cut meat from the hanging carcass, there is too much labour and waste. The boutique butchers who do, charge a premium. I found the the 'air dry' or dry-hung aged meat spoiled too rapidly for me, so I switched to bagged meat fifteen years ago.
 
@@ -2062,17 +2062,17 @@ I use chicken fat (schmaltz) for chicken, lamb tallow for lamb and beef tallow f
 
 I never eat pork and I don't like the taste of pig-fat, or lard- it has a yukky, unctuous taste. Pig is NOT a 'white meat, if you mean chicken-like. It is a red meat, and wild pig (boar) is never fat, and has as dark a meat as beef and lamb (full of parasites, however). The domestic, piggery-raised pig isn't even allowed to walk around, thus the heavy fat cover and undeveloped muscles. I bet you all buy 'free range' eggs, too- don't you?
 
-***
+---
 
 Physical refers to your body and its body-consciousness. Mental refers to your conscious mind, which is a function of your brain, it has nothing to do with your body's consciousness, but can impose on and influence the way your body functions.
 
 I do not recommend drinking 'diet' anything, it will just prolong your taste for sweets. If not reinforced, the 'sweet tooth' fades away.
 
-***
+---
 
 I sent off by Post, a copy of Stef's Fat of the Land, I wonder if it ever got to where it was going?
 
-***
+---
 
 A female 5'3" is overweight at 130 lbs. Should be 100-112… It is best to set your real proper body size as your goal, rather than trying for halfway.
 
@@ -2084,7 +2084,7 @@ If you cannot adopt this way of eating (or 'path') as a permanent lifestyle, you
 
 I love to cook, and do so daily. A few of my recipes have been posted. I make and eat zero-carb ice cream, and I have not eaten vegetation for 47 years. Your problem is wholly cultural, the values you are attached to are worthless. Now; read the thread, please.
 
-***
+---
 
 I am REALLY tired of dealing with people who do not READ the thread before butting it with lengthy diatribes.
 
@@ -2092,7 +2092,7 @@ Fat in the diet does NOT enter the adipose tissue- a very tiny amount of osmotic
 
 If you are interested in this diet, fine, then your questions are welcome- but I have a LONG experience in this, and I do not need people who have no idea of what has been discussed and rejected injecting misinformation here- we are well along the path now. PLEASE READ THE THREAD.
 
-***
+---
 
 A bad thing? Yes- storing dietary fat would mean that you could NOT eat lots of fat without gaining weight. This misunderstanding of the true nature of fat-metabolism is the prime SOURCE of the notorious 'low fat' diet, the most fattening dietary regime ever proposed. This is not the case, fortunately.
 
@@ -2106,7 +2106,7 @@ ATP is not CREATED by fat, the ADP produced from ATP during work by the muscles 
 
 If 'high meat' means spoiled, all I can say is: Like a cat, I am not a carrion-eater. Actually, some meat which smells perfectly ok to me, my cat will refuse. Even with added garlic.
 
-***
+---
 
 Sorry, can't be sure when people quote only the first half of a post which contains the answer, and ask again.
 
@@ -2120,7 +2120,7 @@ Simple- and easy to follow.
 
 Here is a cooking tip for boiled eggs. Hard cooked egg white is very difficult to digest, as are yolks cooked to the 'green', sulfur-smelling point. 'Coddling' is best. This term is often misapplied to mean 'shirred', which is a casserole-baked egg dish. Coddled is just congealed or gelled white, and soft, deep yellow yolk. In a 3 lt. (3 qt.) covered sauce pan, fill to within 25 mm (1 inch) of the brim. Bring to a rolling boil and add 10 eggs carefully (should layer the bottom, with none on top of the layer). Immediately turn of the heat and cover, but leave the pan on the off burner. Open the cover and stir the eggs around carefully with a large spoon, wood is best, every half min or so, quickly re-covering. After about 5-6 minutes the eggs will be 'soft' with a semi-liquid yolk, but the white should be gelled.a As time continues in the hot water the yolk sets soft. Since the heat is dropping as this continues, the egg is not over cooked and the yolks at 10 mins still do not turn hard and green. The first time you try this, take eggs out at intervals until you learn just how long makes them right for you taste or purpose (egg salad or cold 'hard boiled' eating). Cool either dry at room temp for the harder kinds or chill in cold water to arrest cooking.
 
-***
+---
 
 No problem, rendering suet in the oven takes as long as required for the fat to render out as a liquid and the residual tissue to become shrivelled up and crisp. This depends on the thickness of the slices, the water content of the suet, the venting of the oven, whether it is an electric or gas oven, and berthas some other other variables. Just check on it from time to time. If the temp is really held to 250 F, it doesn't matter how long it is in the oven, negligible discolouration and no evaporation of the fat at that temp will occur.
 
@@ -2136,7 +2136,7 @@ Note: These charts are made up by statisticians employed by insurance companies 
 
 Thyroid activity is likewise reduced when you are overfat and rises if you are underact- it is a survival mechanism. High bodyfat indicates enough, or an excess of food, low bodyfat indicates you need to move around more to find more food.
 
-***
+---
 
 Sorry folks. I am not good at hypotheticals. Use some logic on one's strength etc, or find a good textbook on physiology. I know that my bones are very dense, and they, and my tendons and ligaments increased in strength and density through performing heavy squats over the years. I therefore assume someone carrying a weight of bodyfat twice as massive as my best barbell weight in a squat, would have to be around twice as strong, and have denser bones and larger muscles (buried in the fat) than I do, but I have no access to any definitive data.
 
@@ -2144,7 +2144,7 @@ How long lasting? Probably permanent if you take up weight training.
 
 In an earlier post I mentioned a range of 15-23% BF for females and 10-16% or so in males. Males can get down to and stay at 5-6% if caloric is limited. Females going lower than their setpoint will lose breast-fat (the main mass of the human female breast is fat, very little of the volume is glandular tissue) and will cease menstruating below a certain % of BF.
 
-***
+---
 
 Bone density and muscular size and strength are due to the loads you put on your structure. No load, as in outer space, and the bones dissolve, and muscles atrophy. Heavy loads, like walking or squatting with hundreds of pounds, either bodyweight or barbell, will make them both grow bigger, thicker and stronger. Maintaining your strength means constantly using (needing) that strength. If you don't use (need) the mass of muscle or bone you have, the body (ever so conservative) tears it down, as it is constantly doing anyway- but does not rebuild it.
 
@@ -2154,13 +2154,13 @@ Your bones don't know where the weight impressed on them comes from, if that is 
 
 Store tallow in a sealable air-tight container. I like glass, but I see no problem with plastic or metal. Refrigeration is not necessary or desireable- at least for five or more years.
 
-***
+---
 
 Heart arteries and other arteries in the body (and the intestine) have smooth muscles. Insulin specifically damages this type of muscle fibre, causing what is called 'proliferative changes'. This thickening is followed by the formation of scar tissue which further narrows the internal passage (lumen) and causes the arterial wall to stiffen. The narrowing is the cause of angina and heart attacks in the coronaries, pain and possibly gangrene in the extremities and the stiffening raises blood pressure which increases the chance of stroke. All this damage is due to insulin. Carbs really ARE your enemy.
 
 Both my Sydney cardiologist and cardiac surgeon were aware of the role of insulin in coronary artery disease, and approved of my diet, but both said it was not possible to get people to change over to it. My cardiologist confirmed that my blockage dated from my high-carb teens. My internal mammary arteries, used for the grafts were clear, of good size and very flexible.
 
-***
+---
 
 Tallow keeps perfectly without refrigeration, whereas fresh animal-sourced foods do not. Use your precious fridge space appropriately. You would not keep a sealed tin of tuna in the fridge, would you? The same goes for pemmican and jerky – these are methods of preserving full-nutrient food without the need for refrigeration.
 
@@ -2170,13 +2170,13 @@ Let me give a wake-up call to everyone. You MUST face and deal with the situatio
 
 PLEASE get, at the minimum, a treadmill stress-EKG test to find out if you suffer from cardiac ischemia (insufficient blood flow to the heart muscle). If so, you must have an angiogram- which is an x-ray while a dye is infused into the coronary arteries by means of a catheter entering through the femoral artery at the hip. This is the ONLY way blockages can be fully delineated, MRI and other scanners CANNOT completely show the interior passages and fluid flow patterns in the blood vessels. I do not recommend angioplasty/stents, because they are very dangerous- a friend was killed when his artery ruptured during this procedure, and also because a percentage of these repairs later close up with scar tissue. A bypass done with the modern technique of off-pump surgery, using arterial (not venous) grafts is a permanent repair.
 
-***
+---
 
 Absolutely correct- the effect is IN the muscle- it has nothing to do with 'blood flow' (the muscular layer is not 'outside' the artery, it is the middle layer, between the lining of the lumen through which the blood flows and the tough, inelastic outer casing of the artery). Insulin carried in the blood permeates through the arterial wall just as does the oxygen and nutrients which feed the hard-working arterial muscles. Insulin damages the arterial musculature, not the lining. Some bodybuilders who don't completely understand this seemingly 'anabolic action', inject themselves with insulin thinking it will have the same 'proliferative' effect on the skeletal (striped) muscles (it doesn't- just on the smooth type, and that leads to scarring), thus causing serious health consequences.
 
 Nothing known can 'clean out' plaque, it is fatty-permeated scar tissue. If you can find a way to 'clean out' scar tissues in any part of the body, you will make a fortune. Read my previous post- the only remedy for arterial blockage is surgery.
 
-***
+---
 
 Whew! A trip way back into the early, dark ages of the thread!
 
@@ -2208,7 +2208,7 @@ You have no problem convincing me you don't know how to eat, it is overwhelmingl
 
 We consider veggies to be animal food, for our food animals.
 
-***
+---
 
 'Bypass'….I guess there are more people here who have not read the thread. If you are interested, the story is in a previous post.
 
@@ -2256,7 +2256,7 @@ Once more: DON'T measure your food! Why is this simple truth so hard to follow? 
 
 Dean, ignore Lisa, we already have ample proof she does not 'know' anything herself (through long experience). She only accepts information if she can find some (usually bogus) paper to tell her about it. Inuit never ate any kind of wild vegetation, even under EXTREME stress. A few kept some yams, but then only if they were member of a tribe which had trade access to obtain the yams- Stefansson mentioned that he knew a few people who kept the roots, but were reluctant to ate them, even when starving, because they firmly believed they caused constipation, something any natural carnivore fears nearly as much as death.
 
-***
+---
 
 '…you've dodged every one of my questions. You're not credible'
 
@@ -2268,7 +2268,7 @@ I am reasonably sure that most if not all of what you might want to know about t
 
 If you only want to argue about nonsense, I am not interested in engaging on that level, and will simply ignore you.
 
-***
+---
 
 Mayo? I have a problem with mayo which is a salty concoction of unsat vegetable oil, emulsified with something, perhaps egg yolk but perhaps some other emulsifying compound, and usually contains some lemon juice- and sugar. It might be the sugar which attracts you. You may need to 'limit' this, but nothing else would be limited, except perhaps liver….
 
@@ -2296,7 +2296,7 @@ Of course you won't read the thread (arrogance anyone?), it would expose you to 
 
 Sodium will fall while you are eliminating excess intake, as soon as you have adjusted to the lower intake it will stabilise at a normal level. White blood cells indicate some sort of immune system activity, like a cold, which may not be obvious. Do you always worry so much about literally everything? It must be very hard on you. Back off a bit and relax- life is supposed to be fun. Fear is not fun.
 
-***
+---
 
 What does it take to stop the mindless prattle and nonsense about protein turning into glucose?
 
@@ -2312,7 +2312,7 @@ What is your purpose here if you don't want to, or cannot learn about your mista
 
 Get a life.
 
-***
+---
 
 If you are in menopause, get HRT- just be sure it is estradiol based. Avoid Premarin. DHEA is available in The US, unlike here in Oz (morons in our government think it is an 'anabolic steroid' and have banned it). Simple solution- if you feel hungry, eat. Try not to constantly check the scales and so on, the reduction process is slow, and varies as your BF falls. Coffee? May be the culprit.
 
@@ -2330,7 +2330,7 @@ Fat rendering crispies 'crunch'. As does properly dried jerky.
 
 I know only that vit C or ascorbic is one substance (antiscorbitic) that prevents a poorly understood deficiency syndrome called 'scurvy'. How it works is unknown. It is not the only thing which can do that job however- fresh, raw or under cooked meat is as effective as C, perhaps better, in preventing scurvy, and yet has virtually no discernable ascorbic acid (ascorbic acid is a carbohydrate). Meat contains all the folic needed, as well as ALL other nutrients, vitamins, fatty acids and minerals.
 
-***
+---
 
 Uh, oh- another combatant. Note: if you can only handle 'supported'- meaning 'in the medical literature' facts, then you are going to waste your time and mine. My statements are partially supported by a few difficult-to-locate in the literature metabolic studies. Most of my copies seem to have been misplaced (along with some other important documents)somewhere in one of our buildings on this rather large and unorganised 120 acre, wild rural property. The majority of my statements are based on 47 years of real world life experience, not conjecture, not theory, and not on brief interludes of a particular 'diet'.
 
@@ -2338,7 +2338,7 @@ Dean- I didn't 'lose' the thread. I live in a time zone located from 7 to 10 hou
 
 Yes, the only natural source of A is animal liver. Unfortunately humans lack the ability to synthesise it, most other animals do.
 
-***
+---
 
 Occasional liver, maybe a few ounces- every month or two, your liver has the ability to store it. It is unlikely you would love it so much as to eat enough of it so you got vit A poisoning. Your only worry about amount and frequency is the fattening starch (glycogen) in it. Everyone needs some A.
 
@@ -2356,13 +2356,13 @@ I think you must have some serious health problems, you appear to be severely un
 
 The question is, what are you doing here? Just want to stir things up?
 
-***
+---
 
 I understand now, you are underweight due to intentional malnutrition. Odd to see a sub-adult worrying about 'life extension! In any event, the longevity granted by 'calorie restriction' is not due to limiting calorie intake to the point of marginal starvation, just to the point each day of balancing the energy used, i.e.- on a heavy work day eat more, on a sedentary day eat less. Maintaining proper muscle mass and a level of at least 5-8% BF is going to grant longer life than a malnourished, underweight, under-muscled frame. I suggest the 'health problems' you obviously have may actually be a mild, sublimated form of anorexia nervosa…
 
 The ages of man- based on cultural anthropology, one of my major interests: Infant or baby– birth to about 3. Child– 3 to puberty. Adolescent– puberty to 18-19. Sub-adult– to 29. Young adult– to 39. Middle-age adult– to 55. Elder– over 55. Until relatively recent times, it was very unusual to even live into middle age, let along make it to 55, thus the elders drew great respect for their longevity, experience and tested knowledge of the ways of life. Today, with so much 'information' so easily available online, precocious youngsters (the young ALWAYS think they know everything about everything) can fill up on 'information', and without any real knowledge or experience of what is true and what is fantasy, they cannot hope to separate out and discard the vast amount of nonsense and falsehood- which are as well presented as the truth. Indeed, sometimes even more time is spent on building bogus websites than on legit ones. Sort of a weird form of intellectual 'spam'.
 
-***
+---
 
 The reason there are 6 billion people on the planet is entirely DUE to the eating of the food of our natural prey, which allowed us to move DOWN the food-pyramid and spread out and grow to become a major planetary burden with our dangerously high population level. IF we truly only ate what the prey we are trying to replace ate, we would not be a huge burden on the ecosystem, but NO, we STILL mostly eat a LOT of meat and since we are no longer population-restricted by food availability, we are now raping the system bigtime. The only way 'back' to a sustainable pure carnivory would require a massive depopulation- all the way down to about 50-100 million, which is highly unlikely on a voluntary basis (!).
 
@@ -2370,7 +2370,7 @@ Although if my theorem about a very imminent ice-age initiating storm is true, a
 
 I am not advocating that the whole planet go back to our 'proper' diet, that is manifestly not on, what I am doing is trying to present it to the few who, with great effort, can find the benefits in it. What we eat is so strongly a habit of socialisation that the fact that ANYONE is able to completely embrace this path is exceptional and rare. But I think that it is important to tell about it, just as I thought it was important to have my ice age ideas up on my website in case ANYONE happens upon it and understands what it means about how to survive a very infrequent and violent, long-cyclical planetary event.
 
-***
+---
 
 Nice shot, the kids, still 'wet behind the ears' (relative to me), both bandying about some prattle about 'testing' for 'fasting insulin' levels, and think they somehow have hit on something important. Well, it is not. What IS important is what your body does when you eat this way, not fiddling around and taking meaningless tests, measuring every gram of food, allocating fat percentages, counting calories, etc.
 
@@ -2392,7 +2392,7 @@ Contrary to what you may have been told, the true goal of life is: Happiness.
 
 ps- I have made no 'wild claims' anywhere in this thread.
 
-***
+---
 
 Worrying WILL shorten you life.
 
@@ -2455,7 +2455,7 @@ Actually, Dean, the brain's requirement for glucose is nearly 100% covered by th
 Ok, the attitude of the mum rules the response of her babies to food and everything, with the rare exception of a very strong-willed child. Okinawans, like all Japanese people eat LOTS of fish and rice, rather than vegetables, they do not differ greatly from other Japanese, except for the ratio of fish availability to population demand makes more fish available to them, cheaper.
 The QUANTITY of calcium in red meat tissues appears small, but it is many, many times more available than ANY other source which are very, very poorly absorbed and utilised- the one exception being hydroxyapatite (bone), which is about 1/6th as good as muscle-calcium. Therefore if you eat at least 8 ounces of meat (of any kind, but red is best), per day, you have as much calcium as your body needs. I NEVER take calcium supplements, and I have not always eaten much cheese (still don't, it is too binding), and cream is not a reasonable source of calcium- it has only traces, yet I have VERY dense, strong bones. Inuit ate only the muscle tissues of animals and yet they had THE MOST thick, dense bones and skulls of any human group. Domestic cats and dogs are both known for eating bones, so they may not be as adept as we are in utilising muscle-sourced calcium. Calcium is critical to the work-processes in muscle tissues, and therefore is always present..
 
-***
+---
 
 The reference, for the second time- in full detail to help out those who are search-impaired, is:
 
@@ -2465,7 +2465,7 @@ I thought Linda McCartney died of karma- for breaking up the Beatles. Her diet w
 
 What on Earth is a 'phytochemical'? I HAVE heard the term 'phytotoxin, the chemical defenses ALL plants have, the oldest plant defense, which have been purposely bred out of 'food' vegetables, which is why all salad and other vegetable-sourced foods have significant residual amounts of synthetic poisons (pesticides). Other wise they won't make it to harvest.
 
-***
+---
 
 Correct, I make many typos as I speed-type. I try to catch and correct all of them.
 
@@ -2477,7 +2477,7 @@ I have already stated the manifest truth that 'recent studies' and the like, are
 
 That said, vegetation is, however the source of most medicine. Medicine is NOT the same as 'food'.
 
-***
+---
 
 'Poison' is a relative term.
 
@@ -2485,19 +2485,19 @@ All vegetation contains some degree of poison, it is the primary method in the v
 
 Carbs are your enemy, fat is your friend.
 
-***
+---
 
 So far as I have heard, they always said the breakup was due to Paul's insistence that Linda manage the band. Yoko was not the interfering sort- like Linda.
 
 The Wall of Sound is the name some people gave to a super powerful, extremely accurate PA system that I designed and supervised the building of in 1973 for the Grateful Dead. It was a massive wall of speaker arrays set behind the musicians, which they themselves controlled without a front of house mixer. It did not need any delay towers to reach a distance of half a mile from the stage without degradation. It is not to be confused with the trademark overloaded-sound record mixes by that name made by Phil Spector for some Motown groups.
 
-***
+---
 
 No, I won't give ten 'refernces'.
 
 I don't need to cater to you, bad-diet-kid, you will just have to take it based on my many years of experience, and the extensive reading I have done for nearly 70 years-ever since I was 2 years old (that is since 1937- in case your math is as limited as your reading experience). When indeed did you learn to read? Yesterday afternoon? Oh, pardon me…. mustn't go there….
 
-***
+---
 
 Busted. Although anyone who visits my site should quickly figure that one out.
 
@@ -2505,7 +2505,7 @@ Depends on what you consider 'recreational'.
 
 NOT coke, MDMA or speed- for instance.
 
-***
+---
 
 Thanks, folks.
 
@@ -2525,11 +2525,11 @@ Mysteries abound.
 
 'Louie-Louie' is not a GD song. In any event, I am a soundman- not a singer.
 
-***
+---
 
 Zappa was truly great, a musical genius. He just could not play music which was popular, he had do zany, often confronting stuff. When he DID do some real R&R it was amazing. I liked him, and his live performances were a real treat, but I found it very hard to listen to his albums more than once. He used to tell me 'acid sucks' whenever he saw me. One day backstage at the (old) Fillmore in SF, he just said 'hi'. I asked him what happened to 'acid sucks' and he said someone had dosed him at a show he did in NY's Central Park, and he had revised his opinion of the stuff. I have no idea whether he ever took it again, he was a 'natural', sort of like that on the natch. It was a great loss to music when he died of testicular cancer- a very rapid killer.
 
-***
+---
 
 Trust me on this- I have long experience in these sorts of situations: You don't need to eat any carbs at a business dinner or family get-together. Success depends on not making a thing of it, just quietly eat the parts (meat) you want- perhaps fiddle with the veg, etc. without eating them, carry on an active conversation, and no-one will notice- if they do, say something like, you ate a short while ago, or make some other diversion. If you don't continuously avoid all carbs you will not keto-adapt, and the regime will fail.
 
@@ -2601,11 +2601,11 @@ One thing, some of my more avid critics are people who suffer from a diet-induce
 
 'Objectively tested'? Hah! This is the GOLD STANDARD for all bogus science- check out the 'super objective' research- which led to placing the blame for coronary artery disease on cholesterol and saturated fat. (Cholesterol Myths, www.thincs.org.) This myth has been the ruse used bythe drug makeres to force the entire human population onto very,very dangerous drugs called statins, by defining , then re-defining as 'dangerous levels', an imporant blood component, cholesterol- BELOW the normal range.). Or all those 'scientific studies' which spawned the low fat craze. Come on, girls- give it up. You are playing the up-tight cop, but you are just plain wrong about almost everything you claim, you are the victims of the medical/pharmaceutical cartel.
 
-***
+---
 
 WAY too time-wasting!
 
-***
+---
 
 dean.
 
@@ -2619,17 +2619,17 @@ Insulin is not involved in trans-cell membrane protein-transport, or within the 
 
 As strange as it may seem, there are some necessary proteins which we do not have the ability to construct by peptide synthesis from raw amino acids, and these strings must be obtained directly from animal-sources. If deprived, certain body structures suffer. One of these structures is the intervertebral disk, hence comes the focus on spinal-fusion operations in hospitals belonging to the Seventh Day Adventists. On a deficient diet, the body mines the disks for those protein-strings, thus weakening them. Adventists are often vegans.
 
-***
+---
 
 Leary was a fool. Drunk with 'celebrity-hood' and his own ego, he became a media clown- and was arguably the single most damaging actor involved in the destruction of the evanescent social movement of the '60's.
 
 Tim, with his very public exhortations to the kids to 'tune in, turn on and drop out', is the inspiration for all the current draconian US drug laws against psychedelics. He would not listen to any of us when we asked him to please cool it, he loved the lime-light and relished his notoriety… I was not a fan of his.
 
-***
+---
 
 Where is tamarian? I mailed one of my two photocopies of Fat of the Land to him weeks ago (to OCR), but have not heard whether it arrived, no reply from a private messsage, either.
 
-***
+---
 
 New member- I think you must NOT have read the thread (over 1500 posts- in only two days? Perhaps it was sleep deprivation). I have made several definite posts on grain vs grass fed beef. Unfortunate that they have to feed the animals that way. Both however, have the same nutrients. Red meat (including adequate fat-60-80% of calories) is a complete food even if you only eat one cut of one animal. 'Variety' feeds the mind, not the body.
 
@@ -2665,7 +2665,7 @@ Acculturation gives everyone a closed mind, ignorance and myth rule the world.
 
 Too bad.
 
-***
+---
 
 Lipolysis is stimulated by dietary fat when, and only when- you are carrying more body fat than your body 'wants' or needs, a level I have called your 'fatostat'. Your metabolism prefers to use dietary-sourced fat, remember bodyfat comes from glucose conversion only so your body will conserve it if it can, and will replace it if it goes 'too low'- this is the one stimulus for glucose-from-protein- i.e., recovery from severely low levels of body fat from fasting or starvation, on an all meat regime with adequate fat and protein intake, but no carbs.
 
@@ -2675,7 +2675,7 @@ The body is constantly 'reusing' its protein, the process is continuous and very
 
 And, hey if the 'war zone' epithet/label is supposed to be a 'death sentence', then why has the number of posts entered while I am in bed gone through the roof? I am struggling to read the thing, and even with being quite terse, my first response in (my) morning (after coffee), reads like like a novel in work.
 
-***
+---
 
 Carbs of any kind, glucose OR glycogen are NOT used to do work by the muscles. Until you are free of carb intake long enough top fully keto-adapt, which takes from 3 to 6 weeks, you will experience a feeling of lower energy. ANY carb intake, no matter how brief, will derail the keto-adaptation process. Your 'keto-diet' is complete nonsense.
 
@@ -2695,7 +2695,7 @@ Paleo people hunted many kinds of animals, some were high in body fat, some very
 
 If this BS keeps up I am out of here, I am not kidding.
 
-***
+---
 
 Yes, a fall indeed killed Dr Atkins- from bleeding in the brain. He was in ill health, edemic and had suffered a stroke earlier -so far as I am aware. BUT his 'early' demise was not due to the diet he advocated- as his opponents claimed.
 
@@ -2703,7 +2703,7 @@ You do need to understand however, that unlike myself, both Stefanssson (who did
 
 I never 'spout nonsense' no need to, that function is well served by you and a few others around here.
 
-***
+---
 
 Yes, if you are forced to stand amongst so many barnyard animals- the BS gets pretty deep, no mater how hard you try to shovel it out. Take care not to add to it by quoting online bullshit such as USDA (the 'food pyramid people') as the truth. You are only demonstrating that you nave no clue about the truth.
 
@@ -2727,7 +2727,7 @@ My cardiologists, Louis Bernstein, a lovely gently fellow, the best in day in Au
 
 While on the subject of medical research and in particular, practicing physicians, ask yourself if you ever go in and pay a fee to your doctor when you feel fit and healthy. Of course not, so why would you expect a professional person ot work hard to reduce or eliminate his clientele? Most of modern society's ills are diet-related …other than the obvious things like infectious diseases, traumatic injuries, cancer, poisoning by pollutants in the environment and self administered toxins- like tobacco and alcohol. So prescribing good diet would reduce the income. This is so not on. You cannot expect a doctor to make you healthy, only to deal with problems on an acute level, usually with drugs and chemicals, many of which may produce further illls
 
-***
+---
 
 Contrary to the common opinion, the unsat Omega 3/6 oils have shown no increase in health benefits when taken in more than trace amounts, to the contrary- they may indeed be injurious. This is recent information, based on a large study.
 
@@ -2761,19 +2761,19 @@ Making offal the major part of an all meat diet is very unwise. Especially be ca
 
 I think 'making it to 120' referred to age, not bodyweight.
 
-***
+---
 
 Yes, a fair few (ketoadaptation).
 
 Not sunny here, overcast. It is a late wet.
 
-***
+---
 
 (Not a dietary question, I hope…)
 
 They have never made any. The AA is defined as a cylindrical primary cell (not battery, which is made up of several series connected cells) of a specified standard size. If what you have is square, even if it is (unlikely) only 1.5v, it has to be named something else- check the lable. For instance, a 'short' AA (1.5v) is called N, but it is the same shape and dia.as an AA. Primary cells, whether carbon-zinc, alkaline, NiMH or lithium are all cylindrical for functional reasons, so that the chemical process is optimised. Square batteries are normally pout in rectangular packaging, and are made up from multiples of cylindrical primary cells to furnish higher voltages, such as the familiar, rectangular 9v.
 
-***
+---
 
 The battery is what was called a type 505, most likely a 'B'-or “C' type battery which was used to supply voltages in portable battery powered, tube equipment ('A' is for filament (low) voltage supply, 'B' for plate (high) voltage, 'C' for low current grid-bias). If you take the battery's cover off, inside you will find a series-connected string of 15 small, 1.5v 'button' cells.
 
@@ -2781,7 +2781,7 @@ I don't know the answer to the menopause question on long regime, as I am not a 
 
 SOME pro bodybuilders (not all) may use multiple-angle exercises today, but in the classic days that was not the usual case at all. One old time coach who has been mentioned here was Vince Gironda. He had very simple routines, and bodies like Arnold's (amazing even by today's standards) were the results. He was no slouch himself in his body's size and shape, other than what I consider inadequate trap development, but that was intentional on his part. He, along with Reg Parks, did not consider prominent upper traps (on top of the shoulders) to be aesthetic, thus did not emphasise heavy shrugs in his routines. Today's champs all show 'loaf of bread' traps. Lest anyone question my bona fides on bodybuilding, I began (regular- 2x/week, brief and heavy) lifting weights in Jan of 1990, at the age of 55. At 8% bf and 138 lbs, I went in two years to 8% and 167 lbs. I am slow in regaining my mass due to the heavy toll on my body from the radiation therapy, which prevented me from working out for a period. Good now, and returning to more or less normal. Currently 5% and 144.
 
-***
+---
 
 Overcooked meat lacks some vitamins and has overly denatured protein. Eating it is not going to 'hurt' you. You get the macronutrients. You cannot 'make up for it' by eating rubbish. 'Make it up' by limiting the amount and intervals at which you eat such damaged (overcooked) food.
 
@@ -2789,7 +2789,7 @@ Liver has Vit A which is stored cumulatively in your liver, an excess level of t
 
 Once the intestine is damaged it doesn't much matter what the 'source' of the food is which is not absorbed, everything ingested is treated the same. Neither quantity or quality seems to make much difference.
 
-***
+---
 
 You may be right, only it sounds like a defense of your personal trip raising 'organic meat'. Your products may be great, I can only judge on the basis of the many thousands of pounds of all kinds of meat that I personally have bought, prepared and eaten. The 'organic' meat I have had, of any animal, has not presented it self to me as superior in appearance, fat, tenderness, flavour or price.
 
@@ -2801,7 +2801,7 @@ The ponies of Greenland were fed an exclusive diet of fish for about 800 years i
 
 Oh, yes- just exactly what 'chemicals' CAN you raise animals on? Be sure you understand what the term 'chemical' in the context means (i.e. like plant food). Semantics can be a mine field.
 
-***
+---
 
 True, I am only 71, not 89, and have only had 47 years on an all-meat diet. How long have you been eating what you consider a 'healthy diet'? Does it work for you?
 
@@ -2811,7 +2811,7 @@ If the evidence from my life experience is not scientific, then, pray tell, just
 
 If you live only in waiting for 'scientific evidence', you may wind up one day very old and feeble and never having had what you surely want, a nice, normal sized body, good health, good teeth and high fitness.
 
-***
+---
 
 Who said 'nutrients and calories from plant matter cannot be absorbed by the body'?
 
@@ -2845,7 +2845,7 @@ You can eat only the stuff you know is good when dining at a friend's house, I a
 
 You MAY be right. I sad that, so what? I recognise there are many things which may be true, I don't yet know enough in many cases to be sure. You will stop learning once you think you know everything. I learn constantly. Also, I will not make a statement based on conjecture.
 
-***
+---
 
 Chickens are not herbivores, they are omnivorous, opportunistic feeders which, if allowed to free range, will primarily eat insects and small animals like mice and lizards- other birds, even. Basically anything they can catch. Grain-fed chicken eggs are insipid.
 
@@ -2888,7 +2888,7 @@ If you want to gain quickly, then you must limit workouts to less than 90 min in
 
 I would not dispute that some vegetables may be, relative to other vegetables, 'nutrient dense'. Of course no vegetable is nutrient dense like meat, veggies are two full orders of magnitude less dense, and the 'nutrients' seen by analysis are mostly not very useful to the human body- for example soy beans are 23% protein, but less than 2.5% of this total protein can be used by your body. Worst is 'chick peas', or garbonzos, which test (in a nitrogen bomb) as being 45% 'protein', however the protein is not assimulatable by humans, perhaps 1% of the total can be used. I knew a grad student from India at UCLA when I took Russian language classes there, who had a grant to find a way to modify or treat this legume to make the protein useful as a human food. After working very hard on it for many years, he failed.
 
-***
+---
 
 Animal fats are well over 90% saturated.
 
@@ -2926,7 +2926,7 @@ It is an all-meat, high-fat, dietary path.
 
 By the way, although humans cannot digest raw vegetation, not to worry: There are no essential nutrients in them to lose by cooking anyway. Cooking does not damage the carbs- the real reason veggies can substitute as 'food' in an emergency.
 
-***
+---
 
 I don't understand 'heal' our callous. If you mean the scarring in the intestine, it is the result of an ongoing process so long as you are on a mixed diet. It is irreversible, so the younger you are when you stop the process, the less effected you will be later on, when you grow old.
 
@@ -2944,23 +2944,23 @@ Of course if you have had more than my 16 years of weight training, which comes 
 
 If anyone wants to exchange more info on exercise, or learn about how I set up my exercise regime, e/mail me. Non-dietary subject matter is taking up too much space and time here.
 
-***
+---
 
 If we behave ourselves, we may be able to get moved out of here.
 
-***
+---
 
 I am not interested in 'war'.
 
-***
+---
 
 We have a satellite broadband which runs on solar. We get it at a subsidised price because we can't get landline broadband. This better, IMHO. We settled on raw forest land 24 years ago and built from scratch as the money came along. Still building. It is in the tropics- our tent (Moss Op-200) makes a fine bedroom. We are on our third (and hopefully, last).
 
-***
+---
 
 I don't- I don't think they are even good as dogfood, depends on your dog. I can't imagine what else you could do, food wise with a big mass of bone, gristle and a little bit of very tough meat. I think traditionally they were boiled for hours to make soup stock. I don't eat anything that needs to cook for hours.
 
-***
+---
 
 In the human gut, unlike in the rat, bacteria cannot make Vit B, it comes in more than adequate amounts from meat in the diet. I had to stop the mild B supplements I was using shortly after starting weight lifting (I increased the amount of meat/day). I suffered muscle weakness in my lats from excess B (determined by a kinesiologist).
 
@@ -2986,7 +2986,7 @@ I was charged and convicted of a misdemeanor. However I do not consider myself a
 
 The prohibition itself has created a massive problem in public health, it has caused thousands of deaths from contaminated drugs, overdoses etc.
 
-***
+---
 
 Making acid was (and is) very expensive. A very small amount is LOTS of doses. I gave away ~half and sold ~half at a low price to pay for it. I made only a very small quantity over the less than three years that I did it.
 
@@ -3004,7 +3004,7 @@ Jack LaLanne is an old friend of mine. He was never a true vegetarian, but he at
 
 I see his website shows him alive and well, still doing much the same as he always has. Great, he is a true character.
 
-***
+---
 
 Everyone has a right to their own opinion. Whether you 'buy' a contention that ancient man ate rocks and dirt won't change the facts, which are not known anyway.
 
@@ -3022,7 +3022,7 @@ I am not trying to convert you or anyone to my path, which is so difficult that 
 
 I am offering my knowledge and support to those who are genuinely interested in trying it based on more years on this path than my detractors in the thread have actually lived since their birth.
 
-***
+---
 
 Ignore the combatants.
 
@@ -3038,15 +3038,15 @@ Do not engage, repeat….. If those interested in my info won't co-operate with 
 
 I am not interested in joining any other thread.
 
-***
+---
 
 Whose post was deleted?
 
-***
+---
 
 No, I cannot and will not 'handle' this war zone. I am not interested in arguing or fighting. I don't have the time. If all behave we can be moved.
 
-***
+---
 
 Ok, here is a shortened version:
 
@@ -3074,7 +3074,7 @@ Actually, anyone who is on an all meat diet can feed themselves like a king at a
 
 Chitin, the exoskeleton of insects, is what hair, hooves, fingernails and horn are- and is indigestible to all higher animals, even obligate insectivores. It can be broken down by soil bacteria, and can be digested by many insects.
 
-***
+---
 
 Here it is, I am not going to repeat my simple rule for eating again:
 
@@ -3092,7 +3092,7 @@ When away from home, no matter if it is a restaurant, family or friends, or busi
 
 Why is this so hard to accept by people who say they want to have a nice, normal body and good health?
 
-***
+---
 
 Coprolites or shibboleths, makes no difference. The vegetable content of man's diet had to be less less than 2-3% or the bones would have shown it. Besides, who knows for sure what animal those fossils truly came from? Most turds from opportunistic feeders (dogs for instrance) as well as humans and other carnivores of a similar size are virtually indistinguishable by appearance (size and shape).
 
@@ -3126,7 +3126,7 @@ Perhaps I am growing tired of answering the same tired old questions so often, e
 
 The point is, if you all cannot stop the bullshit and let this thread grow quiet enough to be removed from the WAR ZONE, I will bail out. I am not going to traipse around the forum, I simply do not have the time as it is, to deal with this one. Some of you are so avid and post so often and much that I strongly suspect you have no life off-line at all.
 
-***
+---
 
 No one has investigated a diet totally lacking in not only fibre, but all vegetation. Perhaps in a mixed diet, eating some equivalent to cardboard helps in some mysterious way to reduce the incidence of bowel cancer. However without a proper study, my claim that an all-meat diet is intrinsically better still stands.
 
@@ -3154,7 +3154,7 @@ I am not going to sit here and endure a trial over my knowledge, I have nothing 
 
 I sleep in a tent, but we have water, a kitchen with woodstove, gas cooker, electric fan oven, fridges, flush toilet/septic system, a classy tent with a nice queensized bed, and a world-class solar/wind/diesel electrical system. I've lived this way for 24 years.
 
-***
+---
 
 What is the difference between 'proving' something, and 'being able to prove it'?
 
@@ -3185,7 +3185,7 @@ I have contracted no formal marketing rep/gallery, as I do not think that galler
 
 Good quality, firm beef suet, for instance- is primarily stearic and palmitic acid triglycerides. Fine quality, rock-hard candles can be made from the fatty acids extracted from beef suet- especially the kidney suet. There is some percentage of mono and poly unsats, but the major fatty acids are saturated- the human body is not a source of unsats, some come by osmosis, as they mostly do in ruminants, depending on the quality and composition of the grass they are fed.
 
-***
+---
 
 RDA values are a 'guess'.
 
@@ -3221,7 +3221,7 @@ Everything I have said is taken from my own knowledge base and is intended to ai
 
 If you don't want to do eat as I have, then please don't try. Why you do or do not want to, is not important.
 
-***
+---
 
 Sorry, another bit of utter nonsense by someone ignorant of the subject. There are NO 'fruits and berries' in the tundra- where the Inuit live/lived.
 
@@ -3249,13 +3249,13 @@ Neck cancer is no longer treated with radical neck dissection, only with radiati
 
 I am well-qualified to offer good advice on cancer.
 
-***
+---
 
 Yes indeed, some cancer types do require large amounts of glucose, specifically SCC. Many types however- do not. The PET scan which uses radioactive fluorine18 -tagged desoyglucose to provide a positron source, is very good at imaging SCC due to its glucose-avid nature. I think the fact my tonsilar SCC remained in my neck even though it was of years standing was due to the lack of glucose-turnover in my body. There is a great deal of speculation as to what factor initiates metastasis. SCC usually is very aggressive and spreads quickly out of the local area.
 
 The lowcarbluxury site is confusing and misinformative. They misunderstand the Krebs cycle and are dead wrong about oxygen and cancer. Not only not anaerobic, a cancer cell is the premiere AEROBIC cell. Oxygen- in great supply- is absolutely essential to growth in all cancer types So much so that tumours always build lots of new blood vessels to supply it (angiogenesis). After finishing my treatment, I was told I had to wait until they were sure that no cells survived the radiotherapy before they could assign me to hyperbaric oxygen therapy. Saturating my tissues with dissolved oxygen would have caused an explosion of growth in any existing cancerous cells.
 
-***
+---
 
 So far no cancer- 18 mos since end of treatment. Cells in isolation cannot be found, only larger groups of cells, so each year that passes give renewed hope all are gone. Of course there is always the possibility that the radiation may cause something new- and different. One of the risks.
 
@@ -3265,13 +3265,13 @@ I know about lactose intolerance, but I've never heard the phrase 'casein intole
 
 I was allergic to cow's milk until about age 11, but had no reaction from evaporated milk (yukky), goat's milk (yum), and buttermilk (ok-good). All of which I drank. We did not know about yoghurt in my family in those days, but that might have been ok. Probably powdered milk is also ok. Some factor in the milk other than the nourishing protein components is the cause.
 
-***
+---
 
 I AM an expert on a great many things.
 
 Those things on which I am not knowledable, I readily admit to.
 
-***
+---
 
 Tasty Chook is my favourite also.
 
@@ -3281,7 +3281,7 @@ Otherwise, my mind is very like a good, well rounded encyclopedia, always has be
 
 Very little which has arisen on this thread is outside my expertise, however. Those few things which have been, I have noted- you can go back and find them if you have the time and are motivated.
 
-***
+---
 
 Please read the entire post before flying off the handle.
 
@@ -3303,7 +3303,7 @@ All the rest, (including asthma) I grew out of around the same time, only cat da
 
 This is called simple deductive logic. Are we clear?
 
-***
+---
 
 'Diagnosed'? I don't read that in her post, nor did she refer to the child's condition as an 'allergy', either.
 
@@ -3313,7 +3313,7 @@ ALL the milk products I mentioned that caused no reaction in my experience have 
 
 You are simply paddling out of your depth. Now that I think about it, that is where you usually are to be found.
 
-***
+---
 
 I have previously affirmed the use of vegetation, especially extracts and concentrates as medicine, in fact the only truly 'safe' medicines seem to originate in plants, synthetics are usually very toxic, with serious side effects. That said, vegetable juice is not a concentrated extract of active medicinals, but a raw extract, heavy with carbs. On this dietary regime, carbs are to be avoided, thus water is the preferred drink. Some juices are near hypertonic with sugar- orange juice, for instance.
 
@@ -3347,7 +3347,7 @@ What makes someone think that being sound man for the Dead was not BETTER than '
 
 Do you really want to solve those knotty problems? Start by eliminating all religions and superstitious cults. Once you have figured out how, and done this, get rid of morality-laws like drug prohibition and anti-gay marriage laws, etc. Then come and ask me for help with what little remains.
 
-***
+---
 
 Humans are currently in plague proportions on the planet, and are rapidly destroying our
 ecosystem.
@@ -3360,13 +3360,13 @@ Nature usually acts to eliminate the premature, disabled and deformed, but today
 
 And no, I am not touting eugenics, only stating the facts as I see them
 
-***
+---
 
 I am not critiquing current human survival policy as it applies to indivuals. Few people will accept death when there is an alternative. I am commenting on the cumulative effect of our activities on nature.
 
 You are correct, cancer as well as AIDS, regional drought, ibola, malaria etc, also work to limit our numbers.
 
-***
+---
 
 I don't think the adrenals have anything to do with your difficulty sleeping. Perhaps you need more exercise.
 
@@ -3406,7 +3406,7 @@ No- not nutrients, freezing only destroys the texture, taste and keeping qualiti
 
 Another intense cyclone is passing just north of us, LOTS of rain…
 
-***
+---
 
 'Real' in the title is correct- and intentional.
 
@@ -3428,7 +3428,7 @@ Tallow from beef suet is vastly superior to lard (pig fat).
 
 You can use anything that can be set up to reach and hold exactly 104F (40C). Circulation of air will speed things up. the temperature is critical, a thermostat is required. Any higher destroys important nutrients (like those which prevent scurvy) and any lower will allow the meat to spoil. DO NOT add anything whatsoever to the meat, like salt etc. I used to make jerky years ago, however at a current cost of over \$60 a pound I have given it up. You get around 1/6 th of the weight of fresh lean meat you start with. A simple heater can be made of a 100 watt incandescent lamp and a simple thermostat, place the lamp in the bottom of an oven, the thermostat element on the top rack near the front, with the door cracked this should work just fine.
 
-***
+---
 
 I don't recommend any canned fish, especially sardines, which are packed in unsaturated veg oil, heavy with salt, and cooked until the bones are turned to mush. Not good food.
 
@@ -3436,7 +3436,7 @@ Easy answer: An all meat diet is actually a 'low protein' diet. It is high in fa
 
 Yes, Greg Ellis is not strict. He knows about what is right, but I think his problem is basically his acculturation plus he does not have the same kind of trouble as I and many others have with any amount of carbs.
 
-***
+---
 
 The problem as I see it is that you are not clear on what keto-adaptation vs ketosis is.
 
@@ -3444,13 +3444,13 @@ Ketosis is the situation in which ketones are voided in the urine. It takes plac
 
 A person in permanent ketosis will feel tired, lacking in energy most of the time, which is why so many will abandon a low carb diet- raising the carb levels until the ketosis vanishes restores things to the way they were before carbs were lowered. So you see, keto-adaptation is a very different situation to being 'in ketosis'.
 
-***
+---
 
 Falling off, or yielding to one's childhood acculturation is completely normal, so no cigar. It is only by great will and determination that anyone can break free from culture… I know, I've 'been there = done that'. It was very hard. The rewards for success however, are beyond price.
 
 Cucumbers? A start. Wonder how long it will take to get back to 301?
 
-***
+---
 
 Anyone who wants some 'scientific detail' on what I have been saying and have known for 47 years empirically, should read the article 'Harvest' just posted- reference URL:
 
@@ -3458,11 +3458,11 @@ http://www.pubmedcentral.nih.gov/ar…artid=524027#B7
 
 Please, folks- read all of each of my posts, it will save you and me both time. I distinctly said that the glucose NOT obtained from the diet on a low carb regime is made up from glycerol (from triglycerides) and liver (and muscle) glycogen- you are not 'starving', only wasting the ketones and doing unecessary metabolic work, while having a less efficient body with reduced endurance, whether or not you can assess that situation subjectively or not.
 
-***
+---
 
 That's true, it is only a start…. it will all follow, however- like the night follows the day… That's culture, folks.
 
-***
+---
 
 At the high level of 50 gm carb/day, of course the ketones will disappear, that is high enough to prevent ketosis in first place. Lower from 50 to 20, ketones rise than fall some- between 5 and 20 there are some ketones, but only a partial Keto-adaptation, it takes less than 5 gm/day to fully keto-adapt. Don't bother arguing about whether or not keto-adaptation is desirable. if you question it in the first place you have already lost the plot. Do as you like. (This stuff is just filler- why am I responding?)
 
@@ -3490,7 +3490,7 @@ Spinach and rhubarb both contain oxalic acid, which leaches calcium and damages 
 
 My rule is: At the birthday party, I will take a small slice of cake and graciously with a modest flair- eat one forkful, then set it aside- no one notices. When the champagne is brought out, I take a glass, make the toast and have one small sip, hold the glass for awhile and set it down quietly. I am as much a social animal as anyone, But I do not allow the following of social graces to overwhelm my path. All this stuff is really only social-ritual, we need to find acceptable ways to engage in it without compromising ourselves, or offending the group.
 
-***
+---
 
 Why would you want to even consider 'slowing down' bodyfat loss? The faster the better. The body know what is best, and will slow down as it gets closer to you natural 'fatostat setting'. Just be sure you are not restricting your calories, that will cause too fast a drop. That may also explain your sleep difficulty- a body which is restricted in calories assumes it is starving or may soon be, and raises the metabolic rate to compensate (move faster and catch more food). Avoid carbs- bad moderating idea.
 
@@ -3502,7 +3502,7 @@ If you ingest things which degrade into so called 'free radicals' (correct term 
 
 Cooking destroys many essential nutrients in meat. Cooking should always be very brief and only on the outside cut surface to destroy any bacteria. I love all raw meats, even liver. The more adapted to meat you are the less you like cooked meat at all, and eventually something like pot roast will gag you. Clean fresh raw meat is The most nourishing food there is on this planet. If you (your mind) 'like' well cooked meat it is due to the way your family prepared it, and not what your body wants. As we evolved over the past 4 million years, there was always fire- but fresh meat would have been eaten raw. Of course there was no refrigeration and meat after spending days at ambient temperature is definitely 'improved' by cooking. Only problem with raw eggs is the avidin (anti-biotin) in uncooked eggwhite.
 
-***
+---
 
 Offer the cat only raw (fatty) meat and nothing else. When the cat becomes hungry enough, he will eat the raw meat. Once that starts, you should not have any further problems. Fixation on a given food in cats will easily give way to hunger.
 
@@ -3546,11 +3546,11 @@ Chickens are also opportunistic feeders (I never saw them eat their OWN feces, [
 
 Humans are not 'obligate' carnivores. We have retained a limited ability to utilise vegetation as (poor) food in times of limited or absent meat availability.
 
-***
+---
 
 HEY! ENOUGH OF THE CAT TURDS, PEE- ETC! This thread is about HUMAN eating habits.
 
-***
+---
 
 Scanpan Ceramic Titanium- non-teflon, non plastic, very hard (you can use metal implements), nonstick extraordinary (neither oil or water sticks), Danish made pots and pans, are IMHO the ONLY cookware to own. Not cheap, but comparable in price to other gourmet cookwares- but without a peer at any price.
 
@@ -3586,24 +3586,23 @@ How are multiple posts about cat's toilet habits to be considered 'competition' 
 
 Rats and pigs are true omnivores- not herbivores. They both can synthesize missing essential vitamins in their bowels, in this situation, an occasional taste for consuming excrement can explained.
 
-***
+---
 
 I am unsure what constitutes 'hard cheese'. Overcooked meat or cheese on a exclusive basis for a long period of time would be most unwise.
 
 The following is 3/4 nonsense:
 
-1) cancer of the esophagus
+1. cancer of the esophagus
 
 SCC of the tonsil is nothing like esophageal cancer. My specialist thinks my problem may have been due to a lifetime of heavy exposure to second hand tobacco smoke, at home (both parents and my stepsister smoked, my stepmother died of lung cancer) and in the music industry. My cancer was present for 3 or 4 years, growing very slowly and did not metastase out of the side of my neck- most likely due to my diet's extremely low glucose turnover- most SCC of the tonsil is very aggressive and can progress to the stage it can kill in less than one year.
 
-2) cataracts or glaucoma
+2. cataracts or glaucoma
 
 Nothing of the kind- the truth is very much the opposite, my eyes are so good that I do not need glasses to see distance OR to read. I have the flexibility and accommodation in my lenses equal to someone in their 30's. I can see in near perfect darkness as well.
 
-3) partial deafness
+3. partial deafness
 
-I have a small amount of hearing nerve-damage from years of working with the loudest ever band in Rock and Roll, but it is no different than people of my age have from aging. I presently have some problems stemming from the ill-advised placement of grommets in my eardrums when my Eustachian tubes were blocked. This is a temporary nuisance, but is not 'partial deafness'.
-4) heart bypass surgery
+I have a small amount of hearing nerve-damage from years of working with the loudest ever band in Rock and Roll, but it is no different than people of my age have from aging. I presently have some problems stemming from the ill-advised placement of grommets in my eardrums when my Eustachian tubes were blocked. This is a temporary nuisance, but is not 'partial deafness'. 4) heart bypass surgery
 
 A single but serious blockage dating from my high carb teens was finally corrected at the age of 65- my heart is now better than it has been my entire adult life.
 
@@ -3615,7 +3614,7 @@ Muscle cells 'run' on ATP-ADP conversion. ADP-ATP re-conversion is done with FFA
 
 I don't eat much if any 'mayo'- only in such things as egg or chicken salad, and then only homemade. Garlic, chillies, pepper and many other spices are not 'food'. These vegetables are like the use of vegetables as 'medicine'. They are added in minute amounts to change the taste of food. It is amazing to me how far off the track those who dislike my way of life will go in order to make themselves appear the fool.
 
-***
+---
 
 The amount of bleed-off liquid that collects in a cryovac bag is only one or two tablespoonfuls, hardly worth the effort to collect. You should drain it off to the make handling the meat less messy. It is ok to eat it- if you like. You cannot 'miss nutrients from blood' when there is no blood involved. How much, or even whether, blood itself was used as food by 'our (prehistoric) ancestors' is not known today- by anyone.
 
@@ -3631,13 +3630,13 @@ People do not have to state a reason for not accepting what I say- it is your pr
 
 I am only offering my knowledge to those who are interested and accept it. I do not post conjecture or matters of belief. In this respect, I really don't care what any of you think about me- or my statements.
 
-***
+---
 
 I already answered the pregnancy/all meat question: My second wife did her entire pregnancy on zero carb- only minimal weight gain (less than 20 lbs).
 
 By the way, stretch marks due to rapid size increases are due to insulin damage of the skin's collagen, which embrittles it as it tries to stretch. Large, quick size gains can be done without any stretch marks, as in pregnancy on a zero carb diet, my second wife proved that. In the short period of pregnancy, the skin just stretches without adding more skin, and quickly returns to normal after birth reduces the body's size- this expansion contraction happens before the skin has had time to grow more area.
 
-***
+---
 
 Dean, remember what I said about the black box? It is distracting to constantly worry about how and why the body does this or that. Constantly asking which cells use what and why etc., does not help to get you into a new lifestyle, it only makes the whole process very much more difficult- dietary things are of the body- not of the mind. Relax, quieten your mind, eat well- and enjoy life.
 
@@ -3659,7 +3658,7 @@ Many if not most people are intrinsically lazy- carbs in the normal diet encoura
 
 Searching for Scanpan, be aware that they also make stainless ware. An older model of coated ware may still be around, it was discontinued in 2000. Be sure that the bottom is bright, turned aluminium, with a central depressed and coated area about an inch in dia. which says 'Manufactured in Denmark' around the outside, and 'SCANPAN' across the middle on a raised bit, with the words 'Ceramic' above and 'Titanium' below. The 20 cm frying pan is the smallest they make- to get a lid to fit, you need to buy a 20 cm saucepan (2.5 litre). Frying pans go up to 32 cm. There is a whole line and there should be an insert in the box that lists all of the models, both the Classic and Ergonomic- only difference is a fancy handle on Ergonomic and a higher cost, plus fewer models. Classic is the go. If you are used to Teflon, be prepared for a real treat.
 
-***
+---
 
 Tennis is very much like ballet- lots of very intense, short anaerobic 'sprints' (jumps, beats, etc.-hard work) interspersed by longer periods of aerobic 'endurance' (adagio -even harder but slower work). I found that my total meat diet gave me both in great measure once trained. It is a matter of training and persistence to realise the advantages. Impatience for success (leading to carb ingestion) will defeat the benefits.
 
@@ -3673,7 +3672,7 @@ I won't use salt in any disguise. I use many if not all spices. The amount of al
 
 \$75 is cheap for good Nike, the brand I like. I will check out the model mentioned next time I am in a major city. (Sydney, mid May). I presently use forefoot-strike sprinter's trainers (\$90) Nike's sizes are surreal and have nothing to do with any other shoe's sizing. They also vary from one model to another, you have to try on any shoe you buy for fit, disregarding the tagged size. I have very broad feet with relatively short toes, so I need to fit my foot's widest part, disregarding the length, unless the shoe comes in widths, which Nike does not. I usually wear a US size 7 or 7-1/2 in a normal street or dress shoe, but take a 6EEEE in a professional ballet slipper. My current flat Nikes are labelled size '9'.
 
-***
+---
 
 Why 'chew'; fat? Cut small pieces, mash and swallow.
 
@@ -3703,7 +3702,7 @@ We have had two cyclones pass us this month- Larry, category 5, landed east of u
 
 Our government, federal and state of Queensland are very supportive of us if the shit hits the fan, and has granted everyone who has lost business from the two storms a tax-free grant of A\$10,000 dollars- and most of those who qualify (virtually anyone who asked) have already been given the money. If there was physical damage, the free grant goes up to \$25,000 and a low interest loan is available of up to a half million \$- 10% of which is given as a non-recoupable grant. Contrast this with the US and Louisiana's treatment of those who suffered from Katrina.
 
-***
+---
 
 Rickettsia and (I assume you mean) chlamydia are both types of bacteria, not true parasites, although the latter do live inside the cell.
 
@@ -3711,7 +3710,7 @@ And I am grateful for the observation on the biotin content of egg yolks vs the 
 
 Overtraining is not primarily due to diet, it is due the natural limit of 'exercise tolerance' (at each stage of training) in every individual plus the amount of microdamage to the muscle cells during exercise (intensity and amount/time) and the person's natural limit of time needed for full recovery and recuperation, which lengthens as we age. This process must be completed before any gain in strength or endurance can be made. Of course inadequate nutrition, either in protein, fat or calories will reduce tolerance, lengthen the time to recovery and significantly limit or even completely eliminate any subsequent gains. Thus, the best method of training- for everyone, but especially us older ones- is 'brief, intense and infrequent', the style promoted by Mike Mentzer (in his books on 'Heavy Duty') and Arthur Jones (inventor of the Nautilus machines).
 
-***
+---
 
 Buy only meat that has been USDA inspected, that is the best way to avoid parasites. If you think you have become infested with something, visit your GP, let him determine what you have- and prescribe the correct treatment for the specific parasite you have become a host for- use real, proven medicine- not 'herbs and mystic chanting'.
 
@@ -3719,13 +3718,13 @@ I have only had the ubiquitous 'pinworms', and one beef tapeworm, both successfu
 
 Oxygen therapy is hazardous, and adding oxy will not work at atmospheric pressure anyway, it requires pressures of 2.5 times sealevel to be effective and each session must not be undertaken for very long, either. Oxygen is a two-edged sword, it is necessary for life but dangerous at the same time. Hyperbaric is to treat specific problems and must not be continued for many days either. In a strange way, it is like insulin, I guess. Ozone (O3) is twenty times as powerful an oxidant as the normal molecular form (O2), and damages virtually everything it comes in contact with.
 
-***
+---
 
 I advise anyone who likes to eat meat raw and is afraid of toxoplasmosis to get a blood test. I do not think it very likely that a person would get an infection from eating properly inspected meat (the cysts can be detected during microscopic examination) from a butcher today, however. Even historically it was very rarely ever found in beef.
 
 I have said earlier that I consider all 'game' meat to be very chancy food, due to the many types of parasites it ALWAYS carries. I do not recommend any of it as food.
 
-***
+---
 
 Oh yes, still around. Unfortunately I live on a rural property which requires that I not spend all day online. I went to the city a four hour round trip, yesterday to see my dentist and ear specialist- the myringoplasty in my right ear has not completely taken, a small hole persists, and I will have to endure another operation. I wish I had been warned of the possibility that the grommet-holes in my radiation-damaged eardrums might not heal, I would have declined the grommets and waited until my Eustachian tubes reopened. Temporarily deaf or not, it would have been far better than having to deal with this situation.
 
@@ -3755,7 +3754,7 @@ For a 'newbie' who enters this long thread without having read it, saying 'hello
 
 More misinformation- you seem quite good at that: G B Shaw was most certainly NOT a 'vegan', he ate a full dozen eggs as well as dairy- EVERY single day. Stef did not follow the meat diet for very many years, and is not a good example of long term following of the all meat path. Neither is Atkins. All of this has previously been discussed.
 
-***
+---
 
 A diabetic, yes, I knew it. You have already so damaged you body with your bad diet regime that nothing about your metabolism is normal any more. Just the fact that you let your chosen diet do that to your body invalidates your argument. I noted that I am not addressing this thread to diabetics- and none of those so far who have posted on this thread can think clearly about any aspect of diet or the nature of the syndrome (not a disease) they have induced in their bodies.. Don't try to do battle with me using your limited knowledge of diet and metabolism, based on a lack of understanding of the long term aspects of diet and health- you won't win.
 
@@ -3767,7 +3766,7 @@ If you had indeed read teh thread I already stated this and more.
 
 The statement about VLDL transport is specious in the extreme. The release of fat from within an adipose cell is by cell-wall rupture, not trans-membraneous transport. Triglycerides circulate in the blood and in the body fluids until enzymatically broken down to glycerol and free fatty acids, which then are complexed with n-acetyl carnitine and carried into the muscle and other cells for use as fuel.
 
-***
+---
 
 Please, the fact that dietary fat does not enter adipose cells is not contention, i has been proven by tracing radiotagged fat. Sorry, but your sources are not acceptable. Likewise, you can quote the internet and bogus 'science' results all day long, but that will not cause gluconeogenesis to take place in a full calorie zero-carb regime- full stop. Either look, and don't post- or be aware I do not tolerate bullshit. Why did I think you were diabetic? You said something that I interpreted that way, I appears I misread it, sorry.
 
@@ -3783,7 +3782,7 @@ Erowid has a copy of rather poor newspaper pic taken as I was being busted. Of c
 
 I am a Capricorn Wood Dog.
 
-***
+---
 
 A Scorpio is a Scorpio everywhere on the planet if born during the 30 degree segment of the tropical year which is called 'Scorpio'.
 
@@ -3799,13 +3798,13 @@ About 2000 years ago, before the tradition was lost, Pliny wrote a book called T
 
 Ok…. we can't eat that.
 
-***
+---
 
 I am spending my valuable time trying to help those who are interested in this path. I work on the black-box approach that is based on input and outcome. Although I have a set of interesting metabolic papers which for some reason have gotten misplaced (as I have noted), I really don't give a stuff what the very contradictory 'scientific research' has to say about what happens in the body. I exhibit very few of the known damage forms from insulin, and therefore the levels that must exist in my body are so low as to be harmless. Whether that is zero as I assume- is also immaterial. I also don't care about the contention that proteins are destroyed for glucose and I question the turn over rate of 50/gm/ day, I consider it to be far less, and in any event it also does not matter. I am here to talk about my life experience, and trying to help others who are interested in acquiring this very contrary eating regime, which goes against the socialisation we humans have imbedded in our subconscious minds so deeply as to overwrite our basic instincts. So everyone- save your dissertations for someone who cares- I don't. If someone comes along with a similar length of time on a given routine and has something to share, great. Calling for things only read about… is useless and counterproductive.
 
 With respect to breast cancer, I have noticed that the rate of increase is inversely proportional to the replacement of animal fat with vegetable oils, primarily unsat., in the general diet.
 
-***
+---
 
 I know Greg Ellis and he is one of my sources. He gave me many interesting references, most of which I have misplaced- he follows a similar path, but is not as strict as I am.
 
@@ -3815,11 +3814,11 @@ I seem to find the saturated fat thing turning up a lot. For the record, the 90%
 
 As an aside, melted lamb (or mutton) tallow is the finest quenching-oil known for hardening steel – it clings to the metal rather than cavitating. Just one of many things I have learned in my adventures as a sculptor and tool-maker.
 
-***
+---
 
 it is possible no matter how fat you become nor how long you stayed that way, to lose nearly all of your excess bodyfat through the zerocarb regime, right down to a normal body size. It is true you will have more adipose cells, but they will be collapsed- and insignificant. The skin is another matter, and will hang on you like a loose sheet unless reduced by surgery- but there is no need to remove adipose tissue. The 'fat-o-stat' (as I call it) that everyone has, is based on the percentage of body MASS that is bodyfat, it does not depend on the actual number of adipose cells in the body. If my means of training you gain muscle mass then your total fat mass also will rise to maintain the percentage. Those of us who are 'genetically obese', the endo- and meso-morphs, will always be intolerant of carbs and will always rapidly gain bodyfat if they are present in the diet
 
-***
+---
 
 I never said that Greg Ellis was 'a source', but that he was 'one of my sources' (for hardcopy information): Back in the late '80's he gave me some hard to find and very important reference papers on metabolism. There is a distinct difference. Greg has a different approach to the values in food than I do, he is much less strict in his routine. He have had more than a few arguments. He knows a lot, but is not able to effectively override his acculturation, His idea of 'low arb and mine are quite different- he eats too much veg and carbs therefore is unable to reduce without caloric restriction. I have noted previously that to go below one's natural 'fat-o-stat' setting (such as getting BF down to less than 5%- for bodybuilding competition) will always require a reduction in calories. His imperious manner is his idea of the best way to increase sales for his various books. These reasons are why I do not refer to him or his website (as some have asked).
 
@@ -3839,11 +3838,11 @@ Fat cells are indeed the metabolically active part of body fat. Their activity i
 
 Let me assure you all that a rapid increase in muscle size, strength and muscularity (anabolic growth) is very easy while also losing body fat (only)- at a rapid rate. Just eat lots of calories 80/20 (with zero carb intake) and indulge in intense, brief and infrequent exercise. Been there, done that. Works fantastic.
 
-***
+---
 
 'Kirilian' photography is done with current from a Tesla Coil- a simple source of radio frequency, high voltage current. The voltage is harmless but spectacular. The patterns it makes on photographic paper are determined by the RF conductivity of the item under study, and have no significance other than as a curiosity. Can be great fun at a party, assuming you don't get into trouble (like I did as a kid) with the FCC for the wideband radio noise a Tesla Coil produces.
 
-***
+---
 
 It is dead easy to eat more than 2 pounds of steak in a sitting on a total meat diet, and do so twice or three times a day- as well. Been there, done that- a lot.
 
@@ -3855,7 +3854,7 @@ So far as getting fat to 'keep warm om winter'- we evolved in the tropics, near 
 
 People lived some distance south of the glaciers in Europe and Asia during the last glacial maximum (-18000 ybp). No one lived in the Americas until ~11,000 ybp..
 
-***
+---
 
 I am certainly not surprised that someone who is manifestly NOT an expert on anything, and who has not shown able to contribute useful information to our thread, would be jealous of those amongst us who are the masters of a few subjects. I pride myself on mastery- and never claim knowledge I do not have.
 
@@ -3871,7 +3870,7 @@ The 'Iceman' is from only ~5000. His society was neolithic agriculturist.
 
 If your mouth feels greasy after eating all-meat, then the solution is to eat the fat early on, and finish off with lean, which will cleanse the mouth of residual fat. I have previously, on several occasions- indicated this is the best way to eat in order to assure the right balance of fat/lean (the 80/20 rule). In 47 years of eating all-meat, I have never had this 'greasy mouth' experience.
 
-***
+---
 
 One more time: I do not write about conjecture. I write only about the truth in diet and health, based on my 47 years of solid experience.
 
@@ -3897,7 +3896,7 @@ I had the worst kind of high carb diet until 23- hence a single blockage (not fo
 
 On my website is the essay describing my theorem about the initiation of glaciation (I'll just ignore your confusion about what constitutes a theorem- and your lack of knowledge about the word 'theory', which does not exist in science, only in popular speech). You really do not have a clue about whom you are dealing with, do you?
 
-***
+---
 
 If THAT is your best, I have no worries.
 
@@ -3905,7 +3904,7 @@ You see, this thread is not about language or your idea of what the word theory/
 
 It is about a form of lifestyle relating to what you eat. From now on nothing you may say will merit a response.
 
-***
+---
 
 What does 'underpinning' mean with respect of forty seven real world years of eating a totally carnivorous dietary regime?
 
@@ -3917,7 +3916,7 @@ What more is necessary? If forty seven years of hard knock experience, leading t
 
 Can we please climb out of the schoolyard, leave bullying and bluster behind and get back to talking about the way to eat?
 
-***
+---
 
 Beef, my all time fave is now down on the list due to difficulty in swallowing even when reduced to a paste for 'soup'. I now prefer veal, lamb and chook. Had lamb's heart the other day, nice and smooth. I think that beef its far and away the best nutrition, it has a lot of fibrous tissues, cartilage- dispersed through the meat. The thing which gives me difficulty is what makes it so good. Irony, again. I don't mix for myself, only for my wife- for whom I usually cook. I can eat the same thing endlessly.
 
@@ -3937,7 +3936,7 @@ My taste in music is very eclectic. I like almost all genres (except hip-hop or 
 
 I once was briefly introduced to George Harrison. A pleasant chap.
 
-***
+---
 
 About the end of the last ice age, If anyone still thinks that man walked over to NA from Asia 30 kybp, I recommend finding and examining a copy of:
 
@@ -3969,7 +3968,7 @@ It is dead easy to eat half or even all of my 'tasty chook' recipe in one go.
 
 I actually do know quite a bit about the design of radial tyres. I was a very early adopter in 1963 of Pirellis for my MGTF-Lotus. My current fave is Goodrich AT. I only have bias-ply on my mountain bike, so far no one has figured out a way to make radial ply's work on a two wheeler.
 
-***
+---
 
 I lost a nerve in my neck to the tumour which surrounded it and crushed it. The result is half my throat does not contract when I swallow, allowing solid food to move over rather than going down- even with water. The nerve may or may not recover, only time will tell. Reducing meat to a paste and mixing with water like a thick soup works very well (but the taste suffers), raw meat included, but beef has a lot of tendinous tissues and is 'sticky', leaving a coating behind. Other meats vary in this property. I can and do eat some foods by chewing them a lot to produce a kind of rough slippery paste and swallowing with water, like fresh raw oysters and eggs, some sashimi etc. Raw meat is usually very tender. This 'problem is not a health issue, it is a side effect of the treatment and process of having survived a killer disease, and like all diseases, once cured it is gone as a health issue, leaving the trauma I suffered frolm it and the treatment behind- my health is excellent- better I am sure, than my detractors.
 
@@ -4023,11 +4022,11 @@ The goal (and result) of following this path impeccably is to never have to do t
 
 I do not understand why someone of this persuasion, and terminally contrary wants to come here and argue about it. Eat whatever you like- it is your culture, and we don't give a stuff. Unless you are genuinely interested in following this path, you should not be posting here, However, that said- you are most welcome as a silent observer. Who knows, perhaps 'the light' may come to you after a while.
 
-***
+---
 
 No, please- all that dissent should desert, the less bullshit on the thread, the better for me.
 
-***
+---
 
 Basically gluconeogenesis is a destructive process in which the body rips the poly-glucose core out of protein molecules (glucose forms the support structure for strings of amino acids) in starvation. These sacrificial proteins are usually sourced from the muscle tissues. This process is very destructive to the tissues and is only resorted to under extreme circumstances while in a fed state, such as on a no carb intake combined/coupled with insufficient fat intake as well. Starvation and long term fasting brings it on, bigtime.
 
@@ -4035,7 +4034,7 @@ A zero-carb all meat, 80/20 (by calories: fat/protein) diet delivers the necessa
 
 Basically you have to be doing something very wrong to experience this process. This is bourne out by the lack of muscle loss on a 100% fat diet- the body can strictly conserve protein.
 
-***
+---
 
 Muscle glycogen (or liver glycogen, or ketones) is NEVER used as a 'fuel' for muscles- either in doing aerobic OR in anaerobic work. The glycogen is only there as storage for quick adjustment of blood sugar levels, and in a zero-carb, keto-adapted diet usually does not vary. Please note, carefully: Muscle contraction (i.e.-the standard skeletal 'motor' of the body) is 'fueled' by ATP-ADP conversion. ADP is re-converted to ATP ONLY by a process which uses FFA's. Properly controlled tests have indicated that muscle glycogen is never 'depleted' during exercise. I have covered this subject previously, I am surprised to still hear that old fairytale about glucose and muscle work.
 
@@ -4053,23 +4052,23 @@ The texture thing is totally mental. Raw meat is best, the more meat is cooked t
 
 If you eat a mixed diet with alternating intervals of meat and vegetation, or even straight vegetation, the appendix is essential. On a pure meat regime it is not necessary. The primary function of this organ is bacterial storage, not mucus formation, the lymphatics are there to protect your body from escape of bacteria. That protective function is not always enough, especially if the passageway into the colonic cecum is blocked- as by seeds, etc. I personally know several people who have had their appendix removed, including my wife, and all have experienced digestive difficulties and need to take care in what they eat.
 
-***
+---
 
 I don't care whether or not any of you feel the need to believe in the various metabolic and dietary myths that you may have read about, such as constant GNG. It may suit you to accept this nonsense as gospel, but that does not make it true. It has been definitively proven to not be true. The body does not waste protein. Nor does reduce it unnecesarily to free aminos.
 
 Yes, radioactive carbon tag. It was excreted. A protein consists of a chain of amino acids linked to a parallel chain of glucose molecules. Some are dual chains, like DNA, some single like RNA. Both contain significant glucose.
 
-***
+---
 
 Insulin is not a 'protein' per se, it is a high activity hormone which is destroyed by stomach acid- as are a great many biologically active agents. Please, do not trumpet your ignorance
 
-***
+---
 
 Might I point out that the bogus results pointing to 'glycogen depletion ' are based entirely on a HIGH CARB diet? Zero-carb results utilising the same tests show no depletion takes place.
 
 Hormones are 'made of' many kinds of molecules, the most important ones are based on cholesterol.
 
-***
+---
 
 Yes- excess caloric intake over daily requirements on a zero-carb regime is ejected from the body as waste. Uneconomic this may well be. However, it is much easier to eat your meals without having to count the calories. If you are very poor then you might want to go to the trouble of measuring everything- the major difficulty is finding out what the energy requirement actually is for each day. 75% of the stomach surfaced produces hydrochloric acid, which dissolves meat, and does so very quickly. The enzymes needed for vegetation are slow to secrete, and the remaining 25% of the surface is divided between several enzymatic systems. The pylorus responds to acidity and several other indicators as to when to open and allow the stomach contents to exit into the duodenum. This occurs about 45 min to one hour with a pure meat meal and up to 3-4 hours after an mixed or vegetable meal. Once the stomach is called upon to produce enzyme systems, it continues to do so after emptying, and this can cause distress and 'hunger pangs' experienced in the stomach region. When adapted to straight meat, the stomach relaxes and rests until the next feeding, no matter how long the interval.
 
@@ -4087,7 +4086,7 @@ People who have bypass surgery are put on a low fat, high carb diet and surprise
 
 But the doctors treating cancer DO work on the 'black box' principle- they really don't know exactly how much radiation or chemo (even which chemo) is correct for each case. The know only that if they give you the maximum the body can accept and stay alive they can cure, say, 40% of patients. They know if they give you a considered amount of a certain chemo agent the cure rate can rise to 80%. Each cancer is different, some cannot be done in by the max and some might let go with less than half. This is 'black box' medicine at its purest. Which is why western medicine is better than 'alternative' so far as cancer is concerned- it has proven, 'black box' results.
 
-***
+---
 
 Boy, now I am even getting gratuitous remarks about my relationship to my cancer- from someone without any cancer experience and/or knowledge. Amazing the lengths people in severe dietary denial will go to divert attention from the topic at hand. If you want to really know how I feel about my experience with neck cancer, go back and read what I have previously posted. Incidentally the literature (and my specialists) talks about cancer therapy in terms of 'cure rates', and then lists the chances of survival based on 2, 5, 10, etc. years- by the percentages of treated patients expected to be found in remission. I understand that being presented with this type of linguistic differentiation is causing you some degree of mental pain. You, like many of the mentally challenged detractors lurking on the thread seem to have a need to assign as low a level of intelligence and competence to me as you suffer yourself (otherwise why stoop so low and avoid the real subject so assiduously). Big mistake.
 
@@ -4113,7 +4112,7 @@ I have misplaced many of my research papers and at the present I am unable to re
 
 I am spending all (too much) of my spare time dealing with the thread and thus cannot search for the papers.
 
-***
+---
 
 Say whatever you like- it will not change how the muscles work. I have said before that your sources in re glucose as a power source in muscular contraction are 'bogus': Definition- it looks good, but is not true to real life. I don't understand why you bother spitting out this stuff all the time. Why not just try to eat right according to your own preferred plan, and get on with your life?
 
@@ -4121,41 +4120,41 @@ Or are you just addicted to indulging in a bit of public self ego-stroking after
 
 Good show. Not.
 
-***
+---
 
 Yes rosebud, by all means, repeat and repeat and again repeat these classic lines of nonsense… shows excellent good taste, and of course, all this is very pertinent in assisting those following this dietary path, right?
 
 Sorry, I tend to forget, that's not your strong suit. Playing cop is, however.
 
-***
+---
 
 '…women with anorexia…'
 
 So now you are a woman? Had your sexchange operation yet?
 
-***
+---
 
 You are a walking stick-figure, your online picture resembles the images from the famine in Africa.
 
 I was a very skinny, active kid, and at 18 I was 5'7' and weighed just 125. At 110 you are skin and bone- no muscles, as shown in your pic- how do mange to stand up and walk around? If your doctors think you are fit and healthy- you are in a world of trouble. You are not qualified to criticise anything concerning a proper diet.
 
-***
+---
 
 Insulin is a HORMONE. It is different in structure to the proteins found in food. The word protein is a generic term that covers a large number of organic molecules consisting primarily of complex chains of amino acids, which can be found in more than one physical form. Insulin is rapidly degraded and rendered inactive by stomach acid, the proteins in meat are not hormonally active to begin with, and are not degraded as insulin is, nor are they reduced to amino acids either.
 
 I know you have very knowledge of science and biochemistry, so I think in the interest of fairness you please try to resist your constant impulse to go nattering on about everything I say you disagree with, ok?
 
-***
+---
 
 Amazing you STILL feel qualified to lecture me on cancer? Either you have a massive twisted ego filled with self importance or you seriously underestimate me and my knowledge on the subject. What gives you expert status?
 
 I think if you read my posts carefully you already know two things: I am completely aware of the cancer I had, and I have an extensive knowledge of it and the methods of treatment. I have also demonstrated my extreme level of interest in my body, nutrition and the way everything in the universe works. Why on earth would a total stranger, and outsider, even consider making such totally specious and inaccurate statements about MY cancer and my relation to it? You must be very unhappy with your lot in life, is all I can say. Relax, you are always going to meet people who are smarter or more knowledgeable than you are.
 
-***
+---
 
 NO, rosebud- only a very few hormones have a protein-like structure, the most important ones do not. The steriods are substituted sterols, polycyclic molecules with no structural relationship to proteins. The truth is, very few bioactive agents/hormones are similar structurally to proteins most of the most common ones are either aliphatic amines (serotonin, melotonin,epinepherine), cyclical polyrings of various kinds, or have other shapes and structures. Please, don't try to lecture me on subjects you do not know anything about.
 
-***
+---
 
 My 'poor health'? Please, tell me all about this, it is a total surprise, mr 'knows it all' who is all of 22 yo. How do you know this? The proof if you please, my strength and endurance are not obviously of any value, nor my lack of any kind of flu or colds for over 6 years, that could not be an indication of good health, nor my excellent BF and blood tests- even my thyroid, which after enduring 7000 rads of ionising radiation and is completely normal also doesn't count, but of course none constitutes 'good health in your book, either does it? Nor my perfect teeth and strong gums and bone- means nothing, right?
 
@@ -4165,7 +4164,7 @@ What do you know about diet, anyway? How many years have you been on yours?
 
 I don't expect an intelligent response.
 
-***
+---
 
 Rosebud, still trying to lecture me?
 
@@ -4173,13 +4172,13 @@ Give it up, please- the correct scientific term is that insulin has a 'protein-l
 
 No matter how much YOU 'detest' THIS fact, insulin is NOT the same thing as 'a protein'.
 
-***
+---
 
 Some of us are just much more efficient in storing carbs as bodyfat. Since this condition seems to more prevalent than not, vis-vis the 'epidemic of obesity and overweight' the authorities are so worked up over- (after having first coaxed it to the present levels with the 'low fat is good' insanity), it may have been of some survival value in the past when food was much more difficult to acquire.
 
 Most animals spend the majority of their waking time seeking, pursuing or ingesting food, whether carnivore, omnivore or herbivore. Man is unique in having more food easily available generally than is needed. It is badly distributed however-some groups have too much, and some are starving.
 
-***
+---
 
 Ok, I guess it has finally come to the end for me.
 
@@ -4189,7 +4188,7 @@ I began this to inform people who have a bodyfat problem about the highly 'unsoc
 
 First I encountered those who are addicted to 'some' veggies. Then those who are compulsive counters of calories and readers of 'scientific' studies which contradict my experiences. This was followed by the pedantic control freaks who 'know' that my lifestyle is flawed. After that the parasites who cling to their acculturation and feel obligated to attack and render useless anything which contradicts their belief systems.
 
-The final straw was the ******** who impugned my knowledge of the cancer which threatened my life. This ********* finally brought me to the realisation that I am simply wasting my time wading through a daily pile of hundreds of meaningless unproductive posts to find a genuine question from the few who are really interested in changing their body shape, health and lifestyle.
+The final straw was the **\*\*\*\*** who impugned my knowledge of the cancer which threatened my life. This \***\*\*\*\*** finally brought me to the realisation that I am simply wasting my time wading through a daily pile of hundreds of meaningless unproductive posts to find a genuine question from the few who are really interested in changing their body shape, health and lifestyle.
 
 SO, it has been an interesting trip, thanks to those who CAN follow and have supported me, but I am now departing to leave the thread to the parasites and mercenaries who have stolen it.
 
