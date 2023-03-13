@@ -5,3 +5,5 @@ _site
 bin/purge_cache
 *.DS_Store
 push-hook
+
+.vscode

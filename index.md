@@ -63,7 +63,7 @@ layout: home
   - [“Ketogenic Diets for Mental Health: A Guide to Resources”](https://www.diagnosisdiet.com/ketogenic-diets-for-mental-health-resources/)
 - [MeatRx: Animal Based Nutrition](https://meatrx.com/)
 - [r/zerocarb](https://www.reddit.com/r/zerocarb/) [reddit]
-  - [“What is Zero Carb”](https://www.reddit.com/r/zerocarb/wiki/faq) by Charles Washington
+  - [“What is Zero Carb”](https://www.reddit.com/r/zerocarb/wiki/faq/#wiki_what_is_zero-carb) by Charles Washington
 - [Paleo Style](http://www.paleostyle.com/) (Miki Ben-Dor)
   - [“Man the Fat Hunter: The Demise of Homo erectus and the Emergence of a New Hominin Lineage in the Middle Pleistocene (ca. 400 kyr) Levant”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028689) ([YouTube lecture](https://www.youtube.com/watch?v=ZKLCp4rIBIM))
   - [“How varied could past Paleo diets have been and does it really matter?”](http://www.paleostyle.com/?p=2109) ([Related slides](https://www.slideshare.net/mikibendor/carnivourus-paleolithic-diet-miki-bendor-ahs13-24907026))
