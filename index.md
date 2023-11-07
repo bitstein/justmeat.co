@@ -1,7 +1,14 @@
 ---
 layout: home
 ---
-
+- [Aajonus Vonderplanitz](https://www.primaldiet.net/)
+  - ["We Want to Live"](docs/We%20Want%20to%20Live.pdf) [PDF]
+  - ["The Recipe for Living Without Disease"](docs/The%20Recipe%20for%20Living%20Without%20Disease.pdf) [PDF]
+  - ["Aajonus Receipts"](docs/Aajonus%20Receipts.pdf) [PDF]
+  - ["Beneficial Home Baths"](docs/Beneficial%20Home%20Baths.pdf) [PDF]
+  - ["Collection of Primal Wisdom"](docs/Collection%20of%20Primal%20Wisdom.pdf) [PDF]
+  - ["Masterguide Primal Diet"](docs/MasterGuide%20Primal%20Diet.pdf) [PDF]
+  - ["Benefits of Eggs and Cheese"](docs/Benefits%20of%20Eggs%20and%20Cheese.pdf) [PDF]
 - [Mostly Fat](https://www.mostly-fat.com/) (Amber O’Hearn) [Read every article]
   - [The Ketogenic Diet for Health](http://www.ketotic.org/) (Amber O’Hearn)
   - [Empirica](http://www.empiri.ca/) (Amber O’Hearn)
