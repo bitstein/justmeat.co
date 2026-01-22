@@ -10,6 +10,7 @@ layout: home
   - [“Amber O’Hearn at Ketofest 2017 - The Carnivorous Human”](https://www.youtube.com/watch?v=Y4VRp5ZFFRU) [YouTube]
   - [“Guide To The Carnivore Diet”](https://nutrita.app/guide-to-the-carnivore-diet/)
   - [“The Lipivore: what is fat for?”](https://www.youtube.com/watch?v=b1C5wW7hePs) [YouTube]
+- [5 Minute Body](https://www.5minutebody.com/blog)
 - [Zero Carb Zen](https://zerocarbzen.com/)
 - [Zero Carb Health](http://www.zerocarbhealth.com/)
 - [Owsley “The Bear” Stanley](http://highsteaks.com/carnivores-creed/owsley-the-bear-stanley/)
@@ -185,6 +186,7 @@ layout: home
 - [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
 - [Dr. Tro](https://twitter.com/DoctorTro) (@DoctorTro)
 - [Michael Anthony](https://twitter.com/meat0sis) (@meat0sis)
+- [5 Minute Body](https://twitter.com/5MinuteBody) (@5MinuteBody)
 
 ## Instagram
 
@@ -202,9 +204,12 @@ layout: home
 - [ketoanimalfoods](https://www.instagram.com/ketoanimalfoods/) (@ketoanimalfoods)
 - [Ketogenic Endurance](https://www.instagram.com/ketogenicendurance/) (@ketogenicendurance)
 - [Nicole Carter](https://www.instagram.com/healthy_with_nicole/) (@healthy_with_nicole)
+- [5 Minute Body - Rina Ahluwalia](https://www.instagram.com/5minutebody) (@5minutebody)
 
 ## YouTube
 
+- [5 Minute Body](https://www.youtube.com/@5minutebody)
+- [5 Minute Body Clips](https://www.youtube.com/@5minutebodyclips)
 - [Shawn Baker](https://www.youtube.com/channel/UC5apkKkeZQXRSDbqSalG8CQ)
 - [MeatRx](https://www.youtube.com/c/MeatRx)
 - [Anthony Chaffee MD](https://www.youtube.com/@anthonychaffeemd)
