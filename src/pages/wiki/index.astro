@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { REPO_URL } from '../../consts';
+import { byTitle } from '../../lib/format';
+import { isSpecial, isTalk, wikiUrl } from '../../lib/wiki';
+
+const wiki = (await getCollection('wiki')).sort(byTitle);
+const articles = wiki.filter((p) => !isTalk(p) && !isSpecial(p));
+const specialPages = wiki.filter(isSpecial);
+---
+
+<BaseLayout title="Just Meat Wiki">
+  <div class="wiki-container mx-auto max-w-4xl px-4">
+    <h1>Just Meat Wiki</h1>
+
+    <h2>Welcome to the Just Meat Wiki!</h2>
+    <p>
+      This wiki is a collection of pages dedicated to specific topics related to carnivorous diets. A
+      Dutch translation of this wiki can be found at <a href="https://alleenvlees.nl">AlleenVlees.nl</a>.
+    </p>
+
+    <h2>Pages</h2>
+    <ul>
+      {articles.map((page) => <li><a href={wikiUrl(page)}>{page.data.title}</a></li>)}
+    </ul>
+
+    <h2>Special Pages</h2>
+    <ul>
+      {specialPages.map((page) => (
+        <li><a href={wikiUrl(page)}>{page.data.title.replace(/^Special:\s*/, '')}</a></li>
+      ))}
+    </ul>
+
+    <h2>Contributing</h2>
+    <p>
+      To contribute, submit a PR on <a href={REPO_URL}>GitHub</a>, or contact
+      <a href="https://twitter.com/bitstein/">Michael Goldstein</a> or
+      <a href="https://twitter.com/travis_statham/">Travis Statham</a>. If you are not familiar with
+      git, we will help add your contributions and include your name and email in the git history
+      for attribution purposes.
+    </p>
+  </div>
+</BaseLayout>

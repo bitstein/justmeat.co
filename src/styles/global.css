@@ -1,0 +1,115 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-serif: 'Gentium Book Basic', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+
+  --animate-octocat-wave: octocat-wave 560ms ease-in-out;
+  @keyframes octocat-wave {
+    0%, 100% { transform: rotate(0); }
+    20%, 60% { transform: rotate(-25deg); }
+    40%, 80% { transform: rotate(10deg); }
+  }
+}
+
+/*
+ * Element defaults. The original Jekyll site sat on Bootstrap 4's reboot;
+ * these restore those defaults with the nearest values on Tailwind's scale,
+ * since most content is rendered from Markdown and can't carry utilities.
+ */
+@layer base {
+  body {
+    @apply bg-white font-serif text-zinc-800;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply mb-2 font-medium leading-tight;
+  }
+  h1 { @apply text-4xl; }
+  h2 { @apply text-3xl; }
+  h3 { @apply text-2xl; }
+  h4 { @apply text-xl; }
+  h5 { @apply text-lg; }
+  h6 { @apply text-base; }
+
+  p, ul, ol, table {
+    @apply mb-4;
+  }
+  ul {
+    @apply list-disc pl-10;
+  }
+  ol {
+    @apply list-decimal pl-10;
+  }
+  ul ul {
+    list-style-type: circle;
+  }
+  ul ul ul {
+    list-style-type: square;
+  }
+  :is(ul, ol) :is(ul, ol) {
+    @apply mb-0;
+  }
+
+  a {
+    @apply text-neutral-500 hover:underline visited:text-teal-900;
+  }
+
+  hr {
+    @apply my-4 border-black/10;
+  }
+
+  blockquote {
+    @apply my-8 ml-4 border-l-4 border-neutral-300 pl-4;
+  }
+
+  table {
+    @apply block w-full overflow-x-auto border border-zinc-200;
+  }
+  th, td {
+    @apply border border-zinc-200 p-3 text-start align-top;
+  }
+  thead th {
+    @apply border-b-2 align-bottom;
+  }
+}
+
+/* Styles for Markdown-rendered regions, keyed off their containers. */
+@layer components {
+  .columned-list {
+    column-rule: 1px dotted var(--color-neutral-200);
+  }
+  .columned-list li {
+    @apply break-inside-avoid;
+  }
+
+  .archive-container hr {
+    @apply border-t-3 border-double border-neutral-700;
+  }
+  .archive-container article h2 {
+    @apply mb-6 text-2xl;
+  }
+  .archive-container article h3 {
+    @apply text-xl;
+  }
+
+  .wiki-container :is(h1, h2, h3, h4) {
+    @apply border-b border-black/10;
+  }
+  .wiki-container h1 {
+    @apply mb-4;
+  }
+  .wiki-container h2 {
+    @apply mb-3;
+  }
+  .wiki-container :is(li, a) {
+    @apply break-words;
+  }
+
+  /* Classes applied from Markdown with kramdown attribute lists. */
+  .wiki-image {
+    @apply max-w-full;
+  }
+  .wiki-image-centered-half {
+    @apply mx-auto block w-1/2;
+  }
+}

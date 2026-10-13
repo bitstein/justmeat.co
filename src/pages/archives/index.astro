@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { byTitle, groupSorted } from '../../lib/format';
+
+const archives = await getCollection('archives');
+const byAuthor = groupSorted(archives, (a) => a.data.author);
+---
+
+<BaseLayout title="Archives">
+  <div class="mx-auto max-w-6xl px-4 text-center">
+    <h1>Archives</h1>
+    {byAuthor.map(([author, articles]) => (
+      <section>
+        <h2 class="text-2xl">{author}</h2>
+        <ul class="list-none pl-0">
+          {articles.sort(byTitle).map((article) => (
+            <li><a href={`/archives/${article.id}/`}>“{article.data.title}”</a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+    <p><a href="/">Home</a></p>
+  </div>
+</BaseLayout>

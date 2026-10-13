@@ -1,0 +1,53 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection, render } from 'astro:content';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatDate } from '../../lib/format';
+
+export const getStaticPaths = (async () => {
+  const archives = await getCollection('archives');
+  return archives.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, author, date, special_date, special_author, source, source_url, description, is_book } =
+  entry.data;
+
+const byline = special_author ?? author;
+const displayDate = special_date ?? (date && formatDate(date));
+const SourceTag = is_book ? 'em' : 'span';
+---
+
+<BaseLayout title={title} description={description} articleAuthor={author}>
+  <div class="archive-container mx-auto max-w-2xl px-4">
+    <Breadcrumb backlink="/archives/" title={title} />
+    <hr />
+    <article>
+      <header class="text-center">
+        <h1 class="mb-0">{title}</h1>
+        <span class="block text-2xl leading-normal">{byline}</span>
+        {displayDate && <span class="block">{displayDate}</span>}
+        {source && (
+          <span class="mt-6 block text-xs leading-normal">
+            {source_url ? (
+              <>Originally published at <a href={source_url}><SourceTag>{source}</SourceTag></a></>
+            ) : (
+              <>Originally published in <SourceTag>{source}</SourceTag></>
+            )}
+          </span>
+        )}
+      </header>
+      <div class="relative mt-8 mb-12">
+        <hr class="my-0" />
+        <span class="absolute top-1/2 left-1/2 -translate-1/2 bg-white px-1 text-2xl leading-none" aria-hidden="true">&sect;</span>
+      </div>
+      <div class="text-lg">
+        <Content />
+      </div>
+    </article>
+    <hr />
+    <Breadcrumb backlink="/archives/" title={title} />
+  </div>
+</BaseLayout>

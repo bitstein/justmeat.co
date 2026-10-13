@@ -1,0 +1,14 @@
+---
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const entry = await getEntry('home', 'index');
+if (!entry) throw new Error('Missing src/content/home/index.md');
+const { Content } = await render(entry);
+---
+
+<BaseLayout>
+  <div class="columned-list w-full px-4 md:columns-2 lg:columns-3">
+    <Content />
+  </div>
+</BaseLayout>

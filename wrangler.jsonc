@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "justmeat-co",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page",
+    // Everything else is served as static files without invoking the Worker.
+    "run_worker_first": ["/docs/*"]
+  },
+  "r2_buckets": [{ "binding": "FILES", "bucket_name": "justmeat-files" }]
+}

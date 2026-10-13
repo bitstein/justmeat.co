@@ -1,0 +1,29 @@
+---
+import { MENU } from '../consts';
+
+const path = Astro.url.pathname;
+const isCurrent = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
+---
+
+<nav aria-label="Main" class="-mx-4 -mb-px flex justify-center">
+  {MENU.map((item) => {
+    const current = isCurrent(item.href);
+    return (
+      <a
+        href={item.href}
+        aria-current={current ? 'page' : undefined}
+        class:list={[
+          'relative inline-block min-w-30 overflow-hidden leading-10 text-zinc-800 hover:no-underline max-sm:min-w-0 max-sm:flex-1',
+          current && 'font-bold after:absolute after:inset-x-0 after:bottom-0 after:h-0.5 after:bg-current',
+        ]}
+      >
+        {item.name}
+        {'isNew' in item && item.isNew && !current && (
+          <span class="absolute inset-x-0 bottom-1 mx-auto size-1 rounded-full bg-red-500">
+            <span class="sr-only">(new)</span>
+          </span>
+        )}
+      </a>
+    );
+  })}
+</nav>

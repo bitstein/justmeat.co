@@ -1,0 +1,26 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection, render } from 'astro:content';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export const getStaticPaths = (async () => {
+  const peoples = await getCollection('peoples');
+  return peoples.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title } = entry.data;
+---
+
+<BaseLayout title={title}>
+  <div class="container mx-auto px-4 md:max-w-2/3">
+    <Breadcrumb backlink="/peoples/" title={title} />
+    <h1 class="text-center text-3xl">{title}</h1>
+    <Content />
+    <br />
+    <hr />
+    <Breadcrumb backlink="/peoples/" title={title} />
+  </div>
+</BaseLayout>

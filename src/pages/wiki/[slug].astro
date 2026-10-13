@@ -1,0 +1,57 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection, render } from 'astro:content';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { isSpecial, wikiTabs, wikiUrl } from '../../lib/wiki';
+
+export const getStaticPaths = (async () => {
+  const wiki = await getCollection('wiki');
+  return wiki.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, tabs: isSpecial(entry) ? undefined : wikiTabs(entry, wiki) },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry, tabs } = Astro.props;
+const { Content } = await render(entry);
+const { title } = entry.data;
+
+const tab = 'block rounded-t border px-4 py-2 hover:no-underline';
+---
+
+<BaseLayout title={title}>
+  <div class="wiki-container mx-auto max-w-4xl px-4">
+    <Breadcrumb backlink="/wiki/" title={title} />
+
+    {tabs && (
+      <nav aria-label="Page views">
+        <ul class="mb-6 flex list-none flex-wrap border-b border-zinc-200 pl-0">
+          {[
+            { label: 'Article', page: tabs.article },
+            { label: 'Talk', page: tabs.talk },
+          ].map(({ label, page }) => (
+            <li class="-mb-px">
+              {page === entry ? (
+                <a href={wikiUrl(page)} aria-current="page" class={`${tab} border-zinc-200 border-b-white bg-white text-zinc-600`}>{label}</a>
+              ) : page ? (
+                <a href={wikiUrl(page)} class={`${tab} border-transparent hover:border-zinc-100 hover:border-b-zinc-200`}>{label}</a>
+              ) : (
+                <span class={`${tab} border-transparent text-zinc-500`}>{label}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
+    <article>
+      <h1>{title}</h1>
+      <Content />
+    </article>
+
+    <br />
+    <hr />
+    <Breadcrumb backlink="/wiki/" title={title} />
+  </div>
+</BaseLayout>

@@ -1,0 +1,11 @@
+---
+interface Props {
+  backlink: string;
+  title: string;
+}
+const { backlink, title } = Astro.props;
+---
+
+<nav aria-label="Breadcrumb" class="mb-4 flex flex-wrap">
+  <a href={backlink} class="mr-1 underline">Index</a> &rarr; {title}
+</nav>

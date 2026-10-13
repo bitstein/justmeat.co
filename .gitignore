@@ -1,9 +1,17 @@
-_site
-.sass-cache
-.jekyll-metadata
-.jekyll-cache
-bin/purge_cache
-*.DS_Store
-push-hook
+# build output
+dist/
+.astro/
 
-.vscode
+# dependencies
+node_modules/
+
+# local secrets
+bin/purge_cache
+.env*
+
+# editor / OS
+.vscode/
+.DS_Store
+
+# wrangler local state
+.wrangler/

@@ -1,0 +1,64 @@
+---
+import '@fontsource/gentium-book-basic/latin-400.css';
+import '@fontsource/gentium-book-basic/latin-400-italic.css';
+import '@fontsource/gentium-book-basic/latin-700.css';
+import '@fontsource/gentium-book-basic/latin-700-italic.css';
+import '@fontsource/gentium-book-basic/latin-ext-400.css';
+import '@fontsource/gentium-book-basic/latin-ext-400-italic.css';
+import '@fontsource/gentium-book-basic/latin-ext-700.css';
+import '@fontsource/gentium-book-basic/latin-ext-700-italic.css';
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import { SITE_AUTHOR, SITE_DESCRIPTION, SITE_IMAGE, SITE_TITLE } from '../consts';
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** Set for archived articles to emit `og:type=article`. */
+  articleAuthor?: string;
+}
+
+const { title, description, articleAuthor } = Astro.props;
+const pageTitle = title ? `${title} | ${SITE_TITLE}` : SITE_TITLE;
+const metaDescription = description ?? SITE_DESCRIPTION;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const imageURL = new URL(SITE_IMAGE, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={metaDescription} />
+    <meta name="author" content={SITE_AUTHOR} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" href="/img/favicon.ico" sizes="any" />
+    <link rel="alternate" type="application/rss+xml" title="Just Meat Archives" href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <meta property="og:site_name" content={SITE_TITLE} />
+    <meta property="og:title" content={title ?? SITE_TITLE} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={imageURL} />
+    {articleAuthor ? (
+      <>
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content={articleAuthor} />
+      </>
+    ) : (
+      <meta property="og:type" content="website" />
+    )}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@bitstein" />
+  </head>
+  <body class="pb-4">
+    <Header />
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>

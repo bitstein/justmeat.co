@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { byTitle, groupSorted } from '../../lib/format';
+
+const peoples = await getCollection('peoples');
+const byPlace = groupSorted(peoples, (p) => p.data.place);
+---
+
+<BaseLayout title="Peoples">
+  <div class="container mx-auto px-4 md:max-w-2/3">
+    <h1 class="text-center text-3xl">Peoples</h1>
+    <p>
+      Rather than being a modern and strange "fad" diet, many cultures throughout history and all
+      around the globe have eaten meat-heavy, if not exclusive diets. Below are cultures with quotes
+      about their dietary practices. Not all are necessarily fully carnivorous, but they show that
+      humans, and perhaps all humans, can not only survive, but thrive, on a diet composed primarily
+      of animal-based foods.
+    </p>
+  </div>
+  <div class="columned-list mx-auto w-full px-4 md:max-w-2/3 xl:columns-2 2xl:columns-3">
+    {byPlace.map(([place, group]) => (
+      <section class="break-inside-avoid">
+        <h2 class="text-2xl">{place}</h2>
+        <ul>
+          {group.sort(byTitle).map((people) => (
+            <li><a href={`/peoples/${people.id}/`}>{people.data.title}</a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+  <p class="text-center"><a href="/">Home</a></p>
+</BaseLayout>
