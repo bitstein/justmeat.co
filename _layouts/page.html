@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="archive-container container col-md-8">
+  <article>
+   <header class="text-center">
+     <h1>{{page.title}}</h1>
+     <span class="archive-author">{% if page.special_author %}{{page.special_author}}{% else %}{{page.author}}{% endif %}</span>
+     <span class="archive-date">{% if page.special_date %}{{page.special_date}}{% else %}{{page.date | date: "%B %-d, %Y"}}{% endif %}</span>
+     {% if page.source %}
+     <span class="archive-notes">Originally published
+       {% if page.source_url %}at{% else %}in{% endif %}
+       {% if page.source_url %}<a href="{{page.source_url}}">{% include archive-source.html %}</a>
+       {% else %}{% include archive-source.html %}{% endif %}</span>
+     {% endif %}
+   </header>
+   <hr class="header-separator" />
+   {{content}}
+  </article>
+</div>
